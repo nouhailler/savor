@@ -39,15 +39,49 @@ Un champ nouveau reçoit une valeur par défaut dans `emptyUserData` et `sanitiz
 
 ## Modifier les mentions légales
 
-Le texte unique est `src/app/legal.ts`, rendu par la modale et par la page. `LEGAL_NOTICE_VERSION` y est enregistrée. Monter la version ne redemande pas l'acceptation : voyez le commentaire dans ce fichier pour le faire le jour où un changement le justifie. Pour rejouer le premier lancement : Paramètres, « Tout effacer ».
+Le texte unique est `src/app/legal.ts`, rendu par la modale et par la page. `LEGAL_NOTICE_VERSION` y est enregistrée. Monter la version ne redemande pas l'acceptation : voyez le commentaire dans ce fichier pour le faire le jour où un changement le justifie. Pour rejouer le premier lancement : Paramètres, « Tout effacer ». Les étapes de présentation sont dans `src/app/LegalNotice.tsx`.
 
 ## Publier une version
 
 1. Augmentez `version` dans `package.json`.
 2. Lancez `npm run lint`, `npm test`, `npm run build`, puis `npm run test:e2e`.
-3. Déployez `dist/`.
+3. Déployez.
 
-Les utilisateurs voient un bandeau les invitant à mettre à jour.
+Les applications déjà installées détectent la nouvelle version en moins d'une heure d'utilisation, ou à la prochaine ouverture, et l'installent d'elles-mêmes. La date de sortie affichée est celle du build.
+
+## Déployer sur Cloudflare
+
+L'application est servie comme ressources statiques par Cloudflare Workers. La configuration est dans `wrangler.jsonc`, et le nom `savoir-vivre` y donne l'adresse `savoir-vivre.<votre-sous-domaine>.workers.dev`.
+
+**Depuis votre poste**, une première fois `npx wrangler login`, puis :
+
+```bash
+npm run deploy
+```
+
+**À chaque `git push`** : dans le tableau de bord, *Workers & Pages*, *Create*, *Import a repository*, puis choisissez le dépôt et réglez :
+
+| Réglage | Valeur |
+|---|---|
+| Root directory | `app` |
+| Build command | `npm run build` |
+| Deploy command | `npx wrangler deploy` |
+
+Le fichier `.node-version` impose Node 22 au build. Si le nom du Worker créé dans le tableau de bord diffère de `savoir-vivre`, alignez `name` dans `wrangler.jsonc`.
+
+**Ne changez pas d'adresse à la légère** : le service worker, l'installation et la progression sont liés à l'adresse. Une progression enregistrée sur `workers.dev` ne suit pas vers un domaine personnalisé, sauf par export et import. Choisissez donc le domaine définitif avant d'annoncer l'application.
+
+**Cache et en-têtes** : `public/_headers`. Les fichiers de `/assets/` portent une empreinte et restent en cache un an. `sw.js`, `index.html` et le manifeste ne doivent jamais rester en cache, sinon les mises à jour ne seraient plus détectées. Après un changement de la CSP, vérifiez sous Wrangler :
+
+```bash
+npx wrangler dev --port 8788
+```
+
+```bash
+E2E_BASE_URL=http://127.0.0.1:8788 npx playwright test --project=desktop
+```
+
+Laissez désactivés Rocket Loader et les injections de script (Web Analytics, Zaraz) : ils seraient bloqués par la CSP, et l'application promet l'absence de traceur.
 
 ## Dépendances
 
@@ -64,4 +98,5 @@ Cette commande doit rester à 0 : c'est ce qui part en production. Les alertes r
 | Les tests navigateur portent sur une ancienne version | `npm run test:e2e` sert `dist/` : relancez `npm run build` |
 | Une leçon n'est plus découpée en morceau séparé | Import statique du JSON quelque part : passez par `services/content.ts` |
 | L'ancienne version persiste en local | Service worker en cache : acceptez le bandeau, ou videz les données du site |
+| Une leçon ajoutée n'est pas contrôlée par `npm test` | Cache de modules de Vitest : il doit rester désactivé (`fsModuleCache: false`) |
 | « Le stockage local est indisponible » à l'écran | Navigation privée ou stockage refusé : la session tourne en mémoire |

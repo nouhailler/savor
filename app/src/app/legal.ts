@@ -1,7 +1,7 @@
 // Contenu légal centralisé : un seul texte, rendu par un seul composant (modale et page).
 // L'application ne lit pas la position de l'appareil : pas de section « Précision de la localisation ».
 // Pas d'âge minimum ni de politique de confidentialité distincte à ce stade : à décider par l'éditeur.
-export const LEGAL_NOTICE_VERSION = '1.0';
+export const LEGAL_NOTICE_VERSION = '1.1';
 // Mode non strict : monter la version ne redemande pas l'acceptation. Mettre à true le jour où un changement le mérite.
 export const LEGAL_REPROMPT_ON_VERSION_CHANGE = false;
 
@@ -10,10 +10,11 @@ export const legalNotice = {
   shortWarning: [
     'Cette application est fournie à titre informatif et pratique. Malgré les précautions prises lors de son développement, elle peut contenir des erreurs, des imprécisions ou présenter des limitations techniques.',
     'L’utilisation de cette application se fait sous votre responsabilité. Les informations, résultats, données ou recommandations fournis par l’application ne doivent pas être considérés comme infaillibles.',
+    'L’éditeur de l’application n’est pas responsable des données, informations et contenus qu’elle fournit, ni de l’usage qui en est fait, dans les limites autorisées par la réglementation applicable.',
     'Pour toute information importante ou décision susceptible d’avoir des conséquences, vérifiez les données auprès de sources fiables et officielles ou auprès d’un professionnel compétent.',
     'En utilisant cette application, vous reconnaissez avoir pris connaissance de cet avertissement.'
   ],
-  publisher: { name: 'Swinux', address: 'Canton de Vaud, Suisse', email: 'contact@swinux.ch', host: '[À COMPLÉTER]' },
+  publisher: { name: 'Swinux', address: 'Canton de Vaud, Suisse', email: 'contact@swinux.ch', host: 'Cloudflare, Inc.' },
   updatedAt: '2 novembre 2026',
   sections: [
     {

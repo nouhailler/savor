@@ -1,25 +1,44 @@
 import { expect, test, type Page } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import { readFileSync } from 'node:fs';
+import { createServer, type Server } from 'node:http';
+import { extname, join, normalize } from 'node:path';
+
+async function finishOnboarding(page: Page) {
+  await page.getByRole('button', { name: 'Passer la présentation' }).click();
+  await page.getByRole('checkbox').check();
+  await page.getByRole('button', { name: 'J’ai compris' }).click();
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+}
 
 async function accept(page: Page) {
   await page.goto('/');
-  await page.getByRole('button', { name: 'J’ai compris' }).click();
-  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await finishOnboarding(page);
 }
 
 const ROUTES = [
   '/', '/presentation', '/apprendre', '/apprendre/usages', '/bibliotheque', '/lecons/l-4-1-2', '/lecons/l-4-1-2/quiz', '/evaluations',
   '/evaluations/usages/initial', '/situations', '/situations/s-2-2', '/guide', '/guide/f-presenter-deux-personnes', '/dictionnaire', '/dictionnaire/d-tact',
-  '/culture', '/culture/japon', '/recherche?q=japon', '/favoris', '/progression', '/revisions', '/parametres', '/a-propos', '/mentions-legales'
+  '/culture', '/culture/japon', '/recherche?q=japon', '/favoris', '/progression', '/revisions', '/parametres', '/systeme', '/a-propos', '/mentions-legales'
 ];
 
-test('premier lancement : avertissement, mémorisation, puis réapparition après effacement', async ({ page }) => {
+test('premier lancement : accueil par étapes, acceptation obligatoire, mémorisation, puis réapparition après effacement', async ({ page }) => {
   await page.goto('/');
-  await expect(page.getByRole('dialog')).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Bienvenue dans L’Art du Savoir-Vivre' })).toBeVisible();
+  await page.getByRole('button', { name: 'Continuer' }).click();
+  await expect(page.getByRole('heading', { name: 'Votre parcours' })).toBeVisible();
+  await page.getByRole('button', { name: 'Continuer' }).click();
+  await expect(page.getByRole('heading', { name: 'Sur votre appareil' })).toBeVisible();
+  await expect(page.getByRole('dialog').getByRole('button', { name: 'Installer l’application' })).toBeVisible();
+  await page.getByRole('button', { name: 'Continuer' }).click();
+  await expect(page.getByText('L’éditeur de l’application n’est pas responsable des données')).toBeVisible();
+  const ok = page.getByRole('button', { name: 'J’ai compris' });
+  await expect(ok).toBeDisabled();
   await page.getByRole('button', { name: 'Voir les détails' }).click();
   await expect(page.getByRole('heading', { name: 'Limitation de responsabilité' })).toBeVisible();
-  await page.getByRole('button', { name: 'J’ai compris' }).click();
+  await page.getByRole('button', { name: 'Revenir à l’avertissement' }).click();
+  await page.getByRole('checkbox').check();
+  await ok.click();
   await expect(page.getByRole('dialog')).toHaveCount(0);
   await page.waitForTimeout(400);
   await page.reload();
@@ -28,6 +47,45 @@ test('premier lancement : avertissement, mémorisation, puis réapparition aprè
   await page.evaluate(() => new Promise<void>((res) => { const r = indexedDB.deleteDatabase('savoir-vivre'); r.onsuccess = r.onerror = r.onblocked = () => res(); }));
   await page.reload();
   await expect(page.getByRole('dialog')).toBeVisible();
+});
+
+test('menu hamburger : catégories, navigation, fermeture au clavier et au retour', async ({ page }) => {
+  await accept(page);
+  const open = page.getByRole('button', { name: 'Ouvrir le menu' });
+  await open.click();
+  const menu = page.getByRole('dialog', { name: 'Menu' });
+  for (const title of ['Découvrir', 'Apprendre', 'S’exercer', 'Consulter', 'Mon parcours', 'Application']) await expect(menu.getByText(title, { exact: true })).toBeVisible();
+  await expect(menu.getByRole('button', { name: 'Fermer le menu' })).toBeFocused();
+  await page.keyboard.press('Escape');
+  await expect(menu).toHaveCount(0);
+  await expect(open).toBeFocused();
+  await open.click();
+  await page.goBack();
+  await expect(menu).toHaveCount(0);
+  await open.click();
+  await menu.getByRole('link', { name: 'Dictionnaire' }).click();
+  await expect(menu).toHaveCount(0);
+  await expect(page).toHaveURL(/#\/dictionnaire$/);
+  await page.goBack();
+  await expect(menu).toHaveCount(0);
+  await expect(page).toHaveURL(/:\d+\/(#\/)?$/);
+});
+
+test('installation : invite du navigateur si elle existe, explications sinon', async ({ page }) => {
+  await accept(page);
+  await page.getByRole('button', { name: 'Ouvrir le menu' }).click();
+  await page.getByRole('dialog', { name: 'Menu' }).getByRole('button', { name: 'Installer l’application' }).click();
+  await expect(page.getByRole('heading', { name: 'Installer l’application' })).toBeVisible();
+  await page.getByRole('button', { name: 'J’ai compris comment faire' }).click();
+  await page.evaluate(() => {
+    const e = new Event('beforeinstallprompt', { cancelable: true }) as Event & { prompt(): Promise<void>; userChoice: Promise<{ outcome: string }> };
+    e.prompt = async () => { (window as unknown as { promptCalled: boolean }).promptCalled = true; };
+    e.userChoice = Promise.resolve({ outcome: 'accepted' });
+    window.dispatchEvent(e);
+  });
+  await page.getByRole('dialog', { name: 'Menu' }).getByRole('button', { name: 'Installer l’application' }).click();
+  await expect.poll(() => page.evaluate(() => (window as unknown as { promptCalled?: boolean }).promptCalled)).toBe(true);
+  await expect(page.getByRole('dialog', { name: 'Menu' }).getByRole('button', { name: 'Installer l’application' })).toHaveCount(0);
 });
 
 test('la mention de localisation est absente : l’application ne lit pas la position', async ({ page }) => {
@@ -123,8 +181,7 @@ test('restauration : une sauvegarde exportée rétablit les données effacées',
   await page.getByRole('button', { name: 'Tout effacer' }).click();
   await expect(page.getByText('Données effacées')).toBeVisible();
   await page.reload();
-  const notice = page.getByRole('button', { name: 'J’ai compris' });
-  if (await notice.isVisible().catch(() => false)) await notice.click();
+  await finishOnboarding(page);
   await page.goto('/#/favoris');
   await expect(page.locator('main a[href*="l-4-1-2"]')).toHaveCount(0);
   await page.goto('/#/parametres');
@@ -224,3 +281,112 @@ for (const [route, theme] of [['/', 'light'], ['/lecons/l-4-1-2', 'light'], ['/l
     expect(summary).toEqual([]);
   });
 }
+
+test.describe('mises à jour', () => {
+  // Serveur dédié : on publie une « nouvelle version » en changeant le service worker servi.
+  const MIME: Record<string, string> = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.svg': 'image/svg+xml', '.png': 'image/png', '.webmanifest': 'application/manifest+json', '.woff2': 'font/woff2' };
+  let server: Server;
+  let origin = '';
+  let release = '';
+
+  test.beforeAll(async () => {
+    const dist = join(process.cwd(), 'dist');
+    server = createServer((req, res) => {
+      const path = normalize(decodeURIComponent((req.url ?? '/').split('?')[0]));
+      try {
+        const body = readFileSync(join(dist, path === '/' ? 'index.html' : path));
+        res.writeHead(200, { 'content-type': MIME[extname(path) || '.html'] ?? 'application/octet-stream', 'cache-control': 'no-store' });
+        res.end(path.endsWith('sw.js') ? Buffer.concat([body, Buffer.from(release)]) : body);
+      } catch {
+        res.writeHead(404).end();
+      }
+    });
+    await new Promise<void>((done) => server.listen(0, () => done()));
+    const address = server.address();
+    origin = `http://localhost:${typeof address === 'object' && address ? address.port : 0}`;
+  });
+
+  test.afterAll(() => { server.close(); });
+
+  test.beforeEach(() => { release = ''; });
+
+  async function open(page: Page) {
+    await page.goto(`${origin}/`);
+    await finishOnboarding(page);
+    await page.evaluate(() => navigator.serviceWorker.ready);
+    // Le service worker ne prend la main qu'à la visite suivante.
+    await page.waitForTimeout(400);
+    await page.reload();
+    await page.waitForFunction(() => !!navigator.serviceWorker.controller);
+  }
+
+  test('paramètres système : dates, vérification, nouvelle version détectée et installée en quittant', async ({ page }) => {
+    await open(page);
+    await page.goto(`${origin}/#/systeme`);
+    await expect(page.getByText('Date de sortie')).toBeVisible();
+    await page.getByRole('button', { name: 'Vérifier les mises à jour' }).click();
+    await expect(page.getByTestId('update-status')).toHaveText('Vous avez la dernière version.');
+    await expect(page.getByTestId('last-check')).not.toHaveText('Jamais');
+
+    release = '\n// nouvelle version';
+    await page.getByRole('button', { name: 'Vérifier les mises à jour' }).click();
+    await expect(page.getByText('Une nouvelle version est prête', { exact: false }).first()).toBeVisible({ timeout: 20000 });
+
+    // Quitter l'application installe la version téléchargée, sans action de l'utilisateur.
+    await page.evaluate(() => { (window as unknown as { avant: boolean }).avant = true; });
+    await page.evaluate(() => {
+      Object.defineProperty(document, 'visibilityState', { configurable: true, get: () => 'hidden' });
+      document.dispatchEvent(new Event('visibilitychange'));
+    });
+    await page.waitForFunction(() => !(window as unknown as { avant?: boolean }).avant, undefined, { timeout: 20000 });
+    await expect(page.getByRole('heading', { name: 'Paramètres système' })).toBeVisible();
+    await expect(page.getByText('Une nouvelle version est prête', { exact: false })).toHaveCount(0);
+  });
+
+  test('une nouvelle version n’interrompt pas un quiz en cours', async ({ page }) => {
+    await open(page);
+    await page.goto(`${origin}/#/systeme`);
+    release = '\n// nouvelle version';
+    await page.getByRole('button', { name: 'Vérifier les mises à jour' }).click();
+    await expect(page.getByText('Une nouvelle version est prête', { exact: false }).first()).toBeVisible({ timeout: 20000 });
+    await page.goto(`${origin}/#/lecons/l-4-1-2/quiz`);
+    await page.locator('.choice').first().click();
+    await page.evaluate(() => {
+      (window as unknown as { avant: boolean }).avant = true;
+      Object.defineProperty(document, 'visibilityState', { configurable: true, get: () => 'hidden' });
+      document.dispatchEvent(new Event('visibilitychange'));
+    });
+    await page.waitForTimeout(1500);
+    expect(await page.evaluate(() => (window as unknown as { avant?: boolean }).avant)).toBe(true);
+    await expect(page.locator('.choice.selected')).toHaveCount(1);
+  });
+
+  test('forcer la mise à jour : la progression est conservée', async ({ page }) => {
+    await open(page);
+    await page.goto(`${origin}/#/lecons/l-4-1-2`);
+    await page.getByRole('button', { name: /favoris/i }).first().click();
+    await page.waitForTimeout(400);
+    await page.goto(`${origin}/#/systeme`);
+    await page.evaluate(() => { (window as unknown as { avant: boolean }).avant = true; });
+    page.once('dialog', (d) => d.accept());
+    await page.getByRole('button', { name: 'Forcer la mise à jour' }).click();
+    await page.waitForFunction(() => !(window as unknown as { avant?: boolean }).avant, undefined, { timeout: 20000 });
+    await expect(page.getByRole('heading', { name: 'Paramètres système' })).toBeVisible();
+    await page.evaluate(() => navigator.serviceWorker.ready);
+    await page.goto(`${origin}/#/favoris`);
+    await expect(page.locator('main a[href*="l-4-1-2"]').first()).toBeVisible();
+  });
+
+  test('forcer la mise à jour sans réseau ne casse rien', async ({ page, context }) => {
+    await open(page);
+    await page.goto(`${origin}/#/systeme`);
+    await expect(page.getByRole('heading', { name: 'Paramètres système' })).toBeVisible();
+    await context.setOffline(true);
+    await expect(page.getByRole('button', { name: 'Forcer la mise à jour' })).toBeDisabled();
+    await page.getByRole('button', { name: 'Vérifier les mises à jour' }).click();
+    await expect(page.getByTestId('update-status')).toContainText('Pas de connexion');
+    await page.goto(`${origin}/#/lecons/l-4-1-2`);
+    await expect(page.locator('main h1').first()).toBeVisible();
+    await context.setOffline(false);
+  });
+});

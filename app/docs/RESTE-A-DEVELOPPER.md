@@ -11,11 +11,11 @@ Ces points dépendent d'une personne : ils ne peuvent pas être réglés par le 
 | Textes de droit | Faire vérifier les leçons citant le droit, surtout 6.3.4, 7.1.5, 7.2.1, 7.3.5, 8.3.3. Le délai funéraire de 14 jours (décret de 2024) et le plafond bagages sont rapportés de mémoire. |
 | Fiches pays | `lastVerifiedAt` indique une date de rédaction. Les usages n'ont été ni contrôlés en ligne ni validés par des personnes de ces pays. |
 | Droits d'auteur | Le livre source n'étant pas disponible, aucune comparaison de texte n'a été faite. Les contenus ont été rédigés sans lui. Un contrôle anti-plagiat reste souhaitable. |
-| Mentions légales | Hébergeur à renseigner (`[À COMPLÉTER]`). Texte et éditeur (Swinux) à valider juridiquement. |
+| Mentions légales | Texte, éditeur (Swinux), clause de non-responsabilité et hébergeur (Cloudflare, Inc.) à valider juridiquement. Une clause de non-responsabilité n’a pas d’effet absolu, et sa portée dépend du droit applicable. |
 
 ## Contenu
 
-- **86 leçons du catalogue** ne sont pas encore rédigées (72 sur 158). Elles figurent au catalogue avec la mention « En préparation », sans page factice.
+- **72 leçons du catalogue** ne sont pas encore rédigées (86 sur 158). Elles figurent au catalogue avec la mention « En préparation », sans page factice.
 - Les volumes de la section 17 sont atteints, mais ce sont des minimums. Pour accompagner un adulte pendant plusieurs années, les leçons restantes sont la priorité.
 - D'autres fiches pays : 12 aujourd'hui.
 
@@ -31,6 +31,8 @@ Ces points dépendent d'une personne : ils ne peuvent pas être réglés par le 
 
 ## Vérifications non réalisées
 
+- **Le déploiement réel sur Cloudflare.** La configuration a été testée sous Wrangler en local, pas en ligne.
+- **L’installation réelle** sur téléphone et ordinateur : l’invite du navigateur est simulée dans les tests, et les explications par plateforme n’ont pas été suivies sur ces appareils.
 - **Firefox, Safari, Edge et de vrais téléphones.** Les tests tournent sur Chromium, dans deux formats (bureau et mobile émulé).
 - **Lecteurs d'écran.** axe contrôle les attributs, mais personne n'a écouté l'application avec NVDA, VoiceOver ou TalkBack.
 - **WCAG 2.2 complet.** axe ne détecte qu'une partie des critères ; un audit manuel reste nécessaire.

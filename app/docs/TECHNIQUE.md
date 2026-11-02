@@ -10,17 +10,18 @@
 | IndexedDB (`idb`) pour les données utilisateur | Persistance plus fiable que `localStorage` ; repli en mémoire signalé si le stockage est refusé |
 | `HashRouter`, chemins relatifs | Déploiement statique n'importe où, sans réécriture d'URL côté serveur |
 | Polices embarquées (`@fontsource`, sous-ensembles latins) | Aucun appel à un tiers, fonctionnement hors ligne |
-| Workbox via `vite-plugin-pwa`, `registerType: 'prompt'` | Tout le site en précache ; une mise à jour est proposée, jamais imposée en pleine leçon |
+| Workbox via `vite-plugin-pwa`, `registerType: 'prompt'` | Tout le site en précache ; c'est l'application qui choisit le moment d'activer une nouvelle version |
+| Cloudflare Workers, ressources statiques | Site statique en HTTPS, sans code serveur ; cache et en-têtes dans `public/_headers` |
 
 ## Structure
 
 ```
 src/
-  app/          Coquille : routes, mise en page, avertissement légal, bandeau de mise à jour
+  app/          Coquille : routes, menu, accueil du premier lancement, mentions légales, bandeau de mise à jour
   components/   Composants partagés, filet d'erreur
   features/     Un dossier par espace : home, learning, quizzes, scenarios, guide,
                 dictionary, countries, search, favorites, progress, settings
-  services/     content (accès aux contenus), search (index local), daily (recommandations)
+  services/     content (contenus), search (index local), daily (recommandations), updates, install
   storage/      db (IndexedDB), UserContext (état utilisateur et écritures)
   types/        Modèle de données : content.ts, user.ts
   utils/        Dates, texte, libellés, répétition espacée
@@ -58,11 +59,25 @@ L'avertissement légal est mémorisé dans ces données. Sa version figure dans 
 
 ## Hors ligne et mises à jour
 
-Le service worker précache tous les fichiers générés (environ 2,7 Mo, dont toutes les leçons). Après la première visite, tout fonctionne sans réseau. Une nouvelle version déclenche le bandeau `UpdateBanner`. La progression, en IndexedDB, n'est pas touchée par le remplacement du cache.
+Le service worker précache tous les fichiers générés (environ 3,1 Mo, dont toutes les leçons). Après la première visite, tout fonctionne sans réseau. La progression, en IndexedDB, n'est pas touchée par le remplacement du cache.
+
+`services/updates.ts` gère le cycle de mise à jour :
+
+- **Vérification** : à chaque ouverture, puis toutes les heures, au retour de la connexion et au retour sur l'application si la dernière a plus d'une heure. Une application web ne peut vérifier que lorsqu'elle est ouverte.
+- **Téléchargement** : par le navigateur, en arrière-plan ; la nouvelle version attend ensuite d'être activée.
+- **Installation automatique** : quand la page passe en arrière-plan, ou juste après l'ouverture si rien n'a encore été touché. Elle suit alors un rechargement, jamais sur un quiz, une évaluation ou une situation, dont les réponses en cours seraient perdues. Si plusieurs onglets sont ouverts, ils se rechargent tous, y compris un onglet en plein quiz.
+- **Désactivation** : un interrupteur dans `/systeme`. La nouvelle version reste alors annoncée par le bandeau.
+- **Forcer** : efface les caches et le service worker, puis recharge. Le serveur est d'abord interrogé : sans réponse, rien n'est modifié.
+
+La date de sortie est la date du build (`__APP_RELEASE_DATE__`). La date de dernière vérification, la préférence d'automatisme et le build connu sont dans `localStorage` (`utils/updatePrefs.ts`), hors de la sauvegarde exportée, et effacés par « Tout effacer ».
+
+## Installation
+
+`services/install.ts` capte `beforeinstallprompt` dès le chargement, car l'événement peut arriver avant le premier affichage. `components/InstallButton.tsx` ouvre la fenêtre du navigateur si elle existe, et sinon affiche des explications selon la plateforme : iPhone et iPad, Android, Safari et Firefox sur ordinateur. Le bouton est dans le menu, l'accueil, les paramètres et les paramètres système.
 
 ## Sécurité et confidentialité
 
-Aucun appel réseau vers un tiers (vérifié par un test), aucun traceur, aucun cookie, aucune donnée saisie hormis le fichier de sauvegarde, qui est validé avant import. Aucun `dangerouslySetInnerHTML` n'est nécessaire : les contenus s'affichent comme du texte. L'application ne lit pas la position de l'appareil.
+Aucun appel réseau vers un tiers (vérifié par un test), aucun traceur, aucun cookie, aucune donnée saisie hormis le fichier de sauvegarde, qui est validé avant import. Aucun `dangerouslySetInnerHTML` n'est nécessaire : les contenus s'affichent comme du texte. L'application ne lit pas la position de l'appareil. En production, `public/_headers` ajoute une politique de sécurité des contenus (CSP) restreinte au site lui-même, HSTS et l'interdiction d'affichage dans un cadre.
 
 ## Accessibilité
 

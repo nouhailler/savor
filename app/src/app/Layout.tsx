@@ -1,67 +1,40 @@
 import { useEffect, useRef, useState, Suspense } from 'react';
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
+import { List, MagnifyingGlass } from '@phosphor-icons/react';
 import { ErrorBoundary } from '../components/ErrorBoundary';
-import {
-  BookmarkSimple, BookOpen, Books, ChartLineUp, GearSix, GlobeHemisphereWest, HouseLine, List, MagnifyingGlass, UsersThree, type Icon
-} from '@phosphor-icons/react';
+import { Logo } from '../components/Logo';
 import { useUser } from '../storage/UserContext';
 import { FirstLaunchNotice } from './LegalNotice';
+import { MainMenu } from './MainMenu';
+import { SHORTCUTS } from './menu';
 import { UpdateBanner } from './UpdateBanner';
 
-const NAV: { to: string; label: string; icon: Icon; end?: boolean }[] = [
-  { to: '/', label: 'Accueil', icon: HouseLine, end: true },
-  { to: '/apprendre', label: 'Apprendre', icon: BookOpen },
-  { to: '/situations', label: 'Situations pratiques', icon: UsersThree },
-  { to: '/guide', label: 'Guide du savoir-vivre', icon: Books },
-  { to: '/culture', label: 'Culture et usages', icon: GlobeHemisphereWest },
-  { to: '/progression', label: 'Ma progression', icon: ChartLineUp },
-  { to: '/favoris', label: 'Favoris', icon: BookmarkSimple },
-  { to: '/parametres', label: 'Paramètres', icon: GearSix }
-];
-
-const MOBILE: { to: string; label: string; icon: Icon; end?: boolean }[] = [
-  { to: '/', label: 'Accueil', icon: HouseLine, end: true },
-  { to: '/apprendre', label: 'Apprendre', icon: BookOpen },
-  { to: '/situations', label: 'Situations', icon: UsersThree },
-  { to: '/culture', label: 'Culture', icon: GlobeHemisphereWest }
-];
-
-function NavItems({ onPick }: { onPick?: () => void }) {
-  return (
-    <>
-      <NavLink to="/recherche" className={({ isActive }) => `nav-item${isActive ? ' active' : ''}`} onClick={onPick}>
-        <MagnifyingGlass size={19} aria-hidden="true" />Rechercher
-      </NavLink>
-      {NAV.map((n) => (
-        <NavLink key={n.to} to={n.to} end={n.end} className={({ isActive }) => `nav-item${isActive ? ' active' : ''}`} onClick={onPick}>
-          <n.icon size={19} aria-hidden="true" />{n.label}
-        </NavLink>
-      ))}
-    </>
-  );
-}
-
 export function Layout() {
-  const { pathname, hash } = useLocation();
+  const location = useLocation();
+  const { pathname, search, hash } = location;
   const { data, recovered, volatile } = useUser();
   const navigate = useNavigate();
-  const [menu, setMenu] = useState(false);
+  // L'ouverture du menu ajoute une entrée d'historique : le bouton retour d'Android le referme.
+  const menu = (location.state as { menu?: boolean } | null)?.menu === true;
   const [dismissed, setDismissed] = useState(false);
   const mainRef = useRef<HTMLDivElement>(null);
-  const menuFirst = useRef<HTMLDivElement>(null);
+  const menuButton = useRef<HTMLButtonElement>(null);
+  const wasOpen = useRef(false);
 
   useEffect(() => {
     if (!hash) window.scrollTo(0, 0);
-    setMenu(false);
     mainRef.current?.focus({ preventScroll: true });
   }, [pathname, hash]);
 
   useEffect(() => {
-    if (!menu) return;
-    menuFirst.current?.querySelector('a')?.focus();
-    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setMenu(false); };
-    window.addEventListener('keydown', onKey);
-    return () => window.removeEventListener('keydown', onKey);
+    // Après un rechargement, le menu ne se rouvre pas de lui-même.
+    if (menu) navigate({ pathname, search, hash }, { replace: true });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  useEffect(() => {
+    if (wasOpen.current && !menu) menuButton.current?.focus({ preventScroll: true });
+    wasOpen.current = menu;
   }, [menu]);
 
   useEffect(() => {
@@ -80,23 +53,16 @@ export function Layout() {
     return () => mq?.removeEventListener?.('change', applyTheme);
   }, [data.settings]);
 
-  const moreActive = !MOBILE.some((m) => (m.end ? pathname === m.to : pathname.startsWith(m.to)));
-
   return (
     <div className="shell">
       <a className="skip-link" href="#contenu" onClick={(e) => { e.preventDefault(); mainRef.current?.focus(); }}>Aller au contenu</a>
-      <aside className="sidebar">
-        <Link to="/" className="brand">
-          <div className="brand-rule" />
-          <div className="brand-name">L’Art du<br /><em>Savoir-Vivre</em></div>
-          <div className="brand-sub">Encyclopédie des usages</div>
-        </Link>
-        <nav aria-label="Navigation principale" className="nav-list"><NavItems /></nav>
-      </aside>
       <div className="main">
         <header className="topbar">
-          <Link to="/" className="topbar-brand">L’Art du <em>Savoir-Vivre</em></Link>
-          <button type="button" className="btn-icon" aria-label="Rechercher" onClick={() => navigate('/recherche')}>
+          <button ref={menuButton} type="button" className="btn-icon" aria-label="Ouvrir le menu" aria-haspopup="dialog" aria-expanded={menu} onClick={() => navigate({ pathname, search, hash }, { state: { menu: true } })}>
+            <List size={22} aria-hidden="true" />
+          </button>
+          <Link to="/" className="topbar-brand"><Logo size={30} /><span>L’Art du <em>Savoir-Vivre</em></span></Link>
+          <button type="button" className="btn-icon topbar-search" aria-label="Rechercher" onClick={() => navigate('/recherche')}>
             <MagnifyingGlass size={20} aria-hidden="true" />
           </button>
         </header>
@@ -123,25 +89,14 @@ export function Layout() {
           </main>
         </div>
       </div>
-      <nav aria-label="Navigation principale, mobile" className="bottom-nav">
-        {MOBILE.map((m) => (
+      <nav aria-label="Raccourcis" className="bottom-nav">
+        {SHORTCUTS.map((m) => (
           <NavLink key={m.to} to={m.to} end={m.end} className={({ isActive }) => `bottom-item${isActive ? ' active' : ''}`}>
             <m.icon size={21} aria-hidden="true" />{m.label}
           </NavLink>
         ))}
-        <button type="button" className={`bottom-item${moreActive || menu ? ' active' : ''}`} onClick={() => setMenu(true)} aria-haspopup="dialog" aria-expanded={menu}>
-          <List size={21} aria-hidden="true" />Plus
-        </button>
       </nav>
-      {menu && (
-        <div className="sheet-backdrop" onClick={() => setMenu(false)}>
-          <div className="sheet" role="dialog" aria-modal="true" aria-label="Toutes les rubriques" onClick={(e) => e.stopPropagation()} ref={menuFirst}>
-            <div className="sheet-title">Rubriques</div>
-            <NavItems onPick={() => setMenu(false)} />
-            <button type="button" className="nav-item" onClick={() => setMenu(false)}>Fermer</button>
-          </div>
-        </div>
-      )}
+      {menu && <MainMenu onClose={() => navigate(-1)} />}
       <FirstLaunchNotice />
     </div>
   );

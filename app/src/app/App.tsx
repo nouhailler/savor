@@ -26,6 +26,7 @@ const FavoritesPage = lazy(() => import('../features/favorites/FavoritesPage'));
 const ProgressPage = lazy(() => import('../features/progress/ProgressPage'));
 const ReviewPage = lazy(() => import('../features/progress/ReviewPage'));
 const SettingsPage = lazy(() => import('../features/settings/SettingsPage'));
+const SystemPage = lazy(() => import('../features/settings/SystemPage'));
 const AboutPage = lazy(() => import('../features/settings/AboutPage'));
 const LegalPage = lazy(() => import('../features/settings/LegalPage'));
 const NotFoundPage = lazy(() => import('../features/home/NotFoundPage'));
@@ -57,6 +58,7 @@ export function AppRoutes() {
         <Route path="progression" element={<ProgressPage />} />
         <Route path="revisions" element={<ReviewPage />} />
         <Route path="parametres" element={<SettingsPage />} />
+        <Route path="systeme" element={<SystemPage />} />
         <Route path="a-propos" element={<AboutPage />} />
         <Route path="mentions-legales" element={<LegalPage />} />
         <Route path="*" element={<NotFoundPage />} />

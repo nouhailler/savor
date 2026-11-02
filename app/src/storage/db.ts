@@ -1,5 +1,6 @@
 import { openDB, type IDBPDatabase } from 'idb';
 import { DEFAULT_SETTINGS, emptyUserData, type UserData } from '../types/user';
+import { clearUpdatePrefs } from '../utils/updatePrefs';
 
 const DB_NAME = 'savoir-vivre';
 const STORE = 'documents';
@@ -78,6 +79,7 @@ export async function saveUserData(data: UserData): Promise<void> {
 export async function clearAllData(): Promise<void> {
   const db = await getDb();
   await db.clear(STORE);
+  clearUpdatePrefs();
 }
 
 /** Pour les tests : referme la connexion. */

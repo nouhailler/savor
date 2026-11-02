@@ -44,15 +44,16 @@ function lessonIndex(): Plugin {
 // puis tous précachés par le service worker : l'application reste utilisable hors ligne.
 export default defineConfig({
   base: './',
-  define: { __APP_VERSION__: JSON.stringify(pkg.version) },
+  define: { __APP_VERSION__: JSON.stringify(pkg.version), __APP_RELEASE_DATE__: JSON.stringify(new Date().toISOString()) },
   plugins: [
     react(),
     lessonIndex(),
     VitePWA({
       registerType: 'prompt',
       injectRegister: false,
-      includeAssets: ['favicon.svg', 'apple-touch-icon.png'],
+      includeAssets: ['favicon.svg', 'logo.svg', 'apple-touch-icon.png'],
       manifest: {
+        id: './',
         name: "L'Art du Savoir-Vivre",
         short_name: 'Savoir-Vivre',
         description: 'Encyclopédie interactive des bonnes manières, de l’élégance et des relations sociales.',
@@ -65,7 +66,7 @@ export default defineConfig({
         icons: [
           { src: 'pwa-192.png', sizes: '192x192', type: 'image/png' },
           { src: 'pwa-512.png', sizes: '512x512', type: 'image/png' },
-          { src: 'pwa-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+          { src: 'pwa-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
         ]
       },
       workbox: {

@@ -27,7 +27,10 @@ describe('parcours', () => {
     await clearAllData();
     const user = userEvent.setup();
     renderAt('/');
-    const btn = await screen.findByRole('button', { name: 'J’ai compris' }, { timeout: 8000 });
+    await user.click(await screen.findByRole('button', { name: 'Passer la présentation' }, { timeout: 8000 }));
+    const btn = screen.getByRole('button', { name: 'J’ai compris' });
+    expect(btn).toBeDisabled();
+    await user.click(screen.getByRole('checkbox'));
     await user.click(btn);
     await waitFor(() => expect(screen.queryByRole('dialog')).toBeNull());
     expect(await screen.findByText('Les huit domaines', {}, { timeout: 8000 })).toBeInTheDocument();

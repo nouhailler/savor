@@ -1,0 +1,6 @@
+{
+  // Site statique servi par Cloudflare Workers : aucun code côté serveur.
+  "name": "savoir-vivre",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist" }
+}

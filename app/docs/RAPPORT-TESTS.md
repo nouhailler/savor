@@ -1,6 +1,6 @@
 # Rapport des tests exécutés
 
-Dernière exécution : 2 novembre 2026, sur le dernier état du code. Environnement : Linux, Node 24.21, Vitest 5.0.5, Playwright 1.64.1, Chromium.
+Dernière exécution : 2 novembre 2026, sur 86 leçons. Environnement : Linux, Node 24.21, Vitest 5.0.5, Playwright 1.64.1, Chromium.
 
 ## Résultat
 
@@ -8,13 +8,14 @@ Dernière exécution : 2 novembre 2026, sur le dernier état du code. Environnem
 |---|---|---|
 | TypeScript | `npm run typecheck` | Aucune erreur |
 | Lint | `npm run lint` | Aucune erreur |
-| Tests unitaires et contenu | `npm test` | **464 réussis sur 464** (6 fichiers) |
-| Build de production | `npm run build` | Réussi, 134 fichiers en précache, 2,7 Mo |
-| Parcours navigateur | `npm run test:e2e` | **94 réussis sur 94** (47 scénarios, bureau et mobile émulé) |
+| Tests unitaires et contenu | `npm test` | **550 réussis sur 550** (7 fichiers) |
+| Build de production | `npm run build` | Réussi, 152 fichiers en précache, 3,1 Mo |
+| Parcours navigateur | `npm run test:e2e` | **108 réussis sur 108** (54 scénarios, bureau et mobile émulé) |
+| Mêmes parcours sous Wrangler, avec les vrais en-têtes | `E2E_BASE_URL=… npx playwright test --project=desktop` | **54 réussis sur 54** |
 | Dépendances de production | `npm audit --omit=dev` | **0 vulnérabilité** |
-| Toutes dépendances | `npm audit` | 20 vulnérabilités, outils de développement seulement (voir plus bas) |
+| Toutes dépendances | `npm audit` | 19 vulnérabilités, outils de développement seulement (voir plus bas) |
 
-Le code n'est pas sous gestion de versions : il n'y a pas d'intégration continue, et ces résultats ne se rejouent que par les commandes ci-dessus.
+Il n'y a pas d'intégration continue : ces résultats ne se rejouent que par les commandes ci-dessus.
 
 ## Couverture (section 14)
 
@@ -22,7 +23,7 @@ Le code n'est pas sous gestion de versions : il n'y a pas d'intégration continu
 
 | Vérification | Où | Résultat |
 |---|---|---|
-| Navigation, 24 écrans, sans erreur console ni débordement | Playwright | Réussi, deux formats |
+| Navigation, 25 écrans, sans erreur console ni débordement | Playwright | Réussi, deux formats |
 | Leçon terminée, favori conservé après rechargement | Playwright | Réussi |
 | Quiz : correction, résultat conservé, question à réviser | Playwright | Réussi |
 | Situation ramifiée : la décision modifie la suite | Playwright | Réussi |
@@ -36,7 +37,12 @@ Le code n'est pas sous gestion de versions : il n'y a pas d'intégration continu
 | Persistance, document corrompu, fichier invalide | Vitest | Réussi |
 | Écran en erreur : message, puis rétablissement | Vitest | Réussi |
 | Répétition espacée, notation, crédit partiel | Vitest | Réussi |
-| Premier lancement : avertissement, mémorisation, réapparition | Playwright | Réussi |
+| Premier lancement : étapes, acceptation obligatoire, mémorisation, réapparition | Playwright | Réussi |
+| Menu : catégories, focus, Échap, bouton retour, navigation sans réouverture | Playwright | Réussi |
+| Installation : invite simulée du navigateur, explications sinon | Playwright, Vitest | Réussi |
+| Mises à jour, sur un serveur publiant une nouvelle version : vérification, détection, installation en quittant | Playwright | Réussi |
+| Une nouvelle version n'interrompt pas un quiz | Playwright | Réussi |
+| Forcer la mise à jour : progression conservée ; refus sans réseau | Playwright | Réussi |
 
 ### 14.2 : pédagogie
 
@@ -59,11 +65,11 @@ axe (règles WCAG 2.0, 2.1 et 2.2, A et AA) ne signale rien sur 10 contrôles, c
 
 ## Performance
 
-Mesure unique, en local, sans limitation de réseau, Chromium de bureau : premier affichage de contenu à 300 ms, 19 requêtes, 886 Ko non compressés au premier chargement. La recherche et les quiz n'ont pas fait l'objet d'une mesure dédiée. Ce chiffre n'est pas une mesure de terrain.
+Mesure unique, faite à 72 leçons, en local, sans limitation de réseau, Chromium de bureau : premier affichage de contenu à 300 ms, 19 requêtes, 886 Ko non compressés au premier chargement. La recherche et les quiz n'ont pas fait l'objet d'une mesure dédiée. Ce chiffre n'est pas une mesure de terrain.
 
 ## Dépendances : alertes restantes
 
-`npm audit` signale 18 alertes modérées et 2 faibles, dans des paquets qui ne sont pas livrés aux utilisateurs :
+`npm audit` signale 17 alertes modérées et 2 faibles, dans des paquets qui ne sont pas livrés aux utilisateurs :
 
 - `eslint` et `typescript-eslint` (lint) ;
 - `vite-plugin-pwa` et `workbox-build` (génération du service worker au build).
@@ -72,7 +78,7 @@ Les corrections proposées sont des rétrogradations majeures, non appliquées. 
 
 ## Non testé
 
-Firefox, Safari et Edge ; téléphones réels et installation effective ; lecteurs d'écran ; réseau lent ; audit WCAG manuel ; Lighthouse.
+Déploiement en ligne sur Cloudflare ; Firefox, Safari et Edge ; téléphones réels et installation effective ; lecteurs d'écran ; réseau lent ; audit WCAG manuel ; Lighthouse.
 
 ## Correctifs issus de cette campagne
 

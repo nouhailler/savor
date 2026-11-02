@@ -1,14 +1,13 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { Link } from 'react-router-dom';
-import { DownloadSimple, Export, Trash, UploadSimple } from '@phosphor-icons/react';
+import { Export, Trash, UploadSimple } from '@phosphor-icons/react';
 import { useUser } from '../../storage/UserContext';
 import { useToast, usePageTitle } from '../../components/ui';
+import { InstallButton } from '../../components/InstallButton';
 import { LEVELS } from '../../types/content';
 import type { FontScale, ThemeSetting, UserSettings } from '../../types/user';
 import { LEVEL_LABEL } from '../../utils/labels';
 import { dayKey } from '../../utils/date';
-
-interface InstallEvent extends Event { prompt(): Promise<void>; userChoice: Promise<{ outcome: string }> }
 
 function Row({ label, desc, children }: { label: string; desc: string; children: ReactNode }) {
   return (
@@ -46,20 +45,16 @@ export default function SettingsPage() {
   const [storage, setStorage] = useState('');
   const [persisted, setPersisted] = useState<boolean | null>(null);
   const [sw, setSw] = useState<boolean | null>(null);
-  const [install, setInstall] = useState<InstallEvent | null>(null);
   const [online, setOnline] = useState(navigator.onLine);
 
   useEffect(() => {
     navigator.storage?.estimate?.().then((e) => { if (e.usage !== undefined) setStorage(`${(e.usage / 1048576).toFixed(1).replace('.', ',')} Mo utilisés sur cet appareil`); });
     navigator.storage?.persisted?.().then(setPersisted);
     navigator.serviceWorker?.getRegistration?.().then((r) => setSw(!!r?.active));
-    const onPrompt = (e: Event) => { e.preventDefault(); setInstall(e as InstallEvent); };
     const onNet = () => setOnline(navigator.onLine);
-    window.addEventListener('beforeinstallprompt', onPrompt);
     window.addEventListener('online', onNet);
     window.addEventListener('offline', onNet);
     return () => {
-      window.removeEventListener('beforeinstallprompt', onPrompt);
       window.removeEventListener('online', onNet);
       window.removeEventListener('offline', onNet);
     };
@@ -143,11 +138,9 @@ export default function SettingsPage() {
               ) : persisted ? <span className="tag">Protégé</span> : null}
             </Row>
           )}
-          {install && (
-            <Row label="Installer l’application" desc="L’ajoute à votre écran d’accueil, comme un livre toujours à portée de main.">
-              <button type="button" className="btn btn-secondary" onClick={() => { install.prompt(); install.userChoice.finally(() => setInstall(null)); }}><DownloadSimple aria-hidden="true" />Installer</button>
-            </Row>
-          )}
+          <Row label="Installer l’application" desc="L’ajoute à votre écran d’accueil ou à votre bureau, comme un livre toujours à portée de main.">
+            <InstallButton />
+          </Row>
         </div>
       </section>
 
@@ -171,6 +164,7 @@ export default function SettingsPage() {
       </section>
 
       <section className="stack gap-xs small">
+        <Link to="/systeme">Paramètres système et mises à jour</Link>
         <Link to="/presentation">Présentation de l’ouvrage</Link>
         <Link to="/a-propos">À propos et sources</Link>
         <Link to="/mentions-legales">Mentions légales</Link>

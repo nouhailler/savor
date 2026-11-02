@@ -3,7 +3,7 @@ import { defineConfig, devices } from '@playwright/test';
 export default defineConfig({
   testDir: './tests/e2e',
   timeout: 30000,
-  use: { baseURL: 'http://localhost:4173', locale: 'fr-FR' },
+  use: { baseURL: process.env.E2E_BASE_URL ?? 'http://localhost:4173', locale: 'fr-FR' },
   webServer: { command: 'npm run preview -- --port 4173 --strictPort', port: 4173, reuseExistingServer: true },
   projects: [
     { name: 'desktop', use: { ...devices['Desktop Chrome'] } },

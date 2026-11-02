@@ -9,15 +9,11 @@ import '@fontsource/source-sans-3/latin-500.css';
 import '@fontsource/source-sans-3/latin-600.css';
 import './styles/tokens.css';
 import './styles/app.css';
-import { registerSW } from 'virtual:pwa-register';
+import './services/install';
 import { App } from './app/App';
-import { announceUpdate } from './app/UpdateBanner';
+import { startUpdates } from './services/updates';
 
-const updateSW = registerSW({
-  onNeedRefresh() {
-    announceUpdate(() => updateSW(true));
-  }
-});
+startUpdates();
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

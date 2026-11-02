@@ -1,26 +1,20 @@
-import { useEffect, useState } from 'react';
-
-// Le service worker est enregistré dans main.tsx ; il signale ici qu'une mise à jour attend.
-let applyUpdate: (() => void) | null = null;
-const listeners = new Set<() => void>();
-
-export function announceUpdate(apply: () => void) {
-  applyUpdate = apply;
-  listeners.forEach((l) => l());
-}
+import { applyNow, dismissJustUpdated, useUpdateState } from '../services/updates';
 
 export function UpdateBanner() {
-  const [available, setAvailable] = useState(applyUpdate !== null);
-  useEffect(() => {
-    const l = () => setAvailable(true);
-    listeners.add(l);
-    return () => { listeners.delete(l); };
-  }, []);
-  if (!available) return null;
+  const { phase, justUpdated } = useUpdateState();
+  if (phase === 'ready' || phase === 'applying') {
+    return (
+      <div className="notice-bar" role="status">
+        Une nouvelle version est prête. Elle s’installera à votre prochain passage, sans toucher à votre progression.
+        <button type="button" className="btn-link" onClick={applyNow}>Installer maintenant</button>
+      </div>
+    );
+  }
+  if (!justUpdated) return null;
   return (
     <div className="notice-bar" role="status">
-      Une nouvelle version est prête. Votre progression sera conservée.
-      <button type="button" className="btn-link" onClick={() => applyUpdate?.()}>Mettre à jour</button>
+      L’application vient d’être mise à jour (version {__APP_VERSION__}).
+      <button type="button" className="btn-link" onClick={dismissJustUpdated}>Fermer</button>
     </div>
   );
 }
