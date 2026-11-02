@@ -1,0 +1,150 @@
+{
+  "id": "c-italie",
+  "slug": "italie",
+  "name": "Italie",
+  "region": "Europe méridionale",
+  "languages": [
+    "Italien"
+  ],
+  "intro": "Une société où l’on accorde beaucoup de prix à la relation, à la famille, à la table et à la bella figura : l’art de se présenter sous son meilleur jour.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main, bises entre proches"
+    },
+    {
+      "label": "Titres",
+      "value": "Dottore, Avvocato, très employés"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "Plus souple qu’en Europe du Nord"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Modeste et non obligatoire"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "La poignée de main est courante à la première rencontre ; deux bises entre proches.",
+        "« Buongiorno » et « Buonasera » s’emploient largement, « ciao » seulement entre personnes qui se tutoient.",
+        "Les titres professionnels (Dottore, Ingegnere, Avvocato) comptent, surtout à l’écrit et au sud."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "Un quart d’heure de retard est souvent toléré en société, et moins en affaires, notamment à Milan.",
+        "Prévoyez un peu de souplesse dans le déroulement d’une réunion."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On apporte des pâtisseries, du vin ou des fleurs, en évitant les chrysanthèmes, associés aux défunts.",
+        "Une invitation à la maison est une vraie marque d’affection, et il faut s’attendre à plusieurs plats."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "Le repas suit un ordre : antipasti, primo, secondo, contorno, dolce, café.",
+        "Les spaghettis s’enroulent à la fourchette, sans les couper, et la cuillère reste rare.",
+        "Le cappuccino se boit plutôt le matin, ce qui n’a rien d’une règle absolue, et le café se prend souvent au comptoir."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "L’emballage soigné est apprécié, et l’on ouvre généralement le cadeau devant vous.",
+        "Évitez le nombre treize dans certains contextes, et les objets marqués du logo de votre entreprise pour un cadeau personnel."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Une présentation soignée est très appréciée : c’est la bella figura.",
+        "Dans les lieux de culte, les épaules et les genoux doivent souvent être couverts, et l’accès peut être refusé dans le cas contraire."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "La conversation est expressive, et les interruptions peuvent être un signe d’intérêt.",
+        "On parle volontiers de cuisine, de famille, de sa région."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "Les gestes accompagnent largement la parole, et certains ont un sens précis, à ne pas imiter à la légère.",
+        "On se tient assez près les uns des autres, et les contacts sur le bras sont fréquents."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Les stéréotypes sur la mafia sont très mal reçus.",
+        "Les écarts entre le Nord et le Sud et la politique peuvent être délicats."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "La relation personnelle compte beaucoup : un déjeuner peut précéder un accord.",
+        "La hiérarchie reste assez marquée dans les entreprises traditionnelles, et la décision remonte souvent au dirigeant."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Critiquer la cuisine locale ou demander des modifications trop importantes d’un plat.",
+        "Dire « ciao » à un inconnu d’un certain âge.",
+        "Visiter une église en tenue de plage."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Le « coperto », un couvert facturé, figure souvent sur l’addition : il n’est pas un pourboire.",
+        "De nombreux commerces ferment l’après-midi, surtout dans le Sud.",
+        "Le compostage des billets de train régionaux peut être obligatoire avant de monter."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Buongiorno / Buonasera",
+      "meaning": "Bonjour / Bonsoir."
+    },
+    {
+      "original": "Grazie mille",
+      "meaning": "Merci beaucoup."
+    },
+    {
+      "original": "Permesso",
+      "meaning": "Permettez-moi : pour entrer chez quelqu’un ou passer."
+    }
+  ],
+  "generalizationNote": "L’Italie reste marquée par de fortes identités régionales : Milan, Naples et la Sicile n’ont pas les mêmes usages, et l’on s’y définit souvent d’abord par sa ville ou sa région. Ces repères ne décrivent pas tous les Italiens.",
+  "sources": [
+    {
+      "title": "ENIT, Agence nationale italienne du tourisme",
+      "note": "italia.it"
+    },
+    {
+      "title": "Conseils aux voyageurs : Italie",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

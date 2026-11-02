@@ -1,0 +1,302 @@
+{
+  "id": "l-1-3-2",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Réception officielle, dîner de prestige, cérémonie de remise de décoration : comment préparer sa tenue et sa présence quand le cadre est exigeant, sans se perdre dans le décorum.",
+  "estimatedDuration": 12,
+  "tags": [
+    "réception officielle",
+    "dress code",
+    "white tie",
+    "black tie",
+    "cérémonie",
+    "décoration",
+    "protocole"
+  ],
+  "objectives": [
+    "Comprendre les principaux codes formels : tenue de ville, cocktail, black tie, white tie.",
+    "Préparer sa venue à une réception officielle : informations, arrivée, attitude.",
+    "Se présenter à une personnalité sans raideur.",
+    "Savoir s’orienter quand on ignore les usages d’un cadre très formel."
+  ],
+  "introduction": "Une enveloppe épaisse, à votre nom, vous convie à une réception à la préfecture, à une ambassade ou à un dîner de gala. On y précise « Tenue de ville » ou « Cravate noire », et une heure d’arrivée au quart d’heure près. Pour la plupart d’entre nous, ce genre de soirée n’arrive que rarement, et l’on redoute de ne pas savoir ce qu’il faut faire.\n\nCette leçon propose de démystifier ces cadres. Ils reposent sur des usages en réalité assez simples, et sur un principe qui vous protégera partout : les organisateurs veulent que l’événement se déroule bien, et ils aident volontiers ceux qui posent la question.",
+  "sections": [
+    {
+      "title": "Lire le carton d’invitation",
+      "content": "Le carton vous dit presque tout. Il indique la personne qui invite et à quel titre, la nature de la réception, le lieu, l’heure et la tenue. La mention « R.S.V.P. » demande une réponse par le moyen indiqué, et il peut arriver qu’il soit nécessaire de fournir une pièce d’identité ou de vous présenter avec le carton lui-même, surtout pour les lieux sécurisés. Conservez-le jusqu’au jour J.\n\nLes codes les plus courants en France sont les suivants. « Tenue de ville » désigne un costume sombre ou un ensemble habillé de jour. « Tenue de cocktail » suggère une tenue élégante, sans longueur de soirée. « Cravate noire » ou « black tie » renvoie au smoking, ou à une tenue longue ou de grande soirée. « Cravate blanche » ou « white tie », très rare, désigne l’habit à queue de pie et la robe longue : on la rencontre dans quelques galas et cérémonies d’État. La mention de « décorations » invite à porter les distinctions que l’on possède.\n\nEn présence d’un doute sur un carton, il est parfaitement admis de téléphoner au secrétariat ou au service du protocole. Ces services répondent chaque jour à ces questions, et ils préfèrent de beaucoup vous renseigner que de vous voir arriver mal préparé. Pour une tenue exceptionnelle, la location est très courante, y compris pour des personnalités."
+    },
+    {
+      "title": "Le jour de la réception",
+      "content": "On arrive à l’heure indiquée, en particulier lorsqu’une autorité doit prendre la parole ou arriver après les invités. L’usage officiel veut en effet que la personnalité de rang le plus élevé arrive la dernière et parte la première. Se présenter après elle peut poser problème, voire vous valoir un refus à l’entrée. Prévoyez du temps pour les contrôles de sécurité, et un trajet plus long que d’habitude, à cause de la circulation ou du stationnement.\n\nUne fois sur place, les manteaux et grands sacs vont au vestiaire. Il n’est pas rare qu’il y ait une ligne de réception : l’hôte et quelques personnes saluent chaque invité à son entrée. On tend le carton à l’huissier ou l’on donne son nom. Un salut bref suffit, car d’autres attendent. On ne cherche ni à retenir une personnalité, ni à prendre un selfie avec elle sans y être invité, et l’on évite de lui remettre un dossier ou une demande à ce moment-là.\n\nPendant les discours, on se tient debout et silencieux, téléphone éteint. Lors du buffet, on patiente, on évite de se placer à côté des plats pour le reste de la soirée, et on fait attention au verre : un seul à la main, avec modération, permet de garder une main libre pour saluer. On ne quitte pas les lieux avant la personnalité principale, sauf nécessité. Dans ce cas, on s’éclipse discrètement."
+    },
+    {
+      "title": "S’adresser à une personnalité",
+      "content": "Les titres s’utilisent pour montrer le respect de la fonction. En France, on dit « Monsieur le Président », « Madame la Ministre », « Monsieur le Maire », « Madame la Préfète » (les titres féminisés sont aujourd’hui largement recommandés, y compris par l’Académie française). Pour une personne que l’on a déjà nommée, « Madame » ou « Monsieur » suffit ensuite. Ne vous inquiétez pas à l’excès : une personne qui se trompe de bonne foi sera rarement reprise, et une formule simple vaut mieux qu’une formule pompeuse.\n\nD’autres situations disposent d’usages propres, et il vaut mieux demander : un ambassadeur s’adresse par « Monsieur l’Ambassadeur » ou « Excellence », selon les pays et les circonstances ; un évêque, par « Monseigneur » ; un membre d’une famille royale, en fonction du protocole local. Si vous êtes invité à rencontrer une telle personne, votre hôte vous l’indiquera le plus souvent.\n\nLa conversation reste brève et courtoise : quelques phrases, une question sur un sujet de sa fonction, un remerciement. Évitez de lui demander une faveur, de lui exposer un dossier ou d’engager un débat politique. Si vous tenez à une conversation plus longue, vous pouvez dire : « Je serais heureux d’écrire à votre secrétariat à ce propos. » La personne, entourée de sollicitations, en sera reconnaissante."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-3-2-r1",
+      "title": "Le carton fait foi, et l’on demande en cas de doute.",
+      "description": "On respecte les indications de tenue, d’heure et de réponse, et l’on sollicite le protocole ou le secrétariat lorsqu’une précision est nécessaire.",
+      "rationale": "Ces événements reposent sur une organisation détaillée, souvent liée à la sécurité. Les organisateurs préfèrent une question à un imprévu.",
+      "context": "Réceptions officielles, galas, cérémonies.",
+      "recommendedBehavior": "Répondez avant la date indiquée, conservez le carton, et téléphonez si vous avez un doute.",
+      "exceptions": [],
+      "remedy": "Si vous n’avez pas répondu : appelez et demandez si vous pouvez encore venir, en acceptant la réponse.",
+      "conventionType": "traditional_custom",
+      "normativity": "formal_convention"
+    },
+    {
+      "id": "l-1-3-2-r2",
+      "title": "On arrive avant la personnalité, et on repart après elle.",
+      "description": "L’autorité principale arrive en dernier et quitte le lieu en premier ; les invités s’organisent en conséquence.",
+      "rationale": "C’est une marque de respect pour la fonction, mais aussi une contrainte de sécurité et d’organisation.",
+      "context": "Réceptions officielles, cérémonies publiques, dîners d’État.",
+      "recommendedBehavior": "Soyez sur place à l’heure indiquée, en tenant compte des contrôles. Si vous devez partir plus tôt, sortez discrètement.",
+      "exceptions": [
+        "Dans une réception privée, cet ordre n’a pas lieu d’être.",
+        "Une urgence personnelle reste une urgence."
+      ],
+      "remedy": "Si vous arrivez après la personnalité : présentez-vous avec simplicité, et suivez les consignes de l’accueil.",
+      "conventionType": "traditional_custom",
+      "normativity": "formal_convention"
+    },
+    {
+      "id": "l-1-3-2-r3",
+      "title": "On emploie le titre de la fonction, sobrement.",
+      "description": "On s’adresse à une personnalité par sa fonction (« Madame la Ministre »), puis, dans la conversation, par « Madame » ou « Monsieur ».",
+      "rationale": "Le titre vise la fonction, et non la personne : on honore ainsi une institution, sans flagornerie.",
+      "context": "Réceptions officielles, correspondance, audiences.",
+      "recommendedBehavior": "Renseignez-vous à l’avance sur les personnes présentes. Préférez une formule simple et juste à une formule ampoulée.",
+      "exceptions": [
+        "Les titres religieux, diplomatiques et royaux ont leurs usages : renseignez-vous auprès de votre hôte."
+      ],
+      "remedy": "En cas d’erreur, rectifiez sans vous excuser plusieurs fois : « Pardon, Madame la Préfète. »",
+      "conventionType": "traditional_custom",
+      "normativity": "formal_convention"
+    },
+    {
+      "id": "l-1-3-2-r4",
+      "title": "On ne sollicite pas une personnalité à l’occasion d’une réception.",
+      "description": "On évite d’y remettre un dossier, de faire une demande ou de lancer une polémique.",
+      "rationale": "La réception n’a pas cet objet : la personne est sollicitée de toutes parts, et l’on gagne bien davantage à écrire ensuite.",
+      "context": "Réceptions, inaugurations, salons, cocktails d’entreprise.",
+      "recommendedBehavior": "Quelques phrases aimables, un remerciement. Pour aller plus loin : « Puis-je écrire à votre secrétariat à ce sujet ? »",
+      "exceptions": [
+        "Une personne dont c’est le rôle explicite, comme un élu lors d’une permanence, peut être sollicitée dans ce cadre."
+      ],
+      "remedy": "« Je vous en reparlerai par écrit : ce n’est pas le moment. »",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "L’ordre d’arrivée, les titres et la tenue sont hérités de la vie de cour, où ils signifiaient l’ordre du pouvoir. La République française les a conservés sous une autre forme : le décret n° 89-655 du 13 septembre 1989 fixe les préséances lors des cérémonies publiques, tandis qu’une circulaire du 11 mars 1986 a encouragé la féminisation des titres. Ils ont cessé d’honorer des personnes, pour honorer des fonctions : c’est pourquoi on peut les respecter sans se soumettre à qui que ce soit.\n\nUne autre fonction demeure, moins visible : ces codes permettent à des personnes qui ne se connaissent pas de se retrouver dans un cadre clair. Il faut reconnaître qu’ils peuvent intimider, et que ceux qui ont grandi dans ces milieux sont avantagés. C’est d’ailleurs la raison d’être de cette leçon : ces usages ne sont pas réservés à quelques-uns, ils s’apprennent en une soirée.",
+  "examples": [
+    {
+      "context": "Vous recevez la médaille d’une association lors d’une cérémonie",
+      "behavior": "Vous appelez le secrétariat pour connaître le déroulé et la tenue. Le jour venu, vous arrivez vingt minutes à l’avance et vous remerciez brièvement, sans discours.",
+      "explanation": "La question évite toute hésitation, et la brièveté de vos remerciements respecte le temps de l’assemblée."
+    },
+    {
+      "context": "À une réception à la mairie, vous croisez le maire",
+      "behavior": "« Bonsoir Monsieur le Maire. Merci pour cette belle soirée. Je tenais à vous dire combien le travail sur le parc a changé notre quartier. » Vous n’en dites pas plus, et il peut saluer d’autres personnes.",
+      "explanation": "Le titre et un compliment précis suffisent. Vous ne l’avez pas pris en otage."
+    },
+    {
+      "context": "Une invitation « Cravate noire » alors que vous n’en possédez pas",
+      "behavior": "Vous louez un smoking ou une robe longue, ou vous portez la tenue de cérémonie de votre tradition.",
+      "explanation": "Personne n’attend de vous que vous possédiez ces vêtements. Beaucoup d’invités les louent, ou les empruntent."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "À un dîner d’ambassade",
+      "behavior": "Arriver avec une heure de retard parce que « les soirées commencent toujours en retard ».",
+      "consequences": "Vous pouvez ne pas être admis si la personnalité est déjà là. Le plan de table est déséquilibré, et le service, désorganisé.",
+      "alternative": "Viser l’heure indiquée, et prévenir au plus tôt en cas d’imprévu."
+    },
+    {
+      "situation": "Dans une ligne de réception",
+      "behavior": "Retenir la ministre pendant dix minutes pour lui parler de votre dossier, et lui demander un selfie.",
+      "consequences": "Vous bloquez la file et mettez la personne dans l’embarras, ce qui ne servira pas votre cause.",
+      "alternative": "Une phrase, un sourire. Et une lettre au cabinet, le lendemain."
+    },
+    {
+      "situation": "Au buffet d’une réception",
+      "behavior": "Rester planté devant les plats et se servir abondamment pendant toute la soirée.",
+      "consequences": "Les autres invités ne peuvent pas accéder au buffet, et vous manquez ce pour quoi vous étiez invité : rencontrer les autres.",
+      "alternative": "Se servir, s’écarter, et circuler pour parler aux autres."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Autres pays, autres usages.",
+      "text": "Au Royaume-Uni, on utilise des formules très précises pour la famille royale, et aux États-Unis, on peut dire simplement « Mr. President » ou « Madam Secretary ». Les ambassades publient parfois des conseils pour leurs invités. Votre hôte reste votre meilleure source."
+    },
+    {
+      "title": "Religion et tenue.",
+      "text": "Une cérémonie peut demander à certaines personnes de se couvrir la tête, ou de se déchausser. Le protocole tient généralement compte des tenues religieuses ou traditionnelles des invités. On ne doit pas se sentir obligé de renoncer à ses propres convictions pour autant."
+    },
+    {
+      "title": "Dîners privés de prestige.",
+      "text": "Ces événements ont beau être très habillés, ils restent privés, et leur protocole est plus souple. L’hôte peut indiquer ce qui compte pour lui. Quelques heures de préparation suffisent, et il ne faut pas croire que chacun a passé sa vie dans ce genre de cadre."
+    }
+  ],
+  "contexts": [
+    "Réceptions officielles : ponctualité, contrôle à l’entrée, tenue indiquée.",
+    "Remises de décoration : déroulé connu à l’avance, remerciements brefs.",
+    "Galas : tenue de soirée, placement, discours.",
+    "Événements professionnels formels : équilibre entre tenue et conversation."
+  ],
+  "keyPoints": [
+    "Le carton dit presque tout : tenue, heure, réponse.",
+    "On arrive avant la personnalité, on repart après elle.",
+    "On emploie le titre de la fonction : c’est la fonction que l’on honore.",
+    "Une réception n’est pas le lieu d’une demande : on écrit ensuite."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Que veut dire le carton ?",
+    "instructions": "Associez chaque mention à sa signification.",
+    "pairs": [
+      {
+        "left": "Tenue de ville",
+        "right": "Costume sombre ou ensemble habillé de jour"
+      },
+      {
+        "left": "Cravate noire",
+        "right": "Smoking, ou tenue longue ou de grande soirée"
+      },
+      {
+        "left": "Cravate blanche",
+        "right": "Habit à queue de pie et robe longue, très rare"
+      },
+      {
+        "left": "R.S.V.P.",
+        "right": "Une réponse est demandée, positive ou négative"
+      },
+      {
+        "left": "Décorations",
+        "right": "Vous pouvez porter vos distinctions"
+      }
+    ],
+    "explanation": "Ces mentions fixent un cadre commun. Elles laissent toujours la possibilité d’interroger le secrétariat, et de louer sa tenue."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-1-3-2-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que signifie généralement la mention « Cravate noire » sur un carton ?",
+        "choices": [
+          "Une cravate noire est obligatoire avec n’importe quel costume",
+          "Smoking ou tenue de grande soirée",
+          "L’événement est un deuil",
+          "Une tenue de ville sombre"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "« Cravate noire » équivaut à « black tie » : smoking, robe longue ou tenue de grande soirée. La « tenue de ville » représente un niveau moins formel.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-3-2-q2",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Selon l’usage officiel, dans quel ordre arrive et repart la personnalité de rang le plus élevé ?",
+        "choices": [
+          "Elle arrive la première et repart la dernière",
+          "Elle arrive la dernière et repart la première",
+          "Elle arrive à la même heure que les autres",
+          "L’ordre n’a aucune importance"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Les invités sont en place avant elle, et ils attendent son départ pour quitter les lieux. C’est une marque de respect, et aussi une nécessité de sécurité et d’organisation.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-3-2-q3",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Il est mal vu de téléphoner au secrétariat pour poser une question sur la tenue à porter.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : ces services répondent quotidiennement à ces questions, et ils préfèrent vous renseigner. Demander est plus respectueux que de venir mal préparé.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-3-2-q4",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous croisez la préfète lors d’une réception. Quelle phrase convient le mieux ?",
+        "choices": [
+          "« Salut ! C’est vous la préfète ? »",
+          "« Bonsoir Madame la Préfète. Merci pour cette belle soirée. »",
+          "« Votre Excellence, permettez à votre humble serviteur de vous présenter ses hommages les plus respectueux. »",
+          "« Puisque je vous tiens, j’ai un dossier urgent à vous remettre. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le titre et un mot simple suffisent. L’excès de formules devient ridicule, la familiarité est déplacée, et la réception n’est pas le lieu d’une demande.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-3-2-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Que faut-il prévoir pour une réception officielle ? (plusieurs réponses)",
+        "choices": [
+          "Apporter le carton et une pièce d’identité si c’est demandé",
+          "Prévoir du temps pour les contrôles de sécurité",
+          "Remettre un dossier à une personnalité dans la ligne de réception",
+          "Garder une main libre pour saluer"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "Ces précautions facilitent votre venue et celle des autres. Remettre un dossier dans la ligne de réception la bloque, et met la personne dans l’embarras : on écrit ensuite.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Décret n° 89-655 du 13 septembre 1989",
+      "note": "Relatif aux cérémonies publiques, préséances, honneurs civils et militaires."
+    },
+    {
+      "author": "Jean Serres",
+      "title": "Manuel pratique de protocole",
+      "publisher": "Éditions de l’Arbre"
+    },
+    {
+      "author": "Académie française",
+      "title": "La féminisation des noms de métiers et de fonctions",
+      "year": "2019",
+      "note": "Rapport adopté en février 2019."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

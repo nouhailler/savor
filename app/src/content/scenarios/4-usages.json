@@ -1,0 +1,327 @@
+[
+  {
+    "id": "s-4-1",
+    "domainId": "usages",
+    "level": "beginner",
+    "title": "« On se tutoie ? »",
+    "description": "Votre nouvelle cheffe, de vingt ans votre cadette, vous propose le tutoiement. Vous préférez le vous.",
+    "context": "Premier entretien avec votre nouvelle responsable, Élodie, 32 ans. Vous avez 55 ans et trente ans de maison. Elle vous dit avec un grand sourire : « Ici, on se tutoie tous, ce sera plus simple ! » Vous avez toujours vouvoyé au travail, et vous y tenez.",
+    "characters": [
+      "Élodie, votre responsable"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-4-1-a",
+        "narrative": "",
+        "question": "Que répondez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Dans mes usages, on ne tutoie pas ses supérieurs, et surtout pas quand on a votre âge. »",
+            "score": 0,
+            "feedbackTitle": "Une limite légitime, un ton blessant.",
+            "feedback": "Vous pouvez garder le vous, mais la remarque sur son âge la met en cause. Votre relation commence sur une leçon."
+          },
+          {
+            "id": "b",
+            "label": "« Merci de me le proposer. J’ai gardé l’habitude du vous au travail : cela ne m’empêchera pas d’être très direct avec vous, si cela vous convient. »",
+            "score": 1,
+            "feedbackTitle": "Merci, habitude, ouverture.",
+            "feedback": "Vous présentez votre choix comme une habitude, et non comme un jugement sur elle, et vous la rassurez sur le fond : ce que vous refusez, c’est un pronom et non une collaboration."
+          },
+          {
+            "id": "c",
+            "label": "« D’accord ! » Puis vous évitez toute forme de pronom pendant des mois.",
+            "score": 0.5,
+            "feedbackTitle": "Une solution fatigante.",
+            "feedback": "Ce contournement est très fréquent, et il évite le conflit, mais vous en porterez la charge et il entretient une ambiguïté. Autant le dire une fois."
+          },
+          {
+            "id": "d",
+            "label": "Vous acceptez et vous la tutoyez, en vous sentant mal à l’aise.",
+            "score": 0.5,
+            "feedbackTitle": "Acceptable si cela reste supportable.",
+            "feedback": "S’adapter à la culture de l’entreprise est tout à fait légitime. Si le malaise persiste, vous pourrez toujours en reparler, mais revenir au vous sera plus délicat ensuite."
+          }
+        ]
+      }
+    ],
+    "rule": "Le tutoiement se propose, et l’on peut décliner sans offenser, en présentant son choix comme une habitude personnelle.",
+    "nuance": "Certaines entreprises font du tutoiement une part de leur culture. Il est utile de s’y adapter quand on le peut, mais aucune loi ne vous y oblige.",
+    "relatedLessonIds": [
+      "l-4-1-4"
+    ],
+    "tags": [
+      "tutoiement",
+      "vouvoiement",
+      "travail",
+      "générations"
+    ]
+  },
+  {
+    "id": "s-4-2",
+    "domainId": "usages",
+    "level": "intermediate",
+    "title": "Le mauvais bébé",
+    "description": "Vous félicitez une connaissance pour sa grossesse : elle n’est pas enceinte. Tout le groupe a entendu.",
+    "context": "Lors d’un cocktail, vous croisez Hélène, que vous n’avez pas vue depuis un an. Devant quatre personnes, vous vous exclamez en souriant : « Oh, félicitations ! C’est pour quand ? » Elle marque un temps : « Je ne suis pas enceinte. » Silence.",
+    "characters": [
+      "Hélène, une connaissance",
+      "Quatre autres invités"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-4-2-a",
+        "narrative": "",
+        "question": "Que dites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Ah, pardon ! C’est cette robe, elle fait un drôle d’effet. Vous avez l’air en pleine forme, sinon ! »",
+            "score": 0,
+            "feedbackTitle": "Vous creusez.",
+            "feedback": "En tentant de vous justifier, vous commentez encore plus son corps, et vous rejetez la faute sur sa tenue. La gêne s’étend."
+          },
+          {
+            "id": "b",
+            "label": "« Je suis vraiment désolé, Hélène, c’était très maladroit. » Puis, après un court silence : « Vous revenez de Lisbonne, m’a-t-on dit ? »",
+            "score": 1,
+            "feedbackTitle": "Bref, sincère, puis ailleurs.",
+            "feedback": "Une excuse, sans explication, et un changement de sujet qui lui rend la parole. Vous lui évitez d’avoir à vous rassurer, et le groupe peut reprendre."
+          },
+          {
+            "id": "c",
+            "label": "Vous éclatez de rire : « Oups ! Eh bien, mon sens de l’observation est au plus bas ! »",
+            "score": 0.5,
+            "feedbackTitle": "L’humour sur soi, mais à risque.",
+            "feedback": "Il y a une bonne idée : rire de soi plutôt que d’elle. Mais vous n’avez pas présenté d’excuse, et vous ne savez rien de ce que ce sujet peut représenter pour elle."
+          },
+          {
+            "id": "d",
+            "label": "Vous vous excusez longuement, et vous revenez sur le sujet à plusieurs reprises au cours de la soirée.",
+            "score": 0,
+            "feedbackTitle": "L’excuse devient un supplice.",
+            "feedback": "À chaque excuse, vous lui rappelez la scène, et vous l’obligez à vous consoler. Une seule suffit largement."
+          }
+        ]
+      }
+    ],
+    "rule": "On ne présume rien du corps d’autrui. Après un impair : une excuse brève, puis changer de sujet.",
+    "nuance": "Certaines personnes peuvent avoir subi une fausse couche, ou ne pas pouvoir avoir d’enfants, et aucune information visible ne vous le dira. C’est pourquoi on attend qu’une personne annonce elle-même sa grossesse.",
+    "relatedLessonIds": [
+      "l-4-2-7"
+    ],
+    "tags": [
+      "gaffe",
+      "grossesse",
+      "corps",
+      "réparer"
+    ]
+  },
+  {
+    "id": "s-4-3",
+    "domainId": "usages",
+    "level": "intermediate",
+    "title": "Fauteuil 14, rangée G",
+    "description": "Au théâtre, vous arrivez alors que la pièce a commencé, et votre place est au milieu d’une rangée.",
+    "context": "Un accident sur le périphérique : vous arrivez à l’opéra quatre minutes après le début du premier acte. Votre fauteuil se trouve au centre de la rangée G. Une ouvreuse vous attend à l’entrée de la salle.",
+    "characters": [
+      "Une ouvreuse",
+      "Les spectateurs de la rangée G"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-4-3-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous insistez pour entrer : vous avez payé, et votre place vous revient.",
+            "score": 0,
+            "feedbackTitle": "Votre droit n’efface pas celui des autres.",
+            "feedback": "Faire lever quinze personnes en plein acte gêne la salle et les artistes. Dans de nombreuses salles, le retardataire n’entre qu’à un moment prévu : le règlement s’applique."
+          },
+          {
+            "id": "b",
+            "label": "Vous suivez l’ouvreuse, attendez à l’endroit qu’elle indique, et vous rejoignez votre place à l’entracte, en remerciant les personnes qui se lèvent.",
+            "score": 1,
+            "feedbackTitle": "Accepter les conséquences de son retard.",
+            "feedback": "L’ouvreuse connaît les règles de la salle. Vous perdez quelques minutes, mais vous préservez le spectacle de tous. À l’entracte, vous retrouvez votre fauteuil sans gêner personne."
+          },
+          {
+            "id": "c",
+            "label": "Vous vous glissez dans la rangée, en vous excusant à voix haute auprès de chaque personne.",
+            "score": 0,
+            "feedbackTitle": "Le remède aggrave le mal.",
+            "feedback": "Passer devant quinze personnes au milieu d’une aria est déjà une gêne, et les excuses à voix haute la multiplient."
+          },
+          {
+            "id": "d",
+            "label": "Vous repartez, furieux, et vous demandez un remboursement.",
+            "score": 0,
+            "feedbackTitle": "Un soir gâché.",
+            "feedback": "Le retard est de votre côté, même s’il n’est pas de votre faute, et le théâtre n’a rien à se reprocher. L’ouvreuse pourra sans doute vous faire entrer à l’entracte."
+          }
+        ]
+      }
+    ],
+    "rule": "Le retardataire n’impose pas son retard à la salle : les artistes et le public passent avant lui.",
+    "nuance": "Certaines salles proposent des places en fond de parterre pour les retardataires. Si vous passez dans une rangée, on le fait face aux personnes assises, et l’on remercie à voix basse.",
+    "relatedLessonIds": [
+      "l-4-2-4"
+    ],
+    "tags": [
+      "théâtre",
+      "opéra",
+      "retard"
+    ]
+  },
+  {
+    "id": "s-4-4",
+    "domainId": "usages",
+    "level": "advanced",
+    "title": "La préfète et le plan de table",
+    "description": "Vous organisez un dîner officiel, et un élu arrivé en retard refuse sa place.",
+    "context": "Vous dirigez une association qui reçoit pour son centenaire. Vous avez établi le plan de table avec l’aide des services de la préfecture : la préfète à la droite de votre présidente, le maire à sa gauche. Le député de la circonscription, arrivé en retard, découvre qu’il est placé en bout de table, et vous interpelle, assez fort : « Il y a sûrement une erreur. »",
+    "characters": [
+      "Le député",
+      "La préfète",
+      "La présidente de l’association"
+    ],
+    "estimatedDuration": 5,
+    "steps": [
+      {
+        "id": "s-4-4-a",
+        "narrative": "",
+        "question": "Que répondez-vous au député ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Le protocole est très clair : ce sont les règles. Vous n’aviez qu’à prévenir que vous veniez. »",
+            "score": 0,
+            "nextStepId": "s-4-4-b",
+            "feedbackTitle": "Vous avez peut-être raison, mais…",
+            "feedback": "Le ton cherche à donner une leçon à un élu devant témoins. Votre rigueur devient une humiliation, et vous allez le braquer pour le reste de la soirée."
+          },
+          {
+            "id": "b",
+            "label": "« Monsieur le député, je vous prie de m’excuser, et je suis très honoré de votre présence. Puis-je vous parler un instant, à l’écart ? »",
+            "score": 1,
+            "nextStepId": "s-4-4-c",
+            "feedbackTitle": "Le privé, et le respect de la fonction.",
+            "feedback": "Vous reconnaissez sa fonction, sans céder sur le fond pour l’instant, et vous retirez l’échange du regard des convives. C’est ainsi qu’une telle question peut se régler."
+          },
+          {
+            "id": "c",
+            "label": "Vous déplacez immédiatement la préfète pour lui donner sa place.",
+            "score": 0,
+            "nextStepId": "s-4-4-d",
+            "feedbackTitle": "Une nouvelle offense, plus grave.",
+            "feedback": "Déplacer une personne déjà installée, qui plus est la représentante de l’État, crée un second incident. Une telle décision ne s’improvise pas sous la pression."
+          }
+        ]
+      },
+      {
+        "id": "s-4-4-b",
+        "narrative": "Le député répond, piqué : « Je ne vous permets pas. » Quelques convives se retournent. La présidente vous regarde.",
+        "question": "Comment rattrapez-vous cela ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Vous avez raison, je me suis mal exprimé, et je vous présente mes excuses. Puis-je vous proposer une solution, à part ? »",
+            "score": 1,
+            "feedbackTitle": "Se reprendre tout de suite.",
+            "feedback": "Vous excusez votre forme, et vous rétablissez l’échange en privé. Personne n’a perdu la face de façon durable, et vous pouvez chercher une place appropriée."
+          },
+          {
+            "id": "b",
+            "label": "« Le décret de 1989 est formel. Je peux vous l’apporter. »",
+            "score": 0,
+            "feedbackTitle": "Le texte n’est pas ici le sujet.",
+            "feedback": "Citer un décret à table enfonce le clou. D’ailleurs, ce texte s’applique aux cérémonies publiques officielles : pour une association privée, il sert seulement de repère."
+          },
+          {
+            "id": "c",
+            "label": "Vous l’ignorez et vous allez saluer d’autres personnes.",
+            "score": 0,
+            "feedbackTitle": "Le conflit restera dans la salle.",
+            "feedback": "Un élu vexé restant debout au milieu d’une salle n’a rien d’une situation qui se résout seule, et cette fuite aggrave l’offense."
+          }
+        ]
+      },
+      {
+        "id": "s-4-4-c",
+        "narrative": "À l’écart, le député insiste : « Je représente la circonscription, je dois être à la table d’honneur. » Vous avez vérifié votre plan : sa place n’avait pas été prévue, car il n’avait pas répondu à l’invitation. Vous pouvez ajouter un couvert à la table d’honneur en vous serrant un peu.",
+        "question": "Que lui proposez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Nous allons vous ajouter un couvert à la table d’honneur, à côté de Monsieur le maire. Nous nous serrerons un peu, et je vous remercie d’avoir pu nous rejoindre. »",
+            "score": 1,
+            "feedbackTitle": "Une issue honorable pour tous.",
+            "feedback": "La solution reconnaît sa fonction sans déplacer personne, et vous lui épargnez un rappel de sa non-réponse. Le protocole n’est pas un but en soi : il sert à éviter les conflits."
+          },
+          {
+            "id": "b",
+            "label": "« Vous n’aviez pas répondu : je n’y peux rien. »",
+            "score": 0,
+            "feedbackTitle": "Un fait exact, mais qui clôt tout.",
+            "feedback": "C’est vrai, mais ce rappel lui fait perdre la face et ne résout rien. Vous pourrez, plus tard, améliorer le suivi des réponses."
+          },
+          {
+            "id": "c",
+            "label": "Vous lui proposez de partager la place de la présidente.",
+            "score": 0,
+            "feedbackTitle": "Vous sacrifiez la personne qui reçoit.",
+            "feedback": "La présidente est l’hôte de cette soirée. Lui retirer sa place reviendrait à désorganiser toute la table et à inverser les rôles."
+          }
+        ]
+      },
+      {
+        "id": "s-4-4-d",
+        "narrative": "La préfète, surprise, se lève avec une courtoisie glaciale. Autour d’elle, plusieurs personnes observent. Le député s’installe, gêné lui aussi.",
+        "question": "Comment réparer ce que vous venez de faire ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous présentez discrètement vos excuses à la préfète, vous la replacez à la droite de la présidente, et vous ajoutez un couvert pour le député.",
+            "score": 1,
+            "feedbackTitle": "Revenir à une solution juste.",
+            "feedback": "Il vaut mieux un second mouvement que de laisser la représentante de l’État déplacée. Vous l’assumez en vous excusant, et le député trouve une place d’honneur sans prendre celle d’un autre."
+          },
+          {
+            "id": "b",
+            "label": "Vous laissez les choses en l’état pour éviter de nouveaux mouvements.",
+            "score": 0,
+            "feedbackTitle": "L’erreur s’installe.",
+            "feedback": "La préfète a été déplacée sans raison valable. Cette décision peut avoir des conséquences durables sur les relations de votre association avec les services de l’État."
+          },
+          {
+            "id": "c",
+            "label": "Vous expliquez à voix haute que c’est le député qui l’a exigé.",
+            "score": 0,
+            "feedbackTitle": "Vous chargez un autre.",
+            "feedback": "Rejeter la faute en public transforme l’incident en conflit ouvert. C’est vous qui organisez : la responsabilité vous revient."
+          }
+        ]
+      }
+    ],
+    "rule": "Le protocole sert à éviter les conflits : quand un incident survient, on en parle en privé et l’on cherche une issue qui ne fait perdre la face à personne.",
+    "nuance": "Le décret n° 89-655 du 13 septembre 1989 règle les préséances lors des cérémonies publiques en France. Pour une réception privée, il constitue un repère, non une obligation : il est prudent de consulter le service du protocole de la préfecture.",
+    "relatedLessonIds": [
+      "l-4-3-1",
+      "l-4-2-2",
+      "l-5-3-3"
+    ],
+    "tags": [
+      "protocole",
+      "préséance",
+      "placement",
+      "élu"
+    ]
+  }
+]

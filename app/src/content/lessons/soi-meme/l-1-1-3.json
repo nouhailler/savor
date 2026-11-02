@@ -1,0 +1,317 @@
+{
+  "id": "l-1-1-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Une présentation soignée ne coûte presque rien et dit beaucoup : propreté, entretien, détails, adaptation au lieu. Ce qui compte vraiment, et ce qu’il ne faut pas juger chez les autres.",
+  "estimatedDuration": 10,
+  "tags": [
+    "présentation",
+    "hygiène",
+    "entretien",
+    "tenue",
+    "détails",
+    "parfum",
+    "apparence"
+  ],
+  "objectives": [
+    "Distinguer le soin de son apparence de la recherche de l’effet.",
+    "Repérer les détails qui comptent : propreté, entretien, odeurs.",
+    "Adapter sa présentation au lieu et aux personnes.",
+    "Aborder avec tact un problème de présentation chez un proche ou un collègue."
+  ],
+  "introduction": "Nous nous formons une première impression de quelqu’un en quelques secondes, et elle résiste longtemps à ce que nous apprenons ensuite. C’est injuste, mais c’est ainsi. Cette réalité n’oblige pas à se conformer à un modèle ou à dépenser beaucoup : les éléments qui comptent le plus sont aussi les moins coûteux.\n\nSe présenter avec soin ne signifie pas chercher à plaire. C’est une manière de dire à ceux que l’on rencontre qu’on a pris la peine de se préparer pour eux. Cette leçon passe en revue l’essentiel, et rappelle une limite importante : on soigne sa propre apparence, on ne juge pas celle des autres.",
+  "sections": [
+    {
+      "title": "La propreté avant tout",
+      "content": "Le premier élément d’une bonne présentation n’a rien à voir avec la mode. Un corps et des vêtements propres, des cheveux entretenus, des ongles nets, une haleine fraîche suffisent à faire d’une personne simplement vêtue quelqu’un d’agréable à côtoyer. À l’inverse, le plus beau costume ne compense pas une odeur de transpiration ou un col douteux. Dans un espace partagé, comme un bureau ou une voiture, l’hygiène est une forme directe de considération pour autrui.\n\nLes odeurs méritent une attention particulière, car on ne perçoit plus les siennes. Le tabac froid, l’ail de la veille, un vêtement mal séché ou une pièce non aérée s’imposent aux autres sans qu’on s’en rende compte. Le parfum relève de la même logique : il doit se découvrir à proximité, et non annoncer votre arrivée. Dans une salle de réunion, un ascenseur ou un hôpital, certaines personnes y sont allergiques ou très sensibles. Une dose légère, ou aucune, convient toujours.\n\nCes exigences ne doivent toutefois jamais devenir un jugement moral sur autrui. L’accès à l’eau, à une douche ou à un lave-linge n’est pas garanti à tout le monde. Une maladie, une dépression ou un traitement médical peuvent aussi modifier l’odeur corporelle ou l’énergie disponible pour ces soins."
+    },
+    {
+      "title": "L’entretien et les détails",
+      "content": "Une tenue modeste et bien entretenue vaut mieux qu’une pièce chère et négligée. Un bouton recousu, un vêtement repassé, des chaussures propres, une bretelle réparée : ces détails montrent que l’on prend soin de ce que l’on a, et ils coûtent surtout un peu de temps. Le regard s’arrête souvent à ce qui dépasse, à ce qui est tâché ou usé. On peut prendre l’habitude de préparer ses vêtements la veille, et de vérifier sa tenue dans un miroir avant de sortir.\n\nLes accessoires font partie de cette attention : un sac qui ne déborde pas, un parapluie en état, une paire de lunettes propre. Le téléphone, lui-même devenu un élément de la présentation, ne devrait pas rester à la main pendant une conversation. Rien de tout cela ne suppose de luxe : on trouve de très beaux vêtements d’occasion, et un cordonnier ou une couturière peuvent redonner vie à des pièces anciennes pour une somme modeste.\n\nLe soin du visage et des cheveux relève du choix de chacun : barbe taillée ou non, maquillage ou non, cheveux gris assumés ou colorés. Aucune règle n’impose à une femme de se maquiller ou à un homme de se raser. Le fil directeur est simple : ce que vous portez semble avoir été choisi, et non subi."
+    },
+    {
+      "title": "S’adapter aux circonstances",
+      "content": "La tenue envoie un message aux personnes qui nous reçoivent. Se présenter en jogging à un entretien, c’est signifier le peu d’importance qu’on y accorde, même si ce n’est pas ce que l’on pense. Arriver en costume dans un atelier d’artisans peut, inversement, créer une distance involontaire. La bonne question est : qu’attendent raisonnablement les personnes qui seront là, et quel effort les honorera ?\n\nLa vie quotidienne reste le plus grand terrain d’exercice. Sortir chercher le pain n’appelle aucune tenue particulière, à condition de rester propre et correctement couvert. En télétravail, s’habiller reste utile pour soi, et pour une éventuelle visioconférence. Dans un lieu de culte, un tribunal, un hôpital ou un musée, certains usages s’imposent : se couvrir les épaules, retirer sa casquette ou son manteau de ski.\n\nEn cas de doute, le plus simple est de demander, ou de choisir un cran au-dessus de ce que l’on suppose, en se réservant la possibilité de retirer une veste. Si vous vous êtes trompé, assumez-le. Une phrase légère, une seule, suffit, et votre aisance fera oublier la tenue."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-1-3-r1",
+      "title": "La propreté prime sur tout le reste.",
+      "description": "Corps, vêtements, haleine et mains propres constituent la base de toute présentation, quel que soit son budget.",
+      "rationale": "Elle concerne directement ceux qui partagent notre espace : elle est la première forme de considération physique.",
+      "context": "Travail, transports, repas, soins, toute rencontre.",
+      "recommendedBehavior": "Une douche quotidienne quand c’est possible, des vêtements propres, de l’eau ou un chewing-gum avant un rendez-vous, et un sac de secours pour les longues journées.",
+      "exceptions": [
+        "Sport, chantier, voyage : on comprend la situation et l’on se rafraîchit dès que possible.",
+        "Maladie, précarité ou absence d’accès à l’eau : la question n’a plus rien de moral."
+      ],
+      "remedy": "Si vous vous rendez compte d’un oubli (haleine, transpiration), gardez vos distances, et réglez le problème dès que possible.",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-1-1-3-r2",
+      "title": "Le parfum se découvre, il ne s’annonce pas.",
+      "description": "Une odeur portée ne doit pas être perceptible à plus d’un bras de distance, et l’on s’en abstient dans les espaces fermés sensibles.",
+      "rationale": "Une odeur s’impose à tous sans que l’on puisse s’y soustraire, et certaines personnes y réagissent par des maux de tête ou des allergies.",
+      "context": "Bureaux, transports, hôpitaux, repas gastronomiques.",
+      "recommendedBehavior": "Une petite quantité, sur la peau plutôt que sur les vêtements. Aucun parfum avant une visite à l’hôpital, ni avant un repas où les arômes comptent.",
+      "exceptions": [
+        "Dans certaines cultures, notamment au Moyen-Orient, le parfum est très présent et il fait partie de l’hospitalité."
+      ],
+      "remedy": "Si l’on vous signale une gêne : « Merci de me le dire », et adaptez-vous dès le lendemain.",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-1-3-r3",
+      "title": "L’entretien compte plus que le prix.",
+      "description": "Un vêtement simple, propre, repassé et réparé témoigne de plus de soin qu’une pièce chère et négligée.",
+      "rationale": "Le soin porté aux choses se voit, et il ne dépend pas des moyens.",
+      "context": "Vie quotidienne et professionnelle.",
+      "recommendedBehavior": "Préparez vos vêtements la veille, cirez vos chaussures et réparez dès qu’un bouton saute.",
+      "exceptions": [],
+      "remedy": "Une tache en pleine journée : on la mentionne une fois, ou pas du tout, et l’on passe à autre chose.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-1-3-r4",
+      "title": "On adapte sa tenue au lieu et aux personnes.",
+      "description": "Avant une occasion, on se demande quel effort honorera ceux qui reçoivent, sans chercher à les dominer ni à les négliger.",
+      "rationale": "La tenue parle pour nous avant toute parole. Elle dit ce que nous pensons de l’occasion, même si nous ne le voulons pas.",
+      "context": "Entretiens, cérémonies, lieux de culte, tribunaux, visites professionnelles.",
+      "recommendedBehavior": "Renseignez-vous sur le ton de l’événement. Dans le doute, choisissez un cran au-dessus, avec une pièce à retirer.",
+      "exceptions": [
+        "Une tenue religieuse, culturelle ou liée à un handicap n’a pas à se plier à ces repères."
+      ],
+      "remedy": "Une phrase légère, une seule : « Je me suis trompé de registre, mais je suis ravi d’être là. »",
+      "conventionType": "contextual_rule",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-1-1-3-r5",
+      "title": "On ne commente pas l’apparence d’autrui.",
+      "description": "Le poids, les cheveux, le maquillage, l’âge apparent ou la tenue d’une personne ne font pas l’objet de remarques, sauf demande de sa part.",
+      "rationale": "Même flatteur, un commentaire sur le corps rappelle à la personne qu’elle est évaluée. Il peut aussi toucher à une maladie ou à une difficulté.",
+      "context": "Travail, famille, vie sociale.",
+      "recommendedBehavior": "Si un compliment vous vient, portez-le sur un choix (« Cette veste te va bien ») plutôt que sur le corps. Si un problème d’hygiène pose vraiment question, parlez-en en privé.",
+      "exceptions": [
+        "Une personne vous demande votre avis : répondez avec tact.",
+        "Un élément facile à corriger (une étiquette qui dépasse, une tache) se signale discrètement."
+      ],
+      "remedy": "« Ma remarque était déplacée, excuse-moi. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Les psychologues parlent d’effet de halo : une impression favorable sur un point se transmet au reste du jugement, et une personne bien présentée paraît souvent plus compétente, à tort ou à raison. Erving Goffman a décrit la façade que chacun présente aux autres, et qui inclut la tenue, comme une part ordinaire de la vie sociale. Il ne s’agit pas de mensonge, mais d’une manière de dire qui l’on est dans une situation donnée.\n\nCette réalité peut être injuste, et il faut le rappeler. Elle favorise ceux qui maîtrisent les codes, et l’apparence reste plus scrutée pour les femmes que pour les hommes. En France, la loi interdit d’ailleurs de discriminer quelqu’un à cause de son apparence physique (Code pénal, article 225-1). L’enjeu d’une telle leçon n’est donc pas d’imposer une norme : il est de connaître l’effet de ce que l’on porte, de choisir en connaissance de cause, et de ne pas juger les autres selon ces mêmes critères.",
+  "examples": [
+    {
+      "context": "Avant un entretien d’embauche, avec un budget limité",
+      "behavior": "Vous choisissez une tenue simple, que vous lavez et repassez la veille. Vous nettoyez vos chaussures, vous vérifiez vos ongles, et vous évitez tout parfum.",
+      "explanation": "Rien de tout cela ne coûte cher, et tout est remarqué. Un recruteur se souvient mieux d’une tenue soignée que d’une marque."
+    },
+    {
+      "context": "Vous remarquez une tache sur le col de votre collègue avant une réunion",
+      "behavior": "Vous lui dites discrètement à part : « Tu as un petit quelque chose sur le col, côté gauche. »",
+      "explanation": "Un élément facile à corriger se signale, en privé et avant qu’il ne soit trop tard. C’est un service, et non une critique."
+    },
+    {
+      "context": "Vous passez d’un chantier à un dîner chez des amis",
+      "behavior": "Vous gardez dans votre voiture une chemise propre et des lingettes, ou vous prévenez : « J’arrive directement du travail : tu me laisses cinq minutes pour me changer ? »",
+      "explanation": "Vos hôtes ne vous en voudront pas, et ce souci même est une marque de respect."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Dans un open space",
+      "behavior": "Se parfumer abondamment le matin même, plusieurs fois par jour.",
+      "consequences": "Vos voisins peuvent avoir des maux de tête, sans oser vous le dire.",
+      "alternative": "Une légère touche à la maison, puis plus rien de la journée."
+    },
+    {
+      "situation": "Devant la tenue d’une collègue",
+      "behavior": "« Tu as maigri, ça te va bien ! Tu étais un peu forte, avant. »",
+      "consequences": "Le compliment souligne que l’on observait son corps. Elle peut aussi être malade, ou souffrir d’un trouble alimentaire.",
+      "alternative": "« Tu as l’air en forme ! Comment vas-tu ? » Ou rien du tout."
+    },
+    {
+      "situation": "Aux obsèques d’une connaissance",
+      "behavior": "Arriver en bermuda et en tongs, parce que « c’est ce qui compte à l’intérieur qui compte ».",
+      "consequences": "La famille y voit le peu d’importance que vous accordez au moment, même si vous êtes sincèrement touché.",
+      "alternative": "Une tenue simple et sobre. Il n’est pas nécessaire de porter du noir ou de s’acheter quoi que ce soit."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Genre et apparence.",
+      "text": "Les attentes sont plus fortes pour les femmes : maquillage, talons, coiffure. Aucune de ces exigences n’est une règle du savoir-vivre. Le critère reste le même pour tous : être propre, soigné et adapté à l’occasion, avec la liberté de le faire à sa façon."
+    },
+    {
+      "title": "Différences culturelles.",
+      "text": "Le voile, le turban, la kippa, les tresses ou le maquillage sont des choix culturels ou religieux, et n’ont rien à voir avec un manque de soin. Certaines entreprises peuvent avoir des règles, encadrées par le droit. Il faut distinguer une question de présentation d’une question de discrimination."
+    },
+    {
+      "title": "Parler d’un problème d’hygiène à quelqu’un.",
+      "text": "C’est l’une des conversations les plus délicates. Il faut une raison réelle, et le faire seul à seul, en quelques mots, sans témoin ni allusion : « Je préfère te le dire, parce que je pense que personne d’autre ne le fera. » Un responsable peut solliciter le médecin du travail. Et l’on ne plaisante jamais sur le sujet en public."
+    }
+  ],
+  "contexts": [
+    "Entretien ou première rencontre : netteté, sobriété et aucun parfum.",
+    "Vie de bureau : hygiène soignée, tenue adaptée à la culture de l’entreprise.",
+    "Lieux de culte et cérémonies : respect des usages, épaules couvertes s’il le faut.",
+    "Télétravail : tenue suffisante pour la caméra, et pour soi-même."
+  ],
+  "keyPoints": [
+    "La propreté et l’entretien comptent bien plus que le prix.",
+    "Le parfum se découvre à proximité, il ne s’annonce pas.",
+    "La tenue dit ce que vous pensez de l’occasion : adaptez-la.",
+    "On soigne son apparence, et on ne commente pas celle des autres."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Adapter sa présentation",
+    "instructions": "Associez chaque situation au geste de présentation le plus adapté.",
+    "pairs": [
+      {
+        "left": "Visite à un proche à l’hôpital",
+        "right": "Aucun parfum, tenue simple et propre"
+      },
+      {
+        "left": "Entretien dans un atelier d’artisanat",
+        "right": "Tenue nette et sobre, sans costume ostentatoire"
+      },
+      {
+        "left": "Visite d’une église ou d’une mosquée",
+        "right": "Épaules et genoux couverts, selon les usages du lieu"
+      },
+      {
+        "left": "Dîner après une journée de chantier",
+        "right": "Prévoir une chemise propre et se rafraîchir en arrivant"
+      },
+      {
+        "left": "Réunion en visioconférence à domicile",
+        "right": "Haut soigné et arrière-plan rangé"
+      }
+    ],
+    "explanation": "Le principe reste constant : se demander ce que l’occasion demande à ceux qui sont là. Ce sont le soin et l’adaptation qui comptent, jamais le prix."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-1-1-3-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quel est l’élément le plus important d’une bonne présentation ?",
+        "choices": [
+          "Le prix des vêtements",
+          "La propreté et l’entretien",
+          "Le respect de la dernière mode",
+          "Le port d’un parfum de qualité"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "La propreté concerne directement ceux qui partagent notre espace, et l’entretien montre du soin. Le prix et la mode n’ont pas de rapport nécessaire avec l’impression produite. Le parfum, lui, reste facultatif.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-3-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Le savoir-vivre impose à une femme d’être maquillée dans un cadre professionnel.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : aucune règle de savoir-vivre ne l’impose, et l’on veille à ne pas assigner de normes selon le genre. Le critère est le même pour tous : être propre, soigné et adapté à l’occasion.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-3-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Laquelle de ces phrases est maladroite, même si elle se veut aimable ?",
+        "choices": [
+          "« Cette veste te va très bien. »",
+          "« Tu as un peu de sauce sur le col, côté gauche » (en privé)",
+          "« Tu as maigri ! Tu étais un peu forte, avant. »",
+          "« Comment vas-tu ? »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Même flatteur, ce commentaire évalue le corps et peut toucher une maladie ou un trouble alimentaire. Signaler une tache discrètement rend service, et complimenter un choix de vêtement reste sans danger.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-3-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que désigne l’effet de halo ?",
+        "choices": [
+          "Le fait qu’une impression favorable sur un point se transmet au reste du jugement",
+          "La lumière flatteuse d’une pièce, qui modifie l’impression que l’on donne",
+          "L’obligation de porter un vêtement clair lors d’un premier rendez-vous",
+          "Un maquillage particulier"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Une personne bien présentée peut ainsi paraître plus compétente, sans raison. Connaître ce biais aide à soigner sa propre image et à se méfier de ses propres jugements.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-1-3-q5",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Un collègue a un problème d’odeur persistant, qui gêne l’équipe. Comment procéder ?",
+        "choices": [
+          "En faire une plaisanterie à la cantine, pour qu’il comprenne",
+          "Déposer un déodorant sur son bureau, anonymement",
+          "Lui en parler seul à seul, brièvement, et sans témoin",
+          "En parler autour de vous pour voir si les autres sont d’accord"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Une conversation privée et brève préserve sa dignité. Les allusions, les plaisanteries et les gestes anonymes l’humilient sans l’aider, d’autant que la cause peut être médicale.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Erving Goffman",
+      "title": "La Mise en scène de la vie quotidienne",
+      "publisher": "Éditions de Minuit",
+      "year": "1973"
+    },
+    {
+      "title": "Code pénal, article 225-1",
+      "note": "L’apparence physique figure parmi les critères de discrimination prohibés."
+    },
+    {
+      "author": "Norbert Elias",
+      "title": "La Civilisation des mœurs",
+      "publisher": "Calmann-Lévy",
+      "year": "1973",
+      "note": "Sur l’histoire de la propreté et de la pudeur."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

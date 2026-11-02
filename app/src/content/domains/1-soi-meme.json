@@ -1,0 +1,250 @@
+{
+  "id": "soi-meme",
+  "slug": "soi-meme",
+  "number": 1,
+  "title": "Savoir-vivre avec soi-même",
+  "shortTitle": "Soi-même",
+  "description": "Présentation, tenue, maintien, confiance : l’élégance commence par la manière dont on se traite soi-même.",
+  "objective": "Développer le respect de soi, la présentation personnelle, l'élégance, le maintien et la confiance en soi.",
+  "icon": "UserCircle",
+  "order": 1,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Les fondamentaux de la présentation personnelle",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "Développer son élégance",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "L'art de l'élégance personnelle",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-1-1-1",
+      "number": "1.1.1",
+      "level": "beginner",
+      "title": "Le respect de soi",
+      "topics": [
+        "Respect de sa personne",
+        "Dignité personnelle",
+        "Estime de soi",
+        "Attention portée à son environnement",
+        "Respect de son corps et de son intimité"
+      ]
+    },
+    {
+      "id": "l-1-1-2",
+      "number": "1.1.2",
+      "level": "beginner",
+      "title": "L'hygiène personnelle",
+      "topics": [
+        "Hygiène quotidienne",
+        "Propreté corporelle",
+        "Soin des cheveux",
+        "Soin des mains et des ongles",
+        "Hygiène bucco-dentaire",
+        "Discrétion dans l'utilisation des parfums"
+      ]
+    },
+    {
+      "id": "l-1-1-3",
+      "number": "1.1.3",
+      "level": "beginner",
+      "title": "La présentation générale",
+      "topics": [
+        "Soigner son apparence",
+        "Adapter sa présentation aux circonstances",
+        "Propreté et entretien des vêtements",
+        "Importance des détails",
+        "Présentation dans la vie quotidienne"
+      ]
+    },
+    {
+      "id": "l-1-1-4",
+      "number": "1.1.4",
+      "level": "beginner",
+      "title": "Les bases de l'élégance vestimentaire",
+      "topics": [
+        "Choisir des vêtements adaptés",
+        "Comprendre les harmonies de couleurs",
+        "Associer les vêtements",
+        "Éviter les excès",
+        "Privilégier une tenue soignée"
+      ]
+    },
+    {
+      "id": "l-1-1-5",
+      "number": "1.1.5",
+      "level": "beginner",
+      "title": "Le maintien et la posture",
+      "topics": [
+        "Se tenir correctement",
+        "Marcher avec aisance",
+        "S'asseoir avec élégance",
+        "Adopter une posture naturelle",
+        "Éviter les attitudes gênantes"
+      ]
+    },
+    {
+      "id": "l-1-1-6",
+      "number": "1.1.6",
+      "level": "beginner",
+      "title": "La confiance en soi",
+      "topics": [
+        "Développer une présence naturelle",
+        "Maîtriser sa timidité",
+        "Savoir se présenter",
+        "Éviter l'arrogance",
+        "Développer une attitude positive"
+      ]
+    },
+    {
+      "id": "l-1-2-1",
+      "number": "1.2.1",
+      "level": "intermediate",
+      "title": "Comprendre les styles vestimentaires",
+      "topics": [
+        "Tenue décontractée soignée",
+        "Tenue professionnelle",
+        "Tenue de soirée",
+        "Tenue de cérémonie",
+        "Tenue adaptée aux saisons"
+      ]
+    },
+    {
+      "id": "l-1-2-2",
+      "number": "1.2.2",
+      "level": "intermediate",
+      "title": "L'élégance au quotidien",
+      "topics": [
+        "Élégance sans ostentation",
+        "Choix des accessoires",
+        "Harmonie générale",
+        "Importance de la simplicité",
+        "Cohérence entre tenue et circonstances"
+      ]
+    },
+    {
+      "id": "l-1-2-3",
+      "number": "1.2.3",
+      "level": "intermediate",
+      "title": "Le langage corporel",
+      "topics": [
+        "Regard",
+        "Gestuelle",
+        "Expressions du visage",
+        "Sourire",
+        "Distance physique",
+        "Attitude pendant une conversation"
+      ]
+    },
+    {
+      "id": "l-1-2-4",
+      "number": "1.2.4",
+      "level": "intermediate",
+      "title": "La maîtrise de son image",
+      "topics": [
+        "Image personnelle",
+        "Présence en public",
+        "Adaptation à différents environnements",
+        "Cohérence entre apparence et comportement"
+      ]
+    },
+    {
+      "id": "l-1-2-5",
+      "number": "1.2.5",
+      "level": "intermediate",
+      "title": "L'élégance masculine et féminine",
+      "topics": [
+        "Histoire des codes vestimentaires",
+        "Évolution des styles",
+        "Tenues traditionnelles et contemporaines",
+        "Différences de conventions selon les événements"
+      ]
+    },
+    {
+      "id": "l-1-2-6",
+      "number": "1.2.6",
+      "level": "intermediate",
+      "title": "Le soin de son environnement personnel",
+      "topics": [
+        "Organisation de son domicile",
+        "Accueil de ses visiteurs",
+        "Présentation de son intérieur",
+        "Ordre et harmonie"
+      ]
+    },
+    {
+      "id": "l-1-3-1",
+      "number": "1.3.1",
+      "level": "advanced",
+      "title": "L'élégance comme art de vivre",
+      "topics": [
+        "Élégance intérieure et extérieure",
+        "Sobriété",
+        "Mesure",
+        "Raffinement",
+        "Naturel"
+      ]
+    },
+    {
+      "id": "l-1-3-2",
+      "number": "1.3.2",
+      "level": "advanced",
+      "title": "L'art de se présenter dans les circonstances formelles",
+      "topics": [
+        "Réceptions officielles",
+        "Dîners de prestige",
+        "Événements professionnels",
+        "Cérémonies",
+        "Tenues de circonstance"
+      ]
+    },
+    {
+      "id": "l-1-3-3",
+      "number": "1.3.3",
+      "level": "advanced",
+      "title": "La présence et le charisme",
+      "topics": [
+        "Assurance",
+        "Écoute",
+        "Maîtrise de soi",
+        "Attitude en groupe",
+        "Présence sans domination"
+      ]
+    },
+    {
+      "id": "l-1-3-4",
+      "number": "1.3.4",
+      "level": "advanced",
+      "title": "Les codes de l'élégance à travers les époques",
+      "topics": [
+        "Évolution des codes",
+        "Traditions vestimentaires",
+        "Influence des milieux sociaux",
+        "Transformation des conventions"
+      ]
+    },
+    {
+      "id": "l-1-3-5",
+      "number": "1.3.5",
+      "level": "advanced",
+      "title": "L'élégance sans ostentation",
+      "topics": [
+        "Discrétion",
+        "Mesure",
+        "Respect des autres",
+        "Absence de jugement",
+        "Adaptation à son environnement"
+      ]
+    }
+  ]
+}

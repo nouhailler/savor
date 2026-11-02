@@ -1,0 +1,263 @@
+{
+  "id": "voyager",
+  "slug": "voyager",
+  "number": 7,
+  "title": "Savoir voyager",
+  "shortTitle": "Voyager",
+  "description": "Train, avion, hôtel, location, chez l’habitant : rester un voyageur que l’on est heureux de croiser.",
+  "objective": "Développer les comportements appropriés lors des déplacements, des séjours et des voyages, en tenant compte des autres voyageurs, du personnel et des populations rencontrées.",
+  "icon": "SuitcaseRolling",
+  "order": 7,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Les bases du voyage",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "Le savoir-vivre en déplacement",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "Le voyageur averti",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-7-1-1",
+      "number": "7.1.1",
+      "level": "beginner",
+      "title": "Préparer son voyage",
+      "topics": [
+        "Organisation",
+        "Documents",
+        "Réservations",
+        "Bagages",
+        "Ponctualité"
+      ]
+    },
+    {
+      "id": "l-7-1-2",
+      "number": "7.1.2",
+      "level": "beginner",
+      "title": "Faire ses bagages",
+      "topics": [
+        "Choisir ses vêtements",
+        "Préparer une liste",
+        "Organiser ses effets personnels",
+        "Adapter les bagages au séjour"
+      ]
+    },
+    {
+      "id": "l-7-1-3",
+      "number": "7.1.3",
+      "level": "beginner",
+      "title": "Voyager en voiture",
+      "topics": [
+        "Respect du conducteur",
+        "Comportement du passager",
+        "Partage de l'espace",
+        "Propreté",
+        "Sécurité"
+      ]
+    },
+    {
+      "id": "l-7-1-4",
+      "number": "7.1.4",
+      "level": "beginner",
+      "title": "Voyager en train",
+      "topics": [
+        "Respect du calme",
+        "Téléphone",
+        "Bagages",
+        "Places",
+        "Relations avec les autres voyageurs"
+      ]
+    },
+    {
+      "id": "l-7-1-5",
+      "number": "7.1.5",
+      "level": "beginner",
+      "title": "Voyager en avion",
+      "topics": [
+        "Enregistrement",
+        "Embarquement",
+        "Bagages",
+        "Comportement à bord",
+        "Respect du personnel"
+      ]
+    },
+    {
+      "id": "l-7-1-6",
+      "number": "7.1.6",
+      "level": "beginner",
+      "title": "Le séjour à l'hôtel",
+      "topics": [
+        "Arrivée",
+        "Personnel",
+        "Chambre",
+        "Espaces communs",
+        "Départ"
+      ]
+    },
+    {
+      "id": "l-7-2-1",
+      "number": "7.2.1",
+      "level": "intermediate",
+      "title": "Voyager en autocar et en transports collectifs",
+      "topics": [
+        "Respect des autres",
+        "Bruit",
+        "Bagages",
+        "Places",
+        "Relations avec le personnel"
+      ]
+    },
+    {
+      "id": "l-7-2-2",
+      "number": "7.2.2",
+      "level": "intermediate",
+      "title": "Voyager à moto",
+      "topics": [
+        "Organisation",
+        "Comportement en groupe",
+        "Respect des autres usagers",
+        "Sécurité"
+      ]
+    },
+    {
+      "id": "l-7-2-3",
+      "number": "7.2.3",
+      "level": "intermediate",
+      "title": "Voyager en bateau",
+      "topics": [
+        "Embarquement",
+        "Vie à bord",
+        "Espaces communs",
+        "Relations avec l'équipage",
+        "Règles de courtoisie"
+      ]
+    },
+    {
+      "id": "l-7-2-4",
+      "number": "7.2.4",
+      "level": "intermediate",
+      "title": "Séjourner dans une location",
+      "topics": [
+        "Arrivée",
+        "État des lieux",
+        "Respect du logement",
+        "Voisinage",
+        "Départ"
+      ]
+    },
+    {
+      "id": "l-7-2-5",
+      "number": "7.2.5",
+      "level": "intermediate",
+      "title": "Le savoir-vivre à la plage",
+      "topics": [
+        "Respect des espaces",
+        "Bruit",
+        "Propreté",
+        "Distance avec les autres",
+        "Comportement collectif"
+      ]
+    },
+    {
+      "id": "l-7-2-6",
+      "number": "7.2.6",
+      "level": "intermediate",
+      "title": "Le séjour en club",
+      "topics": [
+        "Espaces communs",
+        "Activités collectives",
+        "Repas",
+        "Personnel",
+        "Respect des autres membres"
+      ]
+    },
+    {
+      "id": "l-7-2-7",
+      "number": "7.2.7",
+      "level": "intermediate",
+      "title": "Le camping",
+      "topics": [
+        "Bruit",
+        "Propreté",
+        "Installations communes",
+        "Voisinage",
+        "Respect de l'environnement"
+      ]
+    },
+    {
+      "id": "l-7-3-1",
+      "number": "7.3.1",
+      "level": "advanced",
+      "title": "Le savoir-vivre du voyageur",
+      "topics": [
+        "Adaptation",
+        "Observation",
+        "Discrétion",
+        "Respect des habitudes locales",
+        "Attitude envers les populations rencontrées"
+      ]
+    },
+    {
+      "id": "l-7-3-2",
+      "number": "7.3.2",
+      "level": "advanced",
+      "title": "Les voyages professionnels",
+      "topics": [
+        "Organisation",
+        "Ponctualité",
+        "Comportement à l'hôtel",
+        "Repas professionnels",
+        "Relations avec les partenaires"
+      ]
+    },
+    {
+      "id": "l-7-3-3",
+      "number": "7.3.3",
+      "level": "advanced",
+      "title": "Les voyages en groupe",
+      "topics": [
+        "Cohésion",
+        "Respect du programme",
+        "Gestion des différences",
+        "Partage des responsabilités",
+        "Gestion des désaccords"
+      ]
+    },
+    {
+      "id": "l-7-3-4",
+      "number": "7.3.4",
+      "level": "advanced",
+      "title": "Les séjours chez l'habitant",
+      "topics": [
+        "Présentation",
+        "Respect des habitudes",
+        "Participation à la vie commune",
+        "Invitations",
+        "Remerciements"
+      ]
+    },
+    {
+      "id": "l-7-3-5",
+      "number": "7.3.5",
+      "level": "advanced",
+      "title": "Les imprévus et incidents",
+      "topics": [
+        "Retard",
+        "Annulation",
+        "Perte de bagages",
+        "Incident avec le personnel",
+        "Gestion d'une réclamation"
+      ]
+    }
+  ]
+}

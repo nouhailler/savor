@@ -1,0 +1,325 @@
+{
+  "id": "l-2-3-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Rendre visite à une personne malade, accompagner un proche dépendant, parler de ce que personne n’ose nommer : comment être présent sans s’imposer, et protéger l’autonomie de l’autre aussi longtemps que possible.",
+  "estimatedDuration": 13,
+  "tags": [
+    "maladie",
+    "visite",
+    "dépendance",
+    "aidant",
+    "autonomie",
+    "cancer",
+    "démence",
+    "hôpital"
+  ],
+  "objectives": [
+    "Préparer une visite à une personne malade, en respectant son rythme et ses souhaits.",
+    "Trouver les mots justes, et éviter les phrases qui blessent.",
+    "Soutenir un proche dépendant sans lui retirer sa place d’adulte.",
+    "Reconnaître et soutenir la situation des aidants."
+  ],
+  "introduction": "Une amie vient d’apprendre qu’elle a un cancer. Vous avez envie de lui écrire, mais vous ne savez pas quoi dire. Votre père commence à oublier les choses, et vos frères et sœurs ne s’entendent pas sur ce qu’il faut faire. Une collègue revient au travail après trois mois d’absence, et personne n’ose lui poser la moindre question.\n\nLa maladie et la dépendance nous confrontent à notre propre fragilité, ce qui explique que nous évitions souvent ceux qu’elles frappent. Pour eux, cette distance s’ajoute à l’épreuve. Cette leçon de niveau avancé cherche à donner quelques repères, sachant que chacun réagit à sa manière, et qu’elle ne remplace ni les soignants ni les associations spécialisées.",
+  "sections": [
+    {
+      "title": "Rendre visite",
+      "content": "Une visite se propose et ne s’impose jamais : « J’aimerais passer te voir. Quel moment t’arrange ? Je comprendrai si tu préfères attendre. » La maladie peut enlever beaucoup de choix à une personne, et lui laisser celui-ci, c’est lui rendre une partie de sa liberté. Les personnes très malades se fatiguent vite : dans bien des cas, vingt minutes suffisent. Surveillez les signes de fatigue et partez, même si elle vous retient par politesse. Si vous avez un rhume, attendez : pour une personne immunodéprimée, une simple infection peut être grave.\n\nÀ l’hôpital, on respecte les horaires et les consignes, on ne s’assoit pas sur le lit sans y être invité, on frappe avant d’entrer et on sort quand arrivent les soignants. Évitez les fleurs très parfumées, que certains services interdisent d’ailleurs. Un livre, un carnet, un peu de musique sur un téléphone, ou de bonnes nouvelles du voisinage conviennent bien. Lors d’une visite à domicile, on ne vient pas pour être reçu : on ne demande rien, on peut proposer de faire une course ou d’apporter un repas.\n\nPendant la visite, parlez-lui comme à la personne qu’elle a toujours été, et pas seulement de sa maladie. Elle a sans doute besoin de savoir que le monde continue, et que vous vous intéressez à ce qui l’intéresse : son équipe, sa fille, son livre en cours. Laissez-la décider de ce qu’elle dit de son état. Si elle en parle, écoutez. Si elle n’en parle pas, respectez ce silence, sans le prendre pour un déni."
+    },
+    {
+      "title": "Les mots justes",
+      "content": "Là encore, un mot simple vaut mieux qu’un silence : « J’ai appris pour ta maladie. Je pense à toi, et je ne sais pas très bien quoi te dire. Comment veux-tu que je sois avec toi ? » Vous ne serez pas toujours adroit, et ce n’est pas grave. Ce qui blesse le plus souvent, c’est d’être évité, ou de voir sa vie réduite à une catégorie.\n\nCertaines phrases, très courantes, font beaucoup de mal. « Tu vas t’en sortir », dit sans savoir, empêche de parler des peurs. « Ma tante a eu la même chose et elle en est morte » n’apporte rien. « Tout arrive pour une raison » attribue un sens à une injustice. « Reste positive », qu’elle l’entende comme une consigne, peut lui faire sentir que son moral décide de son cancer, ce que la recherche ne montre pas. Évitez aussi les conseils sur les plantes, les régimes et les guérisseurs, à moins qu’on ne vous les demande : une personne malade en reçoit tous les jours.\n\nDe manière générale, on n’interroge ni sur les pronostics, ni sur les détails intimes, comme la perte de cheveux ou les conséquences d’une opération. On ne dit pas qu’elle « a bonne mine » pour la rassurer si ce n’est pas le cas. Une question simple permet de laisser la personne choisir : « Comment vas-tu, aujourd’hui ? » L’ajout du mot « aujourd’hui » reconnaît que les jours se suivent et ne se ressemblent pas."
+    },
+    {
+      "title": "Accompagner un proche dépendant",
+      "content": "Lorsqu’un parent âgé ou un proche devient dépendant, on est tenté de décider pour lui, par souci de sécurité. Le principe est pourtant de préserver au maximum son droit de choisir, tant qu’il peut comprendre ce qui se passe. Cela demande du temps : expliquer, proposer deux solutions, écouter ses préférences, y compris quand elles ne sont pas les vôtres. Une personne a le droit de prendre un risque raisonnable pour rester chez elle. La loi française prévoit d’ailleurs la possibilité de rédiger des directives anticipées et de désigner une personne de confiance.\n\nEn pratique, on l’associe aux discussions qui la concernent, et l’on ne parle pas de sa maison ou de son argent devant elle comme si elle n’y était plus. Respectez sa pudeur : frappez avant d’entrer, annoncez ce que vous allez faire, faites sortir les autres pendant la toilette. Laissez-lui ses occupations, même plus lentes, plutôt que de les prendre en charge par rapidité. Être utile reste un besoin : lui demander conseil ou lui confier une petite tâche compte plus que bien des attentions.\n\nAvec une personne atteinte de troubles cognitifs, comme la maladie d’Alzheimer, il ne sert à rien de la reprendre sans cesse : « Mais non, Papa, Maman est morte il y a dix ans. » Chaque rappel peut faire revivre une perte. Entrez plutôt dans ce qu’elle ressent : « Tu penses à Maman. Parle-moi d’elle. » Elle peut oublier votre nom, mais elle reste sensible au ton, au geste et au respect. Les associations comme France Alzheimer proposent une aide concrète, que l’on gagne à connaître tôt."
+    },
+    {
+      "title": "Les aidants, et ce que chacun peut faire",
+      "content": "Les proches qui s’occupent d’une personne dépendante, souvent appelés aidants, sont nombreux en France et leur charge reste largement invisible. Ils s’épuisent, s’isolent et, en général, ne demandent rien. Un ami peut être très utile en proposant quelque chose de précis : « Je viens garder ta mère samedi après-midi : va faire ce que tu veux. » Demander comment ils vont eux-mêmes, et non seulement comment va le malade, est déjà une marque d’attention rare.\n\nDans une fratrie, la répartition de cette charge crée souvent des tensions. Le frère qui habite loin donne des conseils, tandis que la sœur qui vit à côté assume tout : on retrouve là d’importantes inégalités, souvent au détriment des femmes. Un conseil de famille, avec une répartition explicite, peut aider : l’un gère les papiers, l’autre paie une aide, un troisième vient le dimanche. Évitez de critiquer celui qui fait le plus : il a besoin d’un relais, et non d’une évaluation.\n\nEnfin, il faut savoir accepter sa propre limite. Un proche n’est pas un soignant. Demander l’aide d’un professionnel, placer un parent dans un établissement lorsque c’est nécessaire ou prendre quelques jours de répit n’ont rien d’un abandon. L’entourage peut aider à le dire et, au lieu de juger cette décision, soutenir celui ou celle qui la prend."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-2-3-3-r1",
+      "title": "Une visite se propose, et reste brève.",
+      "description": "On demande si elle est souhaitée et à quel moment, et l’on part avant la fatigue, même si la personne vous retient par politesse.",
+      "rationale": "La maladie retire beaucoup de choix. Laisser celui-ci à la personne lui rend un peu de maîtrise, et protège ses forces.",
+      "context": "Hôpital, domicile, convalescence.",
+      "recommendedBehavior": "Annoncez votre durée : « Je passe une demi-heure. » Ne venez pas si vous êtes contagieux, et respectez les consignes du service.",
+      "exceptions": [
+        "Une personne très entourée peut préférer des visites plus longues : elle vous le dira."
+      ],
+      "remedy": "Si vous êtes resté trop longtemps : un message plus tard. « J’espère ne pas t’avoir fatiguée. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-3-r2",
+      "title": "On ne dicte ni l’espoir, ni le remède.",
+      "description": "On évite les phrases qui prescrivent un état d’esprit, ainsi que les conseils médicaux non sollicités.",
+      "rationale": "Ces phrases protègent surtout celui qui les dit. « Reste positive » peut faire croire à la personne qu’elle est responsable de l’évolution de sa maladie.",
+      "context": "Conversations, messages, repas.",
+      "recommendedBehavior": "Dites : « Comment vas-tu aujourd’hui ? Qu’est-ce qui te ferait du bien ? » Et écoutez.",
+      "exceptions": [
+        "Si vous avez une information médicale sérieuse et que la personne le souhaite, orientez-la vers ses soignants."
+      ],
+      "remedy": "« Je n’aurais pas dû te dire cela. Je ne sais pas ce que tu traverses. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-3-r3",
+      "title": "La personne décide tant qu’elle le peut.",
+      "description": "On associe un proche dépendant aux décisions qui le concernent, et on respecte ses préférences, y compris ses risques raisonnables.",
+      "rationale": "Décider à sa place, même par amour, lui retire sa dignité d’adulte, et le droit français lui reconnaît des outils pour exprimer sa volonté.",
+      "context": "Choix du lieu de vie, soins, argent, activités quotidiennes.",
+      "recommendedBehavior": "Expliquez, proposez deux options, écoutez. Encouragez la rédaction de directives anticipées et la désignation d’une personne de confiance.",
+      "exceptions": [
+        "En cas de danger grave ou d’incapacité, des mesures de protection juridique existent (sauvegarde, curatelle, tutelle) : un médecin ou un notaire peuvent vous orienter."
+      ],
+      "remedy": "Si vous avez décidé sans la consulter : « Je n’aurais pas dû. Qu’aurais-tu préféré ? »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-3-r4",
+      "title": "On respecte la pudeur et le secret.",
+      "description": "On frappe avant d’entrer, on annonce les soins, et on ne répète ni diagnostic, ni détails intimes sans accord.",
+      "rationale": "La maladie expose le corps et la vie privée. Le droit protège d’ailleurs le secret médical, et la famille doit aussi se montrer discrète.",
+      "context": "Soins à domicile, réunions de famille, travail, réseaux sociaux.",
+      "recommendedBehavior": "Demandez : « Que puis-je dire à la famille ? » Ne publiez rien sur son état sans son accord.",
+      "exceptions": [],
+      "remedy": "Si vous avez parlé trop vite : dites-le lui, et excusez-vous.",
+      "conventionType": "universal_principle",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-2-3-3-r5",
+      "title": "On aide aussi celui qui aide.",
+      "description": "On propose du répit concret à l’aidant, et on ne critique pas ses choix sans porter soi-même une part de la charge.",
+      "rationale": "L’épuisement de l’aidant menace à la fois sa santé et celle de la personne aidée. Critiquer de loin aggrave cette situation.",
+      "context": "Fratries, amis, voisins, collègues.",
+      "recommendedBehavior": "« Je viens samedi après-midi pour te laisser souffler. » Demandez-lui comment il va, lui.",
+      "exceptions": [],
+      "remedy": "« Je t’ai beaucoup jugé, et je n’étais pas là. Que puis-je prendre en charge ? »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Susan Sontag, dans La Maladie comme métaphore (1978), a montré combien le discours sur les maladies pouvait culpabiliser les malades : on leur attribue une personnalité responsable de leur cancer, ou on leur demande de « se battre ». Cette manière de parler peut renvoyer à ceux qui ne guérissent pas l’idée qu’ils n’ont pas assez lutté. Elle se retrouve dans nos phrases quotidiennes, et c’est pourquoi cette leçon en parle aussi sévèrement.\n\nLe droit français a progressivement renforcé la place des patients, notamment avec la loi du 4 mars 2002 relative aux droits des malades, et la loi Claeys-Leonetti de 2016 sur la fin de vie. L’idée commune de ces textes rejoint l’essentiel du savoir-vivre : une personne malade reste une personne, informée et souveraine autant que possible. L’entourage peut l’aider à le demeurer, en lui parlant, en l’écoutant et en lui laissant le dernier mot sur sa vie.",
+  "examples": [
+    {
+      "context": "Une collègue revient au travail après un traitement lourd",
+      "behavior": "Vous lui dites en privé : « Contente de te revoir. Dis-moi si tu préfères qu’on n’en parle pas ici. Sinon, je suis là. »",
+      "explanation": "Vous reconnaissez la situation sans l’exposer, et vous lui laissez toute liberté."
+    },
+    {
+      "context": "Votre père, atteint d’Alzheimer, demande où est sa mère, morte depuis trente ans",
+      "behavior": "« Tu penses à elle. Elle faisait comment, sa tarte, déjà ? » Vous l’écoutez parler de ses souvenirs, sans le corriger.",
+      "explanation": "Le rappel de la réalité lui ferait revivre la perte. Vous répondez à son émotion, qui reste bien réelle."
+    },
+    {
+      "context": "Votre sœur s’occupe seule de votre mère depuis deux ans, et vous habitez loin",
+      "behavior": "« Je ne peux pas être là tous les jours. Je m’occupe de tous les papiers et j’organise une aide à domicile deux matins par semaine. Et je prends ta place la dernière semaine d’août. »",
+      "explanation": "Vous n’offrez pas seulement un conseil, mais une part réelle et précise de la charge."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "À l’hôpital, auprès d’une amie très fatiguée",
+      "behavior": "Rester deux heures, parler de la maladie d’une connaissance, et insister pour qu’elle mange.",
+      "consequences": "Elle s’épuise pour vous recevoir, et votre visite lui coûte plus qu’elle ne lui apporte.",
+      "alternative": "Vingt minutes, de bonnes nouvelles, et un « Je reviens quand tu veux » en partant."
+    },
+    {
+      "situation": "Devant votre mère âgée, chez le médecin",
+      "behavior": "« Elle ne comprend plus grand-chose, il vaut mieux parler avec moi. »",
+      "consequences": "Vous la niez devant le soignant, alors qu’elle comprend peut-être parfaitement ce que vous dites.",
+      "alternative": "Laisser le médecin s’adresser à elle, et l’aider seulement si elle le demande."
+    },
+    {
+      "situation": "Dans un groupe familial, à propos d’un diagnostic",
+      "behavior": "Annoncer la maladie de votre frère à toute la famille avant qu’il ait pu le faire.",
+      "consequences": "Il perd la maîtrise d’une information qui lui appartient, et se retrouve assailli d’appels qu’il n’a pas préparés.",
+      "alternative": "Lui demander ce qu’il souhaite que l’on dise, et à qui."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Certaines personnes veulent de l’espoir.",
+      "text": "Si la personne parle de se battre, de guérir ou d’une foi qui l’aide, respectez son langage. Il ne s’agit pas de la ramener à la réalité : ce sont les injonctions extérieures qui posent problème, non ses propres ressources. Suivez ce qu’elle vous indique."
+    },
+    {
+      "title": "Cultures et familles.",
+      "text": "Dans certaines familles et cultures, on cache encore le diagnostic au malade, ou c’est la famille qui décide pour lui. En France, le droit reconnaît à la personne un droit à l’information. Mais elle peut aussi préférer ne pas tout savoir. Il faut alors entendre sa volonté."
+    },
+    {
+      "title": "Maltraitance.",
+      "text": "L’épuisement peut conduire, sans qu’on le veuille, à des gestes de maltraitance : impatience, négligence, violence. Si vous êtes témoin ou que vous sentez que vous n’en pouvez plus, parlez-en. En France, le 3977 permet d’obtenir un conseil, en toute confidentialité."
+    }
+  ],
+  "contexts": [
+    "Hôpital : horaires, hygiène, visites courtes, écoute.",
+    "Domicile : proposer une aide concrète, ne pas se faire servir.",
+    "Travail : discrétion, aménagements et retour progressif.",
+    "Famille : répartition explicite de la charge, et respect de la personne concernée."
+  ],
+  "keyPoints": [
+    "Une visite se propose et reste brève : c’est la fatigue de l’autre qui décide.",
+    "On ne prescrit ni l’espoir, ni le remède.",
+    "La personne décide tant qu’elle le peut, même si cela prend du temps.",
+    "On aide aussi celui qui aide, par des gestes concrets."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Ce qui soutient, ce qui pèse",
+    "instructions": "Associez chaque phrase à l’effet qu’elle peut produire sur une personne malade.",
+    "pairs": [
+      {
+        "left": "« Reste positive, ça joue beaucoup. »",
+        "right": "Elle peut se sentir responsable de l’évolution de sa maladie."
+      },
+      {
+        "left": "« Ma tante a eu la même chose et elle en est morte. »",
+        "right": "Une peur ajoutée, sans utilité pour elle."
+      },
+      {
+        "left": "« Comment vas-tu aujourd’hui ? »",
+        "right": "Elle peut répondre selon ce qu’elle vit ce jour-là."
+      },
+      {
+        "left": "« Je passe mardi à 18 h avec un repas, je ne reste pas. »",
+        "right": "Une aide concrète, sans lui imposer de vous recevoir."
+      },
+      {
+        "left": "« Tu as essayé les plantes de ma voisine ? »",
+        "right": "Un conseil de plus, parmi tous ceux qu’elle reçoit déjà."
+      }
+    ],
+    "explanation": "L’intention est bonne dans chaque cas. Les phrases qui soutiennent laissent à la personne sa liberté de réponse, et n’exigent rien d’elle."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-2-3-3-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle est la meilleure façon d’organiser une visite à une personne gravement malade ?",
+        "choices": [
+          "Arriver à l’improviste pour lui faire la surprise et lui remonter le moral",
+          "Proposer un moment, annoncer une durée courte, et partir avant la fatigue",
+          "Rester toute la journée pour la soutenir, sans lui laisser de répit",
+          "Attendre qu’elle vous appelle"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Vous lui laissez le choix, et vous protégez ses forces. La surprise lui retire cette liberté, la visite très longue l’épuise, et attendre qu’elle appelle lui laisse encore une charge.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-3-3-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Il est établi qu’un moral positif permet de guérir d’un cancer, et il faut donc y encourager les malades.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : la recherche ne confirme pas ce lien, et cette idée peut faire culpabiliser ceux dont la maladie progresse. Se sentir bien a une valeur en soi, mais pas celle d’un traitement.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-2-3-3-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Votre père, atteint d’Alzheimer, demande où est sa mère, décédée. Que lui répondez-vous ?",
+        "choices": [
+          "« Papa, elle est morte il y a trente ans, tu le sais bien. »",
+          "« Tu penses à elle. Parle-moi d’elle. »",
+          "« Elle arrive, ne t’inquiète pas », à chaque fois",
+          "« Je t’ai déjà répondu dix fois. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Vous répondez à l’émotion sans lui faire revivre le deuil, ni bâtir un mensonge. Le rappel brutal peut causer une nouvelle peine, et l’impatience l’atteint sans rien lui apprendre.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-2-3-3-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quel outil le droit français prévoit-il pour exprimer sa volonté à l’avance, concernant sa fin de vie ?",
+        "choices": [
+          "Les directives anticipées",
+          "Le contrat de mariage",
+          "Le livret de famille",
+          "La carte Vitale"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Les directives anticipées, ainsi que la désignation d’une personne de confiance, permettent à chacun de faire connaître ses souhaits (loi Claeys-Leonetti de 2016). Vérifiez les modalités en vigueur auprès d’un professionnel.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-2-3-3-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Comment soutenir un ami qui s’occupe seul de sa mère dépendante ? (plusieurs réponses)",
+        "choices": [
+          "Proposer de prendre sa place un après-midi précis",
+          "Lui demander comment il va, lui",
+          "Lui dire comment il devrait s’y prendre",
+          "Ne pas juger sa décision s’il envisage un établissement"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "Le répit concret, l’attention et l’absence de jugement l’aident réellement. Les conseils venus de personnes qui n’assument pas cette charge lui en ajoutent souvent une autre.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Susan Sontag",
+      "title": "La Maladie comme métaphore",
+      "publisher": "Seuil",
+      "year": "1979 pour la traduction française"
+    },
+    {
+      "title": "Loi n° 2002-303 du 4 mars 2002",
+      "note": "Relative aux droits des malades et à la qualité du système de santé."
+    },
+    {
+      "title": "Loi n° 2016-87 du 2 février 2016",
+      "note": "Dite Claeys-Leonetti, sur les droits en fin de vie."
+    },
+    {
+      "title": "Code de la santé publique, article L1110-4",
+      "note": "Sur le secret médical."
+    },
+    {
+      "title": "France Alzheimer et maladies apparentées",
+      "note": "Association d’aide aux malades et à leurs familles."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

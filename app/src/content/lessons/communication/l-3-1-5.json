@@ -1,0 +1,298 @@
+{
+  "id": "l-3-1-5",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Le téléphone fait irruption chez l’autre sans lui demander son avis. Se présenter, choisir l’heure, laisser un message utile, raccrocher sans gêne : ce que l’on sait de moins en moins faire.",
+  "estimatedDuration": 9,
+  "tags": [
+    "téléphone",
+    "appel",
+    "message vocal",
+    "horaires",
+    "se présenter",
+    "haut-parleur"
+  ],
+  "objectives": [
+    "Se présenter et vérifier la disponibilité de son interlocuteur.",
+    "Choisir un moment approprié pour téléphoner.",
+    "Laisser un message vocal clair et bref.",
+    "Mettre fin à un appel sans brusquerie."
+  ],
+  "introduction": "Pendant longtemps, le téléphone a été un événement. On le décrochait en se tenant debout dans le couloir, et l’on se présentait avec soin. Aujourd’hui, il est dans notre poche, et bien des adultes redoutent de l’utiliser. Un appel inattendu peut même inquiéter : « Qu’est-ce qui se passe ? », là où un message aurait fait l’affaire.\n\nUn appel demeure pourtant précieux : il permet d’entendre une voix, de résoudre en deux minutes ce que dix messages embrouilleraient, de présenter une condoléance ou une excuse. Mais il a une particularité : il s’impose à l’autre à l’instant où il sonne. D’où ces quelques règles, simples et utiles à tous les âges.",
+  "sections": [
+    {
+      "title": "Appeler",
+      "content": "On se présente d’emblée : « Bonjour, c’est Hugo Martin, le fils de votre voisine. » Le « C’est moi ! » ou « Devine qui c’est » ne convient qu’aux très proches, et encore. Ensuite, on vérifie la disponibilité : « Est-ce que je vous dérange ? » ou « Vous avez deux minutes ? » Cette question simple rend à l’autre le choix que la sonnerie lui avait pris. S’il répond qu’il est pris, on propose un autre moment au lieu d’insister.\n\nLes horaires dépendent de la relation. Pour un usage courant en France, on évite de téléphoner avant 9 heures et après 21 heures, ainsi qu’aux heures de repas, sauf urgence ou si vous êtes très proches. Le dimanche matin reste un moment sensible. Le monde professionnel a ses horaires, et un appel à 19 heures à un collègue, pour une question qui peut attendre, n’a rien d’anodin. Prenez garde au décalage horaire si votre correspondant est à l’étranger.\n\nPréparez un appel important : ce que vous voulez dire, les documents utiles, ce que vous attendez. On parle clairement et assez lentement, surtout lorsque l’interlocuteur est âgé ou ne maîtrise pas votre langue. Si vous êtes en haut-parleur, ou si d’autres personnes écoutent, signalez-le toujours : ne pas le faire est une vraie indélicatesse."
+    },
+    {
+      "title": "Répondre",
+      "content": "En répondant sur un téléphone professionnel, on annonce généralement son nom ou celui de son service : « Bonjour, service comptabilité, Inès Morel. » Dans la vie privée, un simple « Allô » suffit, et l’on n’est pas obligé de donner son nom à un inconnu. Si vous n’êtes pas disponible, dites-le aussitôt : « Je ne peux pas vous parler maintenant. Je vous rappelle à 17 heures. » Cette phrase vaut mieux qu’une conversation à moitié attentive. Et rappelez, comme vous l’avez dit.\n\nEn présence d’une autre personne, le téléphone ne passe pas devant elle. Vous êtes au restaurant, en rendez-vous, au guichet ? Laissez sonner, ou coupez la sonnerie. Si vous attendez un appel important, prévenez dès le début, puis levez-vous pour y répondre à l’écart. Un appel privé dans un lieu public mérite aussi de la retenue : les détails de votre santé ou de votre dossier n’ont pas à être entendus par la moitié du wagon.\n\nVous n’êtes pas tenu de répondre à tous les appels. Un démarchage peut être interrompu avec fermeté et courtoisie : « Merci, cela ne m’intéresse pas. Bonne journée. » Il n’y a pas besoin de justification, ni de se montrer agressif : la personne au bout du fil fait son travail. En France, la liste d’opposition Bloctel et la loi encadrent ce démarchage."
+    },
+    {
+      "title": "Laisser un message, et raccrocher",
+      "content": "Un bon message vocal se compose de quatre éléments : qui vous êtes, pourquoi vous appelez, ce que vous attendez, et comment vous joindre. « Bonjour Madame Roche, Inès Morel, de la société Almo. Je vous appelle au sujet du devis du 3 mars. Pourriez-vous me rappeler avant jeudi, au 06 12 34 56 78 ? » Parlez lentement, surtout en donnant votre numéro. Quarante secondes suffisent. Les messages de plusieurs minutes finissent rarement écoutés.\n\nBeaucoup de personnes, notamment parmi les plus jeunes, n’écoutent plus leurs messages vocaux et préfèrent l’écrit. Un SMS annonçant votre appel (« Je t’appelle ce soir pour parler de Noël, rien de grave ») peut éviter d’inquiéter et préparer l’échange. Inversement, évitez d’envoyer de très longs messages vocaux dans une messagerie à quelqu’un qui ne vous a rien demandé, à moins que ce soit votre habitude commune.\n\nPour raccrocher, on prépare la fin : « Je vais te laisser, je dois partir dans cinq minutes. » On résume si besoin : « Donc, nous nous voyons mardi à 10 heures. » On remercie et on salue. C’est généralement la personne qui a appelé qui met fin à l’appel, et, dans un cadre formel, la personne de rang supérieur. Si la conversation s’éternise, vous pouvez l’interrompre avec douceur, en prononçant le prénom de votre correspondant. En cas de coupure, c’est celui qui a appelé qui rappelle."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-3-1-5-r1",
+      "title": "On se présente, et l’on demande si c’est le bon moment.",
+      "description": "Tout appel commence par votre nom et par une vérification de la disponibilité de l’autre.",
+      "rationale": "Le téléphone s’impose à l’instant où il sonne. Cette question rend à la personne le choix qu’il lui a pris.",
+      "context": "Tout appel, sauf entre très proches.",
+      "recommendedBehavior": "« Bonjour, c’est Hugo Martin. Je ne vous dérange pas ? »",
+      "exceptions": [
+        "En cas d’urgence, on annonce l’urgence d’emblée."
+      ],
+      "remedy": "Si l’on vous dit qu’il n’est pas disponible : « Bien sûr, à quel moment puis-je vous rappeler ? »",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-3-1-5-r2",
+      "title": "On respecte les heures.",
+      "description": "En France, on évite d’appeler avant 9 heures, après 21 heures et aux heures de repas, sauf urgence ou habitude commune.",
+      "rationale": "Le domicile et le repos sont protégés. Un appel tardif inquiète aussi : on pense immédiatement à une mauvaise nouvelle.",
+      "context": "Vie privée et professionnelle, en tenant compte du décalage horaire.",
+      "recommendedBehavior": "Préférez un message si le sujet peut attendre. Hors des horaires de travail, un collègue n’a pas à répondre.",
+      "exceptions": [
+        "Urgences, décès, proches aux habitudes différentes.",
+        "Les usages varient selon les pays et les milieux."
+      ],
+      "remedy": "« Excusez-moi de vous appeler si tard. Je voulais simplement vous dire que… »",
+      "conventionType": "cultural_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-3-1-5-r3",
+      "title": "On signale le haut-parleur.",
+      "description": "On prévient toujours son interlocuteur si d’autres personnes écoutent ou si l’appel est enregistré.",
+      "rationale": "Il peut dire quelque chose qu’il ne dirait pas à d’autres. Le lui cacher est une tromperie, et enregistrer un appel à l’insu d’une personne peut avoir des conséquences légales.",
+      "context": "Réunions, famille, voiture.",
+      "recommendedBehavior": "« Je te mets en haut-parleur, je suis avec Sara et les enfants. »",
+      "exceptions": [],
+      "remedy": "« Je n’ai pas pensé à te prévenir : Sara nous entend, je suis désolé. »",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-3-1-5-r4",
+      "title": "Le message vocal tient en quatre points.",
+      "description": "Qui, pourquoi, ce que vous attendez, comment vous joindre, en moins d’une minute.",
+      "rationale": "Le message clair épargne à votre correspondant de vous rappeler pour savoir de quoi il s’agit.",
+      "context": "Messagerie, appels professionnels.",
+      "recommendedBehavior": "Parlez lentement et répétez votre numéro. Évitez : « C’est moi, rappelle-moi. »",
+      "exceptions": [],
+      "remedy": "Si vous avez oublié une information : un SMS suffit à la compléter.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-1-5-r5",
+      "title": "La personne présente passe avant le téléphone.",
+      "description": "On ne prend pas un appel devant quelqu’un que l’on sert ou à qui l’on parle, sauf urgence annoncée.",
+      "rationale": "Répondre revient à dire à la personne devant vous que quelqu’un d’autre compte davantage.",
+      "context": "Restaurant, réunion, guichet, dîner.",
+      "recommendedBehavior": "Coupez la sonnerie. Si vous attendez un appel urgent, prévenez et levez-vous pour le prendre.",
+      "exceptions": [
+        "Un parent en attente d’un appel de l’école ou de l’hôpital prévient et s’éloigne."
+      ],
+      "remedy": "« Pardon, je ne l’avais pas mis en silencieux. »",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "Quand le téléphone est entré dans les foyers, à la fin du XIXe siècle, les manuels de savoir-vivre se sont demandé comment se comporter avec cette machine qui permettait à n’importe qui d’entrer chez vous sans frapper. Certains s’inquiétaient de ce que l’on pourrait entendre la voix d’une personne à laquelle on n’avait jamais été présenté. L’inquiétude peut sembler amusante, mais elle dit quelque chose de vrai : le téléphone crée une intrusion dans l’espace privé.\n\nLes messageries ont en partie déplacé ces règles : l’écrit permet à chacun de répondre quand il veut. Ce qui explique que beaucoup de jeunes adultes vivent un appel non annoncé comme une intrusion. Cette évolution varie toutefois selon les générations : beaucoup de personnes âgées se sentent seules lorsqu’on ne les appelle plus et ne lisent pas leurs messages. Savoir téléphoner, c’est donc aussi savoir à qui cela fait plaisir.",
+  "examples": [
+    {
+      "context": "Vous appelez votre plombier à 19 h pour une fuite légère",
+      "behavior": "Vous lui envoyez un message : « Bonsoir, Hugo Martin, 12 rue des Lilas. Petite fuite sous l’évier, rien d’urgent : pourriez-vous passer cette semaine ? Je vous appelle demain matin si vous préférez. »",
+      "explanation": "Vous respectez son temps personnel, et lui donnez ce qu’il faut pour vous répondre."
+    },
+    {
+      "context": "Votre téléphone sonne pendant un déjeuner avec une amie, alors que vous attendez l’appel d’un médecin",
+      "behavior": "Vous l’avez prévenue en arrivant. Vous dites : « C’est lui, excuse-moi deux minutes », et vous sortez pour répondre.",
+      "explanation": "Vous avez annoncé l’exception, et vous évitez d’imposer votre conversation à la salle."
+    },
+    {
+      "context": "Votre grand-mère de 85 ans, qui ne lit pas ses messages",
+      "behavior": "Vous l’appelez à heure fixe le dimanche à 17 h. Vous parlez lentement, et vous lui demandez ce qu’elle a fait de sa semaine.",
+      "explanation": "Le bon outil dépend de la personne. Cet appel régulier peut être un vrai repère pour elle."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Dans le train",
+      "behavior": "Parler fort d’un dossier client, citant les noms et les chiffres.",
+      "consequences": "Vos voisins sont dérangés, et vous exposez des informations confidentielles.",
+      "alternative": "« Je suis dans le train, je te rappelle à 17 h » ou répondre brièvement depuis la plate-forme."
+    },
+    {
+      "situation": "Sur un répondeur",
+      "behavior": "« C’est moi. Rappelle-moi. »",
+      "consequences": "La personne ne sait ni qui vous êtes, ni pourquoi, ni s’il y a urgence.",
+      "alternative": "« Bonjour, c’est Hugo Martin. Je t’appelle pour samedi : rappelle-moi quand tu peux. Rien d’urgent. »"
+    },
+    {
+      "situation": "Avec un démarcheur téléphonique",
+      "behavior": "L’insulter ou raccrocher après lui avoir crié dessus.",
+      "consequences": "Il fait un travail difficile, et il subit cette violence toute la journée.",
+      "alternative": "« Merci, cela ne m’intéresse pas. Bonne journée. » Puis raccrochez."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Générations.",
+      "text": "Un appel non annoncé peut inquiéter une personne jeune et rassurer une personne âgée. Il n’y a pas de bonne manière universelle. Demandez : « Tu préfères que je t’appelle ou que je t’écrive ? » Cette question reconnaît la façon de vivre de chacun."
+    },
+    {
+      "title": "Handicap.",
+      "text": "Une personne sourde, malentendante ou qui bégaie peut trouver le téléphone difficile, voire impossible. Offrez d’autres moyens. En France, des services de relais téléphonique sont prévus par la loi pour les personnes sourdes et malentendantes."
+    },
+    {
+      "title": "International.",
+      "text": "Dans plusieurs cultures, on n’entre pas directement dans le sujet : il faut d’abord demander des nouvelles de la famille. Dans d’autres, comme en Allemagne ou aux Pays-Bas, on va droit au but. Ne vous formalisez pas d’un appel plus long ou plus bref que ceux dont vous avez l’habitude."
+    }
+  ],
+  "contexts": [
+    "Vie privée : on demande si c’est le bon moment, on prévient par message.",
+    "Vie professionnelle : présentation, objet de l’appel, respect des horaires.",
+    "Lieux publics : retrait à l’écart, voix basse et discrétion.",
+    "Personnes âgées : appels réguliers, en parlant lentement."
+  ],
+  "keyPoints": [
+    "On se présente, puis on demande : « Je ne vous dérange pas ? »",
+    "Le message vocal répond à quatre questions : qui, pourquoi, quoi, comment joindre.",
+    "On signale toujours le haut-parleur.",
+    "La personne présente passe avant le téléphone."
+  ],
+  "exercise": {
+    "type": "ordering",
+    "title": "Un appel professionnel bien conduit",
+    "instructions": "Remettez ces étapes dans l’ordre.",
+    "items": [
+      "Préparer ce que l’on veut dire et les documents utiles",
+      "Se présenter : nom et société",
+      "Vérifier que la personne est disponible",
+      "Exposer l’objet de l’appel",
+      "Résumer ce qui a été convenu",
+      "Remercier, saluer et raccrocher"
+    ],
+    "explanation": "Chaque étape respecte le temps de l’autre. La préparation vous évite de le retenir pour rien, et le résumé évite un nouvel appel."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-3-1-5-q1",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Quelle est la meilleure manière de commencer un appel à une connaissance ?",
+        "choices": [
+          "« C’est moi ! »",
+          "« Devine qui c’est ! Je parie que tu ne reconnais pas ma voix. »",
+          "« Bonjour, c’est Hugo Martin, le fils de votre voisine. Je vous dérange ? »",
+          "« Il faut que je vous parle tout de suite, c’est moi, vous savez bien. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Vous vous présentez et vous lui rendez le choix de vous parler ou non. Les autres entrées la laissent dans l’incertitude, ou lui imposent votre urgence.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-5-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Il est inutile de prévenir son interlocuteur qu’il est en haut-parleur si vos proches écoutent.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : il pourrait dire quelque chose qu’il ne dirait pas à d’autres. Prévenir est un respect élémentaire, et enregistrer quelqu’un à son insu peut aussi avoir des conséquences juridiques.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-5-q3",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quels éléments doivent figurer dans un message vocal ?",
+        "choices": [
+          "Votre nom, l’objet de l’appel, ce que vous attendez, comment vous joindre",
+          "Le récit de votre journée et les raisons pour lesquelles vous appelez si tard",
+          "Votre nom seulement",
+          "Une longue explication de tout le dossier, avec chaque étape depuis le début"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Ces quatre éléments, en moins d’une minute, permettent à votre correspondant d’agir. Un message trop long n’est pas écouté jusqu’au bout, et un message trop court l’oblige à vous rappeler.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-5-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Lors d’un dîner, laquelle de ces attitudes est la plus maladroite ?",
+        "choices": [
+          "Mettre son téléphone en silencieux avant le repas",
+          "Répondre à un appel à table sans rien dire, et parler dix minutes",
+          "Prévenir qu’on attend un appel urgent et s’éloigner pour y répondre",
+          "Laisser sonner et rappeler plus tard"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Répondre à table sans explication dit aux convives que l’appel compte davantage qu’eux. Annoncer une exception et s’éloigner respecte au contraire tout le monde.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-5-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Une conversation téléphonique est coupée. Selon l’usage, qui rappelle ?",
+        "choices": [
+          "La personne qui a appelé en premier",
+          "La personne la plus âgée",
+          "Celle qui a le meilleur réseau",
+          "Personne : on en reste là"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Celui qui a appelé rappelle : cette convention simple évite que les deux lignes soient occupées en même temps. Il ne s’agit que d’un usage, sans importance morale.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Baronne Staffe",
+      "title": "Usages du monde",
+      "year": "1889",
+      "note": "Source historique sur les usages de l’époque."
+    },
+    {
+      "title": "Bloctel",
+      "note": "Liste d’opposition française au démarchage téléphonique."
+    },
+    {
+      "author": "Claude S. Fischer",
+      "title": "America Calling: A Social History of the Telephone to 1940",
+      "publisher": "University of California Press",
+      "year": "1992"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

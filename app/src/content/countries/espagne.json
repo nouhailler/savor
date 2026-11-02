@@ -1,0 +1,154 @@
+{
+  "id": "c-espagne",
+  "slug": "espagne",
+  "name": "Espagne",
+  "region": "Europe méridionale",
+  "languages": [
+    "Espagnol (castillan)",
+    "Catalan",
+    "Basque",
+    "Galicien"
+  ],
+  "intro": "Une société sociable, aux horaires tardifs, où la vie se déroule volontiers dehors et où le tutoiement arrive vite. Mais elle comporte des identités régionales fortes qu’il ne faut pas ignorer.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Deux bises, poignée de main au travail"
+    },
+    {
+      "label": "Dîner",
+      "value": "Vers 21 h ou 22 h"
+    },
+    {
+      "label": "Registre",
+      "value": "« Tú » très courant"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Modeste et facultatif"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Deux bises entre personnes qui se connaissent, souvent aussi lors d’une présentation informelle.",
+        "Une poignée de main en contexte professionnel.",
+        "On salue en entrant dans un ascenseur ou dans un petit commerce."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "En société, un retard d’un quart d’heure à une demi-heure n’a rien d’extraordinaire.",
+        "Les rendez-vous professionnels sont pris plus au sérieux, mais un léger retard reste souvent toléré."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On se retrouve souvent dans un bar ou un restaurant, et une invitation à domicile marque un vrai lien.",
+        "Apportez du vin, des pâtisseries ou des fleurs.",
+        "Il est fréquent que l’on se dispute l’addition : on peut proposer de régler la prochaine fois."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "Les horaires sont tardifs : déjeuner vers 14 h, dîner vers 21 h ou 22 h.",
+        "La sobremesa, ce temps passé à bavarder après le repas, compte autant que le repas.",
+        "Les tapas se partagent, et le pain se pose généralement sur la table."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Le cadeau s’ouvre généralement devant la personne, et on le remercie chaleureusement.",
+        "Les chrysanthèmes et les dahlias peuvent être associés aux défunts."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Tenue soignée dans les villes, en particulier en soirée.",
+        "Une tenue de plage n’est pas toujours admise hors de la plage : certaines communes l’interdisent et verbalisent."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "La conversation est animée, et les interruptions ne sont pas forcément impolies.",
+        "Le tutoiement s’emploie vite ; « usted » reste courant avec les personnes âgées et dans les cadres formels."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On se tient assez près, et les contacts sur le bras sont fréquents.",
+        "Le regard direct est bien accueilli."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "La guerre civile et le franquisme restent des sujets délicats.",
+        "Les questions d’indépendance en Catalogne et au Pays basque peuvent susciter des réactions vives.",
+        "La corrida divise fortement : n’en parlez pas comme d’une évidence."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "La relation personnelle et le repas d’affaires ont de l’importance.",
+        "La hiérarchie peut être marquée, et les décisions remontent souvent au dirigeant."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Chercher à dîner à 19 h, alors que les restaurants ne sont pas encore ouverts.",
+        "Parler uniquement de « l’espagnol » à un Catalan ou à un Basque, sans égard pour sa langue.",
+        "Résumer le pays à la fête et à la plage."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "La sieste est moins générale qu’on ne le dit, mais beaucoup de commerces ferment l’après-midi, hors des grandes villes.",
+        "Quelques mots de catalan ou de basque sont très bien reçus dans ces régions."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Buenos días / Buenas tardes",
+      "meaning": "Bonjour / Bon après-midi, ou bonsoir."
+    },
+    {
+      "original": "Muchas gracias",
+      "meaning": "Merci beaucoup."
+    },
+    {
+      "original": "Con permiso",
+      "meaning": "Excusez-moi, pour passer."
+    }
+  ],
+  "generalizationNote": "L’Espagne est plurielle, avec des langues et des identités régionales très vivantes : la Catalogne, le Pays basque, la Galice ou l’Andalousie ont leurs propres usages. Ces repères sont des tendances, et ils ne valent pas pour tous.",
+  "sources": [
+    {
+      "title": "Turespaña, Office espagnol du tourisme",
+      "note": "spain.info"
+    },
+    {
+      "title": "Conseils aux voyageurs : Espagne",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

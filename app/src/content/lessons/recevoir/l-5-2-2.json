@@ -1,0 +1,287 @@
+{
+  "id": "l-5-2-2",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Un plan de table n’a rien d’une manie : c’est le moyen le plus sûr de réussir une soirée. Qui placer où, comment composer une tablée, et ce qu’il reste de l’usage traditionnel de l’alternance.",
+  "estimatedDuration": 12,
+  "tags": [
+    "placement",
+    "plan de table",
+    "convives",
+    "invités",
+    "dîner",
+    "conversation",
+    "marque-place"
+  ],
+  "objectives": [
+    "Comprendre pourquoi le placement influence la réussite d’un dîner.",
+    "Appliquer les repères traditionnels, et les adapter à une tablée contemporaine.",
+    "Composer une table selon les affinités, les besoins et les conversations.",
+    "Gérer les incompatibilités et les changements de dernière minute."
+  ],
+  "introduction": "« Mettez-vous où vous voulez ! » Cette phrase semble détendue. Elle produit en réalité un moment de flottement : les couples se regroupent, les connaissances s’agglutinent, le nouveau venu cherche une place, et les deux convives les plus timides finissent côte à côte en bout de table.\n\nUn plan de table, même sommaire, est une attention : il dit à chacun qu’on a pensé à lui, et il prépare les conversations. Il n’a pas besoin de carton calligraphié : pour un dîner de six ou huit personnes, il suffit d’indiquer à chacun sa place de vive voix. Cette leçon explique la logique traditionnelle et les choix qu’elle laisse.",
+  "sections": [
+    {
+      "title": "Les repères traditionnels",
+      "content": "La disposition française classique est appelée « placement à la française » : les hôtes se font face au milieu de chaque grand côté de la table, à la différence du placement « à l’anglaise », où ils président en bout de table. Le premier favorise la conversation avec le plus de convives et le second donne une allure plus solennelle. Autour des hôtes, les places se hiérarchisent : la place d’honneur est à la droite de l’hôte, la deuxième à sa gauche, et ainsi de suite en s’éloignant. Les bouts de table sont réputés les moins honorifiques.\n\nCet usage alternait traditionnellement hommes et femmes, et séparait les couples, de façon à mêler les conversations. Il est encore observé dans les dîners formels. Lorsqu’il y avait un homme ou une femme de plus, il y avait une « table boiteuse » : ce n’était pas considéré comme grave, mais on tâchait de l’éviter. Ces repères font partie du protocole social, et on y reviendra dans la leçon sur le protocole de table.\n\nIl serait toutefois absurde de les appliquer à la lettre dans la plupart des dîners contemporains : tout le monde ne forme pas des couples mixtes, on invite des personnes seules, et l’alternance par sexe n’a pas d’intérêt en soi. Retenons ce qui en reste utile : honorer les invités que l’on veut mettre en valeur, varier les conversations et séparer les personnes qui se connaissent trop bien pour avoir encore quelque chose de nouveau à se dire."
+    },
+    {
+      "title": "Composer une table",
+      "content": "Le plan de table commence avec la liste des invités : un dîner réussi repose sur une composition. On cherche un équilibre entre ceux qui parlent et ceux qui écoutent, entre personnes qui se connaissent et personnes nouvelles. Six à huit convives permettent encore une conversation générale ; au-delà, la table se divise naturellement en petits groupes, et il faut soigner les voisinages.\n\nPlacez d’abord la personne que vous voulez honorer, ou celle qui connaît le moins de monde, près de vous : c’est elle qui en a le plus besoin. Installez ensuite les convives selon les sujets qu’ils peuvent partager : la passionnée de jardins à côté de celui qui vient d’acheter une maison. Évitez d’isoler un grand timide entre deux bavards qui s’adresseraient par-dessus son assiette. Un invité qui ne connaît personne a besoin d’un voisin bienveillant, à qui vous pouvez d’ailleurs dire un mot à l’avance.\n\nPensez aussi aux besoins pratiques, qui passent avant tout protocole : place accessible pour un fauteuil roulant, proximité de la sortie pour une personne qui doit se lever, position permettant à une personne malentendante de voir les visages, siège confortable pour une personne âgée, parents près de leur enfant. Personne ne doit avoir à demander à voix haute ce qu’on aurait dû prévoir."
+    },
+    {
+      "title": "Les couples, les ex, les conflits",
+      "content": "On sépare généralement les couples dans les grands dîners, pour que chacun parle à d’autres personnes. Mais cette habitude n’a rien d’obligatoire : de jeunes parents qui ne se voient jamais peuvent être ravis d’être côte à côte, et une personne intimidée appréciera de rester près de son conjoint. Dans le doute, la distance d’un convive n’est pas un drame. Les couples récents, enfin, supportent mal d’être séparés.\n\nLes incompatibilités connues se gèrent en amont, et non pendant le repas : deux frères brouillés, d’anciens conjoints, des collègues en concurrence. On peut ne pas les inviter ensemble, ou prévenir chacun en amont : « Il y aura aussi Paul, cela te pose-t-il un problème ? » Si les deux viennent, on les place à distance, pas face à face, de sorte qu’ils n’aient pas à échanger ni à s’éviter du regard. Jouer les médiateurs à table n’est jamais une bonne idée.\n\nUne absence ou une arrivée de dernière minute ne doit pas vous paniquer : ajoutez ou retirez un couvert et déplacez un minimum de personnes, plutôt que de refaire le plan devant tous. Si un invité, malgré vos efforts, se trouve à une mauvaise place, évitez de le lui faire sentir. Comme toujours, la fluidité vaut plus que la perfection du schéma."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-5-2-2-r1",
+      "title": "À partir de six personnes, on indique les places.",
+      "description": "La personne qui reçoit dit à chacun où s’installer, de vive voix ou à l’aide de marque-places.",
+      "rationale": "Ce geste évite le flottement au moment de passer à table, et garantit que personne ne se retrouve isolé.",
+      "context": "Dîners assis de six personnes ou plus, repas de fête, réceptions.",
+      "recommendedBehavior": "Préparez le plan à l’avance. Annoncez simplement : « Louise, à ma droite ; Karim, à côté de Louise. »",
+      "exceptions": [
+        "Un buffet ou un repas très informel se passe de plan.",
+        "Un repas à quatre n’en a pas réellement besoin."
+      ],
+      "remedy": "Si le placement ne convient pas, ne refaites pas toute la table : permutez discrètement deux personnes au moment du plat suivant.",
+      "conventionType": "traditional_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-5-2-2-r2",
+      "title": "La droite de l’hôte est la place d’honneur.",
+      "description": "Dans un cadre formel, on place à droite de l’hôte la personne que l’on veut honorer : personne âgée, invité d’honneur, visiteur venu de loin.",
+      "rationale": "Ce repère traditionnel indique sans mot la considération de l’hôte. Il permet aussi de mettre à l’aise celui qui connaît le moins de monde.",
+      "context": "Dîners formels, repas de fête, repas professionnels.",
+      "recommendedBehavior": "Fixez d’abord les places à droite et à gauche des hôtes, puis répartissez les autres en vous éloignant.",
+      "exceptions": [
+        "Le protocole officiel suit des règles propres, voir la leçon sur le protocole de table.",
+        "Une personne qui a besoin d’une place accessible passe avant cette hiérarchie."
+      ],
+      "remedy": "Si vous avez oublié une personne à honorer, un mot ou un toast rattrape en grande partie ce manque.",
+      "conventionType": "traditional_custom",
+      "normativity": "formal_convention"
+    },
+    {
+      "id": "l-5-2-2-r3",
+      "title": "On place d’après les personnes, pas d’après leur sexe.",
+      "description": "L’alternance femmes-hommes est un usage traditionnel, facultatif aujourd’hui. On compose la table selon les affinités, les conversations et les besoins.",
+      "rationale": "L’alternance avait pour but de varier les échanges, un objectif que d’autres critères atteignent mieux et sans exclure les personnes seules ou les couples de même sexe.",
+      "context": "Dîners contemporains de toute taille.",
+      "recommendedBehavior": "Demandez-vous qui aura plaisir à parler à qui, et comment équilibrer les bavards et les discrets.",
+      "exceptions": [
+        "Dans un dîner très formel ou une maison attachée à l’usage, on peut suivre l’alternance traditionnelle."
+      ],
+      "remedy": "Si une personne semble isolée, un hôte attentif s’adresse à elle et la relie à ses voisins pendant le repas.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-5-2-2-r4",
+      "title": "Les besoins pratiques passent avant le protocole.",
+      "description": "Accessibilité, audition, mobilité, santé, jeune enfant : la place de chacun tient compte de ses besoins, sans qu’il ait à les rappeler.",
+      "rationale": "L’hospitalité est d’abord le souci du confort de l’invité. Une place d’honneur inaccessible n’honore personne.",
+      "context": "Tout repas accueillant une personne âgée, malade, en situation de handicap, enceinte ou accompagnée d’un enfant.",
+      "recommendedBehavior": "Demandez à l’avance, en privé : « Y a-t-il une place où tu seras mieux ? » Prévoyez largeur de passage et hauteur de table.",
+      "exceptions": [],
+      "remedy": "Si vous vous en rendez compte sur le moment : « Je me suis trompé dans mon plan ; viens plutôt ici », en prenant la faute sur vous.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Le placement est un héritage du cérémonial de cour, où l’on disait son rang à sa place. Le plan de table des grands dîners du XIXe siècle prolongeait cet usage, en l’accompagnant de codes de présentation et de préséance. La hiérarchie des places, à droite ou à gauche de l’hôte, en est un vestige très visible, utilisé aujourd’hui encore dans les dîners diplomatiques.\n\nMais on peut lui trouver une fonction plus actuelle. Des chercheurs ont montré que la conversation dépend beaucoup de la configuration des personnes : on parle plus volontiers à ses voisins immédiats qu’à ceux qui sont loin. Celui qui reçoit dispose ainsi d’un véritable pouvoir sur la soirée. Grimod de La Reynière, dans son Manuel des amphitryons, en 1808, tenait déjà le placement pour un art à part entière. L’usage du plan ne relève donc pas de la vanité : c’est une façon de prendre soin de ses invités avant même qu’ils arrivent.",
+  "examples": [
+    {
+      "context": "Vous recevez huit personnes, dont une nouvelle voisine qui ne connaît personne",
+      "behavior": "Vous la placez à votre droite et, de l’autre côté, Paul, qui adore la randonnée, comme elle. Vous lui dites : « Paul pourra vous parler des sentiers du coin. »",
+      "explanation": "Elle reçoit la place d’honneur, un voisin choisi et un point d’accroche. Le placement a fait la moitié de l’accueil."
+    },
+    {
+      "context": "Un invité en fauteuil roulant vient à un repas de famille",
+      "behavior": "Vous l’appelez la veille pour savoir où il sera le plus à l’aise. Vous retirez une chaise côté entrée et aménagez un passage, sans faire d’annonce.",
+      "explanation": "La place est prête à l’arrivée : il n’a pas à expliquer quoi que ce soit devant tout le monde."
+    },
+    {
+      "context": "Deux invités viennent de se séparer, et chacun tient à venir",
+      "behavior": "Vous les avez prévenus l’un de l’autre. Ils sont à des extrémités opposées, sans être face à face, et chacun a près de lui un ami proche.",
+      "explanation": "Vous n’essayez pas de les réconcilier. Vous réduisez simplement les occasions de gêne."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Au moment de passer à table à dix",
+      "behavior": "« Asseyez-vous où vous voulez ! » Les deux timides finissent en bout de table, à côté de la porte.",
+      "consequences": "Les connaissances se regroupent, les autres se sentent exclus, et la soirée se scinde en deux.",
+      "alternative": "Préparer un plan simple, même griffonné sur un papier, et l’annoncer gaiement."
+    },
+    {
+      "situation": "Placement dans un grand dîner",
+      "behavior": "Séparer un couple qui vient d’arriver dans la ville et ne connaît personne, pour respecter l’alternance.",
+      "consequences": "La règle produit l’inverse de ce qu’elle vise : deux personnes malheureuses, chacune de son côté.",
+      "alternative": "Les placer à proximité, l’un à côté de l’autre ou en diagonale, en prévoyant un voisin accueillant."
+    },
+    {
+      "situation": "Une personne s’assoit à la mauvaise place",
+      "behavior": "« Non, non, pas là, regardez votre carton ! »",
+      "consequences": "La personne se sent prise en faute, devant tout le monde.",
+      "alternative": "Si l’erreur importe peu, adaptez-vous. Si elle compte vraiment : « Venez plutôt à côté de moi, je voudrais vous présenter Paul. »"
+    }
+  ],
+  "nuances": [
+    {
+      "title": "L’usage selon les pays.",
+      "text": "Le placement « à l’anglaise », avec les hôtes en bout de table, reste courant dans les pays anglo-saxons. Dans d’autres cultures, les hôtes s’installent là où ils peuvent le mieux servir, et certaines réceptions séparent les hommes et les femmes. Le plan se conforme alors aux habitudes des hôtes."
+    },
+    {
+      "title": "Le nombre treize.",
+      "text": "Une superstition répandue fait éviter d’être treize à table : on ajoute un couvert ou un convive, ou l’on dédouble la table. Ce n’est pas une règle de savoir-vivre, mais l’attention à une éventuelle sensibilité de vos convives peut vous éviter une gêne. Vous êtes libre de sourire de ces croyances, mais pas à leurs dépens."
+    },
+    {
+      "title": "Tables rondes.",
+      "text": "Une table ronde abolit en partie la hiérarchie des places, favorise la conversation et facilite l’accueil de toute personne. Dans un mariage ou un grand repas, elle permet de composer des groupes homogènes, et c’est souvent la solution la plus simple quand on n’a aucune raison de marquer un rang."
+    }
+  ],
+  "contexts": [
+    "Dîner entre amis : plan simple, de vive voix, en pensant aux affinités.",
+    "Fête de famille : besoins des plus âgés et des plus jeunes, incompatibilités connues.",
+    "Repas professionnel : hiérarchie des rôles et mise en valeur des invités extérieurs.",
+    "Mariage : tables rondes par affinités, table d’honneur facultative."
+  ],
+  "keyPoints": [
+    "Un plan de table est une attention, et non une marque de solennité.",
+    "La place à droite de l’hôte reste la place d’honneur dans les cadres formels.",
+    "On compose selon les affinités et les conversations, plus que selon le sexe.",
+    "L’accessibilité et les besoins pratiques passent avant tout protocole."
+  ],
+  "exercise": {
+    "type": "case",
+    "title": "Huit à table",
+    "situation": "Vous recevez huit personnes (vous compris) : votre conjoint et vous ; Marguerite, 84 ans, légèrement malentendante, qui connaît tout le monde ; vos amis Léo et Sam, un couple très bavard ; Anna, collègue récemment arrivée qui ne connaît personne, et Hugo, fils de Marguerite, passionné d’astronomie, plutôt réservé ; et Jade, qui parle beaucoup d’astronomie depuis qu’elle en a fait son métier. La table est rectangulaire, avec trois places de chaque côté et une à chaque bout.",
+    "questions": [
+      "Qui placez-vous à votre droite, et pourquoi ?",
+      "Comment tenir compte de la surdité légère de Marguerite ?",
+      "Où placez-vous Léo et Sam ? Et Hugo ?"
+    ],
+    "modelAnswer": "Anna, qui ne connaît personne, a le plus besoin d’être auprès d’un hôte. Marguerite, en revanche, mérite aussi une place d’honneur : on peut donc placer Marguerite à la droite d’un des hôtes, et Anna à la droite de l’autre.\n\nMarguerite doit être placée de sorte qu’elle voie les visages : plutôt au centre d’un côté que tout au bout, et loin de la cuisine ou d’une source de bruit. Choisissez un voisin qui parlera distinctement et lui fera face.\n\nLéo et Sam peuvent être séparés, chacun animant une partie de la table ; ils sont assez à l’aise pour cela. Hugo et Jade ont un sujet commun, et placés côte à côte, le réservé Hugo risque moins de rester silencieux. Il n’y a pas de solution unique : l’important est que chaque choix réponde à une raison."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-5-2-2-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Dans le placement traditionnel, quelle est la place d’honneur ?",
+        "choices": [
+          "Le bout de la table",
+          "La droite de l’hôte",
+          "La place la plus proche de la cuisine",
+          "La gauche de l’hôte, toujours"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "La droite de l’hôte est traditionnellement la première place d’honneur, suivie de sa gauche. Les bouts de table sont les moins honorifiques dans le placement à la française.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-5-2-2-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Respecter l’alternance entre femmes et hommes reste obligatoire pour réussir un dîner aujourd’hui.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : c’est un usage traditionnel qui avait pour but de varier les conversations. Dans un dîner contemporain, les affinités et les besoins sont de meilleurs critères, et il n’est pas toujours applicable.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-5-2-2-q3",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Une personne en fauteuil roulant vient dîner. La meilleure manière de faire est de :",
+        "choices": [
+          "Attendre qu’elle arrive pour voir ce qu’il faut faire",
+          "Lui attribuer la place d’honneur, même peu accessible",
+          "Lui demander à l’avance où elle sera le plus à l’aise et préparer le passage",
+          "La placer au bout de la table, près de la porte, sans lui demander"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Demander à l’avance et préparer l’espace permet qu’elle n’ait rien à expliquer devant tous. La décider seul, même bien intentionné, revient à présumer de ses besoins.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-5-2-2-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Laquelle de ces décisions de placement est la plus discutable ?",
+        "choices": [
+          "Placer un timide à côté d’une personne chaleureuse et attentive aux autres",
+          "Mettre deux anciens conjoints en conflit face à face, pour les inciter à se parler",
+          "Rapprocher deux convives qui partagent une passion",
+          "Installer une personne malentendante au centre d’un côté, face aux visages"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Jouer les médiateurs par le plan de table impose à deux personnes une proximité qu’elles n’ont pas choisie, et à tous les autres un malaise. Les autres choix facilitent l’échange et le confort.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-5-2-2-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle différence y a-t-il entre le placement « à la française » et « à l’anglaise » ?",
+        "choices": [
+          "À la française, les hôtes se font face au milieu des grands côtés ; à l’anglaise, ils occupent les bouts de table",
+          "À l’anglaise, les hôtes sont côte à côte au milieu d’un grand côté, et à la française aux bouts",
+          "À la française, on ne fait pas de plan",
+          "Ce sont deux noms pour la même chose, selon que le repas est privé ou officiel"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Les deux disposent différemment les hôtes : au centre des grands côtés à la française, ce qui rapproche les convives de la conversation, et en bout de table à l’anglaise, ce qui présente une allure plus solennelle.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Alexandre Grimod de La Reynière",
+      "title": "Manuel des amphitryons",
+      "year": "1808",
+      "note": "Source historique sur l’art de recevoir."
+    },
+    {
+      "author": "Jean Serres",
+      "title": "Manuel pratique de protocole",
+      "publisher": "Éditions de l’Arbre",
+      "note": "Sur les usages formels de placement."
+    },
+    {
+      "author": "Baronne Staffe",
+      "title": "Usages du monde",
+      "year": "1889",
+      "note": "Source historique."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

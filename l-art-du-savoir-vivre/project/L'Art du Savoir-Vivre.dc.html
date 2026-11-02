@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/regular/style.css">
+<link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/fill/style.css">
+<style>
+body{margin:0;background:#FAF7F0;color:#3A3D45;font-family:'Source Sans 3',system-ui,sans-serif;font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}
+button{font-family:inherit}
+a{color:#7A5E22;text-underline-offset:3px}
+a:hover{color:#1D2640}
+:focus-visible{outline:2px solid #7A5E22;outline-offset:2px;border-radius:4px}
+::selection{background:#F4EBD6;color:#1D2640}
+@keyframes svIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+</helmet>
+<div style="display:flex;min-height:100vh;background:#FAF7F0">
+
+<sc-if value="{{ wide }}" hint-placeholder-val="{{ true }}">
+<aside style="flex:0 0 264px;position:sticky;top:0;height:100vh;overflow-y:auto;background:#F2ECDF;border-right:1px solid #E5DCCB;padding:32px 18px 24px;display:flex;flex-direction:column;gap:28px">
+  <div style="padding:0 10px;display:flex;flex-direction:column;gap:6px">
+    <div style="width:28px;height:1px;background:#B08D45"></div>
+    <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:27px;line-height:1.05;color:#1D2640;font-weight:600">L'Art du<br><span style="font-style:italic;font-weight:500">Savoir-Vivre</span></div>
+    <div style="font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#5C606B;font-weight:600">Encyclopédie des usages</div>
+  </div>
+  <nav aria-label="Navigation principale" style="display:flex;flex-direction:column;gap:2px">
+    <sc-for list="{{ nav }}" as="item" hint-placeholder-count="8">
+      <button type="button" onClick="{{ item.onClick }}" aria-current="{{ item.current }}" style="display:flex;align-items:center;gap:12px;min-height:44px;padding:0 12px;border-radius:5px;border:1px solid {{ item.bd }};background:{{ item.bg }};color:#1D2640;font-size:15px;font-weight:{{ item.fw }};text-align:left;cursor:pointer" style-hover="background:#FFFDF9">
+        <i class="ph {{ item.icon }}" style="font-size:19px;color:{{ item.ic }}"></i>{{ item.label }}
+      </button>
+    </sc-for>
+  </nav>
+  <div style="margin-top:auto;display:flex;flex-direction:column;gap:6px">
+    <div style="padding:0 12px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#5C606B;font-weight:600">Conception</div>
+    <button type="button" onClick="{{ goDs }}" style="display:flex;align-items:center;gap:12px;min-height:44px;padding:0 12px;border-radius:5px;border:1px solid {{ dsNav.bd }};background:{{ dsNav.bg }};color:#1D2640;font-size:15px;font-weight:{{ dsNav.fw }};text-align:left;cursor:pointer" style-hover="background:#FFFDF9"><i class="ph ph-swatches" style="font-size:19px;color:#7A5E22"></i>Design system</button>
+  </div>
+</aside>
+</sc-if>
+
+<main style="flex:1;min-width:0;display:flex;flex-direction:column">
+<sc-if value="{{ narrow }}" hint-placeholder-val="{{ false }}">
+  <header style="position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 18px;background:#FAF7F0;border-bottom:1px solid #E5DCCB">
+    <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;color:#1D2640;font-weight:600;line-height:1">L'Art du <span style="font-style:italic;font-weight:500">Savoir-Vivre</span></div>
+    <button type="button" onClick="{{ goDs }}" aria-label="Design system" style="width:44px;height:44px;border:1px solid #E5DCCB;border-radius:5px;background:#FFFDF9;color:#1D2640;cursor:pointer;display:flex;align-items:center;justify-content:center"><i class="ph ph-swatches" style="font-size:20px"></i></button>
+  </header>
+</sc-if>
+
+<div style="width:100%;max-width:1120px;margin:0 auto;padding:clamp(24px,4vw,56px) clamp(18px,4vw,56px) 120px;animation:{{ pageAnim }};zoom:{{ zoom }}">
+
+<!-- ============ DESIGN SYSTEM ============ -->
+<sc-if value="{{ is.ds }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:56px">
+  <header style="display:flex;flex-direction:column;gap:10px;max-width:720px">
+    <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Design system · v0.1</div>
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,56px);line-height:1.05;color:#1D2640">Une bibliothèque, pas un jeu.</h1>
+    <p style="margin:0;font-size:18px;color:#3A3D45;text-wrap:pretty">Des fonds de papier, une encre bleu nuit, l'or réservé aux filets et aux repères, le vert sauge pour ce qui est juste. La hiérarchie vient de la typographie et de l'espace, jamais de la saturation.</p>
+  </header>
+
+  <section style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:30px;color:#1D2640">Couleurs</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px">
+      <sc-for list="{{ swatches }}" as="s" hint-placeholder-count="12">
+        <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;overflow:hidden">
+          <div style="height:72px;background:{{ s.hex }};border-bottom:1px solid #E5DCCB;display:flex;align-items:flex-end;padding:8px 10px"><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;line-height:1;color:{{ s.on }}">Aa</span></div>
+          <div style="padding:10px 12px 12px;display:flex;flex-direction:column;gap:2px">
+            <div style="font-weight:600;color:#1D2640;font-size:15px">{{ s.name }}</div>
+            <div style="font-size:13px;color:#5C606B">{{ s.hex }} · {{ s.role }}</div>
+            <div style="font-size:12px;color:#3A3D45;font-weight:600">{{ s.ratio }}</div>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:30px;color:#1D2640">Typographie</h2>
+    <p style="margin:0;color:#5C606B;max-width:640px">Cormorant Garamond pour les titres — élégance de l'édition française. Source Sans 3 pour le texte courant — lisible dès 15 px, généreuse en interlignage.</p>
+    <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:8px 24px">
+      <sc-for list="{{ typeScale }}" as="t" hint-placeholder-count="7">
+        <div style="display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 24px;padding:16px 0;border-bottom:1px solid #EFE7D8">
+          <div style="flex:0 0 150px;font-size:12px;color:#5C606B;line-height:1.4"><span style="font-weight:600;color:#1D2640">{{ t.name }}</span><br>{{ t.spec }}</div>
+          <div style="flex:1;min-width:240px;font-family:{{ t.ff }};font-size:{{ t.size }};font-weight:{{ t.fw }};line-height:1.2;color:#1D2640;letter-spacing:{{ t.ls }};text-transform:{{ t.tt }}">{{ t.sample }}</div>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:30px;color:#1D2640">Boutons</h2>
+    <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:24px;display:flex;flex-wrap:wrap;gap:16px;align-items:center">
+      <button type="button" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 22px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#2E3A5C">Reprendre la leçon<i class="ph ph-arrow-right"></i></button>
+      <button type="button" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 22px;border-radius:4px;background:transparent;color:#1D2640;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#F2ECDF">Voir le domaine</button>
+      <button type="button" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 6px;background:transparent;color:#7A5E22;border:0;font-weight:600;font-size:15px;cursor:pointer;text-decoration:underline;text-underline-offset:4px" style-hover="color:#1D2640">Lire la nuance</button>
+      <button type="button" aria-label="Ajouter aux favoris" style="width:44px;height:44px;border-radius:4px;background:#FFFDF9;color:#7A5E22;border:1px solid #E5DCCB;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;font-size:20px" style-hover="background:#F2ECDF"><i class="ph ph-bookmark-simple"></i></button>
+      <button type="button" disabled style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 22px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;opacity:.4;cursor:not-allowed">Valider</button>
+      <span style="display:inline-flex;align-items:center;min-height:44px;padding:0 22px;border-radius:4px;border:1px solid #1D2640;color:#1D2640;font-weight:600;font-size:15px;outline:2px solid #7A5E22;outline-offset:2px">Focus clavier</span>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px 28px;font-size:13px;color:#5C606B"><span><strong style="color:#1D2640">Primaire</strong> — une seule par écran</span><span><strong style="color:#1D2640">Secondaire</strong> — contour encre</span><span><strong style="color:#1D2640">Lien</strong> — or profond, souligné</span><span><strong style="color:#1D2640">Focus</strong> — anneau or 2 px, décalé</span><span><strong style="color:#1D2640">Cible</strong> — 44 px minimum</span></div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:30px;color:#1D2640">Badges de niveau &amp; statuts</h2>
+    <p style="margin:0;color:#5C606B;max-width:640px">Le niveau se lit par le mot et par le nombre de points pleins, jamais par la seule couleur.</p>
+    <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:24px;display:flex;flex-direction:column;gap:20px">
+      <div style="display:flex;flex-wrap:wrap;gap:12px">
+        <sc-for list="{{ levelBadges }}" as="b" hint-placeholder-count="3">
+          <span style="display:inline-flex;align-items:center;gap:8px;padding:4px 12px 4px 10px;border-radius:999px;border:1px solid {{ b.bd }};background:{{ b.bg }};color:{{ b.fg }};font-size:13px;font-weight:600;line-height:1.4">
+            <span aria-hidden="true" style="display:inline-flex;gap:3px"><sc-for list="{{ b.dots }}" as="d"><span style="width:7px;height:7px;border-radius:50%;border:1px solid {{ b.fg }};background:{{ d.c }}"></span></sc-for></span>{{ b.label }}
+          </span>
+        </sc-for>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:12px 24px">
+        <span style="display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;color:#476046"><i class="ph-fill ph-check-circle" style="font-size:18px"></i>Terminée</span>
+        <span style="display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;color:#7A5E22"><i class="ph ph-circle-half" style="font-size:18px"></i>En cours</span>
+        <span style="display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;color:#5C606B"><i class="ph ph-circle" style="font-size:18px"></i>À découvrir</span>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:10px">
+        <span style="display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:4px;background:#EAF0E6;color:#3E5A3D;font-size:13px;font-weight:600"><i class="ph ph-check"></i>Recommandé</span>
+        <span style="display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:4px;background:#F5EDDA;color:#6E5520;font-size:13px;font-weight:600"><i class="ph ph-minus"></i>Acceptable</span>
+        <span style="display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:4px;background:#F6E6DF;color:#8A3F2A;font-size:13px;font-weight:600"><i class="ph ph-x"></i>À éviter</span>
+        <span style="display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:4px;border:1px solid #E5DCCB;color:#3A3D45;font-size:13px;font-weight:600">8 min de lecture</span>
+      </div>
+    </div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:30px;color:#1D2640">Cartes</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px">
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:22px;display:flex;flex-direction:column;gap:10px">
+        <div style="display:flex;justify-content:space-between;align-items:baseline"><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;color:#7A5E22">04</span><i class="ph ph-fork-knife" style="font-size:22px;color:#1D2640"></i></div>
+        <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;line-height:1.15;color:#1D2640;font-weight:600">Usages et bonnes manières</div>
+        <div style="font-size:14px;color:#5C606B">Carte domaine — fond blanc cassé, filet beige, numéro en or.</div>
+      </div>
+      <div style="background:#F2ECDF;border-radius:6px;padding:22px;display:flex;flex-direction:column;gap:10px">
+        <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#476046">Défi du jour</div>
+        <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;line-height:1.15;color:#1D2640;font-weight:600">Carte de mise en avant</div>
+        <div style="font-size:14px;color:#3A3D45">Fond crème sans bordure : un seul usage par écran.</div>
+      </div>
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:22px;display:flex;flex-direction:column;gap:10px;box-shadow:0 1px 2px rgba(29,38,64,.04),0 8px 24px -12px rgba(29,38,64,.14)">
+        <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#7A5E22">Élevée</div>
+        <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;line-height:1.15;color:#1D2640;font-weight:600">Carte interactive</div>
+        <div style="font-size:14px;color:#5C606B">Ombre douce, teintée d'encre — pour ce qui se clique.</div>
+      </div>
+    </div>
+  </section>
+</div>
+</sc-if>
+
+<!-- ============ ACCUEIL ============ -->
+<sc-if value="{{ is.home }}" hint-placeholder-val="{{ true }}">
+<div style="display:flex;flex-direction:column;gap:48px">
+  <header style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:20px">
+    <div style="display:flex;flex-direction:column;gap:8px">
+      <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Dimanche 1er novembre</div>
+      <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,54px);line-height:1.05;color:#1D2640">Bonsoir, Claire.</h1>
+      <p style="margin:0;color:#5C606B;max-width:520px">« La politesse est à l'esprit ce que la grâce est au visage. » — Voltaire</p>
+    </div>
+  </header>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:20px">
+    <article style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:28px;display:flex;flex-direction:column;gap:16px;box-shadow:0 1px 2px rgba(29,38,64,.04),0 8px 24px -12px rgba(29,38,64,.14)">
+      <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px">
+        <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#7A5E22">Reprendre là où vous étiez</div>
+        <span style="display:inline-flex;align-items:center;gap:8px;padding:3px 11px 3px 9px;border-radius:999px;border:1px solid #E0CFA6;background:#F5EDDA;color:#6E5520;font-size:12px;font-weight:600"><span aria-hidden="true" style="display:inline-flex;gap:3px"><span style="width:6px;height:6px;border-radius:50%;border:1px solid #6E5520;background:#6E5520"></span><span style="width:6px;height:6px;border-radius:50%;border:1px solid #6E5520;background:#6E5520"></span><span style="width:6px;height:6px;border-radius:50%;border:1px solid #6E5520"></span></span>Intermédiaire</span>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:6px">
+        <div style="font-size:14px;color:#5C606B">Usages et bonnes manières</div>
+        <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:30px;line-height:1.1;color:#1D2640">Les couverts et le dressage de la table</h2>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:6px">
+        <div style="height:3px;background:#EFE7D8;border-radius:2px;overflow:hidden"><div style="width:60%;height:100%;background:#B08D45"></div></div>
+        <div style="font-size:13px;color:#5C606B">60 % lu · environ 4 minutes restantes</div>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:4px">
+        <button type="button" onClick="{{ goLesson }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 22px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#2E3A5C">Reprendre la leçon<i class="ph ph-arrow-right"></i></button>
+      </div>
+    </article>
+
+    <article style="background:#F2ECDF;border-radius:6px;padding:28px;display:flex;flex-direction:column;gap:14px">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:10px">
+        <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#476046">Défi du jour</div>
+        <span style="font-size:13px;color:#3A3D45;display:inline-flex;align-items:center;gap:6px"><i class="ph ph-clock"></i>3 min</span>
+      </div>
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:30px;line-height:1.1;color:#1D2640">Un plat que vous n'aimez pas</h2>
+      <p style="margin:0;color:#3A3D45;text-wrap:pretty">Premier dîner chez vos beaux-parents. On vous sert sa spécialité — et c'est le seul plat que vous ne supportez pas. Que faites-vous ?</p>
+      <div style="margin-top:auto"><button type="button" onClick="{{ goSituation }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 22px;border-radius:4px;background:transparent;color:#1D2640;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#FAF7F0">Relever le défi</button></div>
+    </article>
+  </div>
+
+  <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:20px;align-items:start">
+    <div style="display:flex;flex-direction:column;gap:10px">
+      <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#7A5E22">Votre parcours</div>
+      <div style="display:flex;align-items:baseline;gap:10px"><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:64px;line-height:1;color:#1D2640;font-weight:500">29 %</span></div>
+      <p style="margin:0;color:#3A3D45">28 leçons lues sur 96, dans 8 domaines. Aucun ordre imposé : on lit ici comme dans un bon livre.</p>
+      <button type="button" onClick="{{ goProgress }}" style="align-self:flex-start;min-height:44px;padding:0;background:transparent;border:0;color:#7A5E22;font-weight:600;font-size:15px;cursor:pointer;text-decoration:underline;text-underline-offset:4px" style-hover="color:#1D2640">Voir ma progression détaillée</button>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div style="display:flex;justify-content:space-between;font-size:13px;color:#5C606B"><span>Par niveau</span><span>Leçons lues</span></div>
+      <sc-for list="{{ levelStats }}" as="ls" hint-placeholder-count="3">
+        <div style="display:flex;flex-direction:column;gap:6px">
+          <div style="display:flex;justify-content:space-between;font-size:15px"><span style="color:#1D2640;font-weight:600">{{ ls.label }}</span><span style="color:#3A3D45">{{ ls.txt }}</span></div>
+          <div style="height:3px;background:#EFE7D8;border-radius:2px;overflow:hidden"><div style="width:{{ ls.pct }};height:100%;background:{{ ls.c }}"></div></div>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:20px">
+    <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:10px">
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:34px;color:#1D2640">Les huit domaines</h2>
+      <span style="font-size:14px;color:#5C606B">Chacun en trois niveaux : Débutant, Intermédiaire, Avancé</span>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr));gap:14px">
+      <sc-for list="{{ domains }}" as="d" hint-placeholder-count="8">
+        <button type="button" onClick="{{ d.onClick }}" style="text-align:left;background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:20px;display:flex;flex-direction:column;gap:10px;cursor:pointer;color:inherit;font:inherit;transition:box-shadow .2s,border-color .2s" style-hover="border-color:#D3C5AC;box-shadow:0 1px 2px rgba(29,38,64,.04),0 8px 24px -12px rgba(29,38,64,.16)">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;width:100%"><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;color:#7A5E22">{{ d.num }}</span><i class="ph {{ d.icon }}" style="font-size:22px;color:#1D2640"></i></div>
+          <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;line-height:1.15;color:#1D2640;font-weight:600">{{ d.title }}</div>
+          <div style="font-size:14px;color:#5C606B;line-height:1.45;flex:1">{{ d.desc }}</div>
+          <div style="width:100%;display:flex;flex-direction:column;gap:6px;margin-top:4px">
+            <div style="height:2px;background:#EFE7D8;overflow:hidden"><div style="width:{{ d.pctW }};height:100%;background:#B08D45"></div></div>
+            <div style="display:flex;justify-content:space-between;font-size:12px;color:#5C606B"><span>{{ d.read }}</span><span style="font-weight:600;color:#3A3D45">{{ d.pctW }}</span></div>
+          </div>
+        </button>
+      </sc-for>
+    </div>
+  </section>
+</div>
+</sc-if>
+
+<!-- ============ DOMAINE ============ -->
+<sc-if value="{{ is.domain }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:44px">
+  <nav aria-label="Fil d'Ariane" style="display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:14px;color:#5C606B"><button type="button" onClick="{{ goHome }}" style="background:none;border:0;padding:0;color:#7A5E22;font:inherit;cursor:pointer;text-decoration:underline;text-underline-offset:3px">Accueil</button><i class="ph ph-caret-right" style="font-size:12px"></i><span>Apprendre</span><i class="ph ph-caret-right" style="font-size:12px"></i><span aria-current="page" style="color:#1D2640">Usages et bonnes manières</span></nav>
+  <header style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:24px 48px;align-items:end">
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Domaine 04</div>
+      <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(40px,5.5vw,60px);line-height:1;color:#1D2640">Usages et bonnes manières</h1>
+      <p style="margin:0;font-size:18px;color:#3A3D45;text-wrap:pretty">Saluer, remercier, se tenir à table, céder le passage : les gestes du quotidien qui rendent la vie commune plus douce. On ne les apprend pas pour briller, mais pour mettre l'autre à l'aise.</p>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:10px;padding-bottom:6px">
+      <div style="display:flex;flex-wrap:wrap;gap:8px 24px;font-size:15px;color:#3A3D45"><span><strong style="color:#1D2640">12</strong> leçons</span><span><strong style="color:#1D2640">5</strong> lues</span><span><strong style="color:#1D2640">1 h 40</strong> de lecture</span></div>
+      <div style="height:3px;background:#EFE7D8;border-radius:2px;overflow:hidden"><div style="width:42%;height:100%;background:#B08D45"></div></div>
+      <div style="font-size:13px;color:#5C606B">42 % du domaine parcouru</div>
+    </div>
+  </header>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:18px;align-items:start">
+    <sc-for list="{{ levels }}" as="lv" hint-placeholder-count="3">
+      <section style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;display:flex;flex-direction:column">
+        <div style="padding:24px 24px 18px;display:flex;flex-direction:column;gap:12px;border-bottom:1px solid #EFE7D8">
+          <span style="align-self:flex-start;display:inline-flex;align-items:center;gap:8px;padding:4px 12px 4px 10px;border-radius:999px;border:1px solid {{ lv.badge.bd }};background:{{ lv.badge.bg }};color:{{ lv.badge.fg }};font-size:13px;font-weight:600"><span aria-hidden="true" style="display:inline-flex;gap:3px"><sc-for list="{{ lv.badge.dots }}" as="dt"><span style="width:7px;height:7px;border-radius:50%;border:1px solid {{ lv.badge.fg }};background:{{ dt.c }}"></span></sc-for></span>{{ lv.badge.label }}</span>
+          <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:27px;line-height:1.1;color:#1D2640">{{ lv.title }}</h2>
+          <p style="margin:0;font-size:15px;color:#3A3D45;line-height:1.5">{{ lv.desc }}</p>
+          <div style="font-size:13px;color:#5C606B">{{ lv.count }}</div>
+        </div>
+        <ol style="list-style:none;margin:0;padding:6px 10px 10px;display:flex;flex-direction:column">
+          <sc-for list="{{ lv.lessons }}" as="ls" hint-placeholder-count="4">
+            <li>
+              <button type="button" onClick="{{ ls.onClick }}" style="width:100%;text-align:left;display:flex;gap:12px;align-items:flex-start;padding:12px 14px;border-radius:5px;border:0;background:transparent;cursor:pointer;color:inherit" style-hover="background:#F7F2E8">
+                <i class="{{ ls.icon }}" style="font-size:19px;color:{{ ls.color }};margin-top:2px"></i>
+                <span style="flex:1;display:flex;flex-direction:column;gap:2px">
+                  <span style="font-size:16px;color:#1D2640;font-weight:500;line-height:1.35">{{ ls.title }}</span>
+                  <span style="font-size:13px;color:#5C606B">{{ ls.status }} · {{ ls.dur }}</span>
+                </span>
+              </button>
+            </li>
+          </sc-for>
+        </ol>
+      </section>
+    </sc-for>
+  </div>
+
+  <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:18px">
+    <button type="button" onClick="{{ goSituation }}" style="text-align:left;background:#F2ECDF;border:0;border-radius:6px;padding:22px 24px;display:flex;gap:16px;align-items:center;cursor:pointer;color:inherit" style-hover="background:#ECE4D3">
+      <i class="ph ph-users-three" style="font-size:28px;color:#476046"></i>
+      <span style="flex:1;display:flex;flex-direction:column;gap:2px"><span style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#476046">Mettre en pratique</span><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;color:#1D2640;font-weight:600">4 situations pratiques liées</span></span>
+      <i class="ph ph-arrow-right" style="font-size:20px;color:#1D2640"></i>
+    </button>
+    <button type="button" onClick="{{ goQuiz }}" style="text-align:left;background:#F2ECDF;border:0;border-radius:6px;padding:22px 24px;display:flex;gap:16px;align-items:center;cursor:pointer;color:inherit" style-hover="background:#ECE4D3">
+      <i class="ph ph-seal-question" style="font-size:28px;color:#7A5E22"></i>
+      <span style="flex:1;display:flex;flex-direction:column;gap:2px"><span style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#7A5E22">Vérifier ses acquis</span><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;color:#1D2640;font-weight:600">Quiz du domaine · 5 questions</span></span>
+      <i class="ph ph-arrow-right" style="font-size:20px;color:#1D2640"></i>
+    </button>
+  </section>
+</div>
+</sc-if>
+
+<!-- ============ LEÇON ============ -->
+<sc-if value="{{ is.lesson }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;gap:56px;align-items:flex-start">
+<article style="flex:1;min-width:0;max-width:720px;display:flex;flex-direction:column;gap:44px">
+  <header style="display:flex;flex-direction:column;gap:16px">
+    <nav aria-label="Fil d'Ariane" style="display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:14px;color:#5C606B"><button type="button" onClick="{{ goDomain }}" style="background:none;border:0;padding:0;color:#7A5E22;font:inherit;cursor:pointer;text-decoration:underline;text-underline-offset:3px">Usages et bonnes manières</button><i class="ph ph-caret-right" style="font-size:12px"></i><span>Intermédiaire · Leçon 2 sur 4</span></nav>
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,56px);line-height:1.04;color:#1D2640;text-wrap:balance">Les couverts et le dressage de la table</h1>
+    <div style="display:flex;flex-wrap:wrap;align-items:center;gap:12px">
+      <span style="display:inline-flex;align-items:center;gap:8px;padding:3px 11px 3px 9px;border-radius:999px;border:1px solid #E0CFA6;background:#F5EDDA;color:#6E5520;font-size:12px;font-weight:600"><span aria-hidden="true" style="display:inline-flex;gap:3px"><span style="width:6px;height:6px;border-radius:50%;border:1px solid #6E5520;background:#6E5520"></span><span style="width:6px;height:6px;border-radius:50%;border:1px solid #6E5520;background:#6E5520"></span><span style="width:6px;height:6px;border-radius:50%;border:1px solid #6E5520"></span></span>Intermédiaire</span>
+      <span style="font-size:14px;color:#5C606B;display:inline-flex;align-items:center;gap:6px"><i class="ph ph-clock"></i>10 min de lecture</span>
+      <button type="button" onClick="{{ toggleFav }}" aria-pressed="{{ favPressed }}" style="margin-left:auto;display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 14px;border-radius:4px;border:1px solid #E5DCCB;background:#FFFDF9;color:#7A5E22;font-size:14px;font-weight:600;cursor:pointer" style-hover="background:#F2ECDF"><i class="{{ favIcon }}" style="font-size:18px"></i>{{ favLabel }}</button>
+    </div>
+  </header>
+
+  <section id="sec-obj" style="background:#F2ECDF;border-radius:6px;padding:24px 26px;display:flex;flex-direction:column;gap:12px">
+    <h2 style="margin:0;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#476046">Objectifs de la leçon</h2>
+    <ul style="margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px">
+      <li style="display:flex;gap:10px"><i class="ph ph-target" style="color:#476046;margin-top:4px"></i>Identifier la place de chaque couvert et de chaque verre.</li>
+      <li style="display:flex;gap:10px"><i class="ph ph-target" style="color:#476046;margin-top:4px"></i>Comprendre la logique « de l'extérieur vers l'intérieur ».</li>
+      <li style="display:flex;gap:10px"><i class="ph ph-target" style="color:#476046;margin-top:4px"></i>Savoir signaler une pause ou la fin du repas, sans un mot.</li>
+    </ul>
+  </section>
+
+  <section id="sec-exp" style="display:flex;flex-direction:column;gap:14px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Explication</h2>
+    <p style="margin:0;font-size:18px;line-height:1.7;text-wrap:pretty"><span style="float:left;font-family:'Cormorant Garamond',Georgia,serif;font-size:64px;line-height:.85;padding:6px 8px 0 0;color:#7A5E22">À</span> la française, une table se lit comme une partition : les couverts sont disposés dans l'ordre où l'on s'en servira, du plus éloigné de l'assiette vers le plus proche. Les fourchettes se placent à gauche, les couteaux à droite, lame tournée vers l'assiette, et la cuillère à soupe à droite des couteaux.</p>
+    <p style="margin:0;font-size:18px;line-height:1.7;text-wrap:pretty">Les couverts à dessert, eux, attendent au-dessus de l'assiette. Les verres s'alignent devant, de gauche à droite : le verre à eau, le plus grand, puis le verre à vin rouge, puis celui à vin blanc. Particularité bien française : les fourchettes sont posées <em>dents contre la nappe</em>.</p>
+    <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:10px">
+      <div style="aspect-ratio:16/7;border-radius:4px;background:repeating-linear-gradient(135deg,#F2ECDF 0 10px,#EFE7D8 10px 20px);display:flex;align-items:center;justify-content:center;color:#5C606B;font-size:13px;font-family:ui-monospace,Menlo,monospace;text-align:center;padding:12px">Illustration : table dressée vue de dessus, couverts annotés</div>
+      <div style="font-size:13px;color:#5C606B">Planche 1 — Le couvert d'un dîner en trois plats.</div>
+    </div>
+  </section>
+
+  <section id="sec-regles" style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Les règles essentielles</h2>
+    <ol style="margin:0;padding:0;list-style:none;display:flex;flex-direction:column">
+      <sc-for list="{{ rules }}" as="r" hint-placeholder-count="5">
+        <li style="display:flex;gap:20px;padding:18px 0;border-top:1px solid #E5DCCB">
+          <span style="flex:0 0 36px;font-family:'Cormorant Garamond',Georgia,serif;font-size:30px;line-height:1;color:#7A5E22">{{ r.n }}</span>
+          <span style="display:flex;flex-direction:column;gap:4px"><strong style="color:#1D2640;font-weight:600">{{ r.t }}</strong><span style="color:#3A3D45">{{ r.d }}</span></span>
+        </li>
+      </sc-for>
+    </ol>
+  </section>
+
+  <section id="sec-pourquoi" style="display:flex;flex-direction:column;gap:14px;padding:28px 0;border-top:1px solid #B08D45;border-bottom:1px solid #E5DCCB">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-style:italic;font-size:32px;color:#1D2640">Pourquoi cette règle existe</h2>
+    <p style="margin:0;font-size:18px;line-height:1.7;text-wrap:pretty">On rapporte que les fourchettes posées dents vers la nappe permettaient de montrer les armoiries gravées au dos de l'argenterie, tout en évitant d'accrocher les manchettes de dentelle. Quant aux mains visibles sur la table, l'usage remonte à une idée simple : un convive qui montre ses mains ne cache rien.</p>
+    <p style="margin:0;font-size:18px;line-height:1.7;text-wrap:pretty">Au fond, chaque règle sert le même but : que personne n'ait à se demander quoi faire. Une table bien dressée guide le convive sans qu'il ait besoin de demander.</p>
+  </section>
+
+  <section id="sec-comport" style="display:flex;flex-direction:column;gap:18px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Bons et mauvais comportements</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:16px">
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:20px 22px;display:flex;flex-direction:column;gap:12px">
+        <div style="display:inline-flex;align-items:center;gap:8px;font-weight:600;color:#3E5A3D"><i class="ph-fill ph-check-circle" style="font-size:20px"></i>À faire</div>
+        <sc-for list="{{ dos }}" as="x" hint-placeholder-count="4"><div style="display:flex;gap:10px;font-size:16px;line-height:1.5"><i class="ph ph-check" style="color:#476046;margin-top:4px"></i><span>{{ x }}</span></div></sc-for>
+      </div>
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:20px 22px;display:flex;flex-direction:column;gap:12px">
+        <div style="display:inline-flex;align-items:center;gap:8px;font-weight:600;color:#8A3F2A"><i class="ph-fill ph-x-circle" style="font-size:20px"></i>À éviter</div>
+        <sc-for list="{{ donts }}" as="x" hint-placeholder-count="4"><div style="display:flex;gap:10px;font-size:16px;line-height:1.5"><i class="ph ph-x" style="color:#9B4A32;margin-top:4px"></i><span>{{ x }}</span></div></sc-for>
+      </div>
+    </div>
+  </section>
+
+  <section id="sec-nuances" style="display:flex;flex-direction:column;gap:14px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Nuances</h2>
+    <sc-for list="{{ nuances }}" as="nu" hint-placeholder-count="3">
+      <div style="display:flex;gap:14px;align-items:flex-start"><i class="ph ph-scales" style="font-size:20px;color:#7A5E22;margin-top:3px"></i><p style="margin:0;font-size:17px;line-height:1.65"><strong style="color:#1D2640;font-weight:600">{{ nu.t }}</strong> {{ nu.d }}</p></div>
+    </sc-for>
+  </section>
+
+  <section id="sec-retenir" style="background:#1D2640;color:#FAF7F0;border-radius:6px;padding:28px;display:flex;flex-direction:column;gap:14px">
+    <h2 style="margin:0;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#E3CD9A">Points à retenir</h2>
+    <sc-for list="{{ keep }}" as="k" hint-placeholder-count="3">
+      <div style="display:flex;gap:14px;font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;line-height:1.3"><span style="color:#E3CD9A">—</span><span>{{ k }}</span></div>
+    </sc-for>
+  </section>
+
+  <footer style="display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;align-items:center;padding-top:8px;border-top:1px solid #E5DCCB">
+    <button type="button" onClick="{{ prevLesson }}" style="display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:8px 16px 8px 12px;border-radius:4px;background:transparent;border:1px solid #E5DCCB;color:#1D2640;font-size:14px;cursor:pointer;text-align:left" style-hover="background:#F2ECDF"><i class="ph ph-arrow-left" style="font-size:18px"></i><span style="display:flex;flex-direction:column;line-height:1.3"><span style="font-size:12px;color:#5C606B">Précédent</span><span style="font-weight:600">Le vouvoiement et le tutoiement</span></span></button>
+    <div style="display:flex;flex-wrap:wrap;gap:10px">
+      <button type="button" onClick="{{ toggleFav }}" aria-pressed="{{ favPressed }}" aria-label="{{ favLabel }}" style="width:44px;height:44px;border-radius:4px;background:#FFFDF9;color:#7A5E22;border:1px solid #E5DCCB;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;font-size:20px" style-hover="background:#F2ECDF"><i class="{{ favIcon }}"></i></button>
+      <button type="button" onClick="{{ goQuiz }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 20px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#2E3A5C"><i class="ph ph-seal-question"></i>Faire le quiz</button>
+    </div>
+    <button type="button" onClick="{{ nextLesson }}" style="display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:8px 12px 8px 16px;border-radius:4px;background:transparent;border:1px solid #E5DCCB;color:#1D2640;font-size:14px;cursor:pointer;text-align:right" style-hover="background:#F2ECDF"><span style="display:flex;flex-direction:column;line-height:1.3"><span style="font-size:12px;color:#5C606B">Suivant</span><span style="font-weight:600">L'ordre de service</span></span><i class="ph ph-arrow-right" style="font-size:18px"></i></button>
+  </footer>
+</article>
+<sc-if value="{{ wideLesson }}" hint-placeholder-val="{{ true }}">
+<aside style="flex:0 0 210px;position:sticky;top:40px;display:flex;flex-direction:column;gap:12px">
+  <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#5C606B">Dans cette leçon</div>
+  <nav aria-label="Sommaire de la leçon" style="display:flex;flex-direction:column;gap:2px;border-left:1px solid #E5DCCB">
+    <sc-for list="{{ toc }}" as="tc" hint-placeholder-count="7">
+      <button type="button" onClick="{{ tc.onClick }}" style="text-align:left;background:none;border:0;padding:6px 0 6px 14px;font-size:14px;color:#3A3D45;cursor:pointer" style-hover="color:#7A5E22">{{ tc.label }}</button>
+    </sc-for>
+  </nav>
+</aside>
+</sc-if>
+</div>
+</sc-if>
+
+<!-- ============ SITUATION ============ -->
+<sc-if value="{{ is.situation }}" hint-placeholder-val="{{ false }}">
+<div style="max-width:780px;display:flex;flex-direction:column;gap:36px">
+  <header style="display:flex;flex-direction:column;gap:12px">
+    <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#476046">Situation pratique · Recevoir et être reçu</div>
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,54px);line-height:1.04;color:#1D2640">Un plat que vous n'aimez pas</h1>
+  </header>
+  <section style="background:#F2ECDF;border-radius:6px;padding:28px;display:flex;flex-direction:column;gap:12px">
+    <div style="display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#3A3D45"><i class="ph ph-map-pin-line" style="font-size:16px"></i>Le contexte</div>
+    <p style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;line-height:1.4;color:#1D2640;text-wrap:pretty">Vous dînez pour la première fois chez les parents de votre compagne, à Lyon. Sa mère apporte fièrement sa spécialité : des rognons de veau à la moutarde. Vous ne supportez pas les abats. Elle vous sert une belle part, puis s'assied en attendant que chacun goûte.</p>
+  </section>
+  <section style="display:flex;flex-direction:column;gap:14px">
+    <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:30px;color:#1D2640">Que faites-vous ?</h2>
+    <div role="radiogroup" aria-label="Vos options" style="display:flex;flex-direction:column;gap:10px">
+      <sc-for list="{{ sitChoices }}" as="c" hint-placeholder-count="4">
+        <button type="button" role="radio" aria-checked="{{ c.checked }}" onClick="{{ c.onClick }}" style="text-align:left;display:flex;gap:16px;align-items:flex-start;padding:18px 20px;border-radius:6px;border:1px solid {{ c.bd }};background:{{ c.bg }};color:#3A3D45;cursor:pointer;opacity:{{ c.op }};transition:background .2s,border-color .2s" style-hover="border-color:#B08D45">
+          <span style="flex:0 0 30px;height:30px;border-radius:50%;border:1px solid #1D2640;display:flex;align-items:center;justify-content:center;font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;color:#1D2640;font-weight:600">{{ c.letter }}</span>
+          <span style="flex:1;display:flex;flex-direction:column;gap:8px">
+            <span style="font-size:17px;line-height:1.5;color:#1D2640">{{ c.text }}</span>
+            <sc-if value="{{ c.showVerdict }}"><span style="align-self:flex-start;display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:4px;background:{{ c.vbg }};color:{{ c.vfg }};font-size:13px;font-weight:600"><i class="ph {{ c.vicon }}"></i>{{ c.verdict }}</span></sc-if>
+          </span>
+        </button>
+      </sc-for>
+    </div>
+  </section>
+  <sc-if value="{{ sitFeedback }}" hint-placeholder-val="{{ false }}">
+    <section aria-live="polite" style="display:flex;flex-direction:column;gap:22px;animation:svIn .35s ease both">
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:26px 28px;display:flex;flex-direction:column;gap:12px">
+        <div style="display:flex;flex-wrap:wrap;align-items:center;gap:12px"><span style="display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:4px;background:{{ sitFeedback.vbg }};color:{{ sitFeedback.vfg }};font-size:13px;font-weight:600"><i class="ph {{ sitFeedback.vicon }}"></i>{{ sitFeedback.verdict }}</span><span style="font-size:14px;color:#5C606B">Votre choix : réponse {{ sitFeedback.letter }}</span></div>
+        <h3 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:26px;line-height:1.2;color:#1D2640">{{ sitFeedback.head }}</h3>
+        <p style="margin:0;font-size:17px;line-height:1.65;text-wrap:pretty">{{ sitFeedback.why }}</p>
+      </div>
+      <div style="padding:22px 0;border-top:1px solid #B08D45;display:flex;flex-direction:column;gap:10px">
+        <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#7A5E22">La règle en jeu</div>
+        <p style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-style:italic;font-size:24px;line-height:1.35;color:#1D2640">On ne commente pas défavorablement ce que l'on vous sert. Un repas est un présent : on remercie l'intention autant que le résultat.</p>
+        <p style="margin:0;font-size:16px;color:#3A3D45"><strong style="color:#1D2640">Nuance —</strong> une allergie, un régime médical, religieux ou végétarien se signalent à l'avance, au moment de l'invitation. Jamais une fois à table.</p>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:12px">
+        <button type="button" onClick="{{ resetSit }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 20px;border-radius:4px;background:transparent;color:#1D2640;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#F2ECDF"><i class="ph ph-arrow-counter-clockwise"></i>Rejouer</button>
+        <button type="button" onClick="{{ goLesson }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 20px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#2E3A5C">Lire la leçon associée<i class="ph ph-arrow-right"></i></button>
+      </div>
+    </section>
+  </sc-if>
+</div>
+</sc-if>
+
+<!-- ============ QUIZ ============ -->
+<sc-if value="{{ is.quiz }}" hint-placeholder-val="{{ false }}">
+<div style="max-width:760px;display:flex;flex-direction:column;gap:32px">
+  <header style="display:flex;flex-direction:column;gap:12px">
+    <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Quiz · Les couverts et le dressage de la table</div>
+    <sc-if value="{{ quizRunning }}" hint-placeholder-val="{{ true }}">
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <div style="display:flex;justify-content:space-between;font-size:14px;color:#5C606B"><span>Question {{ qNum }} sur {{ qTotal }}</span><span>{{ qAnswered }}</span></div>
+        <div role="progressbar" aria-valuemin="0" aria-valuemax="{{ qTotal }}" aria-valuenow="{{ qNum }}" style="display:flex;gap:4px"><sc-for list="{{ qSteps }}" as="st"><div style="flex:1;height:3px;border-radius:2px;background:{{ st.c }}"></div></sc-for></div>
+      </div>
+    </sc-if>
+  </header>
+
+  <sc-if value="{{ quizRunning }}" hint-placeholder-val="{{ true }}">
+  <section style="display:flex;flex-direction:column;gap:22px">
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(30px,4vw,40px);line-height:1.15;color:#1D2640;text-wrap:balance">{{ q.q }}</h1>
+    <div role="radiogroup" aria-label="Réponses" style="display:flex;flex-direction:column;gap:10px">
+      <sc-for list="{{ qOpts }}" as="o" hint-placeholder-count="4">
+        <button type="button" role="radio" aria-checked="{{ o.checked }}" onClick="{{ o.onClick }}" style="text-align:left;display:flex;gap:16px;align-items:center;padding:16px 18px;border-radius:6px;border:1px solid {{ o.bd }};background:{{ o.bg }};color:#1D2640;cursor:pointer;opacity:{{ o.op }};font-size:17px;line-height:1.45" style-hover="border-color:#B08D45">
+          <span style="flex:0 0 30px;height:30px;border-radius:50%;border:1px solid #1D2640;background:{{ o.dotBg }};color:{{ o.dotFg }};display:flex;align-items:center;justify-content:center;font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;font-weight:600">{{ o.letter }}</span>
+          <span style="flex:1">{{ o.text }}</span>
+          <sc-if value="{{ o.mark }}"><span style="display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:{{ o.markFg }};white-space:nowrap"><i class="ph-fill {{ o.markIcon }}" style="font-size:18px"></i>{{ o.mark }}</span></sc-if>
+        </button>
+      </sc-for>
+    </div>
+    <sc-if value="{{ qFeedback }}" hint-placeholder-val="{{ false }}">
+      <div aria-live="polite" style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:20px 22px;display:flex;flex-direction:column;gap:8px;animation:svIn .3s ease both">
+        <div style="display:inline-flex;align-items:center;gap:8px;font-weight:600;color:{{ qFeedback.fg }}"><i class="ph-fill {{ qFeedback.icon }}" style="font-size:20px"></i>{{ qFeedback.title }}</div>
+        <p style="margin:0;font-size:16px;line-height:1.6">{{ q.why }}</p>
+      </div>
+    </sc-if>
+    <div style="display:flex;justify-content:flex-end;gap:12px">
+      <sc-if value="{{ showValidate }}" hint-placeholder-val="{{ true }}">
+        <button type="button" onClick="{{ validate }}" disabled="{{ noPick }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 24px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer;opacity:{{ validateOp }}" style-hover="background:#2E3A5C">Valider ma réponse</button>
+      </sc-if>
+      <sc-if value="{{ showNext }}" hint-placeholder-val="{{ false }}">
+        <button type="button" onClick="{{ nextQ }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 24px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#2E3A5C">{{ nextLabel }}<i class="ph ph-arrow-right"></i></button>
+      </sc-if>
+    </div>
+  </section>
+  </sc-if>
+
+  <sc-if value="{{ quizDone }}" hint-placeholder-val="{{ false }}">
+  <section style="display:flex;flex-direction:column;gap:32px;animation:svIn .35s ease both">
+    <div style="display:flex;flex-wrap:wrap;align-items:flex-end;gap:16px 32px">
+      <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:88px;line-height:.9;color:#1D2640;font-weight:500">{{ score }}<span style="font-size:40px;color:#5C606B"> / {{ qTotal }}</span></div>
+      <div style="flex:1;min-width:240px;display:flex;flex-direction:column;gap:6px">
+        <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:30px;line-height:1.15;color:#1D2640">{{ scoreTitle }}</h1>
+        <p style="margin:0;color:#3A3D45">{{ scoreMsg }}</p>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column">
+      <h2 style="margin:0 0 6px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#7A5E22">Correction détaillée</h2>
+      <sc-for list="{{ results }}" as="r" hint-placeholder-count="5">
+        <article style="padding:22px 0;border-top:1px solid #E5DCCB;display:flex;gap:18px">
+          <span style="flex:0 0 32px;font-family:'Cormorant Garamond',Georgia,serif;font-size:28px;line-height:1;color:#7A5E22">{{ r.n }}</span>
+          <div style="flex:1;display:flex;flex-direction:column;gap:10px">
+            <div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 16px;align-items:baseline"><h3 style="margin:0;font-size:18px;font-weight:600;color:#1D2640;line-height:1.4">{{ r.q }}</h3><span style="display:inline-flex;align-items:center;gap:6px;padding:2px 10px;border-radius:4px;background:{{ r.bg }};color:{{ r.fg }};font-size:13px;font-weight:600"><i class="ph {{ r.icon }}"></i>{{ r.status }}</span></div>
+            <div style="display:flex;flex-direction:column;gap:4px;font-size:15px">
+              <div><span style="color:#5C606B">Votre réponse : </span><span style="color:#1D2640">{{ r.yours }}</span></div>
+              <sc-if value="{{ r.wrong }}"><div><span style="color:#5C606B">Bonne réponse : </span><span style="color:#3E5A3D;font-weight:600">{{ r.right }}</span></div></sc-if>
+            </div>
+            <p style="margin:0;font-size:15px;line-height:1.6;color:#3A3D45">{{ r.why }}</p>
+          </div>
+        </article>
+      </sc-for>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:12px">
+      <button type="button" onClick="{{ restartQuiz }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 20px;border-radius:4px;background:transparent;color:#1D2640;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#F2ECDF"><i class="ph ph-arrow-counter-clockwise"></i>Recommencer</button>
+      <button type="button" onClick="{{ goLesson }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 20px;border-radius:4px;background:#1D2640;color:#FAF7F0;border:1px solid #1D2640;font-weight:600;font-size:15px;cursor:pointer" style-hover="background:#2E3A5C">Relire la leçon</button>
+    </div>
+  </section>
+  </sc-if>
+</div>
+</sc-if>
+
+<!-- ============ FICHE PAYS ============ -->
+<sc-if value="{{ is.country }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:48px">
+  <header style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:24px 48px;align-items:end;padding-bottom:32px;border-bottom:1px solid #E5DCCB">
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Culture et usages · Asie</div>
+      <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(48px,7vw,84px);line-height:.95;color:#1D2640">Japon</h1>
+      <p style="margin:0;font-size:18px;color:#3A3D45;text-wrap:pretty;max-width:520px">Une société où l'harmonie du groupe prime, et où la retenue est une forme d'égard. On n'attend pas d'un étranger qu'il maîtrise tous les codes — mais l'effort est remarqué, et apprécié.</p>
+    </div>
+    <dl style="margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px 24px">
+      <div><dt style="font-size:12px;color:#5C606B;letter-spacing:.08em;text-transform:uppercase">Salut</dt><dd style="margin:2px 0 0;color:#1D2640;font-weight:600">L'inclinaison (ojigi)</dd></div>
+      <div><dt style="font-size:12px;color:#5C606B;letter-spacing:.08em;text-transform:uppercase">Pourboire</dt><dd style="margin:2px 0 0;color:#1D2640;font-weight:600">Pas d'usage</dd></div>
+      <div><dt style="font-size:12px;color:#5C606B;letter-spacing:.08em;text-transform:uppercase">Ponctualité</dt><dd style="margin:2px 0 0;color:#1D2640;font-weight:600">Exactitude attendue</dd></div>
+      <div><dt style="font-size:12px;color:#5C606B;letter-spacing:.08em;text-transform:uppercase">Chaussures</dt><dd style="margin:2px 0 0;color:#1D2640;font-weight:600">Retirées à l'intérieur</dd></div>
+    </dl>
+  </header>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr));gap:18px">
+    <sc-for list="{{ countryCards }}" as="cc" hint-placeholder-count="6">
+      <section style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;padding:24px;display:flex;flex-direction:column;gap:12px">
+        <div style="display:flex;align-items:center;gap:10px"><i class="ph {{ cc.icon }}" style="font-size:22px;color:#7A5E22"></i><h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;font-size:25px;color:#1D2640">{{ cc.title }}</h2></div>
+        <ul style="margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:10px">
+          <sc-for list="{{ cc.items }}" as="it"><li style="display:flex;gap:10px;font-size:16px;line-height:1.55"><span style="color:#B08D45;flex:none">—</span><span>{{ it }}</span></li></sc-for>
+        </ul>
+      </section>
+    </sc-for>
+  </div>
+
+  <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:32px 48px;align-items:start">
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Comparé à la France</h2>
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;overflow-x:auto">
+        <table style="width:100%;border-collapse:collapse;font-size:15px">
+          <thead><tr style="background:#F2ECDF"><th scope="col" style="text-align:left;padding:12px 16px;font-weight:600;color:#1D2640">Usage</th><th scope="col" style="text-align:left;padding:12px 16px;font-weight:600;color:#1D2640">France</th><th scope="col" style="text-align:left;padding:12px 16px;font-weight:600;color:#1D2640">Japon</th></tr></thead>
+          <tbody>
+            <sc-for list="{{ compare }}" as="cp" hint-placeholder-count="5"><tr style="border-top:1px solid #EFE7D8"><th scope="row" style="text-align:left;padding:12px 16px;font-weight:600;color:#3A3D45">{{ cp.k }}</th><td style="padding:12px 16px;color:#3A3D45">{{ cp.fr }}</td><td style="padding:12px 16px;color:#1D2640">{{ cp.jp }}</td></tr></sc-for>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Phrases utiles</h2>
+      <div style="display:flex;flex-direction:column">
+        <sc-for list="{{ phrases }}" as="ph" hint-placeholder-count="4">
+          <div style="padding:14px 0;border-top:1px solid #E5DCCB;display:flex;flex-direction:column;gap:2px"><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;font-style:italic;color:#1D2640">{{ ph.jp }}</span><span style="font-size:15px;color:#5C606B">{{ ph.fr }}</span></div>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+</div>
+</sc-if>
+
+<!-- ============ MA PROGRESSION ============ -->
+<sc-if value="{{ is.progress }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:48px">
+  <header style="display:flex;flex-direction:column;gap:12px;max-width:680px">
+    <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Ma progression</div>
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,56px);line-height:1.04;color:#1D2640">Votre carnet de lecture</h1>
+    <p style="margin:0;font-size:18px;color:#3A3D45;text-wrap:pretty">Ce que vous avez lu, pratiqué et vérifié. Aucun classement, aucune série à tenir : seulement de quoi savoir où reprendre.</p>
+  </header>
+
+  <dl style="margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:0;border-top:1px solid #B08D45;border-bottom:1px solid #E5DCCB">
+    <sc-for list="{{ progStats }}" as="ps" hint-placeholder-count="4">
+      <div style="padding:22px 20px 22px 0;display:flex;flex-direction:column;gap:4px">
+        <dt style="font-size:13px;color:#5C606B;order:2">{{ ps.label }}</dt>
+        <dd style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-size:44px;line-height:1;color:#1D2640;font-weight:500;order:1">{{ ps.value }}</dd>
+      </div>
+    </sc-for>
+  </dl>
+
+  <section style="display:flex;flex-direction:column;gap:16px">
+    <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:10px">
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Par domaine et par niveau</h2>
+      <span style="font-size:14px;color:#5C606B">Leçons lues sur 4, pour chaque niveau</span>
+    </div>
+    <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px;overflow-x:auto">
+      <div style="min-width:560px">
+        <div style="display:grid;grid-template-columns:minmax(200px,1.6fr) repeat(3,minmax(0,1fr));gap:16px;padding:12px 20px;background:#F2ECDF;font-size:13px;font-weight:600;color:#1D2640">
+          <span>Domaine</span>
+          <sc-for list="{{ levelBadges }}" as="b"><span style="display:inline-flex;align-items:center;gap:6px"><span aria-hidden="true" style="display:inline-flex;gap:3px"><sc-for list="{{ b.dots }}" as="d"><span style="width:6px;height:6px;border-radius:50%;border:1px solid #1D2640;background:{{ d.c2 }}"></span></sc-for></span>{{ b.label }}</span></sc-for>
+        </div>
+        <sc-for list="{{ progRows }}" as="pr" hint-placeholder-count="8">
+          <button type="button" onClick="{{ pr.onClick }}" style="width:100%;display:grid;grid-template-columns:minmax(200px,1.6fr) repeat(3,minmax(0,1fr));gap:16px;align-items:center;padding:14px 20px;border:0;border-top:1px solid #EFE7D8;background:transparent;text-align:left;cursor:pointer;color:inherit" style-hover="background:#F7F2E8">
+            <span style="display:flex;align-items:center;gap:12px"><span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;color:#7A5E22;flex:0 0 22px">{{ pr.num }}</span><span style="font-size:16px;color:#1D2640;font-weight:500;line-height:1.3">{{ pr.title }}</span></span>
+            <sc-for list="{{ pr.cells }}" as="ce">
+              <span style="display:flex;flex-direction:column;gap:6px">
+                <span style="display:flex;gap:3px" aria-hidden="true"><sc-for list="{{ ce.ticks }}" as="tk"><span style="flex:1;height:4px;border-radius:1px;background:{{ tk.c }}"></span></sc-for></span>
+                <span style="font-size:13px;color:{{ ce.fg }};font-weight:{{ ce.fw }}">{{ ce.txt }}</span>
+              </span>
+            </sc-for>
+          </button>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:32px 48px;align-items:start">
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">Activité récente</h2>
+      <ol style="margin:0;padding:0;list-style:none;display:flex;flex-direction:column">
+        <sc-for list="{{ activity }}" as="ac" hint-placeholder-count="5">
+          <li style="display:flex;gap:14px;padding:14px 0;border-top:1px solid #E5DCCB">
+            <i class="ph {{ ac.icon }}" style="font-size:20px;color:#7A5E22;margin-top:2px"></i>
+            <span style="flex:1;display:flex;flex-direction:column;gap:2px"><span style="font-size:16px;color:#1D2640;font-weight:500;line-height:1.35">{{ ac.title }}</span><span style="font-size:13px;color:#5C606B">{{ ac.kind }} · {{ ac.meta }}</span></span>
+            <span style="font-size:13px;color:#5C606B;white-space:nowrap">{{ ac.when }}</span>
+          </li>
+        </sc-for>
+      </ol>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <h2 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:32px;color:#1D2640">À revoir</h2>
+      <p style="margin:0;font-size:15px;color:#5C606B">Les notions où une réponse de quiz ou de situation n'était pas la bonne.</p>
+      <sc-for list="{{ toReview }}" as="rv" hint-placeholder-count="3">
+        <button type="button" onClick="{{ rv.onClick }}" style="text-align:left;display:flex;gap:14px;align-items:center;padding:16px 18px;border-radius:6px;border:1px solid #E5DCCB;background:#FFFDF9;cursor:pointer;color:inherit" style-hover="border-color:#B08D45">
+          <span style="flex:1;display:flex;flex-direction:column;gap:2px"><span style="font-size:16px;color:#1D2640;font-weight:600">{{ rv.title }}</span><span style="font-size:13px;color:#5C606B">{{ rv.meta }}</span></span>
+          <i class="ph ph-arrow-right" style="font-size:18px;color:#1D2640"></i>
+        </button>
+      </sc-for>
+    </div>
+  </section>
+</div>
+</sc-if>
+
+<!-- ============ FAVORIS ============ -->
+<sc-if value="{{ is.favoris }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:32px;max-width:860px">
+  <header style="display:flex;flex-direction:column;gap:12px">
+    <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Favoris</div>
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,56px);line-height:1.04;color:#1D2640">Vos pages marquées</h1>
+    <p style="margin:0;font-size:18px;color:#3A3D45">Les leçons, situations et fiches que vous avez gardées sous la main. Elles restent disponibles hors ligne.</p>
+  </header>
+  <div role="group" aria-label="Filtrer les favoris" style="display:flex;flex-wrap:wrap;gap:8px">
+    <sc-for list="{{ favFilters }}" as="ff" hint-placeholder-count="4">
+      <button type="button" onClick="{{ ff.onClick }}" aria-pressed="{{ ff.pressed }}" style="display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:0 16px;border-radius:999px;border:1px solid {{ ff.bd }};background:{{ ff.bg }};color:{{ ff.fg }};font-size:14px;font-weight:600;cursor:pointer" style-hover="border-color:#1D2640">{{ ff.label }}<span style="font-weight:400;opacity:.8">{{ ff.count }}</span></button>
+    </sc-for>
+  </div>
+  <sc-if value="{{ favEmpty }}" hint-placeholder-val="{{ false }}">
+    <div style="background:#F2ECDF;border-radius:6px;padding:32px;display:flex;flex-direction:column;gap:10px;align-items:flex-start">
+      <i class="ph ph-bookmark-simple" style="font-size:28px;color:#7A5E22"></i>
+      <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:26px;color:#1D2640;font-weight:600">Rien de marqué ici pour l'instant</div>
+      <p style="margin:0;color:#3A3D45">Touchez le signet <i class="ph ph-bookmark-simple"></i> en haut d'une leçon, d'une situation ou d'une fiche pays pour la retrouver ici.</p>
+    </div>
+  </sc-if>
+  <ul style="margin:0;padding:0;list-style:none;display:flex;flex-direction:column">
+    <sc-for list="{{ favItems }}" as="fv" hint-placeholder-count="5">
+      <li style="display:flex;gap:16px;align-items:center;padding:18px 0;border-top:1px solid #E5DCCB">
+        <span style="flex:0 0 44px;height:44px;border-radius:5px;background:#F2ECDF;display:flex;align-items:center;justify-content:center"><i class="ph {{ fv.icon }}" style="font-size:22px;color:#1D2640"></i></span>
+        <button type="button" onClick="{{ fv.onClick }}" style="flex:1;min-width:0;text-align:left;background:none;border:0;padding:0;cursor:pointer;color:inherit;display:flex;flex-direction:column;gap:3px">
+          <span style="font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:#7A5E22">{{ fv.type }}</span>
+          <span style="font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;line-height:1.2;color:#1D2640;font-weight:600">{{ fv.title }}</span>
+          <span style="font-size:14px;color:#5C606B">{{ fv.meta }}</span>
+        </button>
+        <button type="button" onClick="{{ fv.onRemove }}" aria-label="{{ fv.removeLabel }}" style="flex:none;width:44px;height:44px;border-radius:4px;border:1px solid #E5DCCB;background:#FFFDF9;color:#7A5E22;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:20px" style-hover="background:#F2ECDF"><i class="ph-fill ph-bookmark-simple"></i></button>
+      </li>
+    </sc-for>
+  </ul>
+</div>
+</sc-if>
+
+<!-- ============ PARAMÈTRES ============ -->
+<sc-if value="{{ is.settings }}" hint-placeholder-val="{{ false }}">
+<div style="display:flex;flex-direction:column;gap:36px;max-width:780px">
+  <header style="display:flex;flex-direction:column;gap:12px">
+    <div style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:#7A5E22">Paramètres</div>
+    <h1 style="margin:0;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:clamp(38px,5vw,56px);line-height:1.04;color:#1D2640">Votre confort de lecture</h1>
+  </header>
+  <sc-for list="{{ settingGroups }}" as="g" hint-placeholder-count="4">
+    <section style="display:flex;flex-direction:column;gap:10px">
+      <h2 style="margin:0;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:#5C606B">{{ g.title }}</h2>
+      <div style="background:#FFFDF9;border:1px solid #E5DCCB;border-radius:6px">
+        <sc-for list="{{ g.rows }}" as="r">
+          <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 24px;padding:18px 22px;border-top:1px solid {{ r.sep }}">
+            <div style="flex:1 1 260px;display:flex;flex-direction:column;gap:2px"><span style="font-size:16px;color:#1D2640;font-weight:600">{{ r.label }}</span><span style="font-size:14px;color:#5C606B;line-height:1.45">{{ r.desc }}</span></div>
+            <sc-if value="{{ r.isToggle }}">
+              <button type="button" role="switch" aria-checked="{{ r.checked }}" aria-label="{{ r.label }}" onClick="{{ r.onClick }}" style="display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:0;border:0;background:none;cursor:pointer;color:#1D2640;font-size:14px;font-weight:600">
+                <span style="width:46px;height:26px;border-radius:13px;background:{{ r.track }};position:relative;transition:background .2s;flex:none"><span style="position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:#FFFDF9;box-shadow:0 1px 2px rgba(29,38,64,.25);transform:translateX({{ r.knob }});transition:transform .2s"></span></span>
+                <span style="min-width:72px;text-align:left">{{ r.state }}</span>
+              </button>
+            </sc-if>
+            <sc-if value="{{ r.isSeg }}">
+              <div role="radiogroup" aria-label="{{ r.label }}" style="display:inline-flex;padding:3px;border-radius:5px;background:#F2ECDF;gap:2px">
+                <sc-for list="{{ r.opts }}" as="o"><button type="button" role="radio" aria-checked="{{ o.checked }}" onClick="{{ o.onClick }}" style="min-height:38px;padding:0 14px;border-radius:4px;border:1px solid {{ o.bd }};background:{{ o.bg }};color:#1D2640;font-size:{{ o.fs }};font-weight:600;cursor:pointer">{{ o.label }}</button></sc-for>
+              </div>
+            </sc-if>
+            <sc-if value="{{ r.isAction }}">
+              <button type="button" onClick="{{ r.onClick }}" style="display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border-radius:4px;background:transparent;color:{{ r.fg }};border:1px solid {{ r.fg }};font-weight:600;font-size:14px;cursor:pointer" style-hover="background:#F2ECDF"><i class="ph {{ r.icon }}"></i>{{ r.action }}</button>
+            </sc-if>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+  </sc-for>
+  <p style="margin:0;font-size:13px;color:#5C606B">Version 0.1 · Contenus révisés en octobre 2026 · <a href="#">Mentions et sources</a></p>
+</div>
+</sc-if>
+
+</div>
+</main>
+</div>
+
+<sc-if value="{{ narrow }}" hint-placeholder-val="{{ false }}">
+<nav aria-label="Navigation principale" style="position:fixed;left:0;right:0;bottom:0;z-index:30;display:flex;background:#F2ECDF;border-top:1px solid #E5DCCB;padding:4px 4px calc(4px + env(safe-area-inset-bottom))">
+  <sc-for list="{{ mobileNav }}" as="m" hint-placeholder-count="5">
+    <button type="button" onClick="{{ m.onClick }}" aria-current="{{ m.current }}" style="flex:1;min-height:56px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;border:0;background:{{ m.bg }};border-radius:5px;color:#1D2640;font-size:11px;font-weight:{{ m.fw }};cursor:pointer"><i class="ph {{ m.icon }}" style="font-size:21px;color:{{ m.ic }}"></i>{{ m.label }}</button>
+  </sc-for>
+</nav>
+</sc-if>
+<sc-if value="{{ menuOpen }}" hint-placeholder-val="{{ false }}">
+<div onClick="{{ closeMenu }}" style="position:fixed;inset:0;z-index:40;background:rgba(29,38,64,.35);display:flex;align-items:flex-end">
+  <div role="dialog" aria-label="Toutes les rubriques" onClick="{{ stop }}" style="width:100%;background:#FAF7F0;border-radius:10px 10px 0 0;padding:20px 16px calc(24px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:4px;animation:svIn .25s ease both">
+    <div style="font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;color:#1D2640;padding:0 12px 8px">Rubriques</div>
+    <sc-for list="{{ nav }}" as="item">
+      <button type="button" onClick="{{ item.onClick }}" style="display:flex;align-items:center;gap:12px;min-height:48px;padding:0 12px;border-radius:5px;border:1px solid {{ item.bd }};background:{{ item.bg }};color:#1D2640;font-size:16px;font-weight:{{ item.fw }};text-align:left;cursor:pointer"><i class="ph {{ item.icon }}" style="font-size:20px;color:{{ item.ic }}"></i>{{ item.label }}</button>
+    </sc-for>
+  </div>
+</div>
+</sc-if>
+<sc-if value="{{ toast }}" hint-placeholder-val="{{ false }}">
+<div role="status" style="position:fixed;left:50%;bottom:{{ toastBottom }};transform:translateX(-50%);z-index:50;background:#1D2640;color:#FAF7F0;padding:12px 20px;border-radius:5px;font-size:15px;box-shadow:0 8px 24px -8px rgba(29,38,64,.4);animation:svIn .25s ease both;max-width:calc(100vw - 32px)">{{ toast }}</div>
+</sc-if>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;startScreen&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;ds&quot;,&quot;domain&quot;,&quot;lesson&quot;,&quot;situation&quot;,&quot;quiz&quot;,&quot;country&quot;,&quot;progress&quot;,&quot;favoris&quot;,&quot;settings&quot;],&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;string&quot;}}">
+class Component extends DCLogic {
+  state = { screen: this.props.startScreen ?? 'home', w: 1200, menu: false, fav: false, toast: '', choice: null, qi: 0, ans: {}, checked: false, done: false, favFilter: 'tout', removed: {}, set: { size: '1', nuances: false, ref: 'fr', motion: false, contrast: false, reminder: true, daily: true, wifi: true } };
+  componentDidMount() {
+    this.onR = () => this.setState({ w: window.innerWidth });
+    this.onR(); window.addEventListener('resize', this.onR);
+  }
+  componentWillUnmount() { window.removeEventListener('resize', this.onR); clearTimeout(this.tt); }
+  go(s, extra) { this.setState({ screen: s, menu: false, ...(extra || {}) }); window.scrollTo(0, 0); }
+  flash(msg) { clearTimeout(this.tt); this.setState({ toast: msg }); this.tt = setTimeout(() => this.setState({ toast: '' }), 2600); }
+
+  badge(k) {
+    const L = { deb: ['Débutant', 1, '#EAF0E6', '#C9D7C2', '#3E5A3D'], int: ['Intermédiaire', 2, '#F5EDDA', '#E0CFA6', '#6E5520'], av: ['Avancé', 3, '#E6E9F0', '#C3C9D8', '#1D2640'] }[k];
+    return { label: L[0], bg: L[2], bd: L[3], fg: L[4], dots: [0, 1, 2].map(i => ({ c: i < L[1] ? L[4] : 'transparent', c2: i < L[1] ? '#1D2640' : 'transparent' })) };
+  }
+
+  renderVals() {
+    const s = this.state, scr = s.screen;
+    const wide = s.w >= 900;
+    const navDef = [['home', 'Accueil', 'ph-house-line'], ['domain', 'Apprendre', 'ph-book-open'], ['situation', 'Situations pratiques', 'ph-users-three'], ['lesson', 'Guide du savoir-vivre', 'ph-books'], ['country', 'Culture et usages', 'ph-globe-hemisphere-west'], ['progress', 'Ma progression', 'ph-chart-line-up'], ['favoris', 'Favoris', 'ph-bookmark-simple'], ['settings', 'Paramètres', 'ph-gear-six']];
+    const otherTitles = { progress: 'Ma progression', favoris: 'Favoris', settings: 'Paramètres' };
+    const isOther = !!otherTitles[scr];
+    const act = (on) => ({ bg: on ? '#FFFDF9' : 'transparent', bd: on ? '#E5DCCB' : 'transparent', fw: on ? 600 : 500, ic: on ? '#7A5E22' : '#3A3D45', current: on ? 'page' : undefined });
+    const nav = navDef.map(([k, label, icon]) => ({ label, icon, ...act(scr === k), onClick: () => this.go(k) }));
+    const mobileDef = [['home', 'Accueil', 'ph-house-line'], ['domain', 'Apprendre', 'ph-book-open'], ['situation', 'Situations', 'ph-users-three'], ['country', 'Culture', 'ph-globe-hemisphere-west'], ['menu', 'Plus', 'ph-list']];
+    const mobileNav = mobileDef.map(([k, label, icon]) => {
+      const on = k === 'menu' ? (s.menu || ['progress', 'favoris', 'settings'].includes(scr) || scr === 'lesson' || scr === 'quiz' || scr === 'ds') : scr === k;
+      return { label, icon, ...act(on), bg: on ? '#FFFDF9' : 'transparent', onClick: () => k === 'menu' ? this.setState({ menu: true }) : this.go(k) };
+    });
+
+    const domainData = [
+      ['ph-user-circle', 'Soi-même', 'Présentation, tenue, maîtrise de soi et discrétion.', 64],
+      ['ph-users-three', 'Famille et autres', 'Liens familiaux, voisinage, amitiés, vie au travail.', 40],
+      ['ph-chat-text', 'Parler, téléphoner, écrire', 'Conversation, courrier, messages et formules.', 28],
+      ['ph-fork-knife', 'Usages et bonnes manières', 'La table, la politesse, les gestes du quotidien.', 42],
+      ['ph-house-line', 'Recevoir et être reçu', 'Invitations, dîners, séjours, remerciements.', 18],
+      ['ph-gift', 'Fêtes et événements', 'Naissances, mariages, deuils, célébrations.', 10],
+      ['ph-suitcase-rolling', 'Voyager', 'Transports, hôtels, pourboires, vie à bord.', 25],
+      ['ph-globe-hemisphere-west', 'Savoir-vivre à l\'étranger', 'Codes culturels et usages, pays par pays.', 8]
+    ];
+    const domains = domainData.map(([icon, title, desc, pct], i) => ({ num: '0' + (i + 1), icon, title, desc, pctW: pct + ' %', read: Math.round(pct * 12 / 100) + ' leçons lues sur 12', onClick: () => this.go(i === 7 ? 'country' : 'domain') }));
+    domains.forEach(d => d.pctW = d.pctW.replace(' ', ''));
+
+    const st = { done: ['ph-fill ph-check-circle', '#476046', 'Lue'], prog: ['ph ph-circle-half', '#7A5E22', 'En cours'], todo: ['ph ph-circle', '#5C606B', 'À découvrir'] };
+    const mk = (arr) => arr.map(([title, dur, k, link]) => ({ title, dur, icon: st[k][0], color: st[k][1], status: st[k][2], onClick: () => link ? this.go('lesson') : this.flash('Leçon « ' + title + ' » — contenu à rédiger') }));
+    const levels = [
+      { badge: this.badge('deb'), title: 'Les fondamentaux', desc: 'Les gestes que tout le monde attend de vous, partout, tout le temps.', count: '4 leçons lues sur 4', lessons: mk([['Bonjour, merci, pardon : les trois mots clés', '6 min', 'done'], ['Se tenir à table', '8 min', 'done'], ['Tenir la porte, céder sa place', '5 min', 'done'], ['La ponctualité et le quart d\'heure de politesse', '7 min', 'done']]) },
+      { badge: this.badge('int'), title: 'Les usages établis', desc: 'Ce qui distingue une personne attentive d\'une personne simplement polie.', count: '1 leçon lue sur 4 · 1 en cours', lessons: mk([['Le vouvoiement et le tutoiement', '9 min', 'done'], ['Les couverts et le dressage de la table', '10 min', 'prog', true], ['L\'ordre de service à table', '8 min', 'todo'], ['Remercier après une invitation', '6 min', 'todo']]) },
+      { badge: this.badge('av'), title: 'Les subtilités', desc: 'Protocole, préséance, et l\'art de réparer un impair avec élégance.', count: '0 leçon lue sur 4', lessons: mk([['Le plan de table et la préséance', '12 min', 'todo'], ['Titres et formules protocolaires', '11 min', 'todo'], ['Fromages, pain et fruits : l\'art de la découpe', '9 min', 'todo'], ['Gérer un impair avec élégance', '8 min', 'todo']]) }
+    ];
+
+    const levelStats = [['Débutant', 22, 32, '#476046'], ['Intermédiaire', 5, 32, '#B08D45'], ['Avancé', 1, 32, '#1D2640']].map(([label, n, t, c]) => ({ label, txt: n + ' / ' + t, pct: Math.round(n / t * 100) + '%', c }));
+
+    const rules = [
+      ['On commence par l\'extérieur.', 'Pour chaque plat, on prend les couverts les plus éloignés de l\'assiette. Au plat suivant, on se rapproche.'],
+      ['Le pain se rompt à la main.', 'Il se pose sur la nappe ou sur la petite assiette à gauche, et se rompt en bouchées au-dessus de l\'assiette — jamais au couteau.'],
+      ['Couverts croisés : je fais une pause.', 'Fourchette et couteau en V dans l\'assiette signalent au service que vous n\'avez pas terminé.'],
+      ['Couverts parallèles : j\'ai terminé.', 'Posés côte à côte, manches vers la droite, comme une aiguille indiquant « 4 h 20 ».'],
+      ['Les mains restent sur la table.', 'Poignets posés au bord, coudes près du corps. En France, des mains sous la table intriguent.']
+    ].map(([t, d], i) => ({ n: String(i + 1), t, d }));
+    const dos = ['Attendre que la maîtresse de maison commence avant de manger.', 'Déplier sa serviette sur les genoux dès que l\'on est assis.', 'Se laisser servir à boire plutôt que de se servir soi-même.', 'Reposer ses couverts dans l\'assiette entre deux bouchées.'];
+    const donts = ['Saucer avec un morceau de pain piqué au bout de la fourchette lors d\'un dîner formel.', 'Agiter ses couverts en parlant, ou les pointer vers quelqu\'un.', 'Reposer un couvert sali directement sur la nappe.', 'Couper la salade au couteau : on la plie avec la fourchette.'];
+    const nuances = [
+      { t: 'En famille,', d: 'saucer avec un petit morceau de pain tenu du bout des doigts est souvent toléré, voire vu comme un compliment au cuisinier.' },
+      { t: 'Au restaurant gastronomique,', d: 'le personnel change les couverts à chaque plat : inutile de garder les vôtres.' },
+      { t: 'Ailleurs,', d: 'les usages anglo-saxons — mains sur les genoux, fourchette changée de main — ne sont pas fautifs : la politesse dépend toujours du lieu.' }
+    ];
+    const keep = ['De l\'extérieur vers l\'intérieur, dans l\'ordre des plats.', 'Croisés pour une pause, parallèles pour la fin.', 'Le pain se rompt, il ne se coupe pas.'];
+    const tocDef = [['sec-obj', 'Objectifs'], ['sec-exp', 'Explication'], ['sec-regles', 'Règles essentielles'], ['sec-pourquoi', 'Pourquoi cette règle'], ['sec-comport', 'Bons et mauvais gestes'], ['sec-nuances', 'Nuances'], ['sec-retenir', 'À retenir']];
+    const toc = tocDef.map(([id, label]) => ({ label, onClick: () => { const el = document.getElementById(id); if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 24, behavior: 'smooth' }); } }));
+
+    // Situation
+    const V = { ok: ['Recommandé', '#EAF0E6', '#3E5A3D', 'ph-check'], mid: ['Acceptable', '#F5EDDA', '#6E5520', 'ph-minus'], ko: ['À éviter', '#F6E6DF', '#8A3F2A', 'ph-x'] };
+    const sit = [
+      ['« Merci beaucoup, mais je n\'aime pas vraiment les abats. »', 'ko', 'Une franchise qui tombe au mauvais moment.', 'La sincérité est une qualité, mais exprimée à table, devant tous et une fois servi, elle transforme une préférence personnelle en jugement sur le plat. Votre hôtesse se retrouve mise en échec publiquement. Si vous deviez le dire, c\'était avant d\'être servi, ou en aparté.'],
+      ['Vous goûtez, accompagnez largement de garniture, et complimentez sincèrement ce que vous appréciez : la sauce, la cuisson des légumes.', 'ok', 'Vous honorez le geste sans vous trahir.', 'Le compliment porte sur quelque chose de vrai : vous ne mentez pas, vous choisissez ce que vous dites. Laisser une partie de l\'assiette est admis ; il suffit de ne pas se resservir. L\'essentiel — remercier quelqu\'un qui a cuisiné pour vous — est préservé.'],
+      ['Vous prétextez une allergie pour ne pas y toucher.', 'ko', 'Un mensonge qui vous engage pour longtemps.', 'On s\'en souviendra à chaque invitation, et il faudra l\'entretenir. Il met aussi l\'hôtesse dans l\'embarras — elle s\'en voudra de ne pas avoir demandé — et banalise les vraies allergies, que d\'autres doivent faire prendre au sérieux.'],
+      ['Vous finissez votre assiette coûte que coûte, sans rien dire.', 'mid', 'Courtois, mais excessif.', 'Personne n\'exige un tel sacrifice, et la gêne se lit souvent sur un visage. Surtout, une assiette vidée avec application est un signal clair : ravie, l\'hôtesse risque de vous resservir — et de refaire ce plat pour vous la prochaine fois.']
+    ];
+    const L4 = ['A', 'B', 'C', 'D'];
+    const sitChoices = sit.map(([text, v], i) => {
+      const chosen = s.choice === i, any = s.choice !== null, vv = V[v];
+      return { letter: L4[i], text, checked: chosen ? 'true' : 'false', showVerdict: any, verdict: vv[0], vbg: vv[1], vfg: vv[2], vicon: vv[3], bd: chosen ? '#1D2640' : '#E5DCCB', bg: chosen ? '#FFFDF9' : (any ? '#FAF7F0' : '#FFFDF9'), op: any && !chosen ? 0.78 : 1, onClick: () => this.setState({ choice: i }) };
+    });
+    let sitFeedback = false;
+    if (s.choice !== null) { const c = sit[s.choice], vv = V[c[1]]; sitFeedback = { letter: L4[s.choice], verdict: vv[0], vbg: vv[1], vfg: vv[2], vicon: vv[3], head: c[2], why: c[3] }; }
+
+    // Quiz
+    const quiz = [
+      { q: 'Dans quel ordre utilise-t-on les couverts au cours du repas ?', o: ['Du plus proche de l\'assiette vers le plus éloigné', 'Du plus éloigné de l\'assiette vers le plus proche', 'Au choix du convive', 'Dans l\'ordre que suit l\'hôte'], a: 1, why: 'Les couverts sont disposés dans l\'ordre des plats : on commence par l\'extérieur et l\'on se rapproche de l\'assiette à chaque service.' },
+      { q: 'Comment signaler, sans un mot, que vous avez terminé votre assiette ?', o: ['Couverts croisés en V dans l\'assiette', 'Couverts reposés sur la nappe, de part et d\'autre', 'Couverts parallèles, manches vers la droite', 'Serviette posée sur l\'assiette'], a: 2, why: 'Parallèles, en position « 4 h 20 », ils indiquent la fin. Croisés, ils signalent seulement une pause. La serviette, elle, ne se pose sur la table qu\'en quittant celle-ci.' },
+      { q: 'Comment mange-t-on le pain lors d\'un dîner ?', o: ['On le rompt à la main, bouchée par bouchée', 'On le coupe au couteau sur son assiette', 'On mord directement dans le morceau', 'On le trempe dans son verre de vin'], a: 0, why: 'Le pain se rompt en petites bouchées, au-dessus de l\'assiette. Le couteau n\'a pas sa place, et l\'on évite de mordre dans un morceau entier.' },
+      { q: 'En France, où placer ses mains quand on ne mange pas ?', o: ['Sur les genoux, sous la table', 'Les poignets posés au bord de la table', 'Les coudes sur la table, mains jointes', 'Croisées sur la poitrine'], a: 1, why: 'Les poignets reposent sur le bord de la table. Les mains sur les genoux sont l\'usage anglo-saxon : correct à Londres, curieux à Paris.' },
+      { q: 'Que dit-on des fourchettes « à la française » ?', o: ['Elles se posent à droite de l\'assiette', 'Elles se posent dents vers le haut', 'Elles se posent dents contre la nappe', 'Une seule fourchette sert pour tout le repas'], a: 2, why: 'À la française, les fourchettes se posent pointes vers la nappe — usage que l\'on relie aux armoiries gravées au dos de l\'argenterie.' }
+    ];
+    const q = quiz[s.qi], pick = s.ans[s.qi];
+    const qOpts = q.o.map((text, i) => {
+      const sel = pick === i, right = i === q.a;
+      let bd = sel ? '#1D2640' : '#E5DCCB', bg = '#FFFDF9', op = 1, mark = '', markIcon = '', markFg = '', dotBg = sel ? '#1D2640' : 'transparent', dotFg = sel ? '#FAF7F0' : '#1D2640';
+      if (s.checked) {
+        if (right) { bd = '#476046'; bg = '#EAF0E6'; mark = sel ? 'Votre réponse · juste' : 'Bonne réponse'; markIcon = 'ph-check-circle'; markFg = '#3E5A3D'; }
+        else if (sel) { bd = '#9B4A32'; bg = '#F6E6DF'; mark = 'Votre réponse'; markIcon = 'ph-x-circle'; markFg = '#8A3F2A'; }
+        else op = 0.6;
+      }
+      return { letter: L4[i], text, bd, bg, op, mark, markIcon, markFg, dotBg, dotFg, checked: sel ? 'true' : 'false', onClick: () => { if (!s.checked) this.setState({ ans: { ...s.ans, [s.qi]: i } }); } };
+    });
+    const good = pick === q.a;
+    const qFeedback = s.checked ? (good ? { title: 'Juste.', icon: 'ph-check-circle', fg: '#3E5A3D' } : { title: 'Pas tout à fait.', icon: 'ph-x-circle', fg: '#8A3F2A' }) : false;
+    const nAns = Object.keys(s.ans).length;
+    const qSteps = quiz.map((_, i) => ({ c: i < s.qi || (i === s.qi && s.checked) ? '#B08D45' : (i === s.qi ? '#1D2640' : '#E5DCCB') }));
+    const score = quiz.filter((x, i) => s.ans[i] === x.a).length;
+    const results = quiz.map((x, i) => { const ok = s.ans[i] === x.a; return { n: String(i + 1), q: x.q, yours: x.o[s.ans[i]] ?? '—', right: x.o[x.a], wrong: !ok, why: x.why, status: ok ? 'Juste' : 'À revoir', icon: ok ? 'ph-check' : 'ph-arrow-counter-clockwise', bg: ok ? '#EAF0E6' : '#F6E6DF', fg: ok ? '#3E5A3D' : '#8A3F2A' }; });
+    const scoreTitle = score === 5 ? 'Une table parfaitement maîtrisée.' : score >= 3 ? 'L\'essentiel est acquis.' : 'Quelques usages à revoir.';
+    const scoreMsg = score === 5 ? 'Vous pouvez passer au niveau Avancé : le plan de table vous attend.' : 'Relisez les points signalés ci-dessous — chaque explication renvoie à la leçon.';
+
+    const countryCards = [
+      { icon: 'ph-hand-waving', title: 'Saluer', items: ['On s\'incline plutôt que de se serrer la main ; plus l\'inclinaison est profonde, plus elle marque le respect.', 'D\'un étranger, une légère inclinaison de la tête suffit — et beaucoup tendront la main pour vous mettre à l\'aise.', 'La carte de visite (meishi) se donne et se reçoit à deux mains. On la lit avant de la ranger.'] },
+      { icon: 'ph-bowl-food', title: 'À table', items: ['« Itadakimasu » avant de manger, « gochisōsama deshita » après.', 'Ne plantez jamais vos baguettes à la verticale dans le riz : le geste évoque les rites funéraires.', 'On ne se sert pas soi-même à boire : on sert ses voisins, qui vous serviront en retour.', 'Aspirer bruyamment ses nouilles est admis, et même signe d\'appréciation.'] },
+      { icon: 'ph-house-simple', title: 'Être reçu', items: ['On retire ses chaussures à l\'entrée, dans le genkan ; des chaussons sont souvent proposés.', 'Des chaussons distincts sont réservés aux toilettes — ne les gardez pas aux pieds en sortant.', 'On ne marche jamais en chaussons sur les tatamis.'] },
+      { icon: 'ph-gift', title: 'Offrir', items: ['Un petit cadeau (omiyage), si possible de votre région, est toujours bienvenu.', 'L\'emballage compte autant que le présent. On l\'offre à deux mains, en minimisant son importance.', 'Évitez les lots de quatre : le chiffre se prononce comme le mot « mort ».'] },
+      { icon: 'ph-train-simple', title: 'Espace public', items: ['Dans les transports, on parle bas et l\'on ne téléphone pas ; le mode silencieux est la règle.', 'Manger en marchant reste mal vu dans beaucoup d\'endroits.', 'On se mouche discrètement, à l\'écart, plutôt qu\'en public.'] },
+      { icon: 'ph-coins', title: 'Argent et service', items: ['Le pourboire n\'est pas d\'usage : il peut même gêner, ou être rendu.', 'On pose l\'argent sur le petit plateau prévu à la caisse, plutôt que dans la main.', 'Un service impeccable se remercie par un mot et une inclinaison.'] }
+    ];
+    const compare = [['Saluer', 'Bise ou poignée de main', 'Inclinaison'], ['Pourboire', 'Apprécié, non obligatoire', 'Pas d\'usage'], ['Ponctualité', 'Quart d\'heure toléré chez des amis', 'Exactitude attendue'], ['Chaussures', 'Gardées, sauf invitation', 'Retirées à l\'entrée'], ['Se resservir à boire', 'Admis', 'On sert les autres']].map(([k, fr, jp]) => ({ k, fr, jp }));
+    const phrases = [['Arigatō gozaimasu', 'Merci beaucoup'], ['Sumimasen', 'Excusez-moi — pour interpeller comme pour s\'excuser'], ['Itadakimasu', 'Avant le repas : « Je reçois humblement »'], ['Gochisōsama deshita', 'Après le repas : « C\'était un festin »']].map(([jp, fr]) => ({ jp, fr }));
+
+    const swatches = [
+      ['Ivoire', '#FAF7F0', 'fond principal', 'support', '#1D2640'], ['Crème', '#F2ECDF', 'fond secondaire', 'support', '#1D2640'], ['Blanc cassé', '#FFFDF9', 'cartes', 'support', '#1D2640'], ['Beige clair', '#E5DCCB', 'séparateurs', 'décoratif', '#1D2640'],
+      ['Bleu nuit', '#1D2640', 'titres, actions', '13,9:1 sur ivoire', '#FAF7F0'], ['Anthracite', '#3A3D45', 'texte courant', '10,1:1 sur ivoire', '#FAF7F0'], ['Gris ardoise', '#5C606B', 'texte secondaire', '5,8:1 sur ivoire', '#FAF7F0'],
+      ['Or', '#B08D45', 'filets, repères', 'décoratif — jamais du texte', '#1D2640'], ['Or profond', '#7A5E22', 'liens, surtitres', '5,7:1 sur ivoire', '#FAF7F0'],
+      ['Sauge', '#8AA284', 'accent secondaire', 'décoratif', '#1D2640'], ['Sauge profond', '#476046', 'réussite, « à faire »', '6,5:1 sur ivoire', '#FAF7F0'], ['Terre cuite', '#9B4A32', '« à éviter », erreurs', '5,7:1 sur ivoire', '#FAF7F0']
+    ].map(([name, hex, role, ratio, on]) => ({ name, hex, role, ratio, on }));
+    const SERIF = "'Cormorant Garamond',Georgia,serif", SANS = "'Source Sans 3',system-ui,sans-serif";
+    const typeScale = [
+      ['Display', 'Cormorant 500 · 56/1.05', SERIF, '56px', 500, 'L\'art de recevoir'],
+      ['Titre 1', 'Cormorant 500 · 40/1.1', SERIF, '40px', 500, 'Les couverts et la table'],
+      ['Titre 2', 'Cormorant 500 · 30/1.2', SERIF, '30px', 500, 'Pourquoi cette règle existe'],
+      ['Titre 3', 'Cormorant 600 · 23/1.2', SERIF, '23px', 600, 'Recevoir et être reçu'],
+      ['Corps', 'Source Sans 400 · 17/1.6', SANS, '17px', 400, 'Le pain se rompt à la main, au-dessus de l\'assiette.'],
+      ['Légende', 'Source Sans 400 · 14/1.5', SANS, '14px', 400, '10 min de lecture · Intermédiaire'],
+      ['Surtitre', 'Source Sans 600 · 12 · +14 %', SANS, '12px', 600, 'Défi du jour']
+    ].map(([name, spec, ff, size, fw, sample], i) => ({ name, spec, ff, size, fw, sample, ls: i === 6 ? '.14em' : 'normal', tt: i === 6 ? 'uppercase' : 'none' }));
+
+    // Progression
+    const progStats = [['28', 'leçons lues sur 96'], ['6', 'situations pratiquées'], ['4,2 / 5', 'moyenne sur 4 quiz'], ['3 h 50', 'de lecture au total']].map(([value, label]) => ({ value, label }));
+    const progRows = domainData.map(([icon, title, desc, pct], i) => {
+      let n = Math.round(pct * 12 / 100);
+      const cells = [0, 1, 2].map(() => { const k = Math.min(4, n); n -= k; return { txt: k === 4 ? '4 / 4 · complet' : k + ' / 4', fg: k === 4 ? '#3E5A3D' : (k ? '#3A3D45' : '#5C606B'), fw: k === 4 ? 600 : 400, ticks: [0, 1, 2, 3].map(j => ({ c: j < k ? (k === 4 ? '#476046' : '#B08D45') : '#E5DCCB' })) }; });
+      return { num: '0' + (i + 1), title, cells, onClick: () => this.go(i === 7 ? 'country' : 'domain') };
+    });
+    const activity = [
+      ['ph-book-open', 'Les couverts et le dressage de la table', 'Leçon', '60 % lu', 'Aujourd\'hui'],
+      ['ph-seal-question', 'Se tenir à table', 'Quiz', '4 / 5', 'Hier'],
+      ['ph-book-open', 'Le vouvoiement et le tutoiement', 'Leçon', 'lue', '30 oct.'],
+      ['ph-users-three', 'Arriver en retard à un dîner', 'Situation', 'réponse recommandée', '28 oct.'],
+      ['ph-globe-hemisphere-west', 'Japon', 'Fiche pays', 'consultée', '27 oct.']
+    ].map(([icon, title, kind, meta, when]) => ({ icon, title, kind, meta, when }));
+    const toReview = [
+      ['Les mains à table', 'Quiz « Se tenir à table » · question 3', 'lesson'],
+      ['Remercier après une invitation', 'Situation « Le lendemain du dîner » · réponse acceptable', 'situation'],
+      ['Le quart d\'heure de politesse', 'Quiz « Ponctualité » · question 2', 'lesson']
+    ].map(([title, meta, k]) => ({ title, meta, onClick: () => this.go(k) }));
+
+    // Favoris
+    const favAll = [
+      ...(s.fav ? [{ id: 'cur', kind: 'lecon', type: 'Leçon', icon: 'ph-book-open', title: 'Les couverts et le dressage de la table', meta: 'Usages et bonnes manières · Intermédiaire · 10 min', to: 'lesson' }] : []),
+      { id: 'f1', kind: 'lecon', type: 'Leçon', icon: 'ph-book-open', title: 'Le plan de table et la préséance', meta: 'Usages et bonnes manières · Avancé · 12 min', to: 'domain' },
+      { id: 'f2', kind: 'lecon', type: 'Leçon', icon: 'ph-book-open', title: 'Écrire une lettre de condoléances', meta: 'Parler, téléphoner, écrire · Intermédiaire · 9 min', to: 'domain' },
+      { id: 'f3', kind: 'situation', type: 'Situation pratique', icon: 'ph-users-three', title: 'Un plat que vous n\'aimez pas', meta: 'Recevoir et être reçu · 3 min', to: 'situation' },
+      { id: 'f4', kind: 'pays', type: 'Fiche pays', icon: 'ph-globe-hemisphere-west', title: 'Japon', meta: 'Savoir-vivre à l\'étranger · Asie', to: 'country' },
+      { id: 'f5', kind: 'pays', type: 'Fiche pays', icon: 'ph-globe-hemisphere-west', title: 'Royaume-Uni', meta: 'Savoir-vivre à l\'étranger · Europe', to: 'country' }
+    ].filter(f => !s.removed[f.id]);
+    const fDef = [['tout', 'Tout'], ['lecon', 'Leçons'], ['situation', 'Situations'], ['pays', 'Pays']];
+    const favFilters = fDef.map(([k, label]) => { const on = s.favFilter === k; return { label, count: String(k === 'tout' ? favAll.length : favAll.filter(f => f.kind === k).length), pressed: on ? 'true' : 'false', bg: on ? '#1D2640' : '#FFFDF9', fg: on ? '#FAF7F0' : '#1D2640', bd: on ? '#1D2640' : '#E5DCCB', onClick: () => this.setState({ favFilter: k }) }; });
+    const favItems = favAll.filter(f => s.favFilter === 'tout' || f.kind === s.favFilter).map(f => ({ ...f, removeLabel: 'Retirer « ' + f.title + ' » des favoris', onClick: () => this.go(f.to), onRemove: () => { if (f.id === 'cur') this.setState({ fav: false }); else this.setState({ removed: { ...s.removed, [f.id]: true } }); this.flash('« ' + f.title + ' » retiré des favoris'); } }));
+
+    // Paramètres
+    const set = s.set;
+    const tog = (k, label, desc) => ({ isToggle: true, label, desc, checked: set[k] ? 'true' : 'false', state: set[k] ? 'Activé' : 'Désactivé', track: set[k] ? '#476046' : '#C9BFAE', knob: set[k] ? '20px' : '0px', onClick: () => this.setState({ set: { ...set, [k]: !set[k] } }) });
+    const seg = (k, label, desc, opts) => ({ isSeg: true, label, desc, opts: opts.map(([v, l, fs]) => { const on = set[k] === v; return { label: l, fs: fs || '14px', checked: on ? 'true' : 'false', bg: on ? '#FFFDF9' : 'transparent', bd: on ? '#E5DCCB' : 'transparent', onClick: () => this.setState({ set: { ...set, [k]: v } }) }; }) });
+    const actn = (label, desc, action, icon, fg, msg) => ({ isAction: true, label, desc, action, icon, fg, onClick: () => this.flash(msg) });
+    const settingGroups = [
+      { title: 'Lecture', rows: [seg('size', 'Taille du texte', 'S\'applique à toute l\'application.', [['1', 'A', '13px'], ['1.12', 'A', '16px'], ['1.25', 'A', '19px']]), tog('nuances', 'Déplier les nuances', 'Afficher d\'emblée les variantes régionales et les exceptions dans les leçons.'), seg('ref', 'Usages de référence', 'Le pays dont les règles servent de point de départ.', [['fr', 'France'], ['be', 'Belgique'], ['ch', 'Suisse'], ['qc', 'Québec']])] },
+      { title: 'Accessibilité', rows: [tog('motion', 'Réduire les animations', 'Supprime les fondus et transitions entre les écrans.'), tog('contrast', 'Contraste renforcé', 'Assombrit les textes secondaires et épaissit les séparateurs.')] },
+      { title: 'Rappels', rows: [tog('reminder', 'Rappel de lecture', 'Une notification discrète, le soir à 19 h, les jours de votre choix.'), tog('daily', 'Défi du jour', 'Être prévenu quand une nouvelle situation pratique est proposée.')] },
+      { title: 'Hors ligne', rows: [tog('wifi', 'Télécharger uniquement en Wi-Fi', 'Les domaines s\'enregistrent sur cet appareil pour une lecture sans connexion.'), actn('Domaines disponibles hors ligne', '3 domaines sur 8 · 42 Mo utilisés', 'Tout télécharger', 'ph-download-simple', '#1D2640', 'Téléchargement des 5 domaines restants…')] },
+      { title: 'Mes données', rows: [actn('Exporter ma progression', 'Un fichier de vos lectures, quiz et favoris.', 'Exporter', 'ph-export', '#1D2640', 'Export préparé — fichier progression.json'), actn('Réinitialiser la progression', 'Efface lectures et résultats. Vos favoris sont conservés.', 'Réinitialiser', 'ph-arrow-counter-clockwise', '#9B4A32', 'Prototype : la réinitialisation demandera une confirmation')] }
+    ].map(g => ({ ...g, rows: g.rows.map((r, i) => ({ ...r, sep: i ? '#EFE7D8' : 'transparent' })) }));
+
+    const is = { ds: scr === 'ds', home: scr === 'home', domain: scr === 'domain', lesson: scr === 'lesson', situation: scr === 'situation', quiz: scr === 'quiz', country: scr === 'country', progress: scr === 'progress', favoris: scr === 'favoris', settings: scr === 'settings' };
+    const dsOn = scr === 'ds';
+    return {
+      wide, narrow: !wide, wideLesson: s.w >= 1180, is, nav, mobileNav, menuOpen: s.menu,
+      dsNav: { bg: dsOn ? '#FFFDF9' : 'transparent', bd: dsOn ? '#E5DCCB' : 'transparent', fw: dsOn ? 600 : 500 },
+      closeMenu: () => this.setState({ menu: false }), stop: (e) => e.stopPropagation(),
+      goHome: () => this.go('home'), goDomain: () => this.go('domain'), goLesson: () => this.go('lesson'), goSituation: () => this.go('situation', { choice: null }), goProgress: () => this.go('progress'), goDs: () => this.go('ds'),
+      goQuiz: () => this.go('quiz', { qi: 0, ans: {}, checked: false, done: false }),
+      domains, levels, levelStats, rules, dos, donts, nuances, keep, toc,
+      favIcon: s.fav ? 'ph-fill ph-bookmark-simple' : 'ph ph-bookmark-simple', favLabel: s.fav ? 'Dans vos favoris' : 'Ajouter aux favoris', favPressed: s.fav ? 'true' : 'false',
+      toggleFav: () => { const f = !s.fav; this.setState({ fav: f }); this.flash(f ? 'Leçon ajoutée à vos favoris' : 'Leçon retirée de vos favoris'); },
+      prevLesson: () => this.flash('Leçon précédente : « Le vouvoiement et le tutoiement »'),
+      nextLesson: () => this.flash('Leçon suivante : « L\'ordre de service » — à rédiger'),
+      sitChoices, sitFeedback, resetSit: () => { this.setState({ choice: null }); window.scrollTo(0, 0); },
+      quizRunning: !s.done, quizDone: s.done, q, qOpts, qFeedback, qNum: s.qi + 1, qTotal: quiz.length, qSteps,
+      qAnswered: nAns + ' réponse' + (nAns > 1 ? 's' : '') + ' donnée' + (nAns > 1 ? 's' : ''),
+      showValidate: !s.checked, showNext: s.checked, noPick: pick === undefined, validateOp: pick === undefined ? 0.4 : 1,
+      validate: () => { if (pick !== undefined) this.setState({ checked: true }); },
+      nextLabel: s.qi === quiz.length - 1 ? 'Voir la correction' : 'Question suivante',
+      nextQ: () => { if (s.qi === quiz.length - 1) { this.setState({ done: true }); window.scrollTo(0, 0); } else this.setState({ qi: s.qi + 1, checked: false }); },
+      restartQuiz: () => { this.setState({ qi: 0, ans: {}, checked: false, done: false }); window.scrollTo(0, 0); },
+      score, results, scoreTitle, scoreMsg,
+      countryCards, compare, phrases, swatches, typeScale, levelBadges: ['deb', 'int', 'av'].map(k => this.badge(k)),
+      progStats, progRows, activity, toReview, favFilters, favItems, favEmpty: favItems.length === 0, settingGroups,
+      zoom: set.size, pageAnim: set.motion ? 'none' : 'svIn .35s ease both',
+      toast: s.toast, toastBottom: wide ? '32px' : '84px'
+    };
+  }
+}
+</script>
+</body>
+</html>

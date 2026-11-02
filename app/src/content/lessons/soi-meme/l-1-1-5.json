@@ -1,0 +1,301 @@
+{
+  "id": "l-1-1-5",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Se tenir droit n’est pas se tenir raide. Debout, assis, en marchant : ce que le maintien apporte, ce qu’il communique, et pourquoi il doit rester naturel et adapté à chaque corps.",
+  "estimatedDuration": 9,
+  "tags": [
+    "maintien",
+    "posture",
+    "marche",
+    "s’asseoir",
+    "attitude",
+    "corps"
+  ],
+  "objectives": [
+    "Adopter une posture droite et détendue, debout et assis.",
+    "Marcher et se déplacer avec aisance dans les lieux partagés.",
+    "Repérer et corriger les attitudes gênantes.",
+    "Reconnaître que chaque corps a ses possibilités et ses limites."
+  ],
+  "introduction": "On a longtemps fait marcher les jeunes filles un livre sur la tête, et l’on répétait aux garçons de bomber le torse. Ces images font sourire. Elles rappellent pourtant une réalité : la manière de se tenir parle avant nous. Un dos voûté peut signifier la fatigue ou la tristesse, même si l’on se sent très bien ; des jambes largement écartées dans le métro, un mépris pour ses voisins, même si l’on n’y pense pas.\n\nLe maintien contemporain ne cherche plus à fabriquer des silhouettes conformes. Il vise l’aisance : un corps qui ne se fait pas remarquer, qui laisse de la place aux autres et qui n’a pas à se combattre lui-même.",
+  "sections": [
+    {
+      "title": "Se tenir debout",
+      "content": "Une bonne posture debout est droite sans être rigide : le poids réparti sur les deux jambes, les épaules basses et relâchées, le menton parallèle au sol, le regard devant soi. On peut imaginer un fil qui tire doucement le sommet du crâne vers le haut. Les mains ne sont pas nécessairement occupées : le long du corps, elles paraissent étranges pendant quelques secondes, mais personne d’autre ne le remarque.\n\nCette position n’est pas seulement esthétique : elle facilite la respiration et la voix, et réduit la fatigue. Dans une longue attente, on peut changer d’appui de temps à autre, et il n’y a aucune raison de rester figé. Mettre une main dans sa poche n’a rien d’impoli dans la vie courante, même si les deux mains enfoncées dans les poches peuvent sembler désinvoltes dans un cadre solennel.\n\nCertains gestes prennent un sens involontaire. Les bras croisés peuvent traduire une fermeture ou simplement une habitude. Les poings sur les hanches peuvent paraître autoritaires, et s’appuyer sur le mur ou sur un meuble pendant une conversation sérieuse peut marquer un certain relâchement. Rien de tout cela n’est grave : il suffit de savoir ce que cela peut être perçu comme, et de s’en souvenir lorsque cela compte."
+    },
+    {
+      "title": "S’asseoir",
+      "content": "On s’assoit sans se laisser tomber, en contrôlant le mouvement, et on se place assez au fond du siège pour que le dossier soutienne le bas du dos. Les pieds reposent à plat, ou l’on croise les jambes de façon naturelle. L’usage ancien exigeait que les femmes croisent les chevilles et les hommes gardent les jambes un peu écartées ; ces usages liés au sexe n’ont plus cours. Le critère reste le confort, la tenue du vêtement, et le fait de ne pas occuper la place de ses voisins.\n\nDans les transports, au spectacle ou à une table, l’espace est compté. On garde les genoux dans le prolongement de son siège, on n’étale ni son sac ni ses jambes, et on ne pose pas ses pieds sur le siège d’en face. Se balancer sur sa chaise, bouger sans cesse le genou ou jouer avec un stylo peut irriter : ces gestes parasites se corrigent souvent lorsqu’on en prend conscience.\n\nLors d’une conversation ou d’un entretien, se tenir légèrement penché vers l’avant marque l’intérêt, alors que se laisser glisser au fond du fauteuil suggère le contraire. Quand une personne âgée ou fatiguée s’approche, il reste aimable de se lever pour la saluer ou de lui offrir sa place, sans que cela ne dépende de son sexe."
+    },
+    {
+      "title": "Marcher et circuler",
+      "content": "Une démarche aisée ne se remarque pas : un pas régulier, les bras libres, le regard devant soi plutôt que rivé à l’écran. Marcher en regardant son téléphone n’est pas seulement un risque pour soi : cela oblige les autres à vous éviter. Sur un trottoir étroit, on marche à droite en France, on ne se place pas à quatre de front, et l’on s’écarte pour laisser passer une poussette ou un fauteuil. On s’arrête en bordure du flux plutôt qu’en plein milieu pour consulter une carte.\n\nDans un escalier ou devant une porte, le bon sens prime. On tient la porte à celui qui suit, quel que soit son sexe, si cela ne l’oblige pas à courir. Un ancien usage voulait qu’un homme monte l’escalier derrière une femme, et le descende devant elle : on peut oublier ce détail sans remords, sauf à vouloir aider une personne qui risquerait de tomber.\n\nEntrer dans une pièce est aussi une manière d’exister. Sans bruit de talons ni porte claquée, on regarde les personnes présentes, on les salue et l’on prend sa place. Inutile d’attendre que quelqu’un vous installe à moins d’être invité. La timidité nous pousse parfois à raser les murs : quelques pas plus lents et une tête relevée suffisent à vous faire paraître bien plus à l’aise que vous ne l’êtes."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-1-5-r1",
+      "title": "Droit, mais sans raideur.",
+      "description": "On se tient avec le dos droit et les épaules relâchées, sans chercher à se figer.",
+      "rationale": "Cette posture facilite la respiration et la voix, et elle donne une impression d’aisance que la raideur ne produit pas.",
+      "context": "Rencontres, prises de parole, attentes, entretiens.",
+      "recommendedBehavior": "Répartissez votre poids sur les deux jambes, baissez les épaules et relevez le menton. Respirez : le reste viendra de lui-même.",
+      "exceptions": [
+        "Un handicap, une douleur ou un âge avancé peuvent rendre cette posture impossible : elle ne s’exige de personne."
+      ],
+      "remedy": "Rien à réparer : on se redresse doucement, sans en faire une affaire.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-1-5-r2",
+      "title": "On n’occupe que sa part d’espace.",
+      "description": "Assis ou debout, le corps et les affaires restent dans la limite de ce qui revient à chacun.",
+      "rationale": "Dans un espace partagé, chaque centimètre pris à l’un est retiré à l’autre. Occuper trop de place signale, volontairement ou non, que l’on compte plus que les autres.",
+      "context": "Transports, salles de spectacle, files d’attente, tables de restaurant.",
+      "recommendedBehavior": "Gardez les genoux devant vous, le sac sur vos genoux ou à vos pieds, et vos coudes près du corps.",
+      "exceptions": [
+        "Une personne de forte corpulence, ou très grande, ne peut rien changer à sa taille : la remarque ne porte que sur l’attitude."
+      ],
+      "remedy": "« Pardon », et l’on se recentre, sans plus de commentaire.",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-1-1-5-r3",
+      "title": "On se lève pour accueillir, selon le besoin et non selon le sexe.",
+      "description": "On se lève pour saluer quelqu’un que l’on reçoit ou pour offrir sa place à qui en a besoin, quel que soit son sexe.",
+      "rationale": "Se lever reconnaît la personne qui arrive. Offrir sa place répond à un besoin réel, et non à une supposée fragilité des femmes.",
+      "context": "Présentations, accueils, transports, salles d’attente.",
+      "recommendedBehavior": "Levez-vous pour une présentation lorsque c’est possible. Proposez votre siège à une personne âgée, enceinte, ou fatiguée, et acceptez un refus.",
+      "exceptions": [
+        "À table, avec une assemblée nombreuse, un geste du buste peut suffire.",
+        "Si vous êtes vous-même fatigué ou souffrant, rien ne vous y oblige."
+      ],
+      "remedy": "Si vous n’y avez pas pensé, levez-vous dès que vous vous en rendez compte, sans vous excuser longuement.",
+      "conventionType": "contextual_rule",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-1-1-5-r4",
+      "title": "On marche en regardant autour de soi.",
+      "description": "Dans un lieu fréquenté, on lève les yeux de son écran, on suit le flux, et on s’arrête sur le côté.",
+      "rationale": "Le piéton qui regarde son téléphone oblige tout le monde à l’éviter, et il constitue un danger pour lui-même et pour les autres.",
+      "context": "Trottoirs, gares, escaliers, centres commerciaux.",
+      "recommendedBehavior": "Écartez-vous du passage pour consulter votre écran. Ne marchez pas à trois de front sur un trottoir étroit.",
+      "exceptions": [],
+      "remedy": "« Excusez-moi », et l’on range son téléphone.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "L’histoire du maintien est celle d’une longue discipline des corps. Norbert Elias a montré comment, de la cour à la bourgeoisie, on a demandé aux individus de contrôler de mieux en mieux leurs gestes. Michel Foucault y a vu un phénomène plus large, où le corps est dressé par des règles. Le maintien fut ainsi souvent un moyen d’enseigner à chacun sa place : le port altier pour les uns, l’effacement pour les autres, et, pour les femmes, de longues listes de postures « convenables ».\n\nIl ne s’agit plus de cela. La recherche sur le « langage du corps » incite d’ailleurs à la prudence : les études célèbres qui prétendaient qu’une posture de puissance modifie durablement les hormones n’ont pas été confirmées par les réplications ultérieures. Ce qui reste, plus modestement, tient à deux choses. Une posture juste nous rend plus disponibles, et le fait d’occuper une part raisonnable de l’espace commun reste une manière de respecter les autres.",
+  "examples": [
+    {
+      "context": "Vous attendez d’être reçu en entretien",
+      "behavior": "Vous vous asseyez sans vous affaler, vous posez votre sac à vos pieds et vous rangez votre téléphone. Quand la personne arrive, vous vous levez, souriez et lui tendez la main.",
+      "explanation": "Vous êtes prêt et disponible : la rencontre commence bien avant la première question."
+    },
+    {
+      "context": "Dans un métro bondé",
+      "behavior": "Vous retirez votre sac à dos pour le porter à la main ou à vos pieds, et vous gardez les jambes resserrées lorsque vous êtes assis.",
+      "explanation": "Ce simple geste libère l’espace d’une personne : tout le monde en profite."
+    },
+    {
+      "context": "Une personne âgée arrive dans une salle d’attente pleine",
+      "behavior": "Vous vous levez : « Voulez-vous vous asseoir ? » Elle refuse en souriant, et vous vous rasseyez sans insister.",
+      "explanation": "Vous proposez sans imposer, et vous respectez sa réponse : elle reste seule juge de ce dont elle a besoin."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Dans les transports",
+      "behavior": "S’asseoir jambes très écartées, débordant sur les sièges voisins.",
+      "consequences": "Vos voisins doivent se serrer, et ce geste passe pour du mépris, d’autant qu’ils n’osent pas le dire.",
+      "alternative": "Garder les genoux dans l’axe de votre siège."
+    },
+    {
+      "situation": "Sur le trottoir",
+      "behavior": "S’arrêter net au milieu d’un flux, en haut d’un escalier ou à la sortie d’un train pour consulter son téléphone.",
+      "consequences": "Les personnes derrière vous sont bloquées, et cela peut être dangereux.",
+      "alternative": "Avancer de quelques pas et se ranger sur le côté."
+    },
+    {
+      "situation": "Auprès d’un adolescent ou d’un collègue",
+      "behavior": "« Tiens-toi droit ! » dit à voix haute devant les autres.",
+      "consequences": "La remarque humilie, et elle ne corrige rien : la personne se raidit, ou se referme.",
+      "alternative": "Ne rien dire en public. Si la question est de santé, en parler seul à seul."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Handicap et diversité des corps.",
+      "text": "Une canne, un fauteuil, une scoliose, une douleur chronique ou une taille hors norme ne relèvent pas du maintien. Les conseils de cette leçon s’adressent à chacun pour lui-même, et ne doivent jamais servir à juger un autre corps."
+    },
+    {
+      "title": "Variations culturelles.",
+      "text": "Croiser les jambes peut être mal vu devant un aîné en Corée, en Thaïlande ou dans plusieurs pays du Moyen-Orient, où montrer sa semelle est offensant. S’asseoir au sol, sur les talons ou en tailleur peut être l’usage dans d’autres cultures. Observez ce que font vos hôtes."
+    },
+    {
+      "title": "Genre et posture.",
+      "text": "Les conseils anciens prescrivaient aux femmes de se faire petites, et aux hommes de prendre leurs aises. Cette éducation laisse encore des traces. Le même repère peut désormais valoir pour tous : ni s’effacer, ni déborder."
+    }
+  ],
+  "contexts": [
+    "Entretien : assis droit, légèrement penché vers l’avant, mains libres.",
+    "Prise de parole : debout, appuis stables, gestes posés.",
+    "Transports : corps et affaires dans les limites de sa place.",
+    "Espace public : regard levé, marche à droite, arrêt sur le côté."
+  ],
+  "keyPoints": [
+    "Droit n’est pas raide : on cherche l’aisance, pas la statue.",
+    "Dans un lieu partagé, on n’occupe que sa part d’espace.",
+    "On se lève pour accueillir, et on offre sa place selon le besoin.",
+    "Ces repères valent pour soi : ils ne servent jamais à juger le corps d’un autre."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Une attitude, une lecture possible",
+    "instructions": "Associez chaque attitude à ce qu’elle peut donner à penser, même involontairement.",
+    "pairs": [
+      {
+        "left": "S’affaler au fond du fauteuil pendant un entretien",
+        "right": "Un manque d’intérêt pour l’échange"
+      },
+      {
+        "left": "Les poings sur les hanches lors d’une discussion",
+        "right": "Une attitude d’autorité ou de défi"
+      },
+      {
+        "left": "Se pencher légèrement vers son interlocuteur",
+        "right": "Une marque d’attention"
+      },
+      {
+        "left": "Étendre ses jambes en travers d’une allée",
+        "right": "Un manque d’égards pour ceux qui passent"
+      }
+    ],
+    "explanation": "Ces lectures sont possibles, et non certaines : on ne déduit rien de sûr de la posture d’autrui. Mais il est utile de savoir ce que notre propre corps peut communiquer."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-1-1-5-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle posture décrit le mieux un maintien naturel ?",
+        "choices": [
+          "Le torse bombé et les épaules relevées",
+          "Le dos droit, les épaules basses, le menton parallèle au sol",
+          "Le poids sur une seule jambe et les mains sur les hanches",
+          "Les bras croisés, pour paraître plus sûr de soi"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le dos droit et les épaules relâchées facilitent la respiration et donnent une impression d’aisance. Bomber le torse produit une raideur, et une posture de défi n’inspire pas l’aisance.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-5-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Il est établi qu’adopter une « posture de puissance » pendant deux minutes modifie durablement les hormones et les résultats.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : ces résultats très médiatisés n’ont pas été confirmés lors de réplications plus larges. Une bonne posture peut aider à se sentir mieux sur le moment, sans plus de garantie que cela.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-1-1-5-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Dans laquelle de ces situations y a-t-il une maladresse ?",
+        "choices": [
+          "Proposer son siège à une personne âgée, et accepter son refus",
+          "Reprendre un collègue devant tout le monde : « Tiens-toi droit ! »",
+          "Se lever pour saluer quelqu’un que l’on reçoit",
+          "Se ranger sur le côté pour consulter son téléphone"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "La correction publique humilie et n’améliore rien. Les autres gestes témoignent d’attention aux autres, et n’en attendent rien.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-5-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Selon l’usage contemporain, à qui offre-t-on sa place dans les transports ?",
+        "choices": [
+          "Aux femmes, systématiquement",
+          "Aux personnes qui semblent en avoir besoin, quel que soit leur sexe",
+          "Uniquement à celles qui présentent une carte de priorité",
+          "À personne, chacun étant responsable de soi dans l’espace public"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le geste se fonde sur le besoin : grand âge, grossesse, fatigue, handicap, y compris invisible. On propose, et l’on accepte un éventuel refus, sans présumer une fragilité liée au sexe.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-5-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quels gestes libèrent de l’espace pour les autres dans un métro bondé ? (plusieurs réponses)",
+        "choices": [
+          "Retirer son sac à dos",
+          "Garder les genoux dans l’axe de son siège",
+          "Rester debout devant la porte, quand on ne descend pas",
+          "Laisser descendre avant de monter"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "Le sac à dos retiré et les jambes resserrées libèrent de la place, et laisser descendre facilite le mouvement de tous. Rester planté devant la porte, au contraire, bloque le passage.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Norbert Elias",
+      "title": "La Civilisation des mœurs",
+      "publisher": "Calmann-Lévy",
+      "year": "1973"
+    },
+    {
+      "author": "Michel Foucault",
+      "title": "Surveiller et punir",
+      "publisher": "Gallimard",
+      "year": "1975",
+      "note": "Sur la discipline des corps."
+    },
+    {
+      "author": "Erving Goffman",
+      "title": "Les Relations en public",
+      "publisher": "Éditions de Minuit",
+      "year": "1973"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

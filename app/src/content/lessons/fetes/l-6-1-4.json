@@ -1,0 +1,290 @@
+{
+  "id": "l-6-1-4",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Féliciter semble facile : c’est pourtant là qu’on glisse le plus souvent vers le conseil, la comparaison ou l’envie. Trouver le bon mot pour une naissance, une promotion, un mariage ou un diplôme.",
+  "estimatedDuration": 9,
+  "tags": [
+    "félicitations",
+    "naissance",
+    "promotion",
+    "mariage",
+    "réussite",
+    "message",
+    "bonne nouvelle"
+  ],
+  "objectives": [
+    "Exprimer des félicitations précises et sincères, sans les retourner vers soi.",
+    "Adapter le support et le ton au lien et à l’occasion.",
+    "Éviter les questions et remarques qui gâchent une bonne nouvelle.",
+    "Féliciter en gardant de la sensibilité envers les situations d’autrui."
+  ],
+  "introduction": "« Félicitations pour ta promotion ! Tu vas voir, ça ne va pas être facile, avec ce patron. » « Un bébé, quelle joie ! Il va falloir vous habituer à ne plus dormir. » Beaucoup d’entre nous ont reçu ce genre de réaction en annonçant une bonne nouvelle, et ont senti la joie se dégonfler un peu.\n\nSe réjouir pour quelqu’un est une compétence plus rare qu’on ne le pense. Certains psychologues ont d’ailleurs observé que la façon dont on réagit aux bonnes nouvelles d’un proche influence autant la relation que le soutien apporté dans les moments difficiles. Cette leçon vous aide à répondre à ce rendez-vous.",
+  "sections": [
+    {
+      "title": "Ce qui rend un compliment précieux",
+      "content": "Un « Bravo ! » n’a rien de mal, mais il dit peu de chose. Les félicitations prennent une autre valeur lorsqu’elles nomment ce qui a été accompli et ce que vous savez de la personne : « Bravo pour ce concours. Je me souviens de tes week-ends de révisions : c’est mérité. » La personne comprend que l’on a vu l’effort, et non seulement le résultat.\n\nLaissez du temps à la personne pour raconter : c’est souvent ce qu’elle attend. Une bonne question vaut mieux que dix exclamations. « Comment tu l’as appris ? », « Qu’est-ce qui te fait le plus plaisir ? », « Raconte, comment ça s’est passé ? ». La chercheuse Shelly Gable a montré que cette réaction active et constructive renforce les relations, à la différence d’une réaction polie et rapide, ou de celle qui pointe aussitôt les difficultés à venir.\n\nÉvitez de ramener la nouvelle à vous : « Moi aussi, quand j’ai eu mon poste… » La comparaison viendra peut-être plus tard, mais elle n’a pas sa place dans ce premier moment. Il en va de même pour les conseils et les mises en garde, même justifiés : ce n’est pas l’heure, et ils peuvent attendre."
+    },
+    {
+      "title": "Par quel moyen ?",
+      "content": "Le support dépend du lien et de l’événement. Pour un proche, on appelle ou on se voit : l’émotion passe mieux, et la personne a envie de raconter. Pour une connaissance ou un collègue, un message suffit. Pour une naissance, un mariage ou un événement solennel, une carte écrite garde une saveur particulière, notamment auprès des personnes âgées. Un commentaire sur un réseau social convient pour une relation lointaine, et il ne remplace pas un mot personnel si vous êtes proche.\n\nDans un cadre professionnel, la félicitation peut être publique, si l’intéressé ne s’en gêne pas. Un collaborateur remercié en réunion en gardera un bon souvenir, mais certaines personnes détestent ces moments d’exposition : un mot en privé convient alors mieux. Un responsable aura intérêt à être précis et à ne pas faire de comparaison avec les autres membres de l’équipe.\n\nN’attendez pas trop. Les félicitations perdent de leur intérêt lorsque l’événement est loin, mais mieux vaut un mot tardif que rien : « Je suis en retard, mais je tenais à te dire combien j’étais heureux pour toi. » Il n’est pas nécessaire de multiplier les excuses."
+    },
+    {
+      "title": "Les questions qui gâchent",
+      "content": "Certaines réactions sont si fréquentes qu’on ne les remarque plus. Dans le cas d’une naissance : « Il est bien petit », « Elle a pris combien de kilos ? », « Tu allaites ? », « Le prochain, c’est pour quand ? ». Ce sont des remarques intrusives sur le corps et sur les choix des parents. Il vaut mieux demander : « Comment allez-vous, tous les trois ? » Pour un mariage : « Enfin ! » ou « Ça n’a pas été trop long » suggèrent un jugement. Pour une promotion : « Combien tu vas gagner maintenant ? » déplace la joie vers l’argent. Pour un examen réussi à cinquante ans : « À ton âge ! » est un compliment à double tranchant.\n\nFéliciter demande aussi une attention à ce qu’on ne sait pas. Une femme qui annonce une grossesse à douze semaines peut craindre une fausse couche, et préférer que la nouvelle reste confidentielle. On ne l’annonce donc pas à la place de la personne. L’annonce d’un mariage peut être un sujet délicat si une famille s’y oppose. Laissez donc la personne vous donner le ton et, si vous avez un doute, demandez-lui : « À qui puis-je en parler ? »\n\nIl arrive enfin qu’une nouvelle heureuse pour l’un soit douloureuse pour l’autre : annoncer une grossesse à une amie qui en a perdu une, ou recevoir une promotion que vous espériez. On peut se réjouir pour quelqu’un, et ressentir en même temps de la peine. Il n’y a rien de honteux à cela, et un mot bref et sincère suffit : « Je suis content pour toi. » Vous n’êtes pas obligé de jouer l’enthousiasme, ni de rester longtemps."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-6-1-4-r1",
+      "title": "On félicite sans se mettre au centre.",
+      "description": "On se concentre d’abord sur la personne et sur ce qu’elle a accompli, sans parler de soi ni comparer.",
+      "rationale": "Une bonne nouvelle est un moment qui appartient à celui qui l’annonce. Le ramener à soi revient à le reprendre.",
+      "context": "Toute annonce heureuse : amitié, famille, travail.",
+      "recommendedBehavior": "Dites un mot précis, posez une question, et laissez raconter.",
+      "exceptions": [
+        "Si la personne sollicite votre expérience, vous pouvez la partager."
+      ],
+      "remedy": "« Excuse-moi, je parle de moi. Raconte-moi plutôt ! »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-6-1-4-r2",
+      "title": "Pas de conseil, pas de mise en garde dans la foulée.",
+      "description": "Dans le premier moment de joie, on ne rappelle pas les difficultés ni ce que l’on sait déjà sur la suite.",
+      "rationale": "La mise en garde, même utile, peut être entendue comme un jugement. La personne a le droit de savourer.",
+      "context": "Grossesse, naissance, mariage, nouveau travail, création d’entreprise.",
+      "recommendedBehavior": "Attendez une demande ou un moment ultérieur : « Si tu veux un jour que je te dise comment ça s’est passé pour nous, je suis là. »",
+      "exceptions": [
+        "Si vous avez connaissance d’un danger concret et immédiat, il faut en parler, en privé et avec soin."
+      ],
+      "remedy": "« Je n’aurais pas dû dire ça maintenant. Je suis vraiment heureux pour toi. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-6-1-4-r3",
+      "title": "On laisse l’annonce à la personne concernée.",
+      "description": "Une grossesse, des fiançailles ou une promotion ne se répètent pas sans accord.",
+      "rationale": "Ces nouvelles leur appartiennent : elles peuvent comporter des enjeux que vous ignorez.",
+      "context": "Vie privée, travail, réseaux sociaux.",
+      "recommendedBehavior": "Demandez : « Je peux en parler autour de moi, ou c’est encore un secret ? »",
+      "exceptions": [],
+      "remedy": "Si vous avez parlé trop vite : avertissez la personne vous-même. « J’ai été trop heureux, j’en ai parlé à Marie, et je n’aurais pas dû. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-6-1-4-r4",
+      "title": "Un mot tardif vaut mieux qu’un silence.",
+      "description": "On peut encore féliciter après l’événement, sans excuses interminables.",
+      "rationale": "Ce qui compte est d’avoir pensé à la personne. Les excuses déplacent l’attention sur vous.",
+      "context": "Naissances, réussites, mariages, nominations.",
+      "recommendedBehavior": "« Avec un peu de retard, je tenais à te dire combien je suis content pour toi. »",
+      "exceptions": [],
+      "remedy": "Le mot tardif est lui-même la réparation.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Montrer sa joie pour le bonheur d’autrui a beau paraître naturel, ce n’est pas forcément simple. La Rochefoucauld notait avec ironie que l’on trouve toujours dans le malheur de nos meilleurs amis quelque chose qui ne nous déplaît pas : la jalousie ou la comparaison sont des réactions humaines. Les félicitations exigent donc une petite victoire sur soi, ce qui fait d’elles une véritable politesse.\n\nLes travaux de la psychologue Shelly Gable, menés dans les années 2000, ont montré que la réaction à une bonne nouvelle joue un grand rôle dans la solidité des liens. Une réponse enthousiaste et curieuse renforce la relation ; une réponse tiède ou préoccupée par les ennuis futurs l’affaiblit. Autrement dit, célébrer l’autre n’a rien d’accessoire : c’est une manière de dire que son existence compte pour nous, et non seulement ses malheurs.",
+  "examples": [
+    {
+      "context": "Une collègue vient d’obtenir le poste qu’elle visait depuis deux ans",
+      "behavior": "« Bravo, Salma ! Ça faisait longtemps que tu y travaillais, et ta présentation au comité était excellente. Qu’est-ce qui te fait le plus plaisir dans ce nouveau poste ? »",
+      "explanation": "Un mot précis et une question : elle a l’occasion de raconter, et l’on voit que vous la connaissez."
+    },
+    {
+      "context": "Une carte à des amis pour une naissance",
+      "behavior": "« Quelle belle nouvelle ! Bienvenue à Inès. Nous sommes si heureux pour vous trois. Prenez bien soin de vous, et faites-nous signe lorsque vous serez prêts à recevoir de la visite. »",
+      "explanation": "Le message accueille l’enfant et les parents, sans s’imposer, et laisse aux parents la maîtrise des visites."
+    },
+    {
+      "context": "Votre amie, qui a traversé une séparation, se remarie",
+      "behavior": "« Je suis tellement heureuse de te voir heureuse. Dis-moi tout : comment s’est passée la demande ? »",
+      "explanation": "Pas d’allusion au premier mariage ni de « cette fois, c’est la bonne » : vous parlez d’aujourd’hui, à partir de ce que vous observez."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Après l’annonce d’une grossesse",
+      "behavior": "« Enfin ! On commençait à se demander ce qui se passait. »",
+      "consequences": "Vous révélez que l’entourage commentait une question intime. Si elle a connu des difficultés, c’est une violence.",
+      "alternative": "« Quelle belle nouvelle, je suis si heureuse pour vous. Comment tu te sens ? »"
+    },
+    {
+      "situation": "À l’annonce d’une promotion",
+      "behavior": "« Bravo, combien ça te fait de plus ? »",
+      "consequences": "La question déplace la joie vers l’argent, et la personne peut se sentir gênée de répondre.",
+      "alternative": "« Bravo ! Qu’est-ce qui va changer pour toi au quotidien ? »"
+    },
+    {
+      "situation": "En apprenant une nouvelle par un tiers",
+      "behavior": "L’annoncer immédiatement sur un réseau social avec une photographie.",
+      "consequences": "Vous privez les personnes concernées de leur propre annonce, et vous pouvez les exposer.",
+      "alternative": "Leur envoyer un message privé et les laisser annoncer à leur rythme."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "La modestie selon les cultures.",
+      "text": "Dans plusieurs cultures, féliciter une réussite de façon trop appuyée peut gêner ; certains préfèrent répondre « Ce n’est rien ». Dans d’autres, on craint le mauvais œil en louant trop un nouveau-né, ou l’on attend pour faire des cadeaux à l’enfant. Si vous hésitez, suivez la manière dont l’entourage s’exprime."
+    },
+    {
+      "title": "Féliciter un supérieur.",
+      "text": "Au travail, féliciter un supérieur peut être interprété comme de la flatterie si le ton est trop appuyé. Un mot sobre, centré sur le résultat (« Bravo pour ce contrat, c’est une bonne nouvelle pour toute l’équipe »), est toujours recevable."
+    },
+    {
+      "title": "Quand une nouvelle vous fait mal.",
+      "text": "Rien ne vous oblige à assister à une baby shower alors que vous traversez une infertilité, ni à vous réjouir bruyamment. Un mot sincère, envoyé au bon moment, suffit à témoigner de votre affection. La personne concernée le comprendra le plus souvent."
+    }
+  ],
+  "contexts": [
+    "Naissance : mot pour les parents, respect de leur rythme, pas de commentaire sur le corps.",
+    "Réussite scolaire ou professionnelle : reconnaissance de l’effort plutôt que comparaison.",
+    "Mariage : joie simple, sans allusion au passé.",
+    "Retraite, nomination, distinction : carte écrite ou mot public, selon les préférences de la personne."
+  ],
+  "keyPoints": [
+    "Un mot précis vaut mieux qu’une exclamation : il prouve que vous avez vu l’effort.",
+    "Posez une question, et laissez raconter.",
+    "Pas de conseils, ni de mises en garde dans la foulée.",
+    "La nouvelle appartient à celui qui l’annonce."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "La phrase qui gâche, la phrase qui honore",
+    "instructions": "Associez chaque situation à la formulation la plus juste.",
+    "pairs": [
+      {
+        "left": "Un ami, 52 ans, vient d’obtenir son diplôme d’infirmier.",
+        "right": "« Bravo ! Reprendre des études à côté du travail, quel courage. »"
+      },
+      {
+        "left": "Votre sœur annonce sa grossesse.",
+        "right": "« Quelle joie ! Comment te sens-tu ? À qui puis-je en parler ? »"
+      },
+      {
+        "left": "Votre collègue obtient une promotion.",
+        "right": "« Bravo, c’est mérité après ce dossier. Qu’est-ce qui te plaît le plus ? »"
+      },
+      {
+        "left": "Un couple de longue date annonce son mariage.",
+        "right": "« Quelle belle nouvelle, racontez-nous tout ! »"
+      }
+    ],
+    "explanation": "Ces réponses évitent « à ton âge », « enfin » et « combien ». Toutes partent de ce que vit la personne concernée et lui laissent la parole."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-6-1-4-q1",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Une amie vous annonce sa promotion. Quelle est la meilleure réponse ?",
+        "choices": [
+          "« Bravo. Moi aussi, j’ai eu une promotion l’an dernier, je vais te raconter. »",
+          "« Bravo ! Après tout ce que tu as fait sur ce projet, c’est mérité. Comment l’as-tu appris ? »",
+          "« Super. Attention, à ce niveau, le stress monte vite. »",
+          "« Combien vas-tu gagner en plus ? »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Elle reconnaît l’effort et invite au récit. Les autres ramènent à soi, annoncent des difficultés ou déplacent le sujet vers l’argent.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-6-1-4-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Si vous n’avez pas félicité quelqu’un dans la semaine, il vaut mieux ne plus rien dire.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : un mot tardif vaut mieux qu’un silence, et il n’appelle pas d’excuses interminables. La personne retient surtout que vous avez pensé à elle.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-6-1-4-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quelle réaction à l’annonce d’une naissance est la plus maladroite ?",
+        "choices": [
+          "« Comment allez-vous, tous les trois ? »",
+          "« Bienvenue à ce petit bonhomme ! »",
+          "« Il est tout petit… Tu as pris combien de kilos ? »",
+          "« Faites-nous signe lorsque vous serez prêts à recevoir. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Les remarques sur la taille de l’enfant et le corps de la mère sont intrusives. Les autres réponses honorent la famille et respectent son rythme.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-6-1-4-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Selon les travaux de Shelly Gable, quelle réaction à une bonne nouvelle renforce le plus une relation ?",
+        "choices": [
+          "Une réponse polie et rapide",
+          "Une réponse active et curieuse, qui invite à raconter",
+          "Une réponse centrée sur les risques à venir",
+          "L’absence de réaction, pour ne pas s’imposer"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "La réaction active et constructive montre l’intérêt réel, et fait durer le plaisir de la nouvelle. Les réponses tièdes ou inquiètes affaiblissent le lien, même lorsqu’elles sont bien intentionnées.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-6-1-4-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Vous apprenez une grossesse par un tiers. Que faites-vous ? (plusieurs réponses)",
+        "choices": [
+          "Vous attendez que la personne vous l’annonce, ou vous lui écrivez en privé",
+          "Vous l’annoncez sur un réseau social pour la féliciter",
+          "Vous ne la répétez pas à d’autres",
+          "Vous lui demandez si elle a déjà choisi le prénom devant les collègues"
+        ],
+        "correctAnswers": [
+          0,
+          2
+        ],
+        "explanation": "La nouvelle appartient à la personne concernée, qui peut avoir de bonnes raisons de la garder pour elle. Une publication ou une question publique la priverait de sa propre annonce.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Shelly L. Gable et al.",
+      "title": "What Do You Do When Things Go Right?",
+      "publisher": "Journal of Personality and Social Psychology",
+      "year": "2004"
+    },
+    {
+      "author": "François de La Rochefoucauld",
+      "title": "Maximes",
+      "year": "1665"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

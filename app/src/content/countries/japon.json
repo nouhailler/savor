@@ -1,0 +1,161 @@
+{
+  "id": "c-japon",
+  "slug": "japon",
+  "name": "Japon",
+  "region": "Asie orientale",
+  "languages": [
+    "Japonais"
+  ],
+  "intro": "Une société où l’harmonie du groupe et la retenue comptent beaucoup. On n’attend pas d’un étranger qu’il maîtrise tous les codes, mais l’effort est remarqué et apprécié.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Inclinaison (ojigi)"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Pas d’usage"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "Exactitude attendue"
+    },
+    {
+      "label": "Chaussures",
+      "value": "Retirées à l’intérieur"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "On s’incline plutôt que de se serrer la main ; la profondeur marque le degré de respect.",
+        "D’un étranger, une légère inclinaison suffit, et beaucoup tendront la main pour vous mettre à l’aise.",
+        "On s’adresse aux personnes par leur nom de famille suivi de « -san » ; le prénom est réservé aux proches."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "Être à l’heure revient presque à être en retard : on arrive quelques minutes en avance aux rendez-vous professionnels.",
+        "En cas de retard, on prévient et l’on présente ses excuses, même pour quelques minutes."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On reçoit plus souvent au restaurant qu’à domicile : une invitation à la maison est une marque de confiance.",
+        "On retire ses chaussures à l’entrée, dans le genkan ; des chaussons distincts peuvent être réservés aux toilettes.",
+        "On ne marche pas en chaussons sur les tatamis."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "On dit « itadakimasu » avant de manger, et « gochisōsama deshita » après.",
+        "On ne plante pas ses baguettes à la verticale dans le riz, et l’on ne passe pas un aliment de baguettes à baguettes : ces gestes évoquent les rites funéraires.",
+        "On sert ses voisins, qui vous servent en retour, plutôt que de se servir à boire soi-même.",
+        "Aspirer ses nouilles est admis."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Un petit cadeau, si possible de votre région (omiyage), est bienvenu, et l’emballage compte beaucoup.",
+        "On l’offre à deux mains, en minimisant son importance.",
+        "On évite les lots de quatre : ce chiffre se prononce comme le mot « mort »."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Les tenues professionnelles sont souvent sobres et sombres.",
+        "Des chaussettes propres et sans trou sont utiles, puisque l’on se déchausse souvent.",
+        "Dans un onsen, on se lave entièrement avant d’entrer, et les tatouages peuvent encore poser problème dans certains établissements."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "La communication est souvent implicite : « ce sera difficile » peut être un refus.",
+        "On évite de contredire frontalement, et l’on ne fait pas de reproche en public.",
+        "Le silence n’a rien de gênant : il peut être un temps de réflexion."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "Regarder fixement quelqu’un dans les yeux peut sembler insistant.",
+        "Un sourire peut masquer un embarras, et ne signifie pas toujours la joie.",
+        "On évite de se moucher bruyamment en public."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "La Seconde Guerre mondiale et les relations avec la Chine et la Corée sont des sujets délicats.",
+        "Les questions sur le salaire ou sur la vie privée restent à éviter avec des connaissances."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "L’échange de cartes de visite (meishi) se fait à deux mains, et la carte reçue se lit avec attention.",
+        "Les décisions se préparent par consultation interne (nemawashi), et peuvent prendre du temps.",
+        "L’ordre des places et les rangs comptent lors des réunions et des repas."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Laisser un pourboire : il peut gêner, voire vous être rendu.",
+        "Téléphoner dans le train : on met son appareil en mode silencieux.",
+        "Insister pour obtenir un « non » explicite."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "On parle bas dans les transports, et l’on fait la queue en ordre.",
+        "Manger en marchant reste mal vu dans bien des endroits.",
+        "On pose l’argent sur le petit plateau prévu à la caisse."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Arigatō gozaimasu",
+      "meaning": "Merci beaucoup."
+    },
+    {
+      "original": "Sumimasen",
+      "meaning": "Excusez-moi : pour interpeller comme pour s’excuser."
+    },
+    {
+      "original": "Itadakimasu",
+      "meaning": "Avant le repas : « Je reçois humblement »."
+    },
+    {
+      "original": "Gochisōsama deshita",
+      "meaning": "Après le repas : « C’était un festin »."
+    }
+  ],
+  "generalizationNote": "Ces repères décrivent des tendances fréquentes, surtout dans les grandes villes et le monde professionnel. Les générations, les régions et les parcours internationaux modifient beaucoup ces usages : de nombreux Japonais s’en écartent, et ces descriptions ne valent pas pour tous.",
+  "sources": [
+    {
+      "title": "Japan National Tourism Organization (JNTO)",
+      "note": "Informations officielles aux voyageurs."
+    },
+    {
+      "title": "Conseils aux voyageurs : Japon",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

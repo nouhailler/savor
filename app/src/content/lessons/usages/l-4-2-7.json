@@ -1,0 +1,307 @@
+{
+  "id": "l-4-2-7",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Tout le monde commet des impairs ; on se souvient surtout de la façon dont ils ont été réparés. Gaffe, familiarité, indiscrétion, flatterie : les reconnaître et s’en relever avec simplicité.",
+  "estimatedDuration": 11,
+  "tags": [
+    "gaffe",
+    "impair",
+    "maladresse",
+    "familiarité",
+    "indiscrétion",
+    "flatterie",
+    "réparer"
+  ],
+  "objectives": [
+    "Reconnaître les principales maladresses sociales et ce qu’elles abîment.",
+    "Réparer un impair sur le moment, sans l’aggraver par trop d’excuses.",
+    "Distinguer flatterie, compliment sincère et hypocrisie.",
+    "Aider l’auteur d’une gaffe à s’en sortir."
+  ],
+  "introduction": "Vous demandez à une femme quand elle doit accoucher : elle n’est pas enceinte. Vous critiquez le discours du directeur auprès de quelqu’un : c’est son mari. Vous répondez « à tous » à un message qui ne devait parvenir qu’à une personne. La sueur vient, le silence s’installe, et vous voudriez disparaître.\n\nLes personnes réputées pour leur aisance n’évitent pas ces accidents : elles savent s’en relever. Un impair révèle moins votre manque de savoir-vivre que la manière dont vous réagissez ensuite. Cette leçon décrit les principales maladresses, et propose une méthode simple pour les réparer.",
+  "sections": [
+    {
+      "title": "Petite typologie des maladresses",
+      "content": "La gaffe est un accident : on dit ou fait quelque chose qui, à son insu, touche un point sensible. Elle ne suppose aucune mauvaise intention. Elle est souvent liée à un manque d’information, comme lorsqu’on évoque les enfants de quelqu’un qui vient d’en perdre un. Il est impossible d’en éviter toutes, mais on en réduit le risque en s’abstenant d’hypothèses sur le corps, l’âge, le couple et la santé d’autrui.\n\nLa familiarité excessive consiste à raccourcir une distance sans y être invité : un surnom non autorisé, un tutoiement imposé, une tape sur l’épaule, une plaisanterie grivoise avec une connaissance récente. Elle part souvent d’une volonté de sympathie. Mais elle décide à la place de l’autre du degré de proximité de la relation. L’indiscrétion, sa proche voisine, porte sur l’information : question intrusive, révélation d’une confidence, lecture d’un écran par-dessus une épaule, transmission d’une nouvelle qui n’était pas à vous.\n\nLa flatterie et l’hypocrisie forment un dernier couple. Le flatteur exagère dans le but d’obtenir quelque chose, et l’interlocuteur le sent en général. L’hypocrite dit à une personne le contraire de ce qu’il dit derrière son dos. On ne doit pas pour autant confondre ces défauts avec le tact : taire une critique inutile n’est pas de l’hypocrisie, et un compliment sincère et précis ne constitue pas de la flatterie."
+    },
+    {
+      "title": "Réparer sur le moment",
+      "content": "Le réflexe le plus néfaste est de vouloir tout expliquer. Celui qui vient de se tromper empile les justifications, multiplie les excuses, et prolonge l’embarras qu’il prétend effacer : plus il insiste, plus il oblige l’autre à le consoler. La bonne réparation est brève : reconnaître, s’excuser, et passer à autre chose. « Pardon, je me suis trompé, je suis désolé. Et cette exposition, vous l’avez vue ? » Le changement de sujet n’est pas une fuite : c’est un service qu’on rend à la personne atteinte.\n\nLe ton compte. Une petite gaffe sans gravité supporte une pointe d’humour à ses propres dépens : « Eh bien, ma réputation de diplomate vient de s’effondrer. » Le rire porte alors sur vous, et jamais sur l’autre. En revanche, lorsque la maladresse a blessé réellement, comme un propos sur un deuil ou une maladie, l’humour est interdit, et il faut un ton sobre : « Je suis vraiment désolé, je ne savais pas. »\n\nSi l’impair a été commis devant témoins, ou s’il vous semble mériter davantage, on peut revenir en privé, plus tard : un mot le lendemain, sans dramatiser. « Je repense à ce que je t’ai dit hier soir : c’était maladroit. » Mais il faut savoir juger : pour une broutille que personne n’a remarquée, revenir dessus revient à la créer."
+    },
+    {
+      "title": "Quand c’est l’autre qui gaffe",
+      "content": "Le plus beau geste de savoir-vivre, dans ces situations, revient à celui qui en est témoin. Lorsque quelqu’un vient de commettre un impair, offrez-lui une issue : détournez la conversation, relancez sur un autre thème, faites comme si vous n’aviez pas entendu. Ne relevez ni ne commentez, et ne regardez pas les autres d’un air entendu. Goffman nommait cette attitude le « tact » : la coopération silencieuse de ceux qui aident un autre à préserver la face.\n\nSi la gaffe vous concerne, vous pouvez y répondre avec la même générosité : « Non, je ne suis pas enceinte, mais ne vous inquiétez pas. Vous voulez un café ? » Vous n’avez pas à rassurer longuement, ni à faire semblant de ne pas avoir été touché, mais vous pouvez clore l’incident avec un sourire. Si le propos a vraiment blessé, et notamment s’il se répète, il n’y a aucune obligation de le prendre avec légèreté.\n\nEnfin, l’erreur n’est pas toujours du côté que l’on croit. Il arrive qu’une personne vous reproche de l’avoir blessée alors que vous ne pensiez rien dire de mal. La sincérité de votre intention n’enlève rien à ce qu’elle ressent. « Ce n’était pas mon intention, mais je comprends que cela t’ait blessée. Je ferai attention » constitue une réponse plus utile qu’un débat sur la susceptibilité."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-4-2-7-r1",
+      "title": "On répare brièvement.",
+      "description": "Devant un impair : reconnaître, s’excuser en une phrase, puis changer de sujet.",
+      "rationale": "Les excuses répétées prolongent la gêne et obligent la personne atteinte à vous consoler. C’est elle qui doit retrouver sa place.",
+      "context": "Gaffes en société, au travail, à table, en public.",
+      "recommendedBehavior": "« Pardon, je ne savais pas. Je suis désolé. » Puis laissez un temps, et relancez sur un autre sujet.",
+      "exceptions": [
+        "Une faute grave mérite une vraie conversation, séparée et sans public."
+      ],
+      "remedy": "Si vous en avez trop fait : arrêtez. Une dernière phrase suffit : « Je m’arrête là, je ne fais qu’aggraver les choses. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-2-7-r2",
+      "title": "On ne présume rien du corps, de l’âge ou du couple.",
+      "description": "On ne fait aucune hypothèse à voix haute sur une grossesse, un poids, une maladie, une filiation, une relation, un âge.",
+      "rationale": "Ces suppositions sont les premières sources de gaffes graves ; elles touchent à des sujets intimes et parfois douloureux.",
+      "context": "Toute rencontre, y compris avec des personnes que l’on connaît.",
+      "recommendedBehavior": "Attendez que la personne en parle elle-même. Dites « la personne qui vous accompagne » si vous ne savez pas.",
+      "exceptions": [
+        "Un professionnel de santé pose ces questions dans son cadre."
+      ],
+      "remedy": "« Je n’aurais pas dû supposer ça. Excusez-moi. » Et l’on n’insiste pas.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-2-7-r3",
+      "title": "On aide celui qui a gaffé.",
+      "description": "Témoin d’un impair, on l’ignore si possible, et on offre une issue plutôt que de le souligner.",
+      "rationale": "Le rire ou l’ironie des témoins transforme un accident en humiliation. Le tact est une forme de solidarité.",
+      "context": "Dîners, réunions, réceptions.",
+      "recommendedBehavior": "Relancez sur un autre sujet. Si vous êtes l’hôte, ramenez doucement la conversation sur un terrain neutre.",
+      "exceptions": [
+        "Si l’impair est en réalité une attaque ou un propos discriminatoire, ignorer peut valoir acceptation : on le dit sobrement."
+      ],
+      "remedy": "Si vous avez ri d’une gaffe, un mot en privé suffit : « Je n’aurais pas dû rire, excuse-moi. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-2-7-r4",
+      "title": "Le compliment doit être vrai et précis.",
+      "description": "On complimente ce que l’on pense réellement, de façon proportionnée. On ne loue pas en face ce que l’on dénigre derrière.",
+      "rationale": "La flatterie se sent et discrédite tout ce que vous direz ensuite. L’incohérence entre présence et absence finit par se savoir.",
+      "context": "Travail, en particulier envers la hiérarchie, vie sociale, réseaux professionnels.",
+      "recommendedBehavior": "Préférez un point précis (« Ta conclusion m’a convaincu ») à un superlatif. Évitez les compliments sur le corps hors de l’intimité.",
+      "exceptions": [
+        "Dans plusieurs cultures, un éloge appuyé fait partie des usages attendus : il n’a alors rien d’une flatterie."
+      ],
+      "remedy": "Si vous avez critiqué quelqu’un dont vous venez de faire l’éloge, le plus simple est d’aller lui parler franchement de ce qui vous gêne.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Goffman, l’un des sociologues qui a le plus observé ces moments, a décrit les interactions sociales comme des représentations fragiles, que chacun cherche à préserver et dans lesquelles tous les participants coopèrent. Une gaffe rompt momentanément ce fragile équilibre : une personne perd la face, et les autres ne savent plus trop où regarder. L’embarras que l’on ressent alors, parfois si physique, signale que l’on tient à cette coopération.\n\nC’est pourquoi l’important n’est pas d’être irréprochable, ce qui serait un objectif impossible et sans intérêt : la peur de se tromper rend d’ailleurs emprunté. La question devient la réparation. Dans ces instants, chacun peut choisir de rétablir l’équilibre : en reconnaissant son erreur, ou en permettant à un autre de faire de même. Une communauté où l’on peut se tromper sans être humilié n’est pas moins polie, mais bien plus agréable.",
+  "examples": [
+    {
+      "context": "Vous dites à un convive que le nouveau directeur vous paraît médiocre ; c’est son frère",
+      "behavior": "« Je suis désolé, je me suis exprimé bien vite. Je ne le connais qu’à peine. » Vous reprenez sur un autre sujet, et vous gardez désormais une position plus mesurée.",
+      "explanation": "Une excuse sans jugement supplémentaire. Inutile de le couvrir d’éloges : personne ne vous croirait."
+    },
+    {
+      "context": "Vous envoyez à un client un message destiné à un collègue, disant qu’il est difficile",
+      "behavior": "Vous appelez aussitôt : « Vous avez reçu un message qui ne vous était pas destiné. Il était maladroit et je vous présente mes excuses. Ce qui nous occupe, c’est de bien traiter votre dossier. »",
+      "explanation": "L’appel est plus humain que l’écrit, et la vitesse limite les dégâts. Vous prenez l’erreur en charge sans démentir l’évidence."
+    },
+    {
+      "context": "À table, une amie demande à Nadia comment vont ses parents ; son père est mort récemment",
+      "behavior": "Nadia répond brièvement. Vous, qui êtes au courant, prenez la parole avec douceur : « Nadia nous parlait justement de son père récemment. » L’amie comprend, s’excuse, et la conversation reprend.",
+      "explanation": "Vous avez permis à chacune de se retrouver sans la mettre en difficulté."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Après une petite gaffe",
+      "behavior": "Revenir sur l’incident cinq fois au cours de la soirée : « Vraiment, je m’en veux, tu dois me trouver terrible. »",
+      "consequences": "L’attention se déplace sur votre culpabilité. L’autre est forcé de vous rassurer, encore et encore.",
+      "alternative": "Une excuse sincère, puis passer à autre chose. Un mot le lendemain si besoin."
+    },
+    {
+      "situation": "Lors d’une première rencontre",
+      "behavior": "Attribuer un surnom à la personne : « Moi, je vais t’appeler Béa, c’est plus simple. »",
+      "consequences": "Vous décidez de sa façon d’être appelée, et elle doit soit vous corriger, soit le subir.",
+      "alternative": "« Comment préférez-vous qu’on vous appelle ? »"
+    },
+    {
+      "situation": "Témoin d’une erreur en réunion",
+      "behavior": "Échanger un regard amusé avec un autre collègue, puis faire une plaisanterie à ce sujet.",
+      "consequences": "L’erreur devient une humiliation, et chacun comprend qu’il pourrait être le prochain.",
+      "alternative": "Aider à rectifier sans commentaire, ou ne rien dire."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Tact et mensonge.",
+      "text": "Taire une remarque blessante n’est pas de l’hypocrisie. Mentir pour flatter quelqu’un, ou le dénigrer dès qu’il a tourné le dos, en est une. Le critère reste la cohérence : ce que vous taisez peut rester tu, mais ce que vous dites doit rester compatible avec ce que vous pensez."
+    },
+    {
+      "title": "Gaffe ou discrimination.",
+      "text": "Certains propos passent pour des « maladresses » alors qu’ils s’inscrivent dans une longue série de remarques subies par la personne visée : sur son origine, sa couleur de peau, son orientation sexuelle ou son handicap. Pour celui qui parle, il s’agit d’un accident ; pour celle qui écoute, c’est la centième fois. L’excuse doit en tenir compte."
+    },
+    {
+      "title": "Impairs à l’étranger.",
+      "text": "Hors de chez soi, on commet des impairs sans le savoir : on vous le pardonnera volontiers, surtout si vous manifestez le souci de bien faire. « Excusez-moi, je ne connais pas l’usage ici » est une phrase universellement utile. La leçon sur les malentendus interculturels y revient en détail."
+    }
+  ],
+  "contexts": [
+    "Réceptions : l’hôte peut aider à ramener la conversation après un incident.",
+    "Travail : on répare vite les erreurs écrites, de préférence de vive voix.",
+    "Famille : on connaît les points sensibles, et les gaffes sont donc souvent moins innocentes.",
+    "Réseaux sociaux : retirer une publication est utile, mais ne remplace pas des excuses."
+  ],
+  "keyPoints": [
+    "Tout le monde gaffe : c’est la réparation qui reste en mémoire.",
+    "Une excuse brève, puis un changement de sujet : c’est un service rendu à l’autre.",
+    "On ne présume jamais rien du corps, de l’âge ou du couple.",
+    "Le témoin a un rôle : aider plutôt que souligner."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "De quelle maladresse s’agit-il ?",
+    "instructions": "Associez chaque scène au type de maladresse qu’elle illustre.",
+    "pairs": [
+      {
+        "left": "Féliciter une femme pour une grossesse imaginaire.",
+        "right": "Gaffe : un accident dû à une supposition."
+      },
+      {
+        "left": "Tapoter le dos d’un client dès le premier rendez-vous.",
+        "right": "Familiarité excessive : la distance est raccourcie sans y être invité."
+      },
+      {
+        "left": "Répéter à un tiers ce qu’on vous a confié.",
+        "right": "Indiscrétion : une information qui n’était pas à vous."
+      },
+      {
+        "left": "Dire à son patron qu’il est « le meilleur manager de la décennie » juste avant de demander une augmentation.",
+        "right": "Flatterie : un éloge intéressé qui se devine."
+      },
+      {
+        "left": "Encenser un collègue en face, et le dénigrer aussitôt après.",
+        "right": "Hypocrisie : contradiction entre ce qui est dit en face et derrière."
+      }
+    ],
+    "explanation": "Distinguer ces cas aide à choisir la réparation. Une gaffe appelle une excuse brève ; une indiscrétion, une prise de responsabilité ; l’hypocrisie, souvent une conversation honnête que l’on n’a pas eue."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-4-2-7-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle est la meilleure façon de réparer une gaffe sur le moment ?",
+        "choices": [
+          "Multiplier les excuses, pour montrer que l’on regrette",
+          "Faire comme si de rien n’était, quelle qu’en soit la gravité",
+          "S’excuser en une phrase, puis changer de sujet",
+          "Expliquer en détail ce qui vous a induit en erreur"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Une excuse brève reconnaît l’impair, et le changement de sujet libère la personne atteinte. Multiplier les excuses ou les explications oblige l’autre à vous consoler ; ne rien dire serait une erreur si la gaffe a blessé.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-7-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Ne pas dire à une personne que sa tenue ne vous plaît pas, c’est de l’hypocrisie.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : taire une critique inutile relève du tact. L’hypocrisie consiste à dire le contraire de ce que l’on pense, ou à dénigrer ensuite ce qu’on a loué.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-7-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Vous êtes témoin d’une gaffe à table. Quel comportement faut-il éviter ?",
+        "choices": [
+          "Relancer la conversation sur un autre sujet",
+          "Faire comme si vous n’aviez rien entendu",
+          "Échanger un regard entendu avec votre voisin",
+          "Glisser un mot gentil à la personne plus tard"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Le regard complice transforme un accident en moquerie, y compris s’il est discret. Le tact consiste au contraire à aider le gaffeur à retrouver sa place.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-7-q4",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Une collègue vous dit : « Ta remarque sur mon accent m’a blessée. » Quelle réponse est la meilleure ?",
+        "choices": [
+          "« Tu es trop susceptible, c’était pour rire, tout le monde l’a bien compris. »",
+          "« Ce n’était pas mon intention, mais je comprends que cela t’ait blessée. Je ferai attention. »",
+          "« Tu ne vas pas en faire une histoire. »",
+          "« Tout le monde me dit que je suis drôle, tu es la seule à le prendre ainsi. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Votre intention n’efface pas ce qu’elle a ressenti : la réponse reconnaît les deux et prend un engagement. Les autres renvoient le problème à sa sensibilité. Pour elle, cette remarque n’est sans doute pas la première.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-4-2-7-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quelles hypothèses vaut-il mieux ne jamais formuler à voix haute ? (plusieurs réponses)",
+        "choices": [
+          "Qu’une femme est enceinte",
+          "Que deux personnes forment un couple",
+          "Qu’une personne a beaucoup maigri parce qu’elle est malade",
+          "Qu’il fait beau aujourd’hui"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Les suppositions sur le corps, la santé et les relations sont les grandes sources de gaffes graves. Attendez que les personnes en parlent elles-mêmes. Le temps qu’il fait reste un sujet parfaitement sûr.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Erving Goffman",
+      "title": "Les Rites d’interaction",
+      "publisher": "Éditions de Minuit",
+      "year": "1974",
+      "note": "Notamment sur l’embarras et la préservation de la face."
+    },
+    {
+      "author": "Jean de La Bruyère",
+      "title": "Les Caractères",
+      "year": "1688",
+      "note": "Pour le portrait classique du flatteur et de l’indiscret."
+    },
+    {
+      "author": "Dominique Picard",
+      "title": "Politesse, savoir-vivre et relations sociales",
+      "publisher": "PUF, coll. Que sais-je ?",
+      "year": "1998"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

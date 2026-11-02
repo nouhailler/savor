@@ -1,0 +1,288 @@
+{
+  "id": "l-1-2-1",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Décontracté soigné, professionnel, soirée, cérémonie : que veulent vraiment dire ces codes ? Une méthode pour les décrypter, sans budget démesuré ni stéréotype de genre.",
+  "estimatedDuration": 11,
+  "tags": [
+    "tenue",
+    "dress code",
+    "style",
+    "soirée",
+    "cérémonie",
+    "saisons",
+    "professionnel"
+  ],
+  "objectives": [
+    "Distinguer les grands niveaux de formalité vestimentaire.",
+    "Traduire un code indiqué sur une invitation.",
+    "Constituer une garde-robe adaptable avec peu de pièces.",
+    "Tenir compte de la saison, du lieu et du contexte culturel."
+  ],
+  "introduction": "« Tenue de ville correcte exigée. » « Cocktail chic. » « Smart casual. » Les invitations recourent à un langage que personne n’enseigne, et qu’il faut décrypter en cherchant sur internet ce que porteront les autres. Il arrive que l’on se retrouve ainsi seul en costume sur une pelouse, ou seul en sandales dans une salle de bal.\n\nCes codes ne sont pas si compliqués. Ils décrivent essentiellement un degré de formalité, sur une échelle de quatre ou cinq niveaux. Une fois cette échelle comprise, chacun peut s’y placer à sa façon, avec ce qu’il possède, sans devoir se conformer à un modèle lié à son sexe ou à son budget.",
+  "sections": [
+    {
+      "title": "L’échelle de la formalité",
+      "content": "Au bas de l’échelle, la tenue décontractée soignée, parfois appelée « casual » : des vêtements simples, propres et en bon état, comme un jean net avec une chemise ou un pull. Elle convient aux sorties entre amis, aux déjeuners informels et à certains bureaux. Le mot « soigné » compte : le décontracté n’autorise ni le froissé ni le troué, à moins que l’ambiance soit vraiment à cela.\n\nUn cran au-dessus, la tenue « smart casual » ou « décontracté chic » : un pantalon de ville ou une jupe, une veste, ou une belle chemise, sans cravate obligatoire. C’est le niveau de la plupart des dîners au restaurant, des réunions de famille et de beaucoup de milieux professionnels actuels. Encore au-dessus, la tenue de ville ou tenue professionnelle formelle : costume, tailleur ou ensemble habillé. Elle convient à un rendez-vous formel, à une cérémonie civile ou à un entretien dans certains secteurs.\n\nEnfin, la tenue de soirée et la tenue de cérémonie, sur laquelle revient la leçon consacrée aux circonstances formelles : « cocktail » désigne une tenue élégante plus courte, « black tie » renvoie au smoking ou à sa variante, et à la robe longue ou à une tenue très habillée. Un détail à retenir : ces niveaux peuvent se décliner de multiples façons. Une personne peut porter un costume, un autre une robe, une troisième un boubou ou un sari, sans contredire le code."
+    },
+    {
+      "title": "Décrypter le code",
+      "content": "Trois questions permettent de s’y retrouver : où, quand, avec qui ? Le lieu d’abord : une pelouse, une plage ou un château ne demandent pas les mêmes chaussures. Le moment ensuite : le soir appelle généralement plus d’habillé que le jour, à l’exception des mariages et des cérémonies où l’après-midi peut être formel. Les personnes enfin : un dîner chez des amis proches n’a pas les mêmes attentes qu’un dîner où se retrouvent les parents d’un conjoint ou un client.\n\nLes indications écrites n’ont pas toutes la même force. « Tenue correcte exigée » à l’entrée d’un casino ou d’un club est une condition d’accès. « Tenue chic » sur une invitation est un souhait. Un carton sans indication laisse entendre un habillement ordinaire pour ce type d’occasion. Si le doute persiste, rien n’empêche de demander à la personne qui invite : « Comment serez-vous habillés ? » Elle sera ravie de vous répondre, et cela lui montre que l’occasion compte pour vous.\n\nEn cas d’incertitude, mieux vaut se trouver légèrement plus habillé que pas assez, en gardant une marge de manœuvre : une veste que l’on peut retirer, une cravate à mettre en poche, un foulard ou un bijou à ajouter. Ce petit écart se rattrape facilement. Cet excès a toutefois ses limites : on n’arrive pas en robe longue à un dîner décontracté."
+    },
+    {
+      "title": "Une garde-robe qui s’adapte",
+      "content": "Il n’est pas nécessaire de posséder beaucoup de vêtements. Quelques pièces neutres, bien coupées et qui s’accordent entre elles, permettent de composer plusieurs tenues : une veste sombre, un pantalon de bonne tenue ou une jupe, des chemises unies, une paire de chaussures de ville correcte, un manteau simple. Les couleurs sobres et les matières de qualité vieillissent mieux, et la seconde main permet de trouver de belles pièces à un prix raisonnable.\n\nLa saison et le climat comptent aussi. En été, les matières légères et les couleurs claires sont acceptées, y compris dans des cadres assez formels ; le lin se froisse, et c’est son charme. En hiver, un beau manteau sera vu avant tout le reste. Prévoyez aussi une solution pour le changement de chaussures s’il neige, et pour retirer vos épaisseurs une fois entré, car une pièce chauffée n’appelle pas le même vêtement que la rue.\n\nUn dernier mot sur le confort. Une tenue dans laquelle on ne peut ni s’asseoir, ni marcher, ni manger se voit. Si vous n’êtes pas habitué aux talons ou à une chemise boutonnée, faites-en l’essai avant le grand jour. L’aisance vaut mieux qu’un vêtement parfait porté avec crispation."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-2-1-r1",
+      "title": "On décrypte le code avant de s’habiller.",
+      "description": "On lit l’invitation, et l’on tient compte du lieu, de l’heure et des personnes pour déterminer le niveau de formalité.",
+      "rationale": "Cette réflexion évite la gêne, et montre à ceux qui reçoivent que l’on a réfléchi à leur événement.",
+      "context": "Invitations, rendez-vous professionnels, mariages, réceptions.",
+      "recommendedBehavior": "Posez-vous les trois questions : où, quand, avec qui ? En cas de doute, demandez : « Comment serez-vous habillés ? »",
+      "exceptions": [],
+      "remedy": "Si vous vous êtes trompé, ne vous excusez qu’une fois : « Je me suis trompé de registre. » Votre attitude fera le reste.",
+      "conventionType": "contextual_rule",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-1-2-1-r2",
+      "title": "Dans le doute, un léger cran au-dessus, avec une marge.",
+      "description": "On préfère être légèrement plus habillé que pas assez, en gardant une pièce à retirer ou à ajouter.",
+      "rationale": "Il est plus facile d’enlever une veste que d’en trouver une. Être un peu trop habillé honore l’hôte, alors que le contraire peut donner l’impression d’un manque d’égards.",
+      "context": "Événements dont le ton est mal connu.",
+      "recommendedBehavior": "Veste, foulard, cravate en poche, chaussures plus habillées dans la voiture.",
+      "exceptions": [
+        "À une fête volontairement décontractée, un écart trop grand peut gêner. Une tenue très formelle à la plage reste un faux pas."
+      ],
+      "remedy": "Retirez ce qui peut l’être, sans commentaire.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-2-1-r3",
+      "title": "Un code n’assigne pas un vêtement selon le sexe.",
+      "description": "Chaque niveau de formalité peut se décliner de plusieurs manières : costume, robe, ensemble, tenue traditionnelle.",
+      "rationale": "Le code décrit un degré de soin. Il n’y a pas de raison de le réduire à des stéréotypes, ni d’imposer à une personne une tenue qui ne lui ressemble pas.",
+      "context": "Mariages, galas, entreprises, réceptions officielles.",
+      "recommendedBehavior": "Choisissez la tenue qui vous convient, au niveau de formalité demandé. Une tenue traditionnelle soignée équivaut généralement à une tenue de soirée.",
+      "exceptions": [
+        "Certains lieux religieux ou clubs privés appliquent des règles spécifiques, qu’il faut lire avant de s’y rendre."
+      ],
+      "remedy": "Si l’on vous fait une remarque déplacée, vous n’avez pas à vous justifier : un sourire et un changement de sujet suffisent.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-2-1-r4",
+      "title": "Peu de pièces, bien choisies.",
+      "description": "Une petite garde-robe neutre et bien entretenue permet de répondre à la plupart des circonstances.",
+      "rationale": "Le soin compte plus que la quantité. Il est aussi plus raisonnable, pour le budget comme pour l’environnement.",
+      "context": "Vie professionnelle et sociale, voyages.",
+      "recommendedBehavior": "Veste sombre, bas de bonne tenue, hauts unis, chaussures propres et un manteau simple. Pensez à la seconde main.",
+      "exceptions": [],
+      "remedy": "Pour une occasion exceptionnelle, la location ou l’emprunt à un proche sont d’excellentes solutions.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Les codes vestimentaires ont d’abord été des marqueurs de rang. Jusqu’au XVIIIe siècle, des lois somptuaires réglaient en France et ailleurs qui pouvait porter quoi. Le XIXe a vu naître le costume bourgeois, qui fait apparaître une nouvelle règle d’élégance : ne pas se faire remarquer. La tenue de soirée masculine s’est figée dans ce cadre, et le smoking, adapté à l’origine d’une veste de fumoir, a suivi un chemin similaire à la fin du XIXe siècle.\n\nCes codes continuent d’évoluer, très vite depuis le début du XXIe siècle. Le développement du télétravail et de la mode informelle a fait reculer le costume dans beaucoup de secteurs, sans le faire disparaître. Ils peuvent exclure, puisqu’il faut les connaître, ou les avoir appris. On peut toutefois leur reconnaître une utilité : ils coordonnent les attentes, et ils évitent à chacun de devoir réinventer ce qui convient à un jour de fête.",
+  "examples": [
+    {
+      "context": "Une invitation à un mariage indique « tenue champêtre chic », dans un pré, en juin",
+      "behavior": "Vous choisissez une tenue légère et soignée, et des chaussures qui ne s’enfoncent pas dans l’herbe. Vous emportez une veste ou un châle pour la soirée.",
+      "explanation": "Vous tenez compte du lieu et de l’heure : l’élégance tient ici au fait d’être prêt pour la journée."
+    },
+    {
+      "context": "Vous rejoignez une entreprise dont vous ne connaissez pas les usages",
+      "behavior": "Vous demandez avant le premier jour : « Comment s’habille-t-on, en général, chez vous ? » Le premier jour, vous prévoyez une veste, que vous retirez si tout le monde est en pull.",
+      "explanation": "Vous obtenez une information utile, et votre question est bien reçue. La veste offre une marge."
+    },
+    {
+      "context": "Une soirée « black tie » pour une personne qui ne possède ni smoking ni robe longue",
+      "behavior": "Vous louez une tenue, vous empruntez à un proche, ou vous portez une tenue traditionnelle de cérémonie, ou un ensemble sombre très soigné.",
+      "explanation": "Le niveau de formalité est respecté. Personne n’a à savoir d’où vient cette tenue, et une location n’a rien de honteux."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Une invitation indique « smart casual »",
+      "behavior": "Venir en t-shirt froissé et en short, parce que le mot « casual » figure sur l’invitation.",
+      "consequences": "Vous êtes moins habillé que tout le monde, et l’hôte peut y voir un manque de considération.",
+      "alternative": "Un pantalon de ville ou une jupe et une chemise ou un beau pull."
+    },
+    {
+      "situation": "Avant un grand événement",
+      "behavior": "S’endetter pour acheter une tenue portée une seule fois, afin de ne pas être jugé.",
+      "consequences": "Votre budget en souffre, sans garantie de confort. Élégance et dépense ne sont pas synonymes.",
+      "alternative": "Louer, emprunter ou adapter une tenue existante avec un accessoire."
+    },
+    {
+      "situation": "Devant une invitée vêtue d’un boubou lors d’une réception formelle",
+      "behavior": "« Quel costume original ! Ça change, on se croirait en vacances ! »",
+      "consequences": "Vous rabaissez une tenue de cérémonie à un costume exotique, et vous la jugez selon vos codes.",
+      "alternative": "« Votre tenue est magnifique. » Ou, si vous êtes curieux : « Pouvez-vous me parler de ce tissu ? »"
+    }
+  ],
+  "nuances": [
+    {
+      "title": "La culture de l’entreprise.",
+      "text": "Dans une banque d’affaires, un cabinet d’avocats ou certaines administrations, le costume reste présent. Dans une start-up, il peut paraître décalé. Les codes peuvent aussi changer selon les jours, ou si l’on reçoit un client. La meilleure méthode reste d’observer vos collègues."
+    },
+    {
+      "title": "Les cultures.",
+      "text": "Certains événements attendent que les invités portent une couleur précise, ou une tenue traditionnelle. Dans un mariage indien, on évite souvent le noir et le blanc, et les couleurs vives sont très bien reçues. Renseignez-vous auprès de l’hôte, qui appréciera votre intérêt."
+    },
+    {
+      "title": "Moyens et accessibilité.",
+      "text": "Une personne à mobilité réduite, enceinte ou souffrante peut avoir besoin de chaussures plates ou de vêtements adaptés, et il n’y a rien à en dire. Quant aux codes qui imposeraient à une femme des talons, ou des vêtements selon le sexe dans le cadre du travail, ils peuvent être discutés, y compris au regard du droit."
+    }
+  ],
+  "contexts": [
+    "Sorties entre amis : décontracté soigné, en vous adaptant à leur style.",
+    "Vie professionnelle : culture de l’entreprise et rendez-vous extérieurs.",
+    "Soirées et galas : code indiqué sur l’invitation, avec location possible.",
+    "Cérémonies : respect des personnes célébrées et des usages du lieu."
+  ],
+  "keyPoints": [
+    "Un code décrit un degré de formalité : où, quand, avec qui ?",
+    "Dans le doute, un cran au-dessus, avec une pièce à retirer.",
+    "Chaque niveau peut se décliner de bien des façons, sans stéréotype de genre.",
+    "Quelques pièces bien entretenues suffisent, et louer n’a rien de honteux."
+  ],
+  "exercise": {
+    "type": "ordering",
+    "title": "Du moins formel au plus formel",
+    "instructions": "Classez ces codes du moins formel au plus formel.",
+    "items": [
+      "Décontracté (casual)",
+      "Décontracté chic (smart casual)",
+      "Tenue de ville ou professionnelle",
+      "Tenue cocktail",
+      "Tenue de soirée (black tie)"
+    ],
+    "explanation": "Ces étiquettes correspondent à une échelle assez stable, mais chaque milieu l’interprète à sa façon. La question n’est pas d’obéir à une règle, mais de savoir à quel niveau se situer."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-1-2-1-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelles questions permettent le mieux de décrypter un code vestimentaire ?",
+        "choices": [
+          "Combien cela coûte-t-il, et où l’acheter ?",
+          "Où, quand, et avec qui ?",
+          "Que dit la mode de cette année ?",
+          "Que porte habituellement mon conjoint ?"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le lieu, le moment et les personnes déterminent le niveau de formalité attendu. Le prix et la mode ne disent rien de ce qui convient à l’occasion.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-2-1-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "« Black tie » impose un smoking aux hommes et une robe longue aux femmes, sans aucune autre possibilité.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : le code décrit surtout un niveau de formalité. Un smoking porté par une femme, une tenue traditionnelle de cérémonie ou un ensemble habillé peuvent y répondre. Seuls certains lieux très stricts appliquent un règlement plus précis.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-2-1-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous êtes invité à un anniversaire dont vous ignorez le ton. Quelle est la meilleure attitude ?",
+        "choices": [
+          "Demander : « Comment serez-vous habillés ? »",
+          "Venir en tenue très décontractée, parce qu’on verra bien",
+          "Venir en tenue de soirée, pour être sûr",
+          "Écrire à tous les invités pour leur demander leur tenue"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "La question est simple et bien accueillie : elle montre que l’occasion compte pour vous. Les autres options risquent la gêne, ou une agitation qui n’a pas lieu d’être.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-2-1-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Lors d’une réception, quelle réaction à la tenue d’autrui est la plus maladroite ?",
+        "choices": [
+          "« Votre tenue est magnifique, elle vous va très bien. »",
+          "« Pouvez-vous me parler de ce tissu ? Il est très beau. »",
+          "« Quel costume exotique, on se croirait en vacances ! »",
+          "Ne rien dire"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Traiter une tenue de cérémonie de « costume » la rabaisse selon vos seuls repères. Un compliment simple, une question sincère ou le silence restent parfaitement appropriés.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-2-1-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quelles solutions conviennent à une personne au budget limité devant une invitation très formelle ? (plusieurs réponses)",
+        "choices": [
+          "Louer une tenue",
+          "Emprunter à un proche",
+          "Adapter une tenue existante avec un accessoire",
+          "S’endetter, car on ne saurait y aller autrement"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Louer, emprunter ou adapter permettent de respecter le code à un coût raisonnable. L’élégance n’a jamais exigé de se mettre en difficulté financière, et personne n’a à savoir d’où vient une tenue.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Debrett’s",
+      "title": "Debrett’s Handbook",
+      "year": "2014",
+      "note": "Pour les codes britanniques d’origine."
+    },
+    {
+      "author": "Philippe Perrot",
+      "title": "Les Dessus et les Dessous de la bourgeoisie",
+      "publisher": "Fayard",
+      "year": "1981",
+      "note": "Histoire du vêtement au XIXe siècle."
+    },
+    {
+      "author": "Pierre Bourdieu",
+      "title": "La Distinction",
+      "publisher": "Éditions de Minuit",
+      "year": "1979"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

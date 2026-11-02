@@ -1,0 +1,295 @@
+{
+  "id": "l-7-1-4",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Un train est une salle commune où des inconnus doivent cohabiter plusieurs heures. Téléphone, bagages, sièges réservés, repas : comment voyager sans peser sur les autres, et réagir quand ce sont eux qui pèsent sur vous.",
+  "estimatedDuration": 9,
+  "tags": [
+    "train",
+    "téléphone",
+    "bagages",
+    "place réservée",
+    "silence",
+    "transports",
+    "contrôleur"
+  ],
+  "objectives": [
+    "Respecter le calme du wagon, téléphone et écouteurs compris.",
+    "Installer ses bagages et sa personne sans empiéter sur les autres.",
+    "Réagir à une place occupée, à un voisin bruyant ou à une demande d’échange de siège.",
+    "Se comporter avec le personnel et avec les personnes à mobilité réduite."
+  ],
+  "introduction": "Dans un train, des personnes qui ne se connaissent pas se retrouvent à quelques centimètres les unes des autres pendant plusieurs heures, sans avoir choisi leur voisinage. Il n’y a ni hôte ni règlement détaillé qui gouverne ce que l’on peut y faire : ce qui fonctionne tient à une entente tacite, que chacun peut bousculer d’un simple appel en haut-parleur.\n\nLe savoir-vivre ferroviaire n’a rien de sophistiqué, et il tient à la notion de « territoire » : votre siège est à vous, le reste est à tous. Les règles de cette leçon répondent aux situations les plus fréquentes, mais leur esprit s’applique aussi au métro, au RER et au car.",
+  "sections": [
+    {
+      "title": "Le son et le calme",
+      "content": "Le premier sujet de crispation est le téléphone. Une conversation téléphonique est plus gênante qu’une conversation à côté de vous, parce que l’on n’en entend qu’une moitié, que l’attention cherche à reconstituer. L’usage est donc de téléphoner sur la plate-forme ou dans l’espace entre les voitures, et de limiter les appels à l’intérieur au strict nécessaire, à voix basse. En France, la SNCF rappelle d’ailleurs cet usage, et certains trains proposent des espaces silencieux, comme la plupart des compagnies européennes.\n\nLes écouteurs sont indispensables pour la musique et les vidéos, pas seulement pour les films. Écouter le son de son appareil en haut-parleur est devenu une gêne si fréquente que certains exploitants l’interdisent explicitement. Vérifiez également que votre casque ne « fuit » pas trop : un rythme métallique répété peut empoisonner un voisin de siège. Le mode silencieux vaut aussi pour les notifications et le clavier.\n\nLes conversations entre voyageurs sont légitimes, à un volume adapté. Lors d’un long trajet de nuit ou tôt le matin, on baisse encore la voix. Les enfants, quant à eux, ont le droit d’exister : un bébé qui pleure ne fait pas d’impolitesse, et ses parents souffrent déjà assez. Vous pouvez mettre un casque sans soupirer. Une attitude bienveillante à leur égard peut d’ailleurs tout changer pour eux."
+    },
+    {
+      "title": "L’espace : siège, bagages, passage",
+      "content": "Les bagages vont dans les espaces prévus : porte-bagages au-dessus des sièges, ou racks en bout de voiture pour les plus grands. Ne laissez pas votre valise dans l’allée ni sur le siège voisin, même si le train semble vide : il peut se remplir à la gare suivante. Si vous avez un gros bagage, placez-le de sorte qu’il ne tombe pas et que vous puissiez le récupérer sans bloquer tout le monde. N’hésitez pas à aider une personne en difficulté à le monter, en le lui proposant d’abord.\n\nDans une place réservée, on s’assoit à sa place, et l’on ne prend pas celle d’un autre parce qu’elle a une plus belle vue. Si quelqu’un occupe la vôtre : « Excusez-moi, je crois que c’est ma place : voiture 12, place 34. » Il peut s’agir d’une erreur de bonne foi ; ce qui compte alors est le contrôleur, qui tranchera si besoin. Vous n’êtes pas obligé d’accepter un échange, même si la demande semble raisonnable ; on peut néanmoins y consentir de bonne grâce pour permettre à une famille de rester réunie.\n\nLes accoudoirs se partagent, et votre corps reste dans le gabarit de votre siège, autant que possible. Si vous devez incliner votre siège, faites-le progressivement, en vérifiant ce que fait la personne derrière vous. Les pieds restent hors des sièges. Sortir et entrer dans le train se fait dans cet ordre : on laisse descendre avant de monter, et l’on prépare ses bagages avant l’arrivée, sans bloquer les autres passagers dans l’allée dix minutes à l’avance."
+    },
+    {
+      "title": "Repas, personnel et autres voyageurs",
+      "content": "Manger dans un train est acceptable sur les trajets longs, mais pensez à vos voisins : évitez les aliments à l’odeur forte (poisson, œufs durs, plats chauds réchauffés) et les miettes abondantes. Vous emportez vos déchets, ou les jetez dans les poubelles prévues, y compris votre gobelet de café. Sur un long trajet, on peut proposer à une personne proche des biscuits, mais il ne faut jamais insister si la personne préfère rester tranquille.\n\nCertains voyageurs aiment parler, et d’autres non. Il y a de très belles rencontres dans les trains, mais la conversation reste une proposition. Une personne qui met ses écouteurs, ouvre un livre ou répond brièvement vous indique qu’elle ne souhaite pas poursuivre : respectez ce signal sans vous vexer. Inversement, si un voisin vous parle plus que vous ne le souhaitez : « Je vous laisse, je dois terminer ce livre » suffit.\n\nVis-à-vis du personnel, le salut et la coopération sont de mise : le contrôleur fait son métier, et il n’est responsable ni du retard ni de la grève. Soyez poli, présentez votre billet à sa demande et utilisez les canaux officiels pour toute réclamation. Pensez à céder les places signalées aux personnes qui en ont besoin : personnes âgées, enceintes, handicapées, y compris lorsque leur handicap ne se voit pas. Si vous avez un doute, proposez simplement : « Voulez-vous vous asseoir ? » Et acceptez un refus sans insister."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-7-1-4-r1",
+      "title": "On téléphone sur la plate-forme.",
+      "description": "Les appels se passent hors de la voiture, ou très brièvement et à voix basse lorsqu’on ne peut faire autrement.",
+      "rationale": "Une conversation entendue à moitié est plus difficile à ignorer qu’une conversation complète. On impose sa vie privée à tous.",
+      "context": "Trains, surtout voitures silencieuses et trajets de nuit.",
+      "recommendedBehavior": "Mettez le téléphone en silencieux. Si l’on vous appelle : « Je suis dans le train, je te rappelle » ou sortez vers la plate-forme.",
+      "exceptions": [
+        "En cas d’urgence, on répond, à voix basse, et on s’éloigne dès que possible.",
+        "Les personnes malentendantes peuvent avoir besoin du haut-parleur ou d’un appareil adapté : cela ne se juge pas."
+      ],
+      "remedy": "Si l’on vous a fait signe : « Pardon, j’ai fini. » Et baissez le ton.",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-7-1-4-r2",
+      "title": "Le son se garde dans ses écouteurs.",
+      "description": "On n’écoute ni musique, ni vidéo, ni message vocal en haut-parleur dans un espace partagé.",
+      "rationale": "Le son imposé envahit l’espace de tous sans qu’on puisse s’y soustraire, et il n’a pas d’autre utilité que votre confort.",
+      "context": "Tous transports en commun.",
+      "recommendedBehavior": "Portez un casque ou des écouteurs, à un volume qui ne s’entend pas à côté. Rangez-les dès que vous parlez à quelqu’un.",
+      "exceptions": [
+        "Un logiciel d’assistance pour une personne malvoyante peut parfois nécessiter un son discret."
+      ],
+      "remedy": "Si un voisin vous le signale : baissez aussitôt et remerciez, sans aucune discussion.",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-7-1-4-r3",
+      "title": "Un bagage n’occupe pas de siège ni de passage.",
+      "description": "Sacs et valises vont dans les espaces prévus, jamais dans l’allée ou sur la place voisine, si d’autres peuvent en avoir besoin.",
+      "rationale": "L’allée est un lieu de passage et de sécurité. La place voisine est une place payée, ou le sera peut-être à la prochaine gare.",
+      "context": "Trains, cars, métros aux heures chargées.",
+      "recommendedBehavior": "Montez votre sac avant de vous asseoir. Si vous avez besoin d’aide, demandez ; si un voyageur en a besoin, proposez.",
+      "exceptions": [
+        "Une personne avec une poussette, un fauteuil ou un chien d’assistance utilise les espaces adaptés."
+      ],
+      "remedy": "Si l’on vous demande de libérer une place : « Bien sûr. Excusez-moi. »",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-7-1-4-r4",
+      "title": "On laisse descendre avant de monter.",
+      "description": "À chaque arrêt, ceux qui sortent passent d’abord ; on se place de côté, pas devant les portes.",
+      "rationale": "C’est le moyen le plus rapide pour tous : la montée ne peut se faire que lorsque la place s’est libérée.",
+      "context": "Tous transports à quai ou à l’arrêt.",
+      "recommendedBehavior": "Attendez à côté des portes, laissez passer, puis montez. Préparez vos affaires en avance pour la descente.",
+      "exceptions": [],
+      "remedy": "Si vous avez bloqué le passage : « Pardon », et écartez-vous.",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "Le sociologue Erving Goffman a parlé d’« inattention civile » pour décrire la façon dont des inconnus partageant un espace s’y reconnaissent, sans pour autant se manifester. On voit l’autre, on signale qu’on l’a vu, puis on détourne les yeux pour lui laisser sa tranquillité. Dans un train, tout repose sur cet équilibre. Chacun reconstitue une petite bulle à l’aide d’un livre, d’un écran ou d’une sieste, et ne l’efface pas à moins d’y avoir été invité.\n\nCes usages sont récents à l’échelle de l’histoire. Les compartiments du XIXe siècle offraient un autre rapport à la promiscuité, tandis que le téléphone portable a posé dans les années 1990 un problème entièrement nouveau. Les transports en commun sont aussi l’un des rares lieux où se croisent des personnes de toutes conditions, et le respect de ces règles simples compte plus que beaucoup d’autres pour le sentiment de vivre en société.",
+  "examples": [
+    {
+      "context": "Un voyageur occupe votre siège réservé",
+      "behavior": "« Excusez-moi, je crois que nous avons un petit souci : j’ai la place 34, voiture 12. Peut-être que vous êtes dans une autre voiture ? » Vous montrez votre billet sans agressivité.",
+      "explanation": "Vous partez de l’hypothèse d’une erreur de bonne foi. Si cela ne suffit pas, le contrôleur règle la question."
+    },
+    {
+      "context": "Une famille vous demande de changer de siège pour rester réunie",
+      "behavior": "« Bien sûr, je viens de m’installer, ça ne me dérange pas » ; ou, si vous tenez à votre place près de la fenêtre pour une raison particulière : « Je préfère garder ma place, je suis désolé. Le contrôleur pourra sans doute vous aider. »",
+      "explanation": "Ces deux réponses sont légitimes : ce qui compte est le ton. Accepter est une gentillesse, non une obligation."
+    },
+    {
+      "context": "Un voisin écoute une vidéo à plein volume",
+      "behavior": "Vous attendez une pause, vous croisez son regard : « Excusez-moi, je n’ai pas réussi à me concentrer, le son porte beaucoup. Vous auriez un casque ? » Puis un merci, s’il obtempère.",
+      "explanation": "Vous parlez de l’effet et posez une question. Vous pouvez aussi demander l’aide du contrôleur ou changer de place si le ton monte."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Au téléphone, dans le wagon",
+      "behavior": "Discuter longuement d’un dossier client ou d’un problème médical à voix haute.",
+      "consequences": "Vous gênez vos voisins et vous exposez des informations qui peuvent être confidentielles.",
+      "alternative": "Rappeler plus tard ou aller sur la plate-forme, sans citer de nom."
+    },
+    {
+      "situation": "Dans un train peu rempli",
+      "behavior": "Poser son sac sur le siège voisin et faire semblant de dormir pour ne pas avoir à le libérer.",
+      "consequences": "Une personne qui cherche une place doit vous réveiller ou rester debout.",
+      "alternative": "Placer son sac sur le porte-bagages ou à vos pieds, même si cela coûte un peu de confort."
+    },
+    {
+      "situation": "En l’absence d’espaces de rangement",
+      "behavior": "Laisser une énorme valise dans l’allée, en attendant que quelqu’un d’autre s’en plaigne.",
+      "consequences": "Le passage et l’évacuation peuvent être bloqués, ce qui constitue un problème de sécurité.",
+      "alternative": "Demander de l’aide au personnel, ou placer le bagage dans l’espace d’extrémité le plus proche."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Selon les pays.",
+      "text": "Le niveau de silence attendu varie beaucoup. Au Japon, téléphoner dans le train est largement déconseillé et on y maintient un silence remarquable ; en Italie ou en Inde, une conversation animée dans le wagon n’a rien d’impoli. Les règles écrites du transporteur priment : observez d’abord comment les gens font."
+    },
+    {
+      "title": "Places réservées et handicaps invisibles.",
+      "text": "Une personne d’apparence jeune peut avoir un handicap, une maladie ou une grossesse débutante. Ne la regardez pas de travers lorsqu’elle occupe un siège prioritaire. Inversement, n’hésitez pas à demander une place si vous en avez besoin : « Excusez-moi, je ne peux pas rester debout, puis-je m’asseoir ? »"
+    },
+    {
+      "title": "Sécurité et comportement abusif.",
+      "text": "Les transports sont aussi le lieu de frottements et de harcèlement. Vous n’êtes pas tenu à la courtoisie envers quelqu’un qui vous importune : éloignez-vous, parlez fort, demandez de l’aide au personnel ou à un voisin, et n’hésitez pas à prévenir les autorités. En France, il existe des numéros d’alerte dédiés selon les réseaux (par exemple le 3117 à la SNCF)."
+    }
+  ],
+  "contexts": [
+    "Train longue distance : place réservée, téléphone hors de la voiture, repas discrets.",
+    "Voiture silencieuse : ni appel, ni conversation, ni clavier bruyant.",
+    "Métro et RER : on laisse descendre, on enlève son sac du dos, on cède les places prioritaires.",
+    "Train de nuit : bruit minimal, attention aux lumières et aux couchettes partagées."
+  ],
+  "keyPoints": [
+    "Votre siège est à vous, le reste est à tous.",
+    "Téléphone sur la plate-forme, son dans les écouteurs.",
+    "On laisse descendre avant de monter.",
+    "Une conversation avec un voisin reste une proposition, jamais une obligation."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Situations à bord",
+    "instructions": "Associez chaque situation à la réaction la plus adaptée.",
+    "pairs": [
+      {
+        "left": "Votre téléphone sonne dans une voiture silencieuse.",
+        "right": "Couper la sonnerie et rappeler depuis la plate-forme."
+      },
+      {
+        "left": "Quelqu’un occupe votre place réservée.",
+        "right": "Montrer votre billet poliment, et demander au contrôleur si besoin."
+      },
+      {
+        "left": "Une personne âgée cherche une place dans un métro plein.",
+        "right": "Proposer votre siège, sans insister si elle refuse."
+      },
+      {
+        "left": "Un inconnu engage une conversation que vous ne souhaitez pas.",
+        "right": "Répondre brièvement, puis signaler que vous allez lire."
+      }
+    ],
+    "explanation": "Chaque réponse préserve la tranquillité de tous sans agressivité. Le recours au personnel est une ressource normale, et non un aveu d’échec."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-7-1-4-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Pourquoi une conversation téléphonique dérange-t-elle souvent davantage qu’une conversation entre deux voyageurs ?",
+        "choices": [
+          "Parce que l’on parle toujours plus fort au téléphone qu’en face à face",
+          "Parce que l’on n’en entend qu’une moitié, que l’attention cherche à reconstituer",
+          "Parce qu’elle est interdite par la loi",
+          "Parce que les téléphones produisent des interférences autour d’eux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Des recherches ont montré que le cerveau tente de compléter un dialogue entendu à moitié, ce qui le rend plus intrusif. Cela ne relève pas d’une interdiction légale, mais d’un usage et, parfois, du règlement du transporteur.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-7-1-4-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Si quelqu’un vous demande d’échanger votre siège réservé, vous êtes obligé d’accepter par politesse.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : accepter est une gentillesse appréciable, en particulier pour une famille, mais vous avez payé cette place et vous pouvez avoir vos raisons. Un refus poli, éventuellement orienté vers le contrôleur, reste courtois.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-1-4-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Lequel de ces comportements pose problème ?",
+        "choices": [
+          "Mettre un casque pour regarder un film",
+          "Monter dans le wagon pendant que des passagers en descendent",
+          "Proposer à un voyageur de l’aider à monter sa valise",
+          "Poser son sac à ses pieds dans un train bondé"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Monter avant de laisser descendre ralentit tout le monde et bloque le passage. Les autres gestes facilitent la vie commune.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-1-4-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Une personne d’apparence jeune occupe un siège prioritaire. Que faut-il retenir ?",
+        "choices": [
+          "Elle doit se lever puisqu’elle semble en bonne santé et plutôt jeune",
+          "Certains handicaps et grossesses ne se voient pas : on ne la juge pas sur l’apparence",
+          "Il faut lui demander sa carte d’invalidité",
+          "On peut le lui faire remarquer devant les autres, avec politesse"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Un handicap ou une maladie peuvent être invisibles. Si vous avez besoin de ce siège, vous pouvez le demander simplement, sans présumer de sa situation ni lui demander de se justifier.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-7-1-4-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Que faire face à un voisin dont le son traverse ses écouteurs ou le haut-parleur ? (plusieurs réponses)",
+        "choices": [
+          "Demander poliment de baisser le son",
+          "Changer de place si c’est possible",
+          "Faire appel au personnel de bord si la situation dure",
+          "Enregistrer la scène et la publier sur les réseaux"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Une demande polie, un changement de place ou l’appel au personnel sont les réponses adaptées. Filmer une personne pour l’exposer pose un problème de respect, et parfois un problème juridique : il existe un droit à l’image.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Erving Goffman",
+      "title": "Les Relations en public",
+      "publisher": "Éditions de Minuit",
+      "year": "1973",
+      "note": "Sur l’inattention civile."
+    },
+    {
+      "title": "Conditions générales et règles de vie à bord",
+      "publisher": "SNCF Voyageurs",
+      "note": "À consulter pour les règles en vigueur. Les règles varient selon les transporteurs."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

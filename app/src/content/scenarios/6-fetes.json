@@ -1,0 +1,326 @@
+[
+  {
+    "id": "s-6-1",
+    "domainId": "fetes",
+    "level": "beginner",
+    "title": "L’anniversaire oublié",
+    "description": "Vous réalisez, deux jours après, que vous avez oublié l’anniversaire d’une amie très proche.",
+    "context": "En ouvrant votre agenda, vous constatez que c’était avant-hier l’anniversaire de Léa, votre amie depuis vingt ans. Elle ne vous en a rien dit. Vous ne savez pas si elle l’a remarqué.",
+    "characters": [
+      "Léa, votre amie"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-6-1-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Rien : elle n’en a pas parlé, c’est sans doute qu’elle n’y a pas prêté attention.",
+            "score": 0,
+            "feedbackTitle": "Le silence laisse l’oubli s’installer.",
+            "feedback": "Elle l’a très probablement remarqué. Ne rien dire transforme un oubli en indifférence, alors qu’un simple mot suffirait à le réparer."
+          },
+          {
+            "id": "b",
+            "label": "Vous l’appelez : « Léa, j’ai complètement raté ton anniversaire, et je m’en veux ! Je t’invite à déjeuner cette semaine pour le fêter, si tu veux bien. Comment s’est passé le week-end ? »",
+            "score": 1,
+            "feedbackTitle": "Un aveu simple, et une proposition.",
+            "feedback": "Vous reconnaissez l’oubli sans vous justifier, et vous passez à l’attention réelle : la proposition et la question sur elle. Un anniversaire fêté en retard garde tout son charme."
+          },
+          {
+            "id": "c",
+            "label": "Vous envoyez un message : « Bon anniversaire ! » comme si vous étiez dans les temps.",
+            "score": 0.5,
+            "feedbackTitle": "Mieux que rien, mais un peu court.",
+            "feedback": "Elle verra bien la date du message. Le geste a de la valeur, mais reconnaître le retard lui en donnerait davantage."
+          },
+          {
+            "id": "d",
+            "label": "Vous inventez un voyage ou une panne de téléphone, pour expliquer votre silence.",
+            "score": 0,
+            "feedbackTitle": "Une histoire à entretenir.",
+            "feedback": "Un mensonge pour une broutille risque d’être découvert, et il pèsera bien plus lourd que l’oubli."
+          }
+        ]
+      }
+    ],
+    "rule": "Un oubli se répare par un aveu simple et un geste, jamais par une excuse élaborée.",
+    "nuance": "Personne n’est tenu de connaître toutes les dates : un agenda partagé ou un rappel est une attention, et non un manque de spontanéité.",
+    "relatedLessonIds": [
+      "l-6-1-1"
+    ],
+    "tags": [
+      "anniversaire",
+      "oubli",
+      "amitié"
+    ]
+  },
+  {
+    "id": "s-6-2",
+    "domainId": "fetes",
+    "level": "intermediate",
+    "title": "Le mariage sans enfants",
+    "description": "Vous êtes invités à un mariage où les enfants ne sont pas conviés. Vous n’avez pas de solution de garde.",
+    "context": "Votre cousine se marie en juin à 400 km. Le faire-part indique : « Nous vous recevons entre adultes. » Vous avez deux enfants de 3 et 6 ans, et personne pour les garder. Votre famille vous dit : « Viens quand même avec eux, elle ne dira rien. »",
+    "characters": [
+      "Votre cousine, future mariée",
+      "Le reste de la famille"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-6-2-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous venez avec les enfants, sans prévenir : une fois sur place, elle ne pourra rien dire.",
+            "score": 0,
+            "feedbackTitle": "Vous forcez la main le jour J.",
+            "feedback": "Chaque place est comptée, et ce choix a pu lui coûter des discussions difficiles. Vous lui imposez une gêne le jour de son mariage, et vous mettez aussi vos enfants mal à l’aise."
+          },
+          {
+            "id": "b",
+            "label": "Vous appelez votre cousine : « Nous sommes très touchés, et nous aimerions venir, mais nous n’avons pas de solution de garde. Connais-tu une baby-sitter sur place ? Sinon, l’un de nous deux viendra, et nous t’embrasserons de loin. »",
+            "score": 1,
+            "feedbackTitle": "Vous exposez une difficulté sans réclamer.",
+            "feedback": "Vous respectez sa décision, tout en cherchant une solution. Votre cousine peut proposer une aide ou faire une exception, si elle le souhaite, sans qu’on l’y oblige."
+          },
+          {
+            "id": "c",
+            "label": "Vous écrivez à votre cousine que cette règle est méchante, et que vous n’irez pas à cause d’elle.",
+            "score": 0,
+            "feedbackTitle": "Un reproche inutile.",
+            "feedback": "Ce choix leur appartient, et il repose souvent sur des raisons de budget ou de place. Vous pouvez décliner à regret, sans transformer votre absence en sanction."
+          },
+          {
+            "id": "d",
+            "label": "Vous déclinez sobrement, en envoyant un mot chaleureux et un cadeau.",
+            "score": 1,
+            "feedbackTitle": "Élégant, et parfaitement légitime.",
+            "feedback": "Vous n’avez pas à expliquer votre situation en détail. Un mot sincère et une attention montrent que l’absence n’enlève rien à votre affection."
+          }
+        ]
+      }
+    ],
+    "rule": "L’invitation dit qui est invité. On peut exposer une difficulté, mais on ne force jamais la main de ceux qui reçoivent.",
+    "nuance": "Un enfant allaité peut justifier une question aux mariés, qui décideront. Inversement, pensez à préciser à l’avance ce qui concerne les enfants : cela évite ces situations.",
+    "relatedLessonIds": [
+      "l-6-2-4"
+    ],
+    "tags": [
+      "mariage",
+      "enfants",
+      "invitation"
+    ]
+  },
+  {
+    "id": "s-6-3",
+    "domainId": "fetes",
+    "level": "intermediate",
+    "title": "À la cérémonie de votre collègue",
+    "description": "Une collègue vous invite à la bar-mitsva de son fils, et vous n’en connaissez pas les usages.",
+    "context": "Votre collègue Rachel vous invite au repas de bar-mitsva de son fils, précédé d’un office à la synagogue. Vous n’avez jamais assisté à ce type de cérémonie, et vous n’êtes pas juif. Vous ne savez ni comment vous habiller, ni quoi offrir.",
+    "characters": [
+      "Rachel, votre collègue",
+      "Sa famille"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-6-3-a",
+        "narrative": "",
+        "question": "Comment vous préparez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous demandez à Rachel : « Je suis très touché. Comment dois-je m’habiller ? Y a-t-il des usages que je devrais connaître pour la synagogue ? Et quel présent ferait plaisir à ton fils ? »",
+            "score": 1,
+            "feedbackTitle": "La question est la meilleure des marques de respect.",
+            "feedback": "Rachel sera ravie de vous expliquer, et vous évitez toute méprise : tenue, couvre-chef éventuel, place à l’office, usage du téléphone le jour du shabbat. Vous n’avez à feindre aucune croyance."
+          },
+          {
+            "id": "b",
+            "label": "Vous venez comme à une soirée habituelle et vous observez sur place.",
+            "score": 0.5,
+            "feedbackTitle": "L’observation ne suffit pas toujours.",
+            "feedback": "Observer est utile, mais certains usages se préparent à l’avance. La plupart des familles répondront volontiers à quelques questions."
+          },
+          {
+            "id": "c",
+            "label": "Vous déclinez, de peur de vous tromper.",
+            "score": 0,
+            "feedbackTitle": "Une crainte qui vous prive d’un honneur.",
+            "feedback": "L’invitation est une marque d’affection. Personne n’attend de vous que vous connaissiez tout : votre présence compte bien plus que votre connaissance des usages."
+          },
+          {
+            "id": "d",
+            "label": "Vous interrogez votre collègue, lors du repas, sur le bien-fondé de ces rites.",
+            "score": 0,
+            "feedbackTitle": "Ce n’est ni le moment ni le lieu.",
+            "feedback": "La curiosité sincère est bienvenue, mais les questions qui mettent en doute une croyance n’ont pas leur place le jour de la fête."
+          }
+        ]
+      }
+    ],
+    "rule": "Devant une cérémonie que l’on ne connaît pas, on demande à l’avance. On respecte sans feindre de partager.",
+    "nuance": "Les usages varient selon les courants, y compris au sein d’une même religion. La personne qui vous invite reste votre meilleure source.",
+    "relatedLessonIds": [
+      "l-6-2-2",
+      "l-6-2-5"
+    ],
+    "tags": [
+      "cérémonie religieuse",
+      "bar-mitsva",
+      "respect",
+      "tenue"
+    ]
+  },
+  {
+    "id": "s-6-4",
+    "domainId": "fetes",
+    "level": "advanced",
+    "title": "Une mort qui divise",
+    "description": "Une ancienne amie perd son mari. Vous vous êtes éloignées après une dispute.",
+    "context": "Vous apprenez que le mari de Monique, avec qui vous êtes brouillée depuis quatre ans, est mort d’un cancer. Vous étiez très proches autrefois ; votre brouille portait sur une histoire d’argent. Les obsèques ont lieu vendredi. Personne ne sait si Monique voudra vous voir.",
+    "characters": [
+      "Monique, votre ancienne amie",
+      "La famille du défunt"
+    ],
+    "estimatedDuration": 5,
+    "steps": [
+      {
+        "id": "s-6-4-a",
+        "narrative": "",
+        "question": "Que faites-vous en premier ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous lui écrivez un mot manuscrit : « Monique, j’ai appris pour Jean. Je garde le souvenir de sa gentillesse et de nos étés ensemble. Je pense très fort à toi. Rien ne t’oblige à me répondre. »",
+            "score": 1,
+            "nextStepId": "s-6-4-b",
+            "feedbackTitle": "Une main tendue, sans exigence.",
+            "feedback": "Vous vous manifestez sans rien demander, et vous parlez de Jean plutôt que de votre dispute. La dernière phrase lui laisse toute liberté. C’est le geste le plus respectueux possible."
+          },
+          {
+            "id": "b",
+            "label": "Vous vous rendez chez elle dès le lendemain, pour faire la paix.",
+            "score": 0,
+            "nextStepId": "s-6-4-c",
+            "feedbackTitle": "Votre besoin passe avant le sien.",
+            "feedback": "Votre désir de réconciliation est sincère, mais elle est au plus fort de sa douleur, et elle n’a pas à gérer aussi votre retour. Une visite s’annonce et se propose."
+          },
+          {
+            "id": "c",
+            "label": "Vous ne faites rien : après ces quatre ans, ce serait hypocrite.",
+            "score": 0.5,
+            "nextStepId": "s-6-4-d",
+            "feedbackTitle": "Une réserve défendable.",
+            "feedback": "Personne ne vous oblige à vous manifester, et une relation rompue reste une relation rompue. Il est toutefois rare de regretter un mot sobre, alors qu’on regrette souvent un silence."
+          }
+        ]
+      },
+      {
+        "id": "s-6-4-b",
+        "narrative": "Monique ne répond pas. Le jour des obsèques approche. Vous hésitez à y assister.",
+        "question": "Que décidez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous y allez et vous vous placez à l’arrière ; à la sortie, vous lui serrez brièvement la main sans chercher à parler, sauf si elle le souhaite.",
+            "score": 1,
+            "feedbackTitle": "Une présence discrète pour Jean, et pour elle.",
+            "feedback": "Ces obsèques sont publiques, et vous honorez un homme que vous avez connu. Vous vous tenez en retrait, et vous ne lui imposez rien. C’est elle qui décidera de la suite."
+          },
+          {
+            "id": "b",
+            "label": "Vous allez la voir au premier rang pour lui parler de votre dispute et lui dire que vous regrettez.",
+            "score": 0,
+            "feedbackTitle": "Le pire moment possible.",
+            "feedback": "Elle enterre son mari. Une réconciliation peut attendre, et ce jour n’est pas celui de vos regrets."
+          },
+          {
+            "id": "c",
+            "label": "Vous envoyez des fleurs, avec un mot sans demande.",
+            "score": 1,
+            "feedbackTitle": "Une autre manière d’être présent.",
+            "feedback": "Si votre présence risque de créer une tension, c’est une belle alternative : vérifiez seulement que la famille n’a pas demandé autre chose, comme un don."
+          }
+        ]
+      },
+      {
+        "id": "s-6-4-c",
+        "narrative": "Vous sonnez. Le frère de Monique vous ouvre : « Ce n’est pas le moment. » Vous apercevez Monique dans le salon, le visage fermé.",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Bien sûr, je comprends. Dites-lui simplement que je pense à elle. » Vous laissez un mot, et vous partez.",
+            "score": 1,
+            "feedbackTitle": "Vous rectifiez avec dignité.",
+            "feedback": "Vous acceptez la réponse sans insister. Votre passage et votre mot montrent votre intention, et vous n’avez rien imposé de plus."
+          },
+          {
+            "id": "b",
+            "label": "Vous insistez : « Monique, je sais que tu m’entends, il faut qu’on se parle. »",
+            "score": 0,
+            "feedbackTitle": "Vous forcez une porte.",
+            "feedback": "Vous transformez un deuil en scène, devant la famille. Il sera très difficile de revenir sur cette intrusion."
+          },
+          {
+            "id": "c",
+            "label": "Vous repartez, vexée, en décidant de ne plus jamais vous manifester.",
+            "score": 0.5,
+            "feedbackTitle": "Une réaction humaine, mais prématurée.",
+            "feedback": "Le refus concernait ce moment, peut-être rien de plus. Un mot écrit plus tard reste possible, quand le temps aura fait son œuvre."
+          }
+        ]
+      },
+      {
+        "id": "s-6-4-d",
+        "narrative": "Six mois plus tard, vous croisez Monique au marché. Elle a beaucoup maigri. Vos regards se croisent.",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous vous arrêtez : « Monique. Je n’ai pas su quoi faire quand Jean est mort, et je le regrette. Je pense souvent à lui. » Puis vous attendez sa réaction.",
+            "score": 1,
+            "feedbackTitle": "Il n’est jamais trop tard.",
+            "feedback": "Vous nommez votre silence sans vous justifier, et vous parlez de Jean. Elle reste libre de répondre ou non. Six mois après, peu de gens parlent encore de lui : cela compte."
+          },
+          {
+            "id": "b",
+            "label": "Vous détournez les yeux et vous changez d’allée.",
+            "score": 0,
+            "feedbackTitle": "Le malaise se prolonge.",
+            "feedback": "Vous vous épargnez une gêne, mais vous confirmez à Monique que tout est perdu entre vous. Un signe de tête, au moins, ne vous aurait rien coûté."
+          },
+          {
+            "id": "c",
+            "label": "Vous lui dites qu’elle a maigri et qu’elle devrait se reprendre.",
+            "score": 0,
+            "feedbackTitle": "Ni le ton ni le droit.",
+            "feedback": "Une remarque sur son corps et un conseil, après quatre ans de silence : vous ne lui apportez rien, et vous confirmez la distance."
+          }
+        ]
+      }
+    ],
+    "rule": "Devant un deuil, on tend la main sans rien demander. Votre besoin de réconciliation attendra : c’est le sien qui compte.",
+    "nuance": "Si la rupture tient à une violence ou à une trahison grave, personne n’est tenu à ces gestes, ni vous, ni elle. Et l’on ne se rend pas à des obsèques si la famille l’a expressément demandé.",
+    "relatedLessonIds": [
+      "l-6-3-3",
+      "l-6-3-4",
+      "l-6-3-6"
+    ],
+    "tags": [
+      "deuil",
+      "condoléances",
+      "brouille",
+      "obsèques"
+    ]
+  }
+]

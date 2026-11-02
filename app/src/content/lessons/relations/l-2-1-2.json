@@ -1,0 +1,303 @@
+{
+  "id": "l-2-1-2",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Merci, pardon, s’il vous plaît : trois formules si banales qu’on oublie ce qu’elles font. Comment demander, remercier et s’excuser pour que ces mots gardent leur valeur.",
+  "estimatedDuration": 11,
+  "tags": [
+    "politesse",
+    "merci",
+    "pardon",
+    "excuses",
+    "s’il vous plaît",
+    "gratitude",
+    "vie quotidienne"
+  ],
+  "objectives": [
+    "Formuler une demande qui laisse réellement à l’autre la possibilité de répondre.",
+    "Remercier avec précision, y compris pour de petites attentions.",
+    "Présenter une excuse qui répare au lieu de se justifier.",
+    "Reconnaître une attention sans la minimiser ni la retourner."
+  ],
+  "introduction": "On apprend aux enfants à dire « merci » et « s’il te plaît » comme on leur apprend à se laver les mains. Une fois adulte, on répète ces formules par automatisme, et elles perdent parfois tout leur sens : le « merci » lancé sans regarder, le « désolé, mais… » qui précède une justification, le « s’il vous plaît » qui sonne comme un ordre.\n\nCette leçon revient à l’essentiel. Ces mots sont des outils relationnels très précis : ils reconnaissent ce qu’une autre personne a fait, ce qu’on lui demande et ce qu’on lui a causé. Bien employés, ils coûtent peu et rapportent beaucoup, car ils disent à l’autre que sa bonne volonté n’est pas due.",
+  "sections": [
+    {
+      "title": "Demander : laisser une porte ouverte",
+      "content": "Une demande courtoise se reconnaît à un trait : l’autre pourrait dire non. C’est ce qui la distingue d’un ordre, même poli. « Tu peux me passer le dossier ? » pose une vraie question, alors que « Passe-moi le dossier, s’il te plaît » reste une consigne. Entre proches, cette seconde formule n’a rien de grave : tout dépend du ton et de la relation. Dans les autres cadres, en particulier lorsque vous avez une autorité sur la personne, formuler une question ou un conditionnel fait une grande différence : « Pourriez-vous me l’envoyer avant midi ? »\n\nLa demande gagne à être précise et à reconnaître l’effort qu’elle suppose. « Je sais que tu es chargé cette semaine : aurais-tu dix minutes pour relire ces deux pages ? » indique le temps demandé et la considération pour l’autre. La longue introduction qui fait attendre ce que l’on veut est au contraire pénible : l’interlocuteur se demande ce qui s’annonce.\n\nIl convient de ne pas exagérer. « Excusez-moi de vous déranger, je suis vraiment désolé, si ce n’est pas trop demander… » met l’autre mal à l’aise et l’oblige à vous rassurer. Une phrase claire et polie respecte mieux son temps. Et dans une relation de service, où la personne est là pour vous aider, l’excuse permanente n’a pas lieu d’être : un « bonjour » et un « s’il vous plaît » suffisent amplement."
+    },
+    {
+      "title": "Remercier : préciser ce qui a compté",
+      "content": "Un « merci » spécifique vaut dix « merci » automatiques. « Merci pour ta présentation » reste vague ; « Merci d’avoir pris le temps d’expliquer ce tableau à Lucie, elle était perdue » dit à la personne exactement ce que vous avez remarqué. La précision prouve que vous avez vu ce qui a été fait, ce qui constitue la véritable substance de la gratitude.\n\nOn oublie facilement de remercier les proches : le conjoint qui a fait les courses, le parent qui garde les enfants, le collègue qui vous remplace toujours. Or ce sont ceux dont l’aide finit par sembler naturelle, et que cette indifférence finit par blesser. On oublie aussi les personnes dont le travail reste invisible : personnel de ménage, chauffeurs, gardiens. Un merci adressé à ces personnes, avec leur prénom si on le connaît, a de la valeur.\n\nRecevoir un remerciement est un art à part entière. « Ce n’est rien », dit par réflexe, peut sonner comme un refus. « Je t’en prie » ou « Avec plaisir » accueillent le remerciement. L’expression « pas de souci », très répandue, n’a rien d’incorrect dans les échanges courants, même si certains la jugent peu élégante ; dans un cadre soutenu, on préférera « je vous en prie »."
+    },
+    {
+      "title": "S’excuser : réparer plutôt que se défendre",
+      "content": "Une excuse réussie reconnaît le fait, reconnaît son effet sur l’autre, et propose de réparer si c’est possible. « Je suis arrivé en retard, je t’ai fait attendre sous la pluie, je suis désolé. Le café est pour moi. » La justification peut suivre, brève, mais elle ne doit jamais prendre la place : « Désolé, mais il y avait des bouchons » n’est plus une excuse, c’est une défense. Le « mais » annule tout ce qui le précède.\n\nLes fausses excuses sont reconnaissables. « Je suis désolé que tu l’aies pris comme ça » reproche à l’autre sa réaction. « Si je t’ai blessé, je m’excuse » met en doute la blessure. « Excuse-moi, mais tu sais comment je suis » demande à l’autre de s’accommoder de la faute. Dans chacun de ces cas, la personne se sent doublement atteinte, et le conflit repart.\n\nTout ne mérite pas de grandes excuses. Heurter quelqu’un dans la rue appelle un « Pardon » rapide ; un oubli grave demande une conversation. Excès inverse : la personne qui s’excuse en permanence, y compris d’exister, pèse sur les autres. Elle les force à la rassurer et, à la longue, ses excuses perdent toute valeur."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-2-1-2-r1",
+      "title": "Une demande laisse la possibilité de répondre non.",
+      "description": "On formule ce que l’on souhaite comme une question ou une proposition, surtout lorsque l’on dispose d’une autorité sur l’autre.",
+      "rationale": "La courtoisie reconnaît la liberté de l’autre. Une demande déguisée en ordre traite l’interlocuteur comme un exécutant.",
+      "context": "Vie de famille, travail, services rendus, voisinage.",
+      "recommendedBehavior": "Dites ce dont vous avez besoin, le délai et l’effort requis. Acceptez sincèrement un refus lorsque vous l’avez rendu possible.",
+      "exceptions": [
+        "En situation d’urgence ou de sécurité, une consigne directe est plus respectueuse qu’une périphrase.",
+        "Un cadre de travail peut donner des directives : la politesse porte alors sur le ton."
+      ],
+      "remedy": "Si vous avez parlé trop sèchement : « J’ai été un peu raide ; est-ce que tu pourrais, quand tu auras un moment, regarder ça ? »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-1-2-r2",
+      "title": "Un merci précis vaut mieux qu’un merci réflexe.",
+      "description": "Lorsque le geste compte, on nomme ce que l’on a apprécié, et l’on remercie même ceux qui le font par devoir ou par habitude.",
+      "rationale": "Ce que recherche celui qui donne de son temps, c’est d’être vu. Une reconnaissance précise le prouve, et encourage la relation.",
+      "context": "Famille, couple, travail, relations de service, après un cadeau ou une aide.",
+      "recommendedBehavior": "Regardez la personne, dites merci, et ajoutez un détail. Pour une aide importante, écrivez quelques mots dans les jours qui suivent.",
+      "exceptions": [
+        "Les remerciements ostentatoires et répétés gênent plus qu’ils n’honorent."
+      ],
+      "remedy": "Un merci en retard vaut mieux que pas de merci : « Je ne t’ai jamais vraiment remercié pour ton aide lors du déménagement, ça m’a sauvé. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-1-2-r3",
+      "title": "Une excuse ne contient pas de « mais ».",
+      "description": "On reconnaît le fait et son effet avant toute explication, sans déplacer la responsabilité sur l’autre ni sur les circonstances.",
+      "rationale": "L’excuse a pour but de rendre à l’autre sa place de personne atteinte. Toute justification immédiate la lui retire.",
+      "context": "Oublis, retards, paroles blessantes, erreurs professionnelles.",
+      "recommendedBehavior": "Procédez en trois temps : le fait, son effet, la réparation. « Je n’ai pas envoyé ce document, cela t’a mis en difficulté devant le client, je m’en charge tout de suite et je préviens Marc. »",
+      "exceptions": [
+        "Quand une explication est utile à l’autre, elle vient après l’excuse et reste brève."
+      ],
+      "remedy": "Si votre excuse a sonné comme une défense : « Je n’ai pas bien dit les choses. Je n’ai pas d’excuse valable : je suis désolé. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-1-2-r4",
+      "title": "On accueille un remerciement, on ne le repousse pas.",
+      "description": "Face à un merci, à un compliment ou à une attention, on reçoit le geste au lieu de le nier ou d’en rendre aussitôt l’équivalent.",
+      "rationale": "Écarter le remerciement ou se hâter de rendre la pareille revient à fermer l’échange, et prive l’autre du plaisir d’avoir donné.",
+      "context": "Vie sociale et professionnelle, échanges de cadeaux.",
+      "recommendedBehavior": "« Avec plaisir », « Je vous en prie », « Merci, cela me touche ». Laissez passer du temps avant de rendre une invitation ou un service.",
+      "exceptions": [
+        "Dans plusieurs cultures, décliner un compliment est une forme attendue de modestie : on s’adapte."
+      ],
+      "remedy": "Si vous avez minimisé le geste de quelqu’un : « Je te dis ça par réflexe, mais ça m’a vraiment fait plaisir. »",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "« Merci » vient du latin mercedem, le salaire, le prix payé, devenu au Moyen Âge la grâce que l’on accorde. Il garde la trace de cette idée : le service reçu crée une sorte de dette, que le mot acquitte symboliquement. L’anthropologue Marcel Mauss l’a montré pour le don : toute prestation appelle un contre-don, et une société fonctionne par ce mouvement de réciprocité.\n\nCes formules apparaissent aussi dans les travaux de Goffman sous le nom de « rituels réparateurs » : lorsqu’un écart menace l’équilibre entre deux personnes, l’excuse le rétablit. Elles remplissent un rôle mécanique, comparable à l’huile dans un moteur : on ne les remarque pas quand elles sont là, mais on entend très vite leur absence. C’est pourquoi on peut les enseigner comme des formules, puis les approfondir comme une attention.",
+  "examples": [
+    {
+      "context": "Vous devez demander un service à un collègue très occupé",
+      "behavior": "« Je sais que tu boucles ton dossier. Si tu as un quart d’heure avant vendredi, pourrais-tu relire le paragraphe sur les délais ? Si ce n’est pas possible, je demanderai à Hélène. »",
+      "explanation": "Le temps demandé est clair, le délai aussi, et l’alternative permet réellement de refuser."
+    },
+    {
+      "context": "Une voisine a gardé votre chat une semaine",
+      "behavior": "Vous passez la voir avec un petit présent : « Merci mille fois. Il a l’air en pleine forme, et quelle tranquillité d’esprit pour nous de le savoir chez vous ! »",
+      "explanation": "Le remerciement nomme ce que le service a apporté, au-delà du geste lui-même."
+    },
+    {
+      "context": "Vous avez plaisanté sur le poids d’une amie devant d’autres personnes",
+      "behavior": "Vous l’appelez le lendemain : « Hier, ma plaisanterie était déplacée, et je t’ai mise mal à l’aise devant tout le monde. Je suis désolé. Je ne recommencerai pas. »",
+      "explanation": "Pas de « je plaisantais », pas de « tu sais comment je suis ». Le fait, l’effet et l’engagement suffisent."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Après avoir blessé quelqu’un",
+      "behavior": "« Je suis désolé si tu t’es sentie blessée, mais tu es très susceptible. »",
+      "consequences": "La fausse excuse accuse la personne atteinte ; elle ravive le conflit au lieu de l’apaiser.",
+      "alternative": "« Ce que j’ai dit t’a blessée, et je le regrette. »"
+    },
+    {
+      "situation": "En recevant un service de son conjoint",
+      "behavior": "Ne plus jamais le remercier, parce que « c’est normal ».",
+      "consequences": "L’effort devient invisible et le ressentiment s’installe, souvent d’autant plus que la répartition des tâches est inégale.",
+      "alternative": "Remercier pour les tâches ordinaires autant que pour les grands gestes : « Merci d’avoir pensé à appeler le plombier. »"
+    },
+    {
+      "situation": "Au restaurant ou dans un commerce",
+      "behavior": "Lancer : « Vous me mettez un café ! » sans regarder la personne.",
+      "consequences": "Le serveur est réduit à sa fonction. La relation est plus froide, et même un service correct laisse un arrière-goût.",
+      "alternative": "« Bonjour, un café s’il vous plaît. » Puis un « merci » lorsqu’on vous sert."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "« Merci » en famille.",
+      "text": "Dans certaines familles et certaines cultures, on remercie peu les très proches, parce que l’entraide y va de soi ; un remerciement peut même sembler instaurer une distance, comme c’est le cas dans plusieurs pays d’Asie. Il ne faut pas en conclure qu’il n’y a pas de gratitude : elle s’exprime autrement."
+    },
+    {
+      "title": "S’excuser n’est pas se soumettre.",
+      "text": "Présenter des excuses n’implique pas d’accepter tout ce qui a été dit par l’autre ni de reconnaître des torts qui ne sont pas les vôtres. On peut regretter sincèrement une parole sans renoncer à son désaccord sur le fond."
+    },
+    {
+      "title": "Excuses et responsabilité juridique.",
+      "text": "Dans certains contextes, comme un accident ou un litige, un écrit pourrait avoir des conséquences. L’empathie reste possible (« Je suis vraiment navré de ce qui vous arrive »), mais il est prudent de ne pas rédiger d’aveu détaillé avant de s’être renseigné."
+    }
+  ],
+  "contexts": [
+    "Foyer : demandes et remerciements entre conjoints, parents et enfants, sur les tâches quotidiennes.",
+    "Travail : formulation des consignes, reconnaissance du travail d’équipe, excuses après une erreur.",
+    "Relations de service : salut, « s’il vous plaît », « merci », sans excuses inutiles.",
+    "Amitié : demander un service sans culpabiliser, et remercier sans attendre l’occasion."
+  ],
+  "keyPoints": [
+    "Une demande courtoise laisse à l’autre la possibilité de dire non.",
+    "Un merci précis prouve que l’on a vu ce qui a été fait.",
+    "Une excuse ne contient pas de « mais » : fait, effet, réparation.",
+    "Recevoir un merci fait aussi partie de la politesse."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Vraie ou fausse excuse ?",
+    "instructions": "Associez chaque formule à ce qu’elle fait réellement.",
+    "pairs": [
+      {
+        "left": "« Je suis désolé que tu l’aies pris comme ça. »",
+        "right": "Reproche à l’autre sa réaction."
+      },
+      {
+        "left": "« Si je t’ai blessée, je m’excuse. »",
+        "right": "Met en doute la réalité de la blessure."
+      },
+      {
+        "left": "« Je t’ai coupé la parole devant l’équipe, je le regrette. Je reviendrai sur ton idée demain. »",
+        "right": "Reconnaît le fait et propose une réparation."
+      },
+      {
+        "left": "« Pardon, mais j’étais très stressé. »",
+        "right": "Remplace l’excuse par une justification."
+      }
+    ],
+    "explanation": "Une excuse vraie porte sur ce que l’on a fait et non sur ce que l’autre ressent ou sur ce qui vous excuserait. La réparation concrète lui donne son poids."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-2-1-2-q1",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Quelle demande est la plus courtoise à l’égard d’un collègue occupé ?",
+        "choices": [
+          "« Il me faut ce tableau pour ce soir. »",
+          "« Excuse-moi, je suis vraiment désolé, je sais que je t’embête, mais tu pourrais peut-être… »",
+          "« Peux-tu me préparer ce tableau pour demain midi, ou préfères-tu que je demande à Paul ? »",
+          "« Comme tu n’as rien de spécial à faire, tu me fais ce tableau ? »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Le délai est clair, et l’alternative rend le refus possible. « Il me faut ce tableau » est une consigne sèche, l’avalanche d’excuses oblige l’autre à rassurer, et « tu n’as rien de spécial à faire » suppose à tort que sa charge de travail est négligeable.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-1-2-q2",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Laquelle de ces formules n’est pas une véritable excuse ?",
+        "choices": [
+          "« Je suis désolé si tu t’es sentie visée. »",
+          "« Je t’ai interrompue, et je le regrette. »",
+          "« J’ai oublié notre rendez-vous, c’est ma faute. »",
+          "« J’ai parlé trop vite, et je t’ai blessée. Pardon. »"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "« Si tu t’es sentie visée » fait porter la question sur la sensibilité de l’autre et non sur ce qui a été fait. Les autres formulations reconnaissent les faits et assument leurs effets.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-1-2-q3",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Avec ses proches, il n’est plus nécessaire de dire merci, puisque l’aide y est naturelle.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : c’est précisément avec les proches que l’effort finit par devenir invisible, ce qui nourrit l’amertume. Certaines cultures expriment la gratitude autrement, mais la reconnaissance reste indispensable, sous une forme ou une autre.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-1-2-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que produit la répétition excessive des excuses (« pardon », « désolé » à tout propos) ?",
+        "choices": [
+          "Une image d’une grande courtoisie, que l’entourage apprécie et retient",
+          "L’obligation pour l’entourage de vous rassurer, et une perte de valeur de vos excuses",
+          "Une plus grande efficacité dans les échanges, car chacun se sent écouté",
+          "Rien de particulier"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "La personne qui s’excuse sans raison demande sans cesse à être rassurée. Lorsque viendra une vraie faute, ses excuses auront moins de poids, car elles auront perdu toute valeur distinctive.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-2-1-2-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quels éléments composent une excuse réparatrice ? (plusieurs réponses)",
+        "choices": [
+          "Reconnaître le fait",
+          "Reconnaître l’effet sur l’autre",
+          "Proposer de réparer lorsque c’est possible",
+          "Expliquer d’abord pourquoi on n’y pouvait rien"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Le fait, l’effet, la réparation : cet ordre rend sa place à la personne atteinte. L’explication peut venir, mais après, et brièvement. Placée en tête, elle transforme l’excuse en plaidoirie.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Erving Goffman",
+      "title": "Les Relations en public (La Mise en scène de la vie quotidienne, tome 2)",
+      "publisher": "Éditions de Minuit",
+      "year": "1973",
+      "note": "Sur les échanges réparateurs."
+    },
+    {
+      "author": "Marcel Mauss",
+      "title": "Essai sur le don",
+      "year": "1925"
+    },
+    {
+      "author": "Dominique Picard",
+      "title": "Politesse, savoir-vivre et relations sociales",
+      "publisher": "PUF, coll. Que sais-je ?",
+      "year": "1998"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

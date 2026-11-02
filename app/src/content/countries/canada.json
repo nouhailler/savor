@@ -1,0 +1,150 @@
+{
+  "id": "c-canada",
+  "slug": "canada",
+  "name": "Canada",
+  "region": "Amérique du Nord",
+  "languages": [
+    "Anglais",
+    "Français",
+    "Nombreuses langues autochtones"
+  ],
+  "intro": "Un pays bilingue et multiculturel, réputé pour sa courtoisie et son égalitarisme. Le Québec y a une identité propre, et les relations avec les peuples autochtones y sont un sujet de premier plan.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main, bises possibles au Québec"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Environ 15 à 20 %"
+    },
+    {
+      "label": "Registre",
+      "value": "Tutoiement fréquent au Québec"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "Attendue"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Une poignée de main et le prénom sont courants.",
+        "Au Québec, le tutoiement arrive vite, et ne marque aucun manque de respect.",
+        "Entre proches au Québec, on peut se faire deux bises."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "La ponctualité est de règle en affaires et pour les rendez-vous.",
+        "Pour un souper entre amis, on arrive à l’heure, ou avec un très léger retard."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On apporte souvent quelque chose : une bouteille ou un dessert.",
+        "« Apportez votre vin » est une pratique courante dans certains restaurants québécois.",
+        "Retirer ses chaussures à l’entrée est très fréquent, surtout en hiver."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "Les usages sont proches de ceux des États-Unis, avec moins de formalité qu’en France.",
+        "Au Québec, on déjeune le matin, on dîne à midi et on soupe le soir : vérifiez l’heure de l’invitation.",
+        "On commence quand tous sont servis."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Les cadeaux restent modestes, et sont généralement ouverts devant la personne.",
+        "Une spécialité de votre région est toujours bienvenue."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Les tenues sont assez décontractées, et adaptées au climat : prévoyez de quoi vous changer de chaussures en hiver.",
+        "Les bureaux se montrent de plus en plus souples, selon le secteur."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "On évite le ton tranchant : le désaccord passe souvent par des formulations très prudentes.",
+        "Le français québécois a son vocabulaire propre. Le corriger, ou s’en amuser, est très mal reçu.",
+        "« Sorry » s’emploie très souvent au Canada anglais."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On respecte un espace personnel assez large.",
+        "Les gestes restent modérés et le ton plutôt posé."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Le statut du Québec et la question linguistique demandent du tact.",
+        "Les relations avec les peuples autochtones et l’histoire des pensionnats sont des sujets graves : on dit Premières Nations, Métis et Inuit, et l’on évite les termes anciens.",
+        "Comparer systématiquement le Canada aux États-Unis agace souvent."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "La culture de travail est plutôt égalitaire et attentive au consensus.",
+        "La diversité et l’inclusion sont prises très au sérieux, et le droit encadre les questions posées en entretien.",
+        "Le français est obligatoire dans bien des situations de travail au Québec, conformément à la Charte de la langue française."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Se moquer de l’accent ou des expressions québécoises.",
+        "Prendre le Canada pour un simple prolongement des États-Unis.",
+        "Oublier que le pourboire n’est généralement pas inclus."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Les taxes s’ajoutent souvent au prix affiché.",
+        "On laisse les personnes descendre du bus d’abord, et l’on remercie le chauffeur en sortant dans de nombreuses villes.",
+        "Au Québec, parlez français : l’effort est très apprécié."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Bienvenue",
+      "meaning": "Au Québec, « de rien », en réponse à un merci."
+    },
+    {
+      "original": "Bonjour-Hi",
+      "meaning": "Salut bilingue fréquent à Montréal : l’usage est parfois discuté."
+    }
+  ],
+  "generalizationNote": "Le Canada réunit des provinces très différentes, des peuples autochtones et une importante population immigrée. Ces repères ne valent ni pour tous les habitants, ni pour tout le territoire : Vancouver, Montréal et Iqaluit vivent très différemment.",
+  "sources": [
+    {
+      "title": "Destination Canada",
+      "note": "Commission canadienne du tourisme."
+    },
+    {
+      "title": "Conseils aux voyageurs : Canada",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "title": "Office québécois de la langue française",
+      "note": "Sur les usages du français au Québec."
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

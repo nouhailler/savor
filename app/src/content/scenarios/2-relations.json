@@ -1,0 +1,324 @@
+[
+  {
+    "id": "s-2-1",
+    "domainId": "relations",
+    "level": "beginner",
+    "title": "La fête du voisin",
+    "description": "Il est minuit, la musique des voisins traverse le mur, et vous travaillez tôt demain.",
+    "context": "Un mardi soir. Vos nouveaux voisins fêtent leur installation. À minuit, la musique traverse encore la cloison. Vous vous levez à six heures. Vous ne les avez croisés qu’une fois, dans l’ascenseur.",
+    "characters": [
+      "Vos voisins, Sam et Elsa"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-2-1-a",
+        "narrative": "",
+        "question": "Que faites-vous en premier ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous frappez contre le mur, à plusieurs reprises.",
+            "score": 0,
+            "feedbackTitle": "Un message mal adressé.",
+            "feedback": "Vos voisins n’y entendront pas forcément une demande. Vous installez un rapport d’hostilité avant même de vous connaître."
+          },
+          {
+            "id": "b",
+            "label": "Vous sonnez chez eux : « Bonsoir, je suis votre voisin. Je me lève très tôt demain : pourriez-vous baisser un peu la musique ? Bienvenue dans l’immeuble ! »",
+            "score": 1,
+            "feedbackTitle": "Une demande franche et aimable.",
+            "feedback": "Vous vous présentez, vous dites ce dont vous avez besoin, et vous gardez un ton accueillant. Il s’agit le plus souvent d’une simple inattention, qui se règle ainsi en deux minutes."
+          },
+          {
+            "id": "c",
+            "label": "Vous appelez immédiatement la police.",
+            "score": 0.5,
+            "feedbackTitle": "Légal, mais bien prématuré.",
+            "feedback": "Le tapage nocturne est une infraction, et vous avez le droit d’y recourir. Mais c’est un mauvais début pour vos relations de voisinage. Il vaut mieux l’envisager si le dialogue échoue, ou si vous ne vous sentez pas en sécurité pour y aller."
+          },
+          {
+            "id": "d",
+            "label": "Vous ne dites rien, puis laissez un mot rageur dans le hall le lendemain.",
+            "score": 0,
+            "feedbackTitle": "Un reproche anonyme devant tout l’immeuble.",
+            "feedback": "Le mot public les humilie et ne vous a pas fait dormir. Une lettre courtoise, adressée à eux seuls, est une bonne solution si vous préférez l’écrit."
+          }
+        ]
+      }
+    ],
+    "rule": "En matière de voisinage, on commence par parler directement et aimablement : la plupart des gênes sont des inattentions.",
+    "nuance": "Le droit français sanctionne le tapage nocturne (article R623-2 du Code pénal). Si vous craignez une réaction agressive, ne vous rendez pas seul à leur porte : le recours aux autorités est alors légitime.",
+    "relatedLessonIds": [
+      "l-2-1-5"
+    ],
+    "tags": [
+      "voisinage",
+      "bruit",
+      "tapage"
+    ]
+  },
+  {
+    "id": "s-2-2",
+    "domainId": "relations",
+    "level": "intermediate",
+    "title": "Le plat de la belle-mère",
+    "description": "Premier dîner chez vos beaux-parents : on vous sert leur spécialité, et c’est le seul plat que vous ne supportez pas.",
+    "context": "Vous dînez pour la première fois chez les parents de votre compagne ou compagnon. Sa mère apporte fièrement des rognons à la moutarde, sa grande spécialité. Vous ne supportez pas les abats. On vous sert une belle part et chacun attend que vous goûtiez.",
+    "characters": [
+      "Vos futurs beaux-parents",
+      "Votre compagne ou compagnon"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-2-2-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Merci beaucoup, mais je n’aime pas vraiment les abats. »",
+            "score": 0,
+            "feedbackTitle": "Une franchise qui tombe au mauvais moment.",
+            "feedback": "La sincérité est une qualité, mais exprimée à table, devant tous et une fois servi, elle transforme une préférence personnelle en jugement sur le plat."
+          },
+          {
+            "id": "b",
+            "label": "Vous goûtez, accompagnez largement de garniture, et complimentez sincèrement ce que vous appréciez : la sauce, la cuisson des légumes.",
+            "score": 1,
+            "feedbackTitle": "Vous honorez le geste sans vous trahir.",
+            "feedback": "Le compliment porte sur quelque chose de vrai : vous ne mentez pas, vous choisissez ce que vous dites. Personne ne vous en demande davantage, et vous pourrez glisser plus tard à votre conjoint que les abats ne sont pas votre fort."
+          },
+          {
+            "id": "c",
+            "label": "Vous prétextez une allergie pour ne pas y toucher.",
+            "score": 0,
+            "feedbackTitle": "Un mensonge qui vous engage pour longtemps.",
+            "feedback": "On s’en souviendra à chaque invitation, et il faudra l’entretenir. Il met aussi la personne qui reçoit dans l’embarras, et banalise les vraies allergies."
+          },
+          {
+            "id": "d",
+            "label": "Vous finissez votre assiette coûte que coûte, sans rien dire.",
+            "score": 0.5,
+            "feedbackTitle": "Courtois, mais excessif.",
+            "feedback": "Personne n’exige un tel sacrifice, et la gêne se lit sur un visage. Surtout, une assiette vidée avec application est un signal clair : on risque de vous resservir, ce soir et lors des prochaines visites."
+          }
+        ]
+      }
+    ],
+    "rule": "On ne commente pas défavorablement ce que l’on vous sert. Un repas est un présent : on remercie l’intention autant que le résultat.",
+    "nuance": "Une allergie, un régime médical, religieux ou végétarien se signalent à l’avance, au moment de l’invitation : c’est une information, non un jugement.",
+    "relatedLessonIds": [
+      "l-2-2-2",
+      "l-5-1-7"
+    ],
+    "tags": [
+      "belle-famille",
+      "repas",
+      "plat",
+      "tact"
+    ]
+  },
+  {
+    "id": "s-2-3",
+    "domainId": "relations",
+    "level": "intermediate",
+    "title": "Deux cents euros",
+    "description": "Un ami à qui vous avez prêté de l’argent ne vous en parle plus depuis huit mois.",
+    "context": "Il y a huit mois, vous avez prêté 200 € à Hugo, un bon ami, pour une réparation. Il devait vous les rendre « le mois suivant ». Il n’en a plus parlé. Il vient de publier des photos de vacances. Vous le voyez samedi, et cette somme vous serait utile.",
+    "characters": [
+      "Hugo, un ami proche"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-2-3-a",
+        "narrative": "",
+        "question": "Comment abordez-vous la question ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Samedi, devant les amis, vous lancez : « Alors, les vacances, c’était mieux que de rembourser ses dettes ? »",
+            "score": 0,
+            "feedbackTitle": "L’humiliation remplace la demande.",
+            "feedback": "Le reproche en public oblige Hugo à se défendre. Vous récupérerez peut-être l’argent, mais vous risquez de perdre l’ami et de gêner le groupe."
+          },
+          {
+            "id": "b",
+            "label": "Vous n’en parlez jamais, mais vous cessez de l’appeler.",
+            "score": 0,
+            "feedbackTitle": "Le silence n’aide personne.",
+            "feedback": "Hugo a peut-être réellement oublié. Vous sacrifiez l’amitié sans lui donner aucune chance de réparer, pour éviter une conversation de deux minutes."
+          },
+          {
+            "id": "c",
+            "label": "Vous lui écrivez : « Hugo, tu te souviens des 200 € ? Ils me seraient utiles en ce moment. Tu peux me dire quand c’est possible pour toi ? »",
+            "score": 1,
+            "feedbackTitle": "Clair, sans accusation.",
+            "feedback": "Vous nommez la somme, vous donnez une raison sans vous justifier à l’excès, et vous lui laissez la possibilité de proposer une date. Rien n’est humiliant, et un oubli peut être réparé sans drame."
+          },
+          {
+            "id": "d",
+            "label": "Vous lui demandez de but en blanc pourquoi il part en vacances alors qu’il vous doit de l’argent.",
+            "score": 0.5,
+            "feedbackTitle": "Compréhensible, mais pas la meilleure entrée.",
+            "feedback": "Votre agacement est légitime, mais la question porte sur ses choix personnels et appelle une défense. Parlez d’abord de la dette elle-même : le reste pourra venir s’il le faut."
+          }
+        ]
+      }
+    ],
+    "rule": "Un prêt entre proches se rappelle simplement et en privé. C’est le silence, plus que la somme, qui abîme la relation.",
+    "nuance": "Si la personne traverse une difficulté, un échéancier modeste vaut mieux qu’une exigence. Pour l’avenir : une trace écrite, même un simple message, évite ce genre de situation.",
+    "relatedLessonIds": [
+      "l-2-2-7"
+    ],
+    "tags": [
+      "argent",
+      "prêt",
+      "amitié"
+    ]
+  },
+  {
+    "id": "s-2-4",
+    "domainId": "relations",
+    "level": "advanced",
+    "title": "La sœur qui s’invite",
+    "description": "Une sœur envahissante s’installe dans votre vie, et votre couple en souffre. Comment poser une limite ?",
+    "context": "Depuis sa séparation, Claire, votre sœur, passe chez vous presque tous les soirs sans prévenir et vous appelle à toute heure. Vous l’aimez, et vous savez qu’elle souffre. Mais votre conjoint vous dit qu’il n’en peut plus, et vous êtes épuisé. Ce soir, elle sonne à 20 h, alors que vous alliez dîner à deux pour la première fois depuis un mois.",
+    "characters": [
+      "Claire, votre sœur",
+      "Votre conjoint"
+    ],
+    "estimatedDuration": 6,
+    "steps": [
+      {
+        "id": "s-2-4-a",
+        "narrative": "",
+        "question": "Claire est à la porte. Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous la faites entrer et vous mettez un troisième couvert, sans rien dire.",
+            "score": 0.5,
+            "nextStepId": "s-2-4-b",
+            "feedbackTitle": "Généreux, mais rien ne change.",
+            "feedback": "Vous l’accueillez, mais votre silence nourrit l’épuisement et votre conjoint paie le prix de votre générosité. Et Claire ignore tout du problème."
+          },
+          {
+            "id": "b",
+            "label": "« Claire, je suis content de te voir, et ce soir ça ne va pas être possible : on dîne à deux. Je t’appelle demain à midi, et on se voit jeudi, d’accord ? »",
+            "score": 1,
+            "nextStepId": "s-2-4-c",
+            "feedbackTitle": "Une limite qui ne ferme pas la porte.",
+            "feedback": "Votre affection d’abord, le non ensuite, puis une proposition concrète. Vous ne laissez pas votre sœur sans rien, et vous tenez votre engagement envers votre conjoint."
+          },
+          {
+            "id": "c",
+            "label": "« Ça suffit, tu n’as pas de vie ou quoi ? Tu envahis tout ! »",
+            "score": 0,
+            "nextStepId": "s-2-4-d",
+            "feedbackTitle": "Votre fatigue parle à votre place.",
+            "feedback": "Une limite trop longtemps retenue sort en colère. Claire reçoit cette phrase au pire moment, et le fond du problème disparaît derrière la blessure."
+          }
+        ]
+      },
+      {
+        "id": "s-2-4-b",
+        "narrative": "Le dîner à trois se passe. Votre conjoint est silencieux, puis dit en vous quittant au coucher : « Je ne sais plus où est ma place ici. »",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Elle va mal, tu pourrais quand même comprendre. »",
+            "score": 0,
+            "feedbackTitle": "Vous opposez les deux.",
+            "feedback": "Votre conjoint exprime une souffrance et vous lui répondez par un reproche. Vous vous placez du côté de votre sœur, alors qu’il attend d’être entendu."
+          },
+          {
+            "id": "b",
+            "label": "« Tu as raison. Je n’ai pas su dire non. Je vais parler à Claire : proposons-lui deux soirs précis par semaine. »",
+            "score": 1,
+            "feedbackTitle": "Vous reprenez la main.",
+            "feedback": "Vous reconnaissez sa peine et vous assumez : c’est à vous, et non à lui, de parler à votre sœur. Une limite peut encore être posée, avec plus de calme, dans un moment choisi."
+          },
+          {
+            "id": "c",
+            "label": "Vous lui demandez de le dire lui-même à Claire.",
+            "score": 0,
+            "feedbackTitle": "Vous lui transmettez la charge.",
+            "feedback": "C’est votre sœur. Lui demander de faire ce que vous n’osez pas faire en ferait le méchant de l’histoire, et abîmerait durablement leur relation."
+          }
+        ]
+      },
+      {
+        "id": "s-2-4-c",
+        "narrative": "Claire pâlit : « Je comprends. Je dérange, comme d’habitude. » Elle a les larmes aux yeux, et elle repart. Le lendemain à midi, vous tenez parole et vous appelez. Elle est froide.",
+        "question": "Que dites-vous au téléphone ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Je suis désolé, je ne le ferai plus. Viens quand tu veux. »",
+            "score": 0,
+            "feedbackTitle": "Vous retirez la limite au premier reproche.",
+            "feedback": "La culpabilité vous fait renoncer, et tout recommencera. Vous apprenez à Claire que les larmes annulent vos limites, ce qui n’aide aucune de vous deux à long terme."
+          },
+          {
+            "id": "b",
+            "label": "« Tu ne déranges pas, je t’aime. Je veux être là pour toi, et j’ai aussi besoin d’avoir du temps pour ma vie de couple. Jeudi et dimanche, c’est pour toi. Et je me demande si parler à quelqu’un ne t’aiderait pas : je peux t’aider à chercher. »",
+            "score": 1,
+            "feedbackTitle": "Clarté et affection.",
+            "feedback": "Vous redites l’amour, et vous gardez la limite, avec un cadre prévisible qui est aussi rassurant pour elle. Évoquer une aide extérieure signifie que sa détresse mérite plus que ce que vous pouvez offrir à vous seul."
+          },
+          {
+            "id": "c",
+            "label": "« Tu exagères. Tous les autres sont d’accord avec moi. »",
+            "score": 0,
+            "feedbackTitle": "Un procès à plusieurs.",
+            "feedback": "Invoquer les autres donne à Claire le sentiment qu’on a parlé d’elle dans son dos, et l’enfonce dans le rôle de la personne qui gêne."
+          }
+        ]
+      },
+      {
+        "id": "s-2-4-d",
+        "narrative": "Claire s’effondre et part en claquant la porte. Votre conjoint est gêné. Le lendemain, vous repensez à vos mots.",
+        "question": "Comment réparer ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous l’appelez : « Je suis désolé de t’avoir parlé comme ça. Je n’ai rien fait de bien hier, mais je suis épuisé et je ne savais pas comment te le dire. Je veux te voir, et je voudrais qu’on fixe des moments ensemble. »",
+            "score": 1,
+            "feedbackTitle": "Séparer la forme et le fond.",
+            "feedback": "Vous vous excusez de la forme, sans retirer le fond. Vous expliquez ce qui s’est passé sans vous justifier, et vous proposez un cadre. Cette conversation, plus difficile, reste possible."
+          },
+          {
+            "id": "b",
+            "label": "Vous attendez qu’elle revienne d’elle-même.",
+            "score": 0,
+            "feedbackTitle": "L’attente laisse la blessure ouverte.",
+            "feedback": "Après une telle phrase, Claire a peu de raisons de faire le premier pas, et elle traverse une période difficile. La responsabilité de la réparation vous incombe."
+          },
+          {
+            "id": "c",
+            "label": "Vous lui envoyez un long message listant tout ce qu’elle a fait ces derniers mois.",
+            "score": 0,
+            "feedbackTitle": "Un procès écrit.",
+            "feedback": "Le message vise à justifier votre colère plutôt qu’à réparer. Il sera relu, et il pèsera longtemps entre vous."
+          }
+        ]
+      }
+    ],
+    "rule": "Une limite se pose tôt, avec affection et avec une proposition concrète. Aimer quelqu’un n’oblige pas à porter seul sa détresse.",
+    "nuance": "Si une personne que vous aimez parle de se faire du mal, ce n’est plus une question de limites : contactez un professionnel ou les services d’urgence. En France, le 3114 est le numéro national de prévention du suicide.",
+    "relatedLessonIds": [
+      "l-2-3-6",
+      "l-2-3-2"
+    ],
+    "tags": [
+      "limites",
+      "famille",
+      "couple",
+      "personnes envahissantes"
+    ]
+  }
+]

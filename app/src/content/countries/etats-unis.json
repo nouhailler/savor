@@ -1,0 +1,154 @@
+{
+  "id": "c-etats-unis",
+  "slug": "etats-unis",
+  "name": "États-Unis",
+  "region": "Amérique du Nord",
+  "languages": [
+    "Anglais",
+    "Espagnol (très répandu, sans être langue officielle dans tout le pays)"
+  ],
+  "intro": "Une société qui apprécie la cordialité immédiate et l’optimisme affiché. Le prénom vient vite, et le ton chaleureux n’annonce pas forcément une amitié : il correspond à l’usage.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main, prénom"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Environ 18 à 20 % attendus"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "À l’heure en affaires"
+    },
+    {
+      "label": "Ton",
+      "value": "Positif et direct"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Poignée de main ferme en affaires, souvent avec un sourire et un regard direct.",
+        "On passe très vite au prénom, y compris avec un supérieur.",
+        "« How are you? » est un salut : « Good, thanks, and you? » suffit."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "Les rendez-vous professionnels se tiennent à l’heure.",
+        "Pour une soirée chez des amis, un léger retard est admis, et l’on prévient en cas d’imprévu."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "« Let’s have lunch sometime » est souvent une simple politesse.",
+        "Une invitation peut préciser l’horaire de fin, et il est apprécié d’apporter quelque chose (un plat, une bouteille) : demandez ce qui ferait plaisir.",
+        "Dans une fête informelle, chacun se sert : « Help yourself » n’a rien d’impoli."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "On coupe avec le couteau, puis l’on change souvent la fourchette de main pour manger : ce n’est pas une faute.",
+        "Manger avec les doigts est courant pour certains plats, et les repas sont souvent plus courts qu’en France.",
+        "Demander à emporter ses restes (« doggy bag ») est tout à fait normal."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Les cadeaux d’affaires restent modestes, et les règles de conformité peuvent être strictes, surtout envers les agents publics.",
+        "On ouvre généralement le cadeau devant la personne, en le commentant avec enthousiasme."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Les codes varient fortement selon les villes et les secteurs : New York reste plus formelle que la Silicon Valley.",
+        "« Business casual » est un code courant, et il vaut la peine de se renseigner."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "Le discours est direct sur le fond, mais il entoure souvent la critique d’encouragements.",
+        "L’enthousiasme (« Great! », « Awesome! ») ne signifie pas toujours un accord.",
+        "On parle facilement de soi et de ses réussites : cela passe pour de la franchise."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On respecte une assez grande distance physique avec les inconnus.",
+        "Le sourire est très fréquent et attendu dans les relations de service.",
+        "Le contact physique au travail est à éviter : les règles contre le harcèlement sont prises très au sérieux."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "La politique, le port d’armes, l’avortement, les questions raciales : sujets profondément clivants, à aborder avec prudence.",
+        "On évite les plaisanteries sur l’origine, le genre ou la religion.",
+        "Il est mal vu de demander l’âge ou la situation familiale d’une personne lors d’un entretien : la loi encadre ces questions."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "Les réunions vont droit au but, et l’on attend des résultats mesurables.",
+        "Une confirmation écrite suit souvent une conversation.",
+        "Le contact est cordial et informel, sans pour autant supprimer la hiérarchie."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Laisser un pourboire à la française : il fait partie du revenu du serveur.",
+        "Prendre une cordialité immédiate pour une amitié, et s’en sentir trahi.",
+        "Fumer près des entrées : c’est largement interdit."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Les taxes s’ajoutent souvent au prix affiché : ne vous étonnez pas à la caisse.",
+        "On fait la queue, et l’on attend d’être placé au restaurant.",
+        "Les usages diffèrent nettement entre le Sud, la Nouvelle-Angleterre et la Californie."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Thank you so much!",
+      "meaning": "Merci beaucoup : l’emphase est habituelle."
+    },
+    {
+      "original": "No worries / You’re welcome",
+      "meaning": "Je vous en prie."
+    }
+  ],
+  "generalizationNote": "Les États-Unis rassemblent une très grande diversité d’origines, de régions et de milieux. Un Texan, une New-Yorkaise et un habitant d’une réserve autochtone n’ont pas les mêmes usages. Ces repères sont des tendances, et les chiffres du pourboire peuvent évoluer.",
+  "sources": [
+    {
+      "author": "Lizzie Post et Daniel Post Senning",
+      "title": "Emily Post’s Etiquette",
+      "publisher": "HarperCollins",
+      "note": "Édition du centenaire, 2022, à vérifier selon l’édition disponible."
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    },
+    {
+      "title": "Conseils aux voyageurs : États-Unis",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

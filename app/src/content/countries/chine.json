@@ -1,0 +1,159 @@
+{
+  "id": "c-chine",
+  "slug": "chine",
+  "name": "Chine",
+  "region": "Asie orientale",
+  "languages": [
+    "Mandarin",
+    "Cantonais",
+    "Nombreuses langues régionales et minoritaires"
+  ],
+  "intro": "Une société immense et en transformation rapide, où les relations personnelles (guānxi) et la préservation de la face tiennent une grande place. On y apprécie une attention sincère aux personnes.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main légère"
+    },
+    {
+      "label": "Noms",
+      "value": "Nom de famille en premier"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Peu pratiqué, sauf grands hôtels"
+    },
+    {
+      "label": "Relations",
+      "value": "Guānxi, la confiance dans le temps"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Une poignée de main légère et un petit signe de tête sont courants.",
+        "On salue d’abord la personne de rang le plus élevé, et l’on emploie son titre (Directeur Liu).",
+        "Le nom de famille se place en premier : Wang Li s’adresse comme Madame Wang."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "Soyez à l’heure aux rendez-vous professionnels : le retard peut être compris comme un manque de respect.",
+        "Les plannings peuvent changer tardivement, et il faut parfois s’adapter."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On reçoit plus souvent au restaurant, et l’invité est placé face à la porte, à la place d’honneur.",
+        "En cas d’invitation à domicile, on retire souvent ses chaussures, et l’on apporte un présent.",
+        "Les invitations peuvent être formulées tardivement, et ce n’est pas un manque de respect."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "L’hôte commande et sert souvent en abondance, et il peut placer des morceaux dans votre bol.",
+        "On ne plante pas ses baguettes verticalement dans le riz.",
+        "Les toasts sont fréquents dans les repas d’affaires, et « ganbei » invite à vider son verre. On peut boire de l’eau ou du thé pour raison de santé.",
+        "Laisser un peu dans son assiette indique souvent que l’on a été bien nourri."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Les présents s’offrent à deux mains, et peuvent être refusés par modestie avant d’être acceptés.",
+        "On évite les horloges, les objets coupants, les fleurs blanches et les lots de quatre.",
+        "Les règles anticorruption encadrent strictement les cadeaux d’affaires : soyez prudent."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Une tenue sobre et soignée convient au monde professionnel.",
+        "Le blanc est associé au deuil, le rouge à la fête et à la chance."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "Les questions sur l’âge, le salaire ou la famille peuvent être des marques d’intérêt, et vous pouvez y répondre sans précision.",
+        "Le refus s’exprime souvent indirectement : « Nous allons étudier cela ».",
+        "On évite de contredire ou de critiquer quelqu’un en public."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "Le silence peut indiquer une réflexion, et il ne faut pas se hâter de le remplir.",
+        "Les personnes âgées sont traitées avec une attention particulière.",
+        "Pointer du doigt est à éviter : on désigne plutôt de la main ouverte."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Taïwan, le Tibet, le Xinjiang, Hong Kong et les événements de 1989 sont des sujets très sensibles. Une parole imprudente peut mettre vos interlocuteurs en difficulté.",
+        "Critiquer les autorités n’est pas recommandé. Soyez attentif à vos publications et à vos messages.",
+        "La loi et la surveillance numérique appellent une prudence particulière : consultez les recommandations officielles avant le voyage."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "La confiance se construit lentement, souvent au cours de repas partagés : ne précipitez pas la négociation.",
+        "La carte de visite se présente à deux mains, de préférence avec une face en chinois.",
+        "Le contrat peut être considéré comme le début d’une relation plutôt que comme sa fin."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Faire perdre la face à un collaborateur devant ses collègues.",
+        "Confondre les usages chinois avec ceux d’autres pays d’Asie.",
+        "Offrir une horloge, ou un chiffre quatre."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Les applications de messagerie et de paiement mobile y sont centrales : renseignez-vous avant de partir.",
+        "Quelques mots de mandarin, même mal prononcés, sont bien accueillis.",
+        "Les villes, les provinces et les générations diffèrent énormément."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Nǐ hǎo / Nín hǎo",
+      "meaning": "Bonjour ; « nín » est la forme respectueuse."
+    },
+    {
+      "original": "Xièxie",
+      "meaning": "Merci."
+    },
+    {
+      "original": "Duìbuqǐ",
+      "meaning": "Excusez-moi, je suis désolé."
+    }
+  ],
+  "generalizationNote": "La Chine compte plus d’un milliard d’habitants, de nombreuses langues et cinquante-six groupes ethniques reconnus, et Shanghai n’a que peu à voir avec une province rurale. Ces repères sont des tendances, qui évoluent vite et qui ne valent pas pour chacun.",
+  "sources": [
+    {
+      "title": "Conseils aux voyageurs : Chine",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "author": "Geert Hofstede, Gert Jan Hofstede, Michael Minkov",
+      "title": "Cultures et organisations"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

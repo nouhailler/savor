@@ -1,0 +1,575 @@
+[
+  {
+    "id": "f-presenter-deux-personnes",
+    "domainId": "usages",
+    "title": "Comment présenter deux personnes ?",
+    "situation": "Deux personnes que vous connaissez se retrouvent côte à côte et ne se connaissent pas. Elles attendent, plus ou moins consciemment, que vous fassiez le lien.",
+    "advice": [
+      "Présentez sans attendre, dès que la conversation s’arrête quelques secondes.",
+      "Dans un cadre formel, adressez-vous d’abord à la personne que vous voulez honorer : l’aînée, la cliente, la personne de rang supérieur.",
+      "Donnez le nom, et la fonction ou le lien avec vous.",
+      "Ajoutez une accroche qui leur permettra de poursuivre sans vous : un intérêt, un voyage, une connaissance commune."
+    ],
+    "reasons": "Une personne qu’on ne présente pas ne sait ni si elle peut parler, ni à qui elle a affaire. Présenter, c’est se porter garant de chacun auprès de l’autre, et leur donner de quoi se parler.",
+    "mistakes": [
+      "Attendre qu’elles se présentent seules, et les laisser dans le silence.",
+      "Choisir comme accroche un élément privé : un divorce, une maladie, un licenciement.",
+      "S’excuser longuement d’avoir oublié un nom plutôt que de le demander simplement."
+    ],
+    "example": "« Madame Roche, je vous présente Anaïs Lemaire, qui rejoint notre équipe. Anaïs, Madame Roche nous fait confiance depuis dix ans, et elle revient justement de Lisbonne, où tu as vécu. »",
+    "culturalNuances": "Les titres ont davantage d’importance en Allemagne ou en Autriche, et le prénom s’emploie vite aux États-Unis. Au Japon, on présente d’abord la personne de rang inférieur à la personne de rang supérieur.",
+    "relatedLessonIds": [
+      "l-4-1-3"
+    ],
+    "tags": [
+      "présentations",
+      "réception",
+      "nom"
+    ]
+  },
+  {
+    "id": "f-se-presenter",
+    "domainId": "usages",
+    "title": "Comment se présenter soi-même ?",
+    "situation": "Vous arrivez dans un groupe, une réception ou une réunion où personne ne vous présente.",
+    "advice": [
+      "Attendez une respiration dans la conversation, puis approchez-vous avec un sourire.",
+      "Dites votre prénom et votre nom, distinctement.",
+      "Ajoutez ce qui explique votre présence : votre lien avec l’hôte ou votre rôle dans le projet.",
+      "Posez une question simple à votre interlocuteur pour lancer l’échange."
+    ],
+    "reasons": "Personne n’a jamais reproché à un inconnu de se présenter. C’est plus simple que d’attendre, et cela soulage ceux qui auraient dû le faire.",
+    "mistakes": [
+      "Se donner à soi-même un titre honorifique (« Je suis Madame Morel », « le docteur Morel ») hors du cadre où il est utile.",
+      "Réciter son curriculum vitae.",
+      "Avaler son nom, de sorte que personne ne le retienne."
+    ],
+    "example": "« Bonsoir, je suis Inès Morel, je travaillais avec Paul à Nantes. Et vous, comment connaissez-vous nos hôtes ? »",
+    "relatedLessonIds": [
+      "l-4-1-3",
+      "l-1-1-6"
+    ],
+    "tags": [
+      "présentations",
+      "timidité",
+      "réception"
+    ]
+  },
+  {
+    "id": "f-nom-oublie",
+    "domainId": "usages",
+    "title": "Comment réagir quand on a oublié un nom ?",
+    "situation": "Vous reconnaissez la personne qui vous salue, mais son nom vous échappe.",
+    "advice": [
+      "Avouez-le tôt, et simplement : plus vous attendez, plus la conversation devient délicate.",
+      "Montrez que vous vous souvenez de la personne : mentionnez un souvenir ou un fait.",
+      "Reprenez son nom aussitôt, puis une seconde fois au cours de la conversation.",
+      "Si vous devez la présenter, invitez chacun à le faire : « Je vous laisse vous présenter ? »"
+    ],
+    "reasons": "On oublie un nom parce qu’on ne l’a jamais vraiment enregistré, non parce qu’on oublie la personne. La distinction fait toute la différence pour celle-ci.",
+    "mistakes": [
+      "Passer une heure à éviter de prononcer un nom que tout le monde remarque.",
+      "Dire : « On se connaît ? » à quelqu’un qui vient de vous saluer chaleureusement.",
+      "Se confondre en excuses."
+    ],
+    "example": "« Quelle joie de vous revoir ! Pardonnez-moi, je suis très mauvais avec les noms : rappelez-moi le vôtre ? Bien sûr, Claire. Et cette librairie, vous l’avez ouverte ? »",
+    "relatedLessonIds": [
+      "l-4-1-3"
+    ],
+    "tags": [
+      "nom",
+      "oubli",
+      "présentations"
+    ]
+  },
+  {
+    "id": "f-tutoiement",
+    "domainId": "usages",
+    "title": "Faut-il tutoyer ou vouvoyer ?",
+    "situation": "Vous ne savez pas quel pronom employer avec une personne : nouveau collègue, beaux-parents, voisin plus âgé.",
+    "advice": [
+      "Avec un adulte que vous ne connaissez pas, le « vous » reste le choix par défaut.",
+      "Observez l’usage du groupe, en particulier dans une entreprise.",
+      "Proposez le passage au « tu » sous forme de question, en laissant une vraie possibilité de refus.",
+      "Si l’on vous propose le « tu » et que vous n’y tenez pas, remerciez et invoquez votre habitude."
+    ],
+    "reasons": "Le pronom règle la distance de la relation : c’est pourquoi on ne saurait l’imposer. Le « vous » peut toujours devenir un « tu », tandis que l’inverse est très délicat.",
+    "mistakes": [
+      "Tutoyer sans réciprocité une personne âgée, un employé ou une personne étrangère.",
+      "Se moquer de quelqu’un qui préfère le « vous ».",
+      "Passer au « tu » sans prévenir, après des mois de vouvoiement."
+    ],
+    "example": "« Nous travaillons ensemble depuis un moment. Nous pourrions nous tutoyer, si cela vous convient ? »",
+    "culturalNuances": "Au Québec, le tutoiement est plus courant qu’en France. L’allemand, l’espagnol et l’italien connaissent aussi ce choix, avec d’autres frontières.",
+    "relatedLessonIds": [
+      "l-4-1-4"
+    ],
+    "tags": [
+      "tutoiement",
+      "vouvoiement",
+      "registre"
+    ]
+  },
+  {
+    "id": "f-refuser-poliment",
+    "domainId": "usages",
+    "title": "Comment refuser poliment ?",
+    "situation": "On vous demande un service, une présence ou un engagement que vous ne pouvez ou ne voulez pas accepter.",
+    "advice": [
+      "Reconnaissez la demande ou remerciez d’avoir pensé à vous.",
+      "Dites non clairement : un « peut-être » laisse l’autre dans l’attente.",
+      "N’ajoutez pas plusieurs justifications : chacune peut être discutée.",
+      "Si c’est sincère, proposez une alternative.",
+      "Si l’on insiste, redites calmement la même phrase."
+    ],
+    "reasons": "Un refus clair respecte davantage l’autre qu’un oui que l’on ne tiendra pas. Il lui permet de s’organiser autrement, et il vous évite de devoir entretenir une excuse.",
+    "mistakes": [
+      "Inventer une excuse élaborée qu’il faudra entretenir.",
+      "Dire « on verra » en pensant « non ».",
+      "Se justifier si longuement que l’autre se sent obligé de vous rassurer."
+    ],
+    "example": "« Merci d’avoir pensé à moi. Je ne pourrai pas m’en occuper ce mois-ci. Je peux en revanche t’indiquer quelqu’un. »",
+    "culturalNuances": "Au Japon et dans plusieurs cultures d’Asie, un non direct peut paraître brutal : on préfère « ce sera difficile ». Votre refus net pourrait sembler agressif, et le leur vous échapper.",
+    "relatedLessonIds": [
+      "l-4-1-8",
+      "l-3-3-4"
+    ],
+    "tags": [
+      "refus",
+      "non",
+      "demande"
+    ]
+  },
+  {
+    "id": "f-question-indiscrete",
+    "domainId": "communication",
+    "title": "Comment gérer une personne indiscrète ?",
+    "situation": "Une personne vous interroge sur votre salaire, votre couple, votre santé ou votre projet d’enfant, et cela ne la regarde pas.",
+    "advice": [
+      "Rappelez-vous d’abord qu’aucune question ne crée l’obligation d’y répondre.",
+      "Répondez avec légèreté, si le lien s’y prête.",
+      "Sinon, fermez le sujet d’une phrase neutre, et enchaînez sur autre chose.",
+      "Si la personne insiste, redites la même chose, ou demandez-lui pourquoi elle veut le savoir."
+    ],
+    "reasons": "L’intimité appartient à chacun. Une réponse calme préserve à la fois votre vie privée et la relation, sans transformer l’indiscrétion en conflit.",
+    "mistakes": [
+      "Répondre par gêne, puis le regretter.",
+      "Répliquer sèchement dès la première question, sans laisser d’issue à quelqu’un de simplement maladroit.",
+      "Inventer une histoire qu’il faudra soutenir."
+    ],
+    "example": "« Je préfère garder ça pour moi. Et vous, ce voyage en Écosse, c’était comment ? »",
+    "culturalNuances": "En Corée, on vous demandera peut-être votre âge pour savoir comment vous parler. En Afrique ou en Asie, des questions sur votre famille marquent l’intérêt qu’on vous porte. Il ne s’agit pas de la même indiscrétion.",
+    "relatedLessonIds": [
+      "l-3-3-4",
+      "l-2-3-6"
+    ],
+    "tags": [
+      "indiscrétion",
+      "vie privée",
+      "limites"
+    ]
+  },
+  {
+    "id": "f-repondre-invitation",
+    "domainId": "recevoir",
+    "title": "Comment répondre à une invitation ?",
+    "situation": "Vous recevez une invitation : un dîner, un mariage, une fête, une réception professionnelle.",
+    "advice": [
+      "Répondez vite, et avant la date indiquée s’il y en a une.",
+      "Si l’invitation est écrite, répondez par le même moyen ou selon ce qui est demandé.",
+      "Ne présumez pas que l’invitation s’étend à d’autres personnes : posez la question si besoin.",
+      "Signalez dès ce moment-là une allergie ou un régime particulier.",
+      "Si vous ne pouvez pas venir, déclinez chaleureusement, sans avoir à vous justifier."
+    ],
+    "reasons": "Qui reçoit doit compter les personnes, prévoir les quantités et, parfois, payer chaque place. Une réponse rapide est déjà une marque de considération.",
+    "mistakes": [
+      "Attendre d’avoir une meilleure proposition pour décider.",
+      "Répondre oui, puis annuler la veille sans raison sérieuse.",
+      "Ne pas répondre du tout, puis se présenter."
+    ],
+    "example": "« Merci pour votre invitation, nous serons ravis de venir samedi. Une petite précision : Louis est allergique aux fruits à coque. Que pouvons-nous apporter ? »",
+    "relatedLessonIds": [
+      "l-5-1-2",
+      "l-5-1-7"
+    ],
+    "tags": [
+      "invitation",
+      "R.S.V.P.",
+      "réponse"
+    ]
+  },
+  {
+    "id": "f-decliner-invitation",
+    "domainId": "recevoir",
+    "title": "Comment décliner une invitation ?",
+    "situation": "On vous invite, et vous ne pouvez ou ne souhaitez pas y aller.",
+    "advice": [
+      "Répondez rapidement : vous laissez ainsi à l’hôte le temps de s’organiser.",
+      "Remerciez d’abord pour l’invitation.",
+      "Déclinez clairement. Une raison brève suffit, et vous n’êtes pas obligé d’en donner.",
+      "Proposez autre chose, si vous souhaitez sincèrement voir la personne."
+    ],
+    "reasons": "On n’a pas à justifier la façon dont on dispose de son temps. Une réponse simple respecte la personne et préserve la possibilité d’une prochaine rencontre.",
+    "mistakes": [
+      "Inventer un prétexte que quelqu’un pourra démentir.",
+      "Annoncer que vous avez reçu une proposition plus intéressante.",
+      "Ne pas répondre, en espérant que l’on vous oublie."
+    ],
+    "example": "« Merci beaucoup de nous avoir invités. Nous ne pourrons pas venir samedi, mais ce serait un plaisir de vous recevoir à notre tour le mois prochain. »",
+    "relatedLessonIds": [
+      "l-5-1-2",
+      "l-4-1-8"
+    ],
+    "tags": [
+      "invitation",
+      "refus"
+    ]
+  },
+  {
+    "id": "f-diner-invite",
+    "domainId": "recevoir",
+    "title": "Comment se comporter lors d’un dîner ?",
+    "situation": "Vous êtes invité à dîner chez des personnes que vous connaissez peu.",
+    "advice": [
+      "Arrivez à l’heure indiquée, ou avec un très léger retard en France, jamais en avance.",
+      "Apportez une petite attention, sans attendre qu’elle soit ouverte ou servie.",
+      "Attendez d’être placé, et que tous soient servis pour commencer.",
+      "Parlez à vos deux voisins, et non à un seul.",
+      "Restez sobre, et ne restez pas au-delà du raisonnable.",
+      "Remerciez le lendemain par un message."
+    ],
+    "reasons": "Ces gestes sont une manière de répondre à l’effort fourni. Un bon invité participe à la réussite de la soirée, sans que l’on ait à s’occuper de lui.",
+    "mistakes": [
+      "Commenter un plat qui ne vous plaît pas.",
+      "Consulter son téléphone à table.",
+      "Partir sans saluer les hôtes."
+    ],
+    "example": "En partant : « Merci pour cette soirée, on s’est régalés. Le gratin de votre mère restera dans les annales ! » Le lendemain : « Encore merci pour hier, c’était un vrai plaisir. »",
+    "culturalNuances": "En Allemagne, on arrive à l’heure pile. En Amérique latine, on peut arriver nettement après l’heure annoncée. En cas de doute, demandez aux personnes sur place.",
+    "relatedLessonIds": [
+      "l-5-1-7",
+      "l-5-1-6"
+    ],
+    "tags": [
+      "dîner",
+      "invité",
+      "table"
+    ]
+  },
+  {
+    "id": "f-plat-pas-aime",
+    "domainId": "recevoir",
+    "title": "Que faire d’un plat que l’on n’aime pas ?",
+    "situation": "On vous sert, lors d’un repas, un plat que vous n’appréciez pas ou que vous ne pouvez pas manger.",
+    "advice": [
+      "Distinguez la préférence de la contrainte : allergie, régime médical ou religieux se signalent, de préférence à l’avance.",
+      "Pour une simple préférence, prenez une petite portion et mangez ce que vous pouvez.",
+      "Complimentez ce que vous appréciez réellement.",
+      "Ne commentez pas à table ce que vous n’aimez pas."
+    ],
+    "reasons": "Un plat est un présent : on remercie l’intention. Votre préférence n’apporte rien à la table, et celui qui a cuisiné risque de l’entendre comme un jugement.",
+    "mistakes": [
+      "Inventer une allergie : vous devrez l’entretenir à chaque visite.",
+      "Dire tout haut que vous n’aimez pas ça.",
+      "Finir le plat péniblement, ce qui vous expose à être resservi."
+    ],
+    "example": "« Je vais en prendre un tout petit peu, merci. En revanche, ces légumes sont délicieux : comment les préparez-vous ? »",
+    "relatedLessonIds": [
+      "l-5-1-6",
+      "l-5-1-7"
+    ],
+    "tags": [
+      "plat",
+      "table",
+      "invité"
+    ]
+  },
+  {
+    "id": "f-dresser-table",
+    "domainId": "recevoir",
+    "title": "Comment dresser une table simplement ?",
+    "situation": "Vous recevez, et vous voulez une table soignée sans y passer une journée.",
+    "advice": [
+      "Prévoyez environ 60 cm par personne, et une nappe ou un chemin de table propres.",
+      "Disposez les fourchettes à gauche, les couteaux à droite, lame vers l’assiette, et la cuillère à droite des couteaux.",
+      "Placez les couverts dans l’ordre des plats : de l’extérieur vers l’intérieur.",
+      "Alignez les verres devant l’assiette, le plus grand pour l’eau.",
+      "Choisissez une décoration basse, qui ne gêne pas les regards."
+    ],
+    "reasons": "Une table bien dressée indique aux convives ce qui va se passer, et leur montre que vous avez pensé à eux. La simplicité fait une très belle table, et le luxe n’y est pour rien.",
+    "mistakes": [
+      "Un grand bouquet qui empêche de se voir.",
+      "Des bougies parfumées qui rivalisent avec le repas.",
+      "Vouloir dresser un couvert de restaurant pour un plat unique : on pose ce qui servira."
+    ],
+    "example": "Pour un dîner simple en deux plats : une fourchette et un couteau, une cuillère à dessert au-dessus de l’assiette, un verre à eau et un verre à vin, une serviette en tissu à gauche.",
+    "culturalNuances": "En France, les fourchettes se posent traditionnellement les dents vers la nappe, et aux États-Unis ou au Royaume-Uni, plutôt vers le haut. Aucune n’est plus juste que l’autre.",
+    "relatedLessonIds": [
+      "l-5-1-4"
+    ],
+    "tags": [
+      "table",
+      "couverts",
+      "verres"
+    ]
+  },
+  {
+    "id": "f-plan-de-table",
+    "domainId": "recevoir",
+    "title": "Comment faire un plan de table ?",
+    "situation": "Vous recevez au moins six personnes, et vous ne voulez pas laisser le hasard décider.",
+    "advice": [
+      "Placez d’abord la personne à honorer, ou celle qui connaît le moins de monde, à votre droite.",
+      "Répartissez ceux qui parlent et ceux qui écoutent de façon équilibrée.",
+      "Prévoyez d’abord les besoins pratiques : accessibilité, audition, parents et enfants.",
+      "Séparez les personnes qui se connaissent trop, sauf si elles ont besoin d’être ensemble.",
+      "Tenez éloignés ceux qui sont en conflit, jamais face à face."
+    ],
+    "reasons": "On parle surtout à ses voisins immédiats : le plan décide donc en grande partie des conversations de la soirée. Il dit aussi à chacun que l’on a pensé à lui.",
+    "mistakes": [
+      "« Mettez-vous où vous voulez » à dix personnes.",
+      "Isoler un timide entre deux bavards.",
+      "Corriger quelqu’un qui s’est assis à la mauvaise place devant tous."
+    ],
+    "example": "« Louise, venez à ma droite. Karim, à côté de Louise : vous avez tous les deux vécu au Canada. Et Jade, ici, près de Paul. »",
+    "relatedLessonIds": [
+      "l-5-2-2",
+      "l-5-3-3"
+    ],
+    "tags": [
+      "plan de table",
+      "placement",
+      "dîner"
+    ]
+  },
+  {
+    "id": "f-invite-retard",
+    "domainId": "recevoir",
+    "title": "Un invité est en retard : que faire ?",
+    "situation": "Vous attendez un convive, le repas est prêt, et les autres sont arrivés.",
+    "advice": [
+      "Attendez un quart d’heure à vingt minutes, ou davantage si la personne a prévenu.",
+      "Essayez de la joindre une fois, sans insister.",
+      "Passez à table, en prévenant vos convives.",
+      "À son arrivée, accueillez-la sans reproche, et servez-la du plat en cours."
+    ],
+    "reasons": "On ne punit pas ceux qui sont venus à l’heure, ni le plat qui cuit. Faire honte au retardataire ne réparerait rien, et il aura probablement déjà compris.",
+    "mistakes": [
+      "Faire attendre tout le monde une heure.",
+      "Accueillir le retardataire par une remarque devant tous.",
+      "Le contraindre à manger tous les plats précédents, seul, pendant qu’on l’observe."
+    ],
+    "example": "« Ah, te voilà ! Assieds-toi, on en est au plat. » Et la conversation reprend.",
+    "relatedLessonIds": [
+      "l-5-3-5"
+    ],
+    "tags": [
+      "retard",
+      "hôte",
+      "dîner"
+    ]
+  },
+  {
+    "id": "f-accueillir-invites",
+    "domainId": "recevoir",
+    "title": "Comment accueillir ses invités ?",
+    "situation": "Les invités sonnent à la porte. Vous n’avez pas tout à fait terminé en cuisine.",
+    "advice": [
+      "Allez ouvrir vous-même et saluez chaque personne.",
+      "Débarrassez-la de son manteau, et indiquez où poser ses affaires et où sont les toilettes.",
+      "Présentez-la à au moins une personne, avec une accroche.",
+      "Proposez une première attention : un verre, avec une alternative sans alcool.",
+      "Ne restez pas en cuisine pendant toute l’arrivée de vos invités."
+    ],
+    "reasons": "Les premières minutes déterminent le sentiment d’être attendu. Une personne installée et présentée est libre de s’amuser.",
+    "mistakes": [
+      "Crier « C’est ouvert ! » depuis la cuisine.",
+      "Laisser un nouvel arrivant seul dans un salon rempli d’inconnus.",
+      "Montrer votre panique devant les retards de votre préparation."
+    ],
+    "example": "« Bonsoir Sara, quel plaisir ! Donne-moi ton manteau. Viens, je te présente Marc, qui est aussi passionné d’escalade que toi. Qu’est-ce que je te sers ? »",
+    "relatedLessonIds": [
+      "l-5-1-5",
+      "l-5-3-6"
+    ],
+    "tags": [
+      "accueil",
+      "hôte",
+      "présentations"
+    ]
+  },
+  {
+    "id": "f-remercier-sejour",
+    "domainId": "recevoir",
+    "title": "Comment remercier après un séjour ?",
+    "situation": "Vous avez été reçu quelques jours chez des amis, ou chez l’habitant.",
+    "advice": [
+      "Remerciez de vive voix au moment de partir, en nommant ce que vous avez apprécié.",
+      "Laissez votre chambre en ordre et proposez de défaire le lit.",
+      "Écrivez ou appelez dans les jours qui suivent.",
+      "Si vous avez promis des photos, envoyez-les.",
+      "Rendez l’invitation lorsque c’est possible, sans en faire une dette."
+    ],
+    "reasons": "Vos hôtes vous ont donné leur temps et leur intimité. Un mot précis prolonge la rencontre, et il leur dit que leur effort a compté.",
+    "mistakes": [
+      "Un simple « merci pour tout » sans détail, plusieurs semaines après.",
+      "Laisser de l’argent sur la table, si la relation repose sur le don.",
+      "Publier des photos de leur maison sans demander."
+    ],
+    "example": "« Chers Claire et Yann, nous sommes rentrés et nous pensons encore à la cueillette de samedi et à vos tartes. Merci de nous avoir fait une si belle place chez vous. À bientôt à la maison. »",
+    "culturalNuances": "Un cadeau de remerciement varie selon les pays : un présent à offrir à deux mains au Japon, une attention pour les enfants dans de nombreuses familles.",
+    "relatedLessonIds": [
+      "l-5-2-8",
+      "l-7-3-4"
+    ],
+    "tags": [
+      "remerciements",
+      "séjour",
+      "week-end"
+    ]
+  },
+  {
+    "id": "f-cadeau-recu",
+    "domainId": "recevoir",
+    "title": "Comment recevoir un cadeau qui ne plaît pas ?",
+    "situation": "On vous offre quelque chose qui ne vous plaît pas ou que vous avez déjà, et l’on attend votre réaction.",
+    "advice": [
+      "Regardez d’abord la personne et remerciez pour l’attention.",
+      "Trouvez quelque chose de vrai à dire : l’intention, l’emballage, le souvenir.",
+      "Ne parlez ni du prix ni d’un éventuel échange devant elle.",
+      "Vous pourrez plus tard en disposer discrètement."
+    ],
+    "reasons": "Le cadeau est d’abord un geste qui crée un lien. Le remercier ne revient pas à mentir : c’est choisir ce que l’on dit.",
+    "mistakes": [
+      "Demander le ticket devant la personne.",
+      "Dire que vous l’avez déjà.",
+      "Revendre ou offrir l’objet à quelqu’un du même cercle."
+    ],
+    "example": "« Comme c’est gentil d’avoir pensé à moi ! Et quel joli emballage. Merci beaucoup. »",
+    "culturalNuances": "Dans plusieurs cultures d’Asie, on n’ouvre pas son cadeau devant la personne, ce qui évite précisément ce moment. En Chine, un cadeau peut être refusé par politesse avant d’être accepté.",
+    "relatedLessonIds": [
+      "l-5-1-8",
+      "l-5-2-9"
+    ],
+    "tags": [
+      "cadeau",
+      "tact",
+      "remerciement"
+    ]
+  },
+  {
+    "id": "f-remercier-cadeau",
+    "domainId": "fetes",
+    "title": "Comment écrire un mot de remerciement ?",
+    "situation": "Vous voulez remercier pour un cadeau, une invitation ou une aide.",
+    "advice": [
+      "Écrivez rapidement : dans les jours qui suivent, si possible.",
+      "Citez exactement ce que vous remerciez.",
+      "Dites ce que cela vous a apporté : un souvenir, un usage, un soulagement.",
+      "Terminez par une ouverture : une rencontre, une pensée.",
+      "Pour un mariage ou un événement important, le mot reste bienvenu plusieurs semaines après."
+    ],
+    "reasons": "Un remerciement précis prouve que l’on a vu ce qui a été fait. C’est ce qui le distingue d’une formule.",
+    "mistakes": [
+      "Utiliser le même message groupé pour tout le monde.",
+      "Oublier de remercier parce qu’on l’a déjà fait sur place, pour un geste important.",
+      "Ajouter une remarque sur ce que l’on aurait préféré."
+    ],
+    "example": "« Chère Anne, le carnet de voyage que tu m’as offert m’accompagne déjà au Portugal. Il sent bon le papier et les projets. Merci d’avoir si bien deviné. On se voit à mon retour ? »",
+    "relatedLessonIds": [
+      "l-6-1-5",
+      "l-3-1-6"
+    ],
+    "tags": [
+      "remerciements",
+      "mot",
+      "écrit"
+    ]
+  },
+  {
+    "id": "f-condoleances-oral",
+    "domainId": "fetes",
+    "title": "Comment présenter ses condoléances ?",
+    "situation": "Une personne de votre entourage vient de perdre un proche, et vous la croisez ou vous vous rendez à la cérémonie.",
+    "advice": [
+      "Allez vers elle plutôt que de l’éviter, et dites quelques mots simples.",
+      "Nommez la personne disparue et partagez un souvenir si vous en avez un.",
+      "Avouez votre embarras si vous ne savez pas quoi dire : cela touche souvent davantage qu’une formule.",
+      "Proposez une aide concrète, à un moment précis.",
+      "Revenez vers elle dans les semaines et les mois suivants."
+    ],
+    "reasons": "Rien ne peut réparer une mort, mais le silence est vécu comme un abandon. On ne vous demande pas de consoler : simplement de vous manifester.",
+    "mistakes": [
+      "« Au moins, il ne souffre plus » ou « C’était peut-être mieux ainsi ».",
+      "« Je sais ce que tu ressens », suivi du récit de votre propre deuil.",
+      "« Si tu as besoin de quoi que ce soit, n’hésite pas », sans proposition précise."
+    ],
+    "example": "« Je suis tellement désolé pour Jean. Je garde le souvenir de sa gentillesse. Je ne sais pas quoi dire, mais je suis là. Je passe jeudi déposer un repas, je ne resterai pas. »",
+    "culturalNuances": "Les usages de deuil varient beaucoup : visites de la shiva dans la tradition juive, réunion familiale et présence des proches pendant les premiers jours dans la tradition musulmane. Renseignez-vous auprès d’un proche.",
+    "relatedLessonIds": [
+      "l-6-3-3",
+      "l-6-3-4"
+    ],
+    "tags": [
+      "condoléances",
+      "deuil",
+      "décès"
+    ]
+  },
+  {
+    "id": "f-condoleances-ecrit",
+    "domainId": "fetes",
+    "title": "Comment écrire une lettre de condoléances ?",
+    "situation": "Vous voulez écrire à une personne endeuillée, sans trop savoir comment vous y prendre.",
+    "advice": [
+      "Préférez une carte manuscrite sur papier uni, ou un message si vous êtes loin.",
+      "Commencez simplement : dites votre peine en apprenant la nouvelle.",
+      "Évoquez un souvenir ou une qualité de la personne disparue.",
+      "Ayez une pensée pour celle ou celui à qui vous écrivez.",
+      "Ne demandez pas de réponse. Quelques lignes suffisent."
+    ],
+    "reasons": "Ces lettres sont relues, parfois pendant des années, et un souvenir précis apporte aux proches ce qu’aucune formule ne peut leur donner.",
+    "mistakes": [
+      "Les phrases sur les épreuves qui rendent plus fort.",
+      "Le récit de vos propres deuils.",
+      "Renoncer parce que l’on trouve son texte maladroit."
+    ],
+    "example": "« Chère Marie, j’ai appris avec une grande tristesse la mort de ton père. Je garde le souvenir de son rire et de sa façon de te regarder quand tu parlais. Je pense très fort à toi et à ta mère. Je t’embrasse. »",
+    "relatedLessonIds": [
+      "l-6-3-3",
+      "l-3-2-6"
+    ],
+    "tags": [
+      "condoléances",
+      "lettre",
+      "écrit"
+    ]
+  },
+  {
+    "id": "f-feliciter",
+    "domainId": "fetes",
+    "title": "Comment féliciter quelqu’un ?",
+    "situation": "Une personne vous annonce une bonne nouvelle : naissance, réussite, mariage, promotion.",
+    "advice": [
+      "Réagissez avec joie, sans tarder.",
+      "Citez ce que vous savez de son effort ou de ce qui la rend heureuse.",
+      "Posez une question, et laissez-la raconter.",
+      "Gardez vos conseils et vos anecdotes pour plus tard.",
+      "Demandez si vous pouvez en parler autour de vous."
+    ],
+    "reasons": "Des recherches en psychologie montrent que l’intérêt réel pour les bonnes nouvelles renforce les relations. Celle-ci appartient à celui qui l’annonce.",
+    "mistakes": [
+      "« Moi aussi, quand j’ai eu mon poste… »",
+      "« Enfin ! », « Combien tu vas gagner ? », « Le prochain, c’est pour quand ? »",
+      "Annoncer la nouvelle à sa place, sur un réseau social."
+    ],
+    "example": "« Bravo, Salma ! Après ton travail sur ce dossier, c’est tellement mérité. Raconte : comment l’as-tu appris ? »",
+    "relatedLessonIds": [
+      "l-6-1-4"
+    ],
+    "tags": [
+      "félicitations",
+      "bonne nouvelle"
+    ]
+  }
+]

@@ -1,0 +1,305 @@
+{
+  "id": "l-7-2-1",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Bus, tramway, métro, autocar de voyage : comment partager un espace qui appartient à tout le monde. Places, bruit, bagages, relations avec les conducteurs et les contrôleurs, et réactions possibles lorsqu’un autre passager se comporte mal.",
+  "estimatedDuration": 11,
+  "tags": [
+    "autocar",
+    "bus",
+    "métro",
+    "transports en commun",
+    "places prioritaires",
+    "bruit",
+    "bagages",
+    "conducteur"
+  ],
+  "objectives": [
+    "Comprendre ce que le partage d’un transport collectif attend de chacun.",
+    "Céder sa place et gérer ses bagages de façon équitable.",
+    "Maîtriser le bruit et les odeurs dans un espace clos.",
+    "Traiter le personnel avec respect et réagir à un incident en sécurité."
+  ],
+  "introduction": "Chaque jour, des millions de personnes partagent un véhicule sans se connaître. Elles se serrent, se touchent, se supportent en silence, et le plus souvent tout se passe bien. Ce petit miracle tient à quelques règles tacites : laisser descendre avant de monter, avancer dans le couloir, baisser le volume. Elles sont rarement écrites et elles se remarquent surtout quand elles sont oubliées.\n\nCette leçon de niveau intermédiaire couvre les transports urbains et les autocars de voyage, qui ont leurs particularités : trajet plus long, bagages en soute, arrêts et pauses en groupe. Elle aborde aussi les relations avec les conducteurs et les contrôleurs, dont les conditions de travail se sont tendues, ainsi que la question délicate de la réaction à adopter si quelqu’un se comporte mal ou importune un autre voyageur.",
+  "sections": [
+    {
+      "title": "Le respect des autres et les places",
+      "content": "La première règle tient en quatre mots : on laisse descendre d’abord. Attendez sur le côté des portes, puis montez rapidement sans bloquer l’entrée. Une fois à l’intérieur, avancez vers le fond et ne restez pas agglutiné près des portes, même si vous descendez bientôt. Lorsque le véhicule est très chargé, descendez un instant sur le quai pour laisser sortir les autres, puis remontez. Pensez à préparer votre titre de transport et à valider sans bloquer le passage. Retirez votre sac à dos en période d’affluence et portez-le à la main ou à vos pieds : chaque mouvement de vos épaules heurte quelqu’un.\n\nLes places prioritaires sont destinées aux personnes qui en ont besoin : personnes âgées, en situation de handicap, femmes enceintes, parents avec de jeunes enfants. Dans de nombreux réseaux, une signalétique les désigne, et il est parfois interdit de les occuper si quelqu’un en a besoin. Mais la règle dépasse ces places : levez-vous pour toute personne qui semble en avoir plus besoin que vous. Comme certains besoins ne se voient pas, un simple mot ou une carte de priorité peut suffire, sans exiger de preuve. Proposez : « Voulez-vous vous asseoir ? » La personne peut refuser sans que cela vous offense : tout le monde n’aime pas être considéré comme âgé.\n\nÉvitez de poser vos pieds sur les sièges ou vos affaires sur la place d’à côté, surtout quand le véhicule se remplit. Dans un autocar de voyage, les sièges sont souvent numérotés : suivez votre billet. Vous pouvez échanger votre place à l’amiable si quelqu’un vous le demande, sans y être obligé, et, en cas de doute, adressez-vous au conducteur. Soyez discret pour le regard, aussi : ne dévisagez pas un voyageur et ne lisez pas son écran. Le regard fixe peut être ressenti comme une menace, en particulier lorsqu’il s’adresse à une personne seule. Ce sont ces petites précautions qui permettent de cohabiter dans l’espace étroit d’un véhicule."
+    },
+    {
+      "title": "Le bruit et les odeurs",
+      "content": "Dans un véhicule, le son circule sans aucun filtre. Les écouteurs sont indispensables pour la musique, les vidéos et les jeux : un téléphone qui diffuse à voix haute impose ses choix à tout le monde. Gardez un volume raisonnable, car les écouteurs ouverts laissent aussi échapper du son. Les appels téléphoniques doivent rester courts et bas, ou être reportés à plus tard. Votre voix porte plus qu’on ne l’imagine, et tout le monde entend vos affaires professionnelles et familiales. Dans les trains, il existe parfois des espaces silencieux, ou des zones où les appels sont interdits : respectez-les.\n\nLes conversations en groupe, particulièrement avec des enfants ou des amis, doivent aussi rester mesurées. Dans un autocar de voyage de nuit, respectez le sommeil des autres : pas de lumière vive, de longues discussions ni de vidéos sans casque. Les petits enfants qui font du bruit ne sont pas nécessairement mal élevés : ils s’ennuient, et un trajet de six heures peut être difficile pour eux. Préparez de quoi les occuper si vous voyagez avec eux, tout en sachant qu’il est impossible de les réduire totalement au silence. Évitez de porter des jugements à voix haute, et reconnaissez qu’une personne ayant un handicap peut produire des sons qu’elle ne contrôle pas, ce qui n’appelle pas de remarque.\n\nLes odeurs posent un problème souvent négligé. Évitez les parfums très puissants, surtout dans un lieu fermé, et les repas à forte odeur dans un métro bondé. Certains réseaux interdisent d’ailleurs les boissons ou aliments. Dans un autocar de voyage, un sandwich est généralement toléré, à condition de laisser sa place propre. Ne vapotez ni ne fumez à bord, ce qui est interdit dans les transports collectifs, conformément au décret du 15 novembre 2006. Si vous rentrez du sport, un vêtement propre fera plaisir à vos voisins. Si vous êtes indisposé par l’odeur de quelqu’un, évitez toute remarque et changez discrètement de place : cette personne peut être en grande précarité ou malade."
+    },
+    {
+      "title": "Bagages et affaires",
+      "content": "Les bagages sont une source fréquente de conflit, surtout aux heures de pointe. Dans le métro, une grande valise doit rester près de vous, contre une paroi ou entre vos jambes, sans bloquer le passage. Évitez, si possible, les heures de pointe lorsque vous transportez des objets encombrants, comme une poussette de grande taille, un vélo, un meuble ou une planche de surf. Consultez les règles de votre réseau, qui peuvent interdire certains objets ou prévoir des horaires particuliers. Dans les transports urbains français, la trottinette se plie et se porte, comme l’exigent de nombreux règlements. Elle n’a pas sa place au milieu d’une allée.\n\nDans un autocar de voyage, on dépose les grands bagages en soute, en présence du conducteur, et on garde en cabine les objets de valeur, les médicaments, les papiers et de quoi voyager agréablement. Respectez le nombre et le poids prévus par le billet. Étiquetez vos bagages et attendez qu’on vous invite à les récupérer. Lorsque vous repartez d’une pause, vérifiez les horaires et revenez bien à l’avance : un autocar plein qui attend un voyageur de plus crée un vrai mécontentement collectif. Ne déplacez pas le bagage d’un autre passager sans prévenir, et ne bloquez pas l’allée pendant l’installation.\n\nVos animaux doivent être transportés selon les règles du réseau : en panier pour les petits, souvent muselés et tenus en laisse pour les plus grands, et parfois avec un titre de transport. Les chiens guides et d’assistance sont dispensés de ces restrictions : ils sont autorisés à accompagner leur maître dans les transports publics, selon la loi française, et ne doivent ni être caressés ni être distraits sans autorisation. Une poussette peut parfois rester ouverte selon le réseau, mais laissez passer les autres et pliez-la si le véhicule se remplit. Enfin, ne laissez pas un sac sans surveillance : en plus de risquer le vol, vous pouvez provoquer une alerte et bloquer toute une ligne."
+    },
+    {
+      "title": "Les relations avec le personnel et les incidents",
+      "content": "Les conducteurs de bus et d’autocar portent une lourde responsabilité : ils conduisent dans un trafic difficile, avec des horaires serrés et de nombreux passagers. Saluez-les en montant et en descendant, comme c’est l’usage dans beaucoup de villes de province. Ne leur parlez pas pendant qu’ils manœuvrent, sauf nécessité. Si vous avez une question, attendez un arrêt et ne vous mettez pas devant la ligne jaune de sécurité. Ils n’ont en général pas la possibilité d’attendre votre correspondance ou de s’arrêter hors des arrêts. Si vous voulez être déposé plus près, demandez sans insister. Dans certains réseaux, des arrêts à la demande de nuit existent pour la sécurité des personnes.\n\nLes contrôleurs appliquent les règles. Présentez votre titre sans discuter. Si vous êtes en tort, une explication calme peut parfois aboutir à une solution, et l’agression ou l’injure ne fera qu’aggraver votre situation. Une insulte ou une agression à l’encontre d’un agent chargé d’une mission de service public est une infraction en France, dont les peines sont aggravées. Si vous estimez qu’une amende est injustifiée, contestez-la par écrit plus tard, selon la procédure mentionnée sur le procès-verbal. La discussion sur place ne servira à rien et risque de faire attendre tout le véhicule.\n\nLes incidents demandent du discernement. Si quelqu’un importune une personne, votre aide peut compter : adressez-vous à la personne visée, comme si vous la connaissiez : « Tout va bien ? Tu veux qu’on s’assoie là-bas ? » Vous pouvez aussi prendre à témoin d’autres passagers, ou signaler les faits au conducteur. En France, le numéro 3117 de la SNCF et de la RATP, et le 31177 par SMS, permet de signaler une situation à risque dans les transports. En cas de danger immédiat, appelez le 17 ou le 112, sans vous mettre vous-même en danger. Filmer peut aider dans certains cas, mais pas diffuser les images. Quant aux conflits pour une place ou un sac, ils se règlent par une phrase courte, et non par une dispute : aucune petite victoire ne vaut une agression."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-7-2-1-r1",
+      "title": "Laissez descendre avant de monter.",
+      "description": "On attend sur le côté des portes que les voyageurs soient sortis, puis l’on monte et l’on avance vers le fond.",
+      "rationale": "C’est ce qui permet au véhicule de fonctionner. Bloquer les portes ralentit tout le monde et provoque des bousculades.",
+      "context": "Bus, tramway, métro et train.",
+      "recommendedBehavior": "Placez-vous de part et d’autre des portes, et avancez dans le couloir. Descendez temporairement sur le quai si vous bloquez la sortie.",
+      "exceptions": [],
+      "remedy": "Si vous gênez une sortie, écartez-vous aussitôt, avec un simple « Pardon ».",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-7-2-1-r2",
+      "title": "Cédez votre place à qui en a besoin.",
+      "description": "Les places prioritaires et toutes les autres se cèdent aux personnes âgées, en situation de handicap, enceintes ou avec de jeunes enfants.",
+      "rationale": "Se tenir debout en mouvement peut être difficile, voire dangereux pour elles, et ce geste ne coûte rien à une personne en bonne santé.",
+      "context": "Transports urbains et interurbains.",
+      "recommendedBehavior": "Proposez simplement, sans insister, en acceptant que la personne refuse. Ne réclamez aucune justification à celui ou celle qui demande une place.",
+      "exceptions": [
+        "Vous pouvez vous-même avoir un besoin invisible : vous n’avez pas à vous en expliquer."
+      ],
+      "remedy": "Si vous n’avez pas remarqué quelqu’un, levez-vous dès que vous le voyez. Si la personne refuse, n’y voyez pas d’offense.",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-7-2-1-r3",
+      "title": "Gardez votre son pour vous.",
+      "description": "Musique, vidéos et jeux passent par des écouteurs ; les appels restent courts et à voix basse.",
+      "rationale": "Les passagers ne peuvent s’éloigner d’un son qu’ils subissent. L’espace sonore est partagé, comme le reste.",
+      "context": "Tout véhicule collectif, surtout de nuit et lors de longs trajets.",
+      "recommendedBehavior": "Utilisez des écouteurs et attendez la fin du trajet pour les longs appels.",
+      "exceptions": [
+        "Une personne malentendante peut avoir besoin d’un volume plus élevé. Un appel d’urgence reste possible."
+      ],
+      "remedy": "Si l’on vous le signale, baissez le son sans discuter, et remerciez : la personne n’a pas besoin d’autre justification.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-7-2-1-r4",
+      "title": "Les agents ne sont pas responsables de tout.",
+      "description": "On présente son titre, on suit les consignes et l’on adresse ses réclamations aux bons services.",
+      "rationale": "Ils appliquent les règles de l’exploitant. En France, l’injure ou la violence contre un agent chargé d’une mission de service public sont des infractions.",
+      "context": "Contrôles, conducteurs, agents en gare.",
+      "recommendedBehavior": "Restez calme, exposez votre situation et contestez une éventuelle amende par écrit.",
+      "exceptions": [
+        "Si un agent vous semble abuser de sa position, notez les faits, l’heure et le lieu, et signalez-le ensuite à l’exploitant."
+      ],
+      "remedy": "Si vous vous êtes emporté, présentez vos excuses à l’agent sur-le-champ, cela peut apaiser la situation.",
+      "conventionType": "contextual_rule",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-7-2-1-r5",
+      "title": "Aidez, mais pas au prix de votre sécurité.",
+      "description": "Face à un comportement inapproprié, on soutient la personne visée et l’on alerte, sans se mettre en danger.",
+      "rationale": "La présence d’un témoin peut faire cesser une situation, mais une confrontation directe peut aggraver le risque pour tous.",
+      "context": "Harcèlement, agression, malaise, conflit entre voyageurs.",
+      "recommendedBehavior": "Parlez à la personne visée, mobilisez d’autres passagers, prévenez le conducteur ou les services d’urgence.",
+      "exceptions": [
+        "En cas de danger immédiat, composez le 17 ou le 112."
+      ],
+      "remedy": "Si vous n’avez pas réagi sur le moment, vous pouvez encore proposer votre témoignage et votre soutien à la victime, ou signaler les faits.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Le sociologue Erving Goffman a inventé l’expression « inattention civile » pour désigner ce que nous faisons dans les espaces publics : nous nous voyons, nous nous signalons brièvement que nous nous sommes vus, puis nous détournons le regard. Sans ce petit rituel, la proximité serait insupportable. Edward T. Hall a de son côté montré que les distances que nous tenons sont largement culturelles : dans un bus de Tokyo, de Rome ou de Stockholm, on ne vit pas de la même façon le contact d’un inconnu. Le transport collectif est donc un laboratoire : il rappelle que ce qui appartient à tous n’appartient à personne en particulier, et que chacun a un petit pouvoir sur la vie des autres.",
+  "examples": [
+    {
+      "context": "Vous êtes assis à une place prioritaire dans le métro. Une femme, qui ne semble pas spécialement âgée, se tient debout et s’agrippe à une barre, l’air pâle.",
+      "behavior": "« Voulez-vous vous asseoir ? » Vous vous levez sans attendre une explication, puis vous vous éloignez légèrement pour ne pas la mettre mal à l’aise.",
+      "explanation": "Vous ne cherchez pas à savoir si elle y a droit. Votre question lui laisse la liberté de refuser et votre retrait lui évite d’avoir à vous remercier longuement."
+    },
+    {
+      "context": "Lors d’un trajet de nuit en autocar, votre voisin de devant regarde un film sans écouteurs.",
+      "behavior": "Vous vous penchez et vous dites à voix basse : « Excusez-moi, le son porte beaucoup, et je cherche à dormir. Auriez-vous des écouteurs ? » Si le problème persiste, vous en parlez au conducteur lors de la pause.",
+      "explanation": "Une demande directe, sans reproche, réussit souvent. En l’absence de réaction, vous avez recours au conducteur plutôt que d’entrer dans un conflit."
+    },
+    {
+      "context": "Dans un bus, un homme s’approche sans cesse d’une jeune femme et lui parle malgré son air gêné.",
+      "behavior": "Vous vous adressez à elle : « Tout va bien ? Il y a une place ici si tu veux venir. » Vous appelez ensuite le numéro de signalement si la situation persiste.",
+      "explanation": "Vous rompez la dynamique en vous adressant à la personne visée, sans confronter directement l’homme. Vous lui proposez une sortie, et vous signalez les faits au besoin."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Vous êtes en retard pour votre correspondance, et le bus est encore à l’arrêt.",
+      "behavior": "Vous mettre devant le conducteur et lui reprocher à voix haute d’aller trop lentement.",
+      "consequences": "Vous le distrayez alors qu’il conduit, et vous ne changerez pas le trafic ni son horaire.",
+      "alternative": "Cherchez une autre correspondance, et prévenez ceux qui vous attendent."
+    },
+    {
+      "situation": "Vous entrez dans un métro bondé avec un grand sac à dos.",
+      "behavior": "Le garder sur le dos, tourner régulièrement et frapper les voyageurs derrière vous sans le remarquer.",
+      "consequences": "Vous gênez plusieurs personnes à la fois, et les tensions montent dans la voiture.",
+      "alternative": "Portez-le à la main ou entre vos pieds pendant le trajet."
+    },
+    {
+      "situation": "Une personne qui bredouille à voix haute semble déranger le bus.",
+      "behavior": "Vous moquer d’elle, filmer et publier la scène.",
+      "consequences": "Cette personne a peut-être un trouble ou un handicap. La diffusion de ces images peut lui causer un tort très réel, et elle porte atteinte à son droit à l’image.",
+      "alternative": "Ne regardez pas fixement, et ne lui prêtez pas attention. Si elle semble en danger, alertez le conducteur."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Cultures des transports.",
+      "text": "Au Japon, parler au téléphone dans les transports est mal vu, et des places prioritaires sont souvent prévues. Dans certaines villes d’Inde, les voitures réservées aux femmes sont courantes, et en Amérique latine, on se lève très volontiers pour une personne âgée. En Allemagne, le paiement des titres de transport repose beaucoup sur la confiance, tout en étant contrôlé. Renseignez-vous sur ce qui s’applique, et observez."
+    },
+    {
+      "title": "Situations de précarité et de handicap.",
+      "text": "Les transports sont souvent un refuge, et leurs usagers peuvent être en grande difficulté. Un regard méprisant ne résout rien. Si quelqu’un semble en détresse, signalez-le au personnel ou aux services sociaux compétents. Une personne qui parle seule ou s’agite peut être malade : c’est parfois elle qui est en danger."
+    },
+    {
+      "title": "Âge et préjugés.",
+      "text": "L’offre de la place peut vexer une personne de soixante-dix ans en pleine forme, et l’absence d’offre peut blesser une personne de quarante ans qui est malade. Vous ne pouvez pas toujours savoir. Proposer sans insister, et accepter le refus, reste la seule attitude juste, sans vous en vouloir si la réponse est un peu sèche."
+    }
+  ],
+  "contexts": [
+    "Heures de pointe : sac à la main, avancer vers le fond et laisser descendre.",
+    "Trajets longue distance : sièges numérotés, soute et pauses à l’heure.",
+    "Nuit : lumière et bruit réduits, vigilance sur la sécurité.",
+    "Voyages de groupe : attention renforcée à l’heure, au volume et à la propreté."
+  ],
+  "keyPoints": [
+    "On laisse descendre, on monte, on avance vers le fond.",
+    "On cède sa place sans exiger de justification.",
+    "Écouteurs obligatoires, appels brefs, parfums modérés.",
+    "Conducteurs et contrôleurs méritent politesse et calme.",
+    "Devant une situation à risque : soutenir, alerter, ne pas s’exposer."
+  ],
+  "exercise": {
+    "type": "case",
+    "title": "Un trajet tendu",
+    "situation": "Vous prenez un bus bondé à 18 heures. Un adolescent écoute de la musique sur son téléphone sans écouteurs. Une dame âgée reste debout à côté de jeunes gens assis. Un autre passager se met à insulter le conducteur parce que le bus a du retard. Vous êtes vous-même fatigué et assis à une place normale.",
+    "questions": [
+      "Que faites-vous pour la dame âgée ?",
+      "Comment réagissez-vous à la musique ?",
+      "Quelle attitude adoptez-vous face à l’incident avec le conducteur ?"
+    ],
+    "modelAnswer": "Pour la dame âgée, levez-vous et proposez-lui votre place, sans attendre que les autres réagissent : « Voulez-vous vous asseoir ? » Vous n’avez pas à sermonner les jeunes gens : votre geste suffit, et la dame peut refuser. Pour la musique, vous pouvez faire une demande simple à l’adolescent, s’il y a un calme relatif : « Excuse-moi, tu pourrais baisser un peu, s’il te plaît ? » S’il refuse ou si vous êtes inquiet, laissez tomber : un trajet court ne vaut pas un conflit. En ce qui concerne les insultes contre le conducteur, évitez toute confrontation avec un passager agressif. Vous pouvez dire au conducteur que vous êtes témoin, si cela peut l’aider, et noter l’heure et le numéro de ligne. Si la situation dégénère, composez le 17 ou le 112. Une personne qui commence à menacer physiquement quelqu’un doit être signalée aux secours, plutôt que d’être affrontée par vous seul."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-7-2-1-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Dans un métro bondé, que faire si vous êtes près de la porte et que des gens veulent sortir ?",
+        "choices": [
+          "Rester en place pour ne pas perdre votre position",
+          "Descendre un instant sur le quai, puis remonter",
+          "Leur demander de passer par une autre porte",
+          "Avancer d’un demi-pas et leur dire de se faufiler"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Cela libère réellement le passage, puis vous remontez avant les autres passagers qui montent. Rester sur place crée une bousculade, et les autres réponses reportent toute la gêne sur ceux qui descendent.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-1-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Vrai ou faux : pour céder une place prioritaire, on doit d’abord vérifier que la personne a un handicap visible.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux. Bon nombre de handicaps et de maladies sont invisibles, et personne n’a à se justifier. Vous pouvez proposer votre place à quiconque en semble avoir besoin, ou répondre à la demande de la personne.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-1-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Comment demander à quelqu’un de baisser sa musique ?",
+        "choices": [
+          "« Excusez-moi, le son porte. Auriez-vous des écouteurs ? »",
+          "« Tu pourrais respecter les autres, quand même ! »",
+          "« Si tu continues, j’appelle le conducteur. »",
+          "Soupirer fort plusieurs fois en le regardant"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Cette demande est factuelle et propose une solution, sans accuser. Les reproches et les menaces risquent de provoquer un conflit, et les soupirs n’apportent aucune information claire à la personne.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-1-q4",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Que pouvez-vous faire si un autre passager importune une personne ?",
+        "choices": [
+          "Vous adresser à la personne visée et lui proposer une place près de vous",
+          "Prévenir le conducteur ou un agent",
+          "Frapper l’auteur pour qu’il arrête",
+          "Appeler les secours ou le service de signalement en cas de danger"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "Ces réactions soutiennent la personne sans vous mettre en danger, et elles alertent ceux qui peuvent intervenir. La violence vous exposerait à un risque, et elle aggraverait la situation.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-1-q5",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quel comportement est le plus problématique à l’égard d’un chien guide ?",
+        "choices": [
+          "Laisser de l’espace à la personne et à son chien",
+          "Proposer de l’aide à la personne et accepter sa réponse",
+          "Caresser le chien sans demander l’autorisation",
+          "Prévenir le conducteur si la personne demande un arrêt"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Le chien travaille : le distraire peut mettre en danger la personne qu’il guide. Les autres gestes sont respectueux. Les chiens guides sont par ailleurs admis dans les transports publics, en vertu de la loi française.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Décret n° 2006-1386 du 15 novembre 2006",
+      "note": "Interdiction de fumer dans les lieux à usage collectif, dont les transports."
+    },
+    {
+      "title": "Loi n° 2005-102 du 11 février 2005",
+      "note": "Égalité des droits et accessibilité des personnes handicapées."
+    },
+    {
+      "title": "Erving Goffman, Behavior in Public Places (1963)",
+      "note": "Comportement en public et inattention civile."
+    },
+    {
+      "title": "Edward T. Hall, La Dimension cachée (Seuil, 1971)",
+      "note": "Distances et cultures."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

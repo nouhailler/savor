@@ -1,0 +1,294 @@
+{
+  "id": "l-1-3-5",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Une élégance qui veut se faire remarquer a déjà manqué son but. Discrétion, mesure et absence de jugement : comment s’adapter à un milieu sans s’y fondre, ni le toiser.",
+  "estimatedDuration": 11,
+  "tags": [
+    "élégance",
+    "ostentation",
+    "discrétion",
+    "mesure",
+    "statut social",
+    "argent",
+    "jugement"
+  ],
+  "objectives": [
+    "Distinguer élégance, richesse et signes de statut.",
+    "Repérer les formes moins visibles d’ostentation, comme le raffinement exhibé.",
+    "S’adapter à un milieu différent du sien sans gêner ni se renier.",
+    "Renoncer au jugement sur les goûts et les moyens d’autrui."
+  ],
+  "introduction": "On se souvient du dîner où chacun a dû admirer la montre de son voisin ; on se souvient moins de celui où l’un des convives, pourtant vêtu d’un costume hors de prix, n’a parlé que des autres. C’est le paradoxe de l’élégance : elle se remarque d’autant moins qu’elle est réussie, et se retourne dès qu’elle cherche à se faire voir.\n\nCette leçon de niveau avancé ne porte pas sur le vêtement. Elle porte sur ce qui en fait un langage social, et sur l’usage que l’on fait de ce langage face à quelqu’un qui n’a ni les mêmes codes ni les mêmes moyens. Car le vrai test de l’élégance se trouve dans le regard que l’on pose sur ceux qui ne la partagent pas.",
+  "sections": [
+    {
+      "title": "L’ostentation sous toutes ses formes",
+      "content": "L’économiste américain Thorstein Veblen a décrit, dès 1899, ce qu’il appelait la consommation ostentatoire : acheter non pour l’usage, mais pour montrer que l’on peut acheter. Cette analyse reste valable, et elle dépasse largement le logo voyant. L’ostentation sait se faire subtile. Elle peut se loger dans la mention glissée d’un hôtel, le nom d’un restaurant, un voyage que l’on place dans toutes les conversations.\n\nIl existe une forme plus raffinée encore. Le sociologue Pierre Bourdieu a montré dans La Distinction que le goût lui-même sert à marquer les rangs : on ne se contente pas d’aimer un vin, on fait savoir que l’on sait pourquoi le voisin a tort de l’aimer. Le mépris du logo devient alors à son tour un signe : cette élégance discrète, qui se reconnaît entre initiés, peut être aussi exclusive qu’une voiture de luxe. Ne confondons donc pas sobriété et simplicité : une sobriété qui toise les autres reste une forme d’ostentation.\n\nLa générosité n’y échappe pas davantage. Offrir beaucoup trop, régler une addition devant tous avec un geste théâtral, annoncer une donation : le don peut devenir une manière d’écraser. Une attention juste se mesure à ce que l’autre peut recevoir sans se sentir débiteur."
+    },
+    {
+      "title": "S’adapter sans se fondre",
+      "content": "Être élégant dans un milieu n’est pas l’être dans un autre. Une tenue parfaite au conseil d’administration devient embarrassante à la fête de village, et elle peut y faire passer un message involontaire : « Je ne suis pas des vôtres. » De même, arriver en vêtements négligés dans un cadre formel n’est pas de la liberté, mais une façon de signifier aux autres que leur effort ne vous concerne pas. L’adaptation répond à une question simple : quel effort honore ceux qui me reçoivent ?\n\nS’adapter ne signifie pas pour autant jouer un rôle. Quelqu’un qui adopte brusquement l’accent de ses interlocuteurs, leurs tournures ou leur familiarité, pour faire « couleur locale », produit vite un effet de caricature. On garde sa manière de parler, on supprime simplement ce qui crée une distance : les références inaccessibles, le vocabulaire d’initiés, les prix, les noms de lieux, et l’on s’intéresse à ceux qui sont là.\n\nCe principe s’applique aussi dans l’autre sens. Quand on se trouve dans un milieu plus aisé ou plus codifié que le sien, il n’y a pas à en rougir, ni à se justifier. Observer les autres, poser une question simple ou admettre que l’on ne connaît pas un usage font preuve d’assurance. Celui qui s’en moquerait se disqualifierait lui-même."
+    },
+    {
+      "title": "L’absence de jugement",
+      "content": "C’est sans doute la partie la plus exigeante. Il n’est pas élégant de commenter la tenue d’une personne absente, de relever une faute de langage, de sourire d’un choix de vin, de faire remarquer à quelqu’un qu’il tient mal son couteau. Corriger autrui en public, c’est s’offrir un petit avantage social à ses dépens. La vieille anecdote de l’hôte qui boit l’eau de son rince-doigts parce que son invité vient de le faire, souvent attribuée à diverses personnalités, a beau être difficile à vérifier, elle dit l’essentiel : la règle est là pour mettre à l’aise, et non pour trier les gens.\n\nCette retenue vaut aussi pour les moyens. Éviter de parler d’argent à quelqu’un qui en manque ne suffit pas. Encore faut-il ne pas proposer un restaurant qu’il ne peut pas payer, ne pas juger ses vacances, ne pas lui demander où il a acheté sa veste en attendant la réponse attendue. Les différences de moyens existent, et elles n’ont pas à être soulignées, ni dans un sens ni dans l’autre.\n\nIl y a enfin une limite à ne pas dépasser : la discrétion n’impose pas de cacher qui l’on est. Une personne qui a réussi peut parler de son travail ; quelqu’un qui aime un beau vêtement a le droit de le porter. Ce qui compte, c’est l’intention : montrer pour partager, ou montrer pour se placer au-dessus."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-3-5-r1",
+      "title": "L’élégance n’a pas d’étiquette de prix.",
+      "description": "On ne parle ni du prix, ni de la marque, ni du coût de ce que l’on porte, possède ou offre, sauf si la question est directement utile.",
+      "rationale": "Citer un prix transforme un objet en signe de rang, et oblige l’autre à se situer par rapport à vous. La valeur de l’élégance ne se mesure pas ainsi.",
+      "context": "Conversations mondaines, voyages, cadeaux, décoration de son intérieur.",
+      "recommendedBehavior": "Parlez de ce qui vous plaît dans un objet (son histoire, sa matière, l’artisan). Si l’on vous demande où vous l’avez trouvé, répondez sans insister sur le prix.",
+      "exceptions": [
+        "Entre proches ou avec quelqu’un qui cherche un conseil d’achat, parler de prix est utile et naturel."
+      ],
+      "remedy": "Si vous vous êtes laissé aller : changez de sujet et posez une question à l’autre. Inutile d’en rajouter par une excuse.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-3-5-r2",
+      "title": "On s’habille pour honorer le lieu, pas pour le dominer.",
+      "description": "La tenue vise à respecter l’occasion et ceux qui reçoivent. Trop négligée, elle néglige les autres ; trop éclatante, elle leur fait de l’ombre.",
+      "rationale": "Une tenue envoie un message aux hôtes : on a pris la peine de venir, mais on ne vient pas prendre leur place.",
+      "context": "Mariages, réceptions, dîners chez des personnes de milieux différents, visites à des proches.",
+      "recommendedBehavior": "Renseignez-vous sur le ton de l’événement. Dans le doute, choisissez un cran au-dessus du niveau attendu, sans excès, et gardez une pièce pour vous adapter (veste, foulard).",
+      "exceptions": [
+        "Une tenue traditionnelle, religieuse ou liée à un handicap n’a pas à se plier à ce raisonnement.",
+        "Les personnes qui n’ont pas les moyens d’une tenue particulière ne commettent aucune faute."
+      ],
+      "remedy": "Si vous êtes trop habillé ou pas assez : assumez-le sans vous justifier plusieurs fois. Une veste retirée ou un mot léger suffit, puis on passe à autre chose.",
+      "conventionType": "contextual_rule",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-1-3-5-r3",
+      "title": "On ne corrige pas les manières d’autrui en public.",
+      "description": "Une faute de langage, un mauvais couvert, un usage ignoré ne se relèvent pas devant témoins, sauf demande explicite.",
+      "rationale": "Toute correction publique rabaisse et, souvent, elle donne un sentiment de supériorité à celui qui la fait. Elle est plus grossière que l’erreur.",
+      "context": "Repas, conversations, invitations, réseaux sociaux.",
+      "recommendedBehavior": "Faites comme si de rien n’était et, si besoin, imitez discrètement l’autre pour le mettre à l’aise. Avec un proche qui vous l’a demandé, parlez-en en tête-à-tête.",
+      "exceptions": [
+        "Dans un cadre de formation consenti, la correction fait partie du rôle.",
+        "Un parent avec son jeune enfant : la correction se fait avec douceur et à voix basse."
+      ],
+      "remedy": "Si vous avez corrigé quelqu’un en public : excusez-vous simplement, en privé si possible : « Je n’aurais pas dû relever cela devant tout le monde. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-3-5-r4",
+      "title": "On proportionne ses dons à ce que l’autre peut recevoir.",
+      "description": "Un cadeau ou une invitation ne doit pas placer l’autre en position de débiteur ou le renvoyer à ses moyens.",
+      "rationale": "Comme l’a montré Marcel Mauss, le don crée une obligation : trop lourd, il devient une dette ou une humiliation.",
+      "context": "Cadeaux entre amis de moyens différents, invitations au restaurant, aide financière entre proches.",
+      "recommendedBehavior": "Choisissez un cadeau juste, centré sur la personne plutôt que sur sa valeur. Pour un restaurant, proposez un lieu adapté à tous ou invitez chez vous sans le souligner.",
+      "exceptions": [
+        "Une aide nécessaire et bien acceptée peut dépasser ces proportions, à condition de rester discrète."
+      ],
+      "remedy": "Si votre geste a gêné : minimisez-le et laissez l’autre rendre autrement : « Tu m’apporteras un de tes gâteaux, ce sera largement assez. »",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "L’ostentation a longtemps été un devoir de rang. Sous l’Ancien Régime, les lois somptuaires réglementaient même les étoffes, et la dépense visible des grandes maisons de cour affichait leur position, comme l’a montré Norbert Elias dans La Société de cour. Le XIXe siècle bourgeois a inversé le code : selon la formule attribuée à divers auteurs, le beau vêtement doit se faire oublier. Ce déplacement n’a pas fait disparaître la distinction. Il l’a rendue moins lisible, et donc plus sélective.\n\nC’est pourquoi un savoir-vivre contemporain ne peut se contenter d’opposer le mauvais goût au bon goût. Une telle opposition reproduit le mépris qu’elle prétend corriger. Le critère utile reste moral et relationnel : ce que je montre ou ce que je dis laisse-t-il l’autre à sa place, ou le fait-il se sentir plus petit ? L’élégance sans ostentation est moins un style qu’une manière de ne pas se servir de ses avantages contre autrui.",
+  "examples": [
+    {
+      "context": "Chez un collègue qui vous reçoit modestement",
+      "behavior": "Vous remerciez sincèrement du repas, vous parlez de la recette plutôt que du grand restaurant où vous avez dîné la veille, et n’évoquez pas votre prochain voyage aux Maldives.",
+      "explanation": "Vous gardez votre attention sur ce qui vous est offert, et n’introduisez aucune comparaison."
+    },
+    {
+      "context": "Lors d’un grand dîner, votre voisin de table utilise le mauvais verre",
+      "behavior": "Vous ne dites rien, et si l’on vous sert à côté, vous vous adaptez sans le lui faire remarquer.",
+      "explanation": "L’usage n’a aucune importance en comparaison de la gêne que causerait une remarque."
+    },
+    {
+      "context": "Vous êtes invité à une fête villageoise, sans connaître les usages",
+      "behavior": "Vous portez une tenue simple et propre, vous demandez à vos voisins comment se déroule la soirée et vous participez à ce qu’on vous propose.",
+      "explanation": "La curiosité vous ouvre les portes ; elle prouve que vous reconnaissez la compétence de ceux qui vous accueillent."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "En recevant un ami aux moyens modestes",
+      "behavior": "« Je t’ai fait goûter un vin à quatre-vingts euros, tu vas voir la différence. »",
+      "consequences": "Le prix transforme le verre en leçon. Votre ami n’osera plus rien dire et se demandera ce qu’il pourra vous offrir en retour.",
+      "alternative": "« J’aime beaucoup ce vigneron, dis-moi ce que tu en penses. »"
+    },
+    {
+      "situation": "Dans une conversation entre connaissances",
+      "behavior": "« On dit “pallier un problème”, pas “pallier à”, mais bon, ce n’est pas grave. »",
+      "consequences": "Votre interlocuteur perd le fil et se sent humilié ; l’assemblée retient votre besoin d’avoir raison.",
+      "alternative": "Ignorez la faute. Répétez éventuellement la bonne forme plus tard dans la conversation, sans la souligner."
+    },
+    {
+      "situation": "Au moment de régler l’addition",
+      "behavior": "Saisir la note d’un geste théâtral en lançant à la tablée : « Laissez, laissez, ce n’est rien pour moi. »",
+      "consequences": "Votre générosité devient un rappel de ce que les autres ne peuvent pas faire ; la gêne remplace la gratitude.",
+      "alternative": "S’il vous plaît d’inviter, réglez discrètement auprès du serveur : on vous remerciera sans que personne se soit senti écrasé."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Les codes de chaque milieu.",
+      "text": "Dans certains milieux populaires ou certaines cultures, offrir abondamment, s’habiller avec éclat pour une fête ou montrer sa réussite est une manière d’honorer les autres. Y voir un manque de goût serait une forme de mépris social. Le « bon goût » de la bourgeoisie française n’a aucune valeur universelle."
+    },
+    {
+      "title": "Le droit de se faire plaisir.",
+      "text": "Porter un bijou ou une belle pièce n’est pas un défaut. Le critère n’est pas ce que vous possédez, mais la place que cela prend dans la relation. On peut aimer le luxe avec simplicité, et être modeste avec beaucoup d’arrogance."
+    },
+    {
+      "title": "Les univers professionnels.",
+      "text": "Certaines professions et certaines cultures d’affaires attendent des signes visibles de réussite, alors que d’autres s’en méfient. Sans renoncer à ce que l’on est, il est utile d’observer ce qui est attendu avant d’interpréter."
+    }
+  ],
+  "contexts": [
+    "Réceptions et mariages : tenue qui honore l’occasion et ne fait pas d’ombre aux personnes célébrées.",
+    "Relations entre amis de moyens différents : choix des lieux, partage de l’addition, cadeaux proportionnés.",
+    "Vie professionnelle : modération dans l’évocation de sa réussite, de ses revenus, de ses diplômes.",
+    "Réseaux sociaux : attention à ce qu’une publication fait aux personnes qui la voient."
+  ],
+  "keyPoints": [
+    "Une élégance qui veut se faire remarquer a manqué son but.",
+    "La sobriété peut aussi toiser : le raffinement exhibé reste de l’ostentation.",
+    "On honore le lieu et ceux qui reçoivent ; on ne cherche pas à les dominer.",
+    "Corriger quelqu’un en public est pire que l’erreur corrigée."
+  ],
+  "exercise": {
+    "type": "case",
+    "title": "Le dîner de retrouvailles",
+    "situation": "Vous retrouvez d’anciens camarades après vingt ans. Certains ont très bien réussi financièrement, d’autres traversent une période de chômage. L’un des convives, Romain, propose d’organiser le prochain dîner dans un restaurant étoilé : « Allez, on se fait plaisir, c’est moi qui choisis ! » Une camarade, Sonia, sans emploi depuis huit mois, garde le silence. Au cours du repas, Romain relève que Sonia a commandé le plat le moins cher, avec une plaisanterie.",
+    "questions": [
+      "Qu’y a-t-il de gênant dans la proposition de Romain, même s’il pense bien faire ?",
+      "Comment orienter la décision du prochain dîner sans mettre Sonia en avant ?",
+      "Que faire au moment de la plaisanterie ?"
+    ],
+    "modelAnswer": "Romain confond son plaisir avec celui de tous. Un restaurant coûteux exclut de fait ceux qui ne peuvent pas suivre, et les oblige à se justifier ou à renoncer.\n\nVous pouvez proposer une alternative sans référence à Sonia : « Et si on faisait ça plus simplement, chez l’un de nous, chacun apporte quelque chose ? C’est plus pratique pour parler. » Personne n’a besoin d’avouer ses difficultés. L’idée d’inviter Sonia ne peut venir que d’elle ou d’une discussion très discrète.\n\nAu moment de la plaisanterie, une diversion suffit : « Tiens, Sonia, tu nous parlais de ton voyage en Écosse ? » Vous rendez à Sonia sa place dans la conversation sans la protéger ostensiblement. Dire un mot en privé à Romain peut ensuite lui être utile, s’il est capable de l’entendre."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-1-3-5-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que montre l’analyse de Pierre Bourdieu dans La Distinction ?",
+        "choices": [
+          "Le bon goût est naturel et indépendant du milieu",
+          "Le goût lui-même peut servir à marquer les rangs sociaux",
+          "Le luxe n’a aucune fonction sociale",
+          "Les milieux aisés sont dépourvus de codes"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Bourdieu montre que les préférences culturelles et les façons de les afficher fonctionnent comme des marqueurs sociaux. C’est pourquoi une sobriété qui toise peut être aussi exclusive qu’un logo voyant.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-1-3-5-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Une sobriété affichée qui méprise le goût des autres reste une forme d’ostentation.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Vrai : ce n’est pas le logo qui fait l’ostentation, mais l’intention de se placer au-dessus d’autrui. Le mépris du « mauvais goût » peut remplir exactement la même fonction qu’une voiture de luxe.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-3-5-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Lors d’un dîner, quelle attitude manque le plus d’élégance ?",
+        "choices": [
+          "Faire discrètement remarquer à un voisin qu’il se trompe de verre",
+          "Regarder comment font les autres pour un couvert inconnu",
+          "Avouer qu’on ne sait pas comment manger un artichaut",
+          "Demander à son hôte l’origine d’un plat"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Même discrète, la correction non demandée rappelle à l’autre son erreur : l’usage du verre n’a guère d’importance. Observer, avouer une ignorance ou s’intéresser au plat montrent au contraire de l’assurance.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-3-5-q4",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous souhaitez partager un vin apprécié avec un ami. Laquelle de ces phrases est la meilleure ?",
+        "choices": [
+          "« Celui-là, c’est un grand cru, je l’ai payé une fortune. »",
+          "« Tu ne vas pas pouvoir en boire souvent, profites-en. »",
+          "« J’aime beaucoup ce vigneron ; dis-moi ce que tu en penses. »",
+          "« Tu ne connais sûrement pas, c’est très confidentiel. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "La phrase invite au partage et demande un avis, sans mention du prix ni du rang. Les autres placent l’ami en position inférieure, soit par le prix, soit par la rareté, soit par son ignorance supposée.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-3-5-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quel critère permet le mieux de distinguer un partage légitime d’une forme d’ostentation ?",
+        "choices": [
+          "Le prix de l’objet que l’on montre aux autres",
+          "Le nombre de personnes présentes",
+          "L’intention : partager ou se placer au-dessus de l’autre",
+          "L’ancienneté de l’objet et sa provenance"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Un même objet peut servir à l’un ou à l’autre. Le critère reste relationnel : ce geste laisse-t-il l’autre à sa place, ou le fait-il se sentir plus petit ? Ni le prix ni l’ancienneté ne décident à eux seuls.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Pierre Bourdieu",
+      "title": "La Distinction. Critique sociale du jugement",
+      "publisher": "Éditions de Minuit",
+      "year": "1979"
+    },
+    {
+      "author": "Thorstein Veblen",
+      "title": "Théorie de la classe de loisir",
+      "publisher": "Gallimard (trad. fr.)",
+      "year": "1899 pour l’édition originale"
+    },
+    {
+      "author": "Norbert Elias",
+      "title": "La Société de cour",
+      "publisher": "Calmann-Lévy",
+      "year": "1974"
+    },
+    {
+      "author": "Marcel Mauss",
+      "title": "Essai sur le don",
+      "year": "1925"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

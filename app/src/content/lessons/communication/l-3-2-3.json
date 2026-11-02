@@ -1,0 +1,298 @@
+{
+  "id": "l-3-2-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "On peut contredire quelqu’un sans lui manquer de respect, et l’accepter sans se taire. Comment nuancer, argumenter et savoir à quel moment clore le débat.",
+  "estimatedDuration": 11,
+  "tags": [
+    "désaccord",
+    "débat",
+    "argumentation",
+    "nuance",
+    "politique",
+    "opinions",
+    "dîner"
+  ],
+  "objectives": [
+    "Exprimer un désaccord sans attaquer la personne.",
+    "Construire une objection qui fait avancer la discussion.",
+    "Reconnaître une part de vérité dans un point de vue opposé.",
+    "Clore un débat qui tourne à l’affrontement, sans perdre la face."
+  ],
+  "introduction": "« On ne parle ni de politique ni de religion à table » : ce conseil, longtemps répété, a sa logique. Il protège les repas, mais il laisse entendre qu’un désaccord serait forcément une menace. Or une conversation où tout le monde approuve est vite ennuyeuse, et une société où l’on ne peut plus se contredire poliment finit par ne plus se parler.\n\nExprimer son désaccord est une compétence sociale, et pas une impolitesse. La question n’est pas de savoir si l’on peut être en désaccord, mais comment, avec qui, à quel moment et jusqu’où.",
+  "sections": [
+    {
+      "title": "Contredire sans attaquer",
+      "content": "La différence essentielle tient entre l’idée et la personne. « Je ne vois pas les choses ainsi » s’oppose à une idée ; « Tu dis n’importe quoi » s’oppose à quelqu’un. Tant que le désaccord reste sur le terrain des idées, chacun peut changer d’avis sans y perdre sa dignité. Dès qu’il touche à l’intelligence, à l’honnêteté ou aux motivations de l’autre, l’objet de la discussion disparaît, et il ne reste plus qu’à se défendre.\n\nLe langage a ici une grande importance. « Je ne suis pas sûr de vous suivre sur ce point » ou « Je vois les choses un peu autrement » laissent une place à l’autre. Inversement, « Non, c’est faux », lancé d’emblée, et surtout « Tout le monde sait bien que… » ferment la conversation. Prenez garde aussi aux fausses politesses : « Sans vouloir vous vexer, c’est une idée stupide » n’a de politesse que le début.\n\nLa formule « Oui, mais » a mauvaise presse à juste titre, car elle n’est généralement qu’un « non » déguisé. On peut lui préférer une reconnaissance réelle, suivie d’un apport : « C’est vrai que les prix ont beaucoup augmenté, et je me demande si le problème ne vient pas aussi de… » La conjonction « et » ne change rien en soi, mais elle oblige à penser que les deux points peuvent coexister."
+    },
+    {
+      "title": "Argumenter avec nuance",
+      "content": "Avant de contredire, assurez-vous d’avoir bien compris : « Quand tu dis que le télétravail ne marche pas, tu parles de ton équipe ou en général ? » Cette question lève la moitié des désaccords, qui reposent souvent sur des définitions différentes. Le philosophe Schopenhauer a décrit avec ironie, dans L’Art d’avoir toujours raison, les stratagèmes utilisés pour gagner une dispute : caricaturer la thèse adverse, attaquer la personne, changer de sujet. Les connaître permet de les éviter, chez soi comme chez les autres.\n\nUne bonne objection reprend le meilleur de l’argument adverse et non le pire. Elle s’appuie sur un fait ou une expérience identifiable et mesure ses généralités : « D’après ce que j’ai lu », « dans mon entreprise », « je n’en suis pas certain, mais… ». Pour autant, se réfugier dans les précautions enlève toute portée à ce qu’on affirme. Il est honorable d’avoir une opinion et de la défendre, à condition d’indiquer ce qui pourrait vous faire changer d’avis.\n\nSavoir dire « Vous avez raison, je n’y avais pas pensé » est sans doute le comportement le plus rare et le plus admirable du débat. Il n’affaiblit pas, bien au contraire : il donne du poids à tout ce qu’on affirmera ensuite, car on vous sait capable de reconnaître un bon argument."
+    },
+    {
+      "title": "Quand clore le débat",
+      "content": "Un désaccord peut se conclure sans vainqueur. « Je crois qu’on ne va pas se convaincre ce soir » est une phrase de grande valeur : elle reconnaît la divergence et rend à chacun sa liberté. Elle suffit souvent à détendre la table, surtout si elle est suivie d’une ouverture sur un autre sujet. Vouloir à tout prix le dernier mot, c’est perdre autre chose qu’un argument.\n\nLe cadre compte. Une réunion peut exiger une décision, alors qu’un dîner n’en exige aucune. Dans une réception, l’hôte peut ramener doucement la conversation : « Passionnant, mais si on laissait respirer le rôti ? Tu nous parlais de ton voyage. » On s’abstient de contredire publiquement une personne dans une situation où elle ne peut pas répondre, comme son supérieur devant un client, ou un ami devant sa famille, si le sujet peut attendre.\n\nCertains propos appellent toutefois une réaction, même dans un dîner : les paroles racistes, sexistes, homophobes ou méprisantes ne relèvent pas de la simple diversité d’opinions. La question de savoir comment y répondre n’est pas simple, et la leçon sur les situations embarrassantes l’aborde plus en détail. Un « Je ne suis pas d’accord avec ça, et je préfère le dire », posé et sans éclat, suffit à ne pas se laisser associer aux propos, sans transformer le dîner en tribunal."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-3-2-3-r1",
+      "title": "On s’oppose à l’idée, pas à la personne.",
+      "description": "On peut contester une affirmation sans mettre en cause l’intelligence, l’honnêteté ou les motivations de celui qui la défend.",
+      "rationale": "Une attaque personnelle oblige à se défendre et interdit de changer d’avis sans humiliation. Elle tue le débat.",
+      "context": "Discussions amicales, familiales, professionnelles, en ligne.",
+      "recommendedBehavior": "Commencez par « Je vois les choses autrement » ou « Je ne suis pas d’accord sur ce point ». N’employez ni sarcasme ni étiquette (« c’est un raisonnement de… »).",
+      "exceptions": [
+        "Quand une personne ment délibérément au détriment d’autrui, on peut le signaler, de préférence par des faits."
+      ],
+      "remedy": "« Je n’aurais pas dû dire ça de toi. Sur le fond, je reste en désaccord, mais je retire le mot. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-2-3-r2",
+      "title": "On vérifie avant de contredire.",
+      "description": "Une question de clarification précède l’objection, de façon à répondre à ce que l’autre a réellement dit.",
+      "rationale": "Beaucoup de désaccords reposent sur des malentendus ou des définitions différentes ; caricaturer l’autre rend toute discussion stérile.",
+      "context": "Tout débat, en particulier sur des sujets généraux.",
+      "recommendedBehavior": "« Quand tu dis X, tu veux dire… ? » Reprenez ensuite la version la plus solide de son argument.",
+      "exceptions": [],
+      "remedy": "« J’ai répondu à côté : je t’avais mal compris. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-2-3-r3",
+      "title": "On choisit le moment et le public.",
+      "description": "On ne contredit pas forcément tout de suite et devant tous : certains désaccords se disent à part, ou plus tard.",
+      "rationale": "La présence de témoins oblige à défendre sa position par amour-propre. Un même propos passe mieux en tête-à-tête.",
+      "context": "Face à un client, en présence de la famille d’un ami, devant une équipe.",
+      "recommendedBehavior": "Dans une réunion, posez une question plutôt que de démentir. Attendez un moment à part pour dire ce qui pourrait humilier.",
+      "exceptions": [
+        "Si une décision grave est sur le point d’être prise, ou une personne d’être lésée, on intervient sans attendre."
+      ],
+      "remedy": "Si vous avez contredit trop publiquement : « J’aurais dû t’en parler d’abord. »",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-2-3-r4",
+      "title": "On peut clore sans conclure.",
+      "description": "Un désaccord peut rester ouvert. On met fin au débat quand il cesse d’apporter quelque chose, sans chercher le dernier mot.",
+      "rationale": "La relation vaut souvent plus que la victoire d’un soir. Et on change rarement d’avis en public, mais souvent plus tard.",
+      "context": "Dîners, fêtes de famille, discussions en ligne.",
+      "recommendedBehavior": "« Je crois qu’on ne se convaincra pas ce soir. » Puis changez de sujet et n’y revenez pas par une remarque de plus.",
+      "exceptions": [
+        "Sur une décision à prendre ensemble, il faut aller jusqu’à un accord ou à un arbitrage."
+      ],
+      "remedy": "Si le ton a monté : « J’étais trop véhément, désolé. Ça n’enlève rien au plaisir de te voir. »",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "La politesse du désaccord a une histoire. Les salons du XVIIe et du XVIIIe siècle, où se croisaient des gens de conditions et d’opinions diverses, ont élaboré une culture de la conversation dans laquelle on devait pouvoir dire le contraire d’autrui sans le blesser. Marc Fumaroli a décrit cet art français de la conversation, indissociable de la vie intellectuelle et de ses échanges. La politesse n’était donc pas une alternative à la franchise, mais ce qui la rendait possible.\n\nCette question a pris une nouvelle importance à l’heure des réseaux sociaux, dont les formats favorisent la réaction immédiate et l’affrontement entre camps. Dans ce contexte, savoir contredire avec nuance relève presque d’un engagement civique : les sociétés démocratiques reposent sur la possibilité d’être en désaccord tout en continuant à se parler. Sans doute est-ce ce qui rend cette compétence aussi précieuse.",
+  "examples": [
+    {
+      "context": "Au travail, vous n’êtes pas d’accord avec le plan de votre responsable",
+      "behavior": "« Je vois l’intérêt de lancer en juin, notamment pour le salon. Ce qui m’inquiète, c’est la charge de l’équipe support à cette période. Comment pourrait-on la couvrir ? »",
+      "explanation": "Vous reconnaissez l’intérêt du plan, nommez un risque précis et posez une question qui ouvre sur une solution."
+    },
+    {
+      "context": "Au dîner, un convive affirme que « les jeunes ne veulent plus travailler »",
+      "behavior": "« Ce n’est pas ce que je vois autour de moi. Mes neveux travaillent beaucoup, mais ils ne veulent plus sacrifier le reste. Qu’est-ce qui te fait dire ça ? »",
+      "explanation": "Vous opposez une expérience à une généralité, et une question plutôt qu’un démenti."
+    },
+    {
+      "context": "Une discussion politique s’échauffe entre deux membres de votre famille",
+      "behavior": "En tant qu’hôte : « Vous ne vous convaincrez pas ce soir, et le dessert refroidit ! Papa, tu avais promis de nous raconter ta première voiture. »",
+      "explanation": "L’hôte arrête le conflit sans donner raison à personne, et offre une issue honorable aux deux."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Dans une discussion entre amis",
+      "behavior": "« Tu ne peux pas comprendre, tu n’as jamais travaillé dans le privé. »",
+      "consequences": "L’argument disparaît au profit d’une disqualification. L’autre se ferme ou répond par une attaque du même ordre.",
+      "alternative": "« Dans le privé, voici ce que j’ai observé. Qu’est-ce que ça t’inspire ? »"
+    },
+    {
+      "situation": "En réunion avec un client",
+      "behavior": "« Non, ce que dit mon collègue est faux. »",
+      "consequences": "Le collègue est désavoué publiquement, et le client perd confiance en vous deux.",
+      "alternative": "« Je me permets de compléter : les délais ont peut-être changé depuis, je le vérifie et je reviens vers vous. »"
+    },
+    {
+      "situation": "Sur un réseau social",
+      "behavior": "Répondre à un ami par une capture d’écran moqueuse, devant ses contacts.",
+      "consequences": "Le désaccord devient une humiliation publique et durable. Il ne convainc personne.",
+      "alternative": "Un message privé, ou une réponse sur le fond et sans ironie. Parfois, ne rien répondre est la meilleure solution."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Les cultures du désaccord.",
+      "text": "Erin Meyer le souligne dans La Carte des différences culturelles : un débat vif sera perçu comme stimulant et sain en France, comme une agression au Japon ou en Thaïlande. Aux États-Unis, on enrobe souvent la critique, tandis qu’aux Pays-Bas on la dit très franchement. Pour convaincre ailleurs, c’est la forme qu’il faut adapter d’abord."
+    },
+    {
+      "title": "Tous les sujets ne se valent pas.",
+      "text": "Certains sujets touchent à des expériences douloureuses. Une personne concernée directement par le racisme, le handicap ou la migration ne vit pas le débat comme un jeu intellectuel. Ce qui est une discussion abstraite pour l’un peut être une attaque pour l’autre : cela ne l’interdit pas, mais demande de l’attention."
+    },
+    {
+      "title": "Hiérarchie et franchise.",
+      "text": "Contredire un supérieur ne présente pas le même risque que contredire un pair. Dans de nombreux contextes professionnels, il vaut mieux le faire en privé, ou sous forme de question. Inversement, un responsable doit rendre possible le désaccord : s’il n’y en a jamais, ce n’est probablement pas parce que tout le monde pense comme lui."
+    }
+  ],
+  "contexts": [
+    "Dîners et fêtes de famille : on préserve l’ambiance, et l’hôte peut orienter la conversation.",
+    "Réunions : on critique le plan et non son auteur, on propose des solutions.",
+    "Réseaux sociaux : on privilégie le message privé et on évite d’humilier.",
+    "Relations interculturelles : on tient compte de ce que le désaccord signifie pour son interlocuteur."
+  ],
+  "keyPoints": [
+    "On s’oppose à une idée, jamais à une personne.",
+    "On comprend avant de contredire : beaucoup de désaccords sont des malentendus.",
+    "Le lieu et le public comptent autant que les mots.",
+    "On peut clore un débat sans conclure, et on n’a pas besoin du dernier mot."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Réécrire le désaccord",
+    "instructions": "Associez chaque phrase maladroite à sa version courtoise.",
+    "pairs": [
+      {
+        "left": "« C’est n’importe quoi. »",
+        "right": "« Je ne vois pas les choses comme ça. »"
+      },
+      {
+        "left": "« Tu ne comprends rien à l’économie. »",
+        "right": "« Sur ce point, voici ce que j’ai compris, qu’en penses-tu ? »"
+      },
+      {
+        "left": "« Tout le monde sait que c’est faux. »",
+        "right": "« D’après ce que j’ai lu, ce n’est pas le cas. »"
+      },
+      {
+        "left": "« Sans vouloir te vexer, c’est une idée idiote. »",
+        "right": "« Je vois un risque dans cette idée : le coût. »"
+      }
+    ],
+    "explanation": "À chaque fois, on quitte le terrain de la personne pour revenir à l’idée, à un fait ou à un risque précis. Le désaccord demeure entièrement, mais il devient discutable."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-3-2-3-q1",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Laquelle de ces phrases exprime un désaccord sans attaquer la personne ?",
+        "choices": [
+          "« Tu dis ça parce que tu n’y connais rien. »",
+          "« Sans vouloir te vexer, c’est absurde. »",
+          "« Je vois les choses autrement : pour moi, le coût pose problème. »",
+          "« Si tu réfléchissais un peu, tu verrais que j’ai raison. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "La formule porte sur l’idée et précise le point de désaccord. Les autres visent la compétence ou l’intelligence de l’autre, et « sans vouloir te vexer » ne change rien à ce qui suit.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-2-3-q2",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que décrit L’Art d’avoir toujours raison de Schopenhauer ?",
+        "choices": [
+          "Une méthode logique pour parvenir à la vérité au cours d’une discussion",
+          "Des stratagèmes utilisés pour l’emporter dans une dispute, quelle que soit la vérité",
+          "Les usages français de la conversation",
+          "Les règles qui organisent le temps de parole dans un débat parlementaire"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Avec ironie, Schopenhauer y recense les ruses pour gagner une dispute : caricature, attaque personnelle, diversion. Les connaître aide à les éviter, et à les reconnaître chez les autres.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-3-2-3-q3",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Un désaccord doit être mené jusqu’à ce que l’un des deux reconnaisse avoir tort.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : on peut clore sans conclure. Les gens changent rarement d’avis en public, et plus souvent après y avoir réfléchi. Il n’y a que face à une décision commune qu’il faut parvenir à un accord ou à un arbitrage.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-2-3-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "En réunion, un collègue donne une date qui vous semble fausse devant un client. Que faut-il éviter ?",
+        "choices": [
+          "« Je vérifie ce point et je reviens vers vous. »",
+          "« Non, c’est faux, il se trompe. »",
+          "Le signaler discrètement à votre collègue juste après",
+          "« Je crois que cette date a pu évoluer, je vais confirmer. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le démenti public désavoue le collègue et affaiblit l’équipe aux yeux du client. On peut rétablir le fait sans humilier : en vérifiant, puis en reparlant à part.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-3-2-3-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "À table, un convive tient un propos raciste. Quelle réaction préserve à la fois vos valeurs et le repas ?",
+        "choices": [
+          "Ne rien dire pour ne pas gâcher la soirée, quoi qu’il arrive, et en reparler à d’autres",
+          "Répliquer par une insulte bien sentie, pour lui montrer ce que l’on ressent",
+          "Dire calmement : « Je ne suis pas d’accord avec ça, et je préfère le dire », puis changer de sujet",
+          "Se lever et quitter la table sans un mot"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Une phrase posée vous dissocie du propos sans faire de la table un tribunal. Le silence peut passer pour une approbation, et l’insulte déplace le problème. Partir peut être légitime dans un cas grave, mais sans un mot, le geste n’est pas compris.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Arthur Schopenhauer",
+      "title": "L’Art d’avoir toujours raison",
+      "year": "1830-1831 pour la rédaction, publication posthume"
+    },
+    {
+      "author": "Marc Fumaroli",
+      "title": "Trois institutions littéraires",
+      "publisher": "Gallimard",
+      "year": "1994",
+      "note": "Comprend une étude consacrée à la conversation."
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

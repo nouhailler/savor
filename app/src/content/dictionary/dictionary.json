@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "d-accolade",
+    "term": "Accolade",
+    "definition": "Geste de salut ou d’affection par lequel on entoure quelqu’un de ses bras.",
+    "explanation": "Autrefois geste solennel d’adoubement du chevalier, elle est aujourd’hui un salut chaleureux entre proches, plus ou moins fréquent selon les cultures.",
+    "context": "Fréquente au Brésil, aux États-Unis entre amis ou en Europe de l’Est, elle surprend davantage dans les pays nordiques ou au Japon.",
+    "example": "Il retrouve son ami d’enfance à l’aéroport et lui donne une longue accolade, sans se demander si c’est convenable.",
+    "related": [
+      "Bise",
+      "Proxémie"
+    ],
+    "lessonIds": [
+      "l-8-1-2",
+      "l-4-1-5"
+    ],
+    "etymology": "Du latin ad collum, « au cou »."
+  },
+  {
+    "id": "d-affabilite",
+    "term": "Affabilité",
+    "definition": "Disposition à accueillir les autres avec simplicité, douceur et bonne grâce.",
+    "explanation": "L’affabilité rend une personne facile à aborder. Elle ne suppose ni familiarité ni complaisance, et elle se voit surtout envers ceux dont on n’a rien à attendre.",
+    "context": "Vie sociale et professionnelle, en particulier pour les personnes en position d’autorité.",
+    "example": "La directrice salue le gardien par son nom, prend de ses nouvelles et l’écoute : son affabilité n’a rien d’une stratégie.",
+    "related": [
+      "Courtoisie",
+      "Urbanité"
+    ],
+    "lessonIds": [
+      "l-2-3-7"
+    ],
+    "etymology": "Du latin affabilis, « à qui l’on peut parler »."
+  },
+  {
+    "id": "d-amphitryon",
+    "term": "Amphitryon",
+    "definition": "Personne chez qui l’on dîne, celle qui reçoit à sa table.",
+    "explanation": "Le mot, aujourd’hui littéraire, vient de la comédie de Molière (1668), où un vers fait dire que le véritable Amphitryon est celui chez qui l’on dîne. Il ne s’emploie plus guère qu’avec un sourire.",
+    "context": "Langue soutenue ou plaisante.",
+    "example": "Notre amphitryon nous a servi un vin dont il a refusé de dire le prix, et dont il parle encore.",
+    "related": [
+      "Hôte",
+      "Hospitalité"
+    ],
+    "lessonIds": [
+      "l-5-3-6"
+    ]
+  },
+  {
+    "id": "d-bienseance",
+    "term": "Bienséance",
+    "definition": "Ensemble des usages qui règlent ce qui convient dans une situation donnée.",
+    "explanation": "La bienséance désigne l’adaptation d’un comportement au lieu, au moment et aux personnes. Elle varie donc selon les époques et les milieux, et n’a rien d’une règle morale.",
+    "context": "Le mot appartient à un registre classique et un peu daté.",
+    "example": "La bienséance voulait autrefois qu’une femme ne sorte pas seule : l’exemple montre aussi ce qu’elle peut avoir de relatif.",
+    "related": [
+      "Convention",
+      "Savoir-vivre"
+    ],
+    "lessonIds": [
+      "l-4-3-4",
+      "l-4-2-1"
+    ]
+  },
+  {
+    "id": "d-bise",
+    "term": "Bise",
+    "definition": "Salut consistant à effleurer les joues, souvent accompagné d’un baiser dans le vide.",
+    "explanation": "Très répandue en France, elle varie selon les régions : une, deux, trois, parfois quatre. Elle reste une proposition, et personne n’est tenu de l’accepter.",
+    "context": "Famille, amis, parfois collègues. Hors de ce cadre, on se serre plutôt la main.",
+    "example": "Dans cette équipe, on se fait la bise le matin, mais Léo préfère saluer de la main : personne n’y trouve à redire.",
+    "related": [
+      "Accolade",
+      "Proxémie"
+    ],
+    "lessonIds": [
+      "l-4-1-2",
+      "l-4-1-5"
+    ]
+  },
+  {
+    "id": "d-black-tie",
+    "term": "Black tie",
+    "definition": "Code vestimentaire de soirée : smoking pour les uns, robe longue ou tenue de soirée pour les autres.",
+    "explanation": "L’expression anglaise désigne un niveau de formalité situé en dessous de la « white tie ». Elle reste utile sur un carton d’invitation, et chacun peut y répondre selon son style.",
+    "context": "Galas, dîners de prestige, certains grands mariages.",
+    "example": "Le carton indiquait « Black tie » : elle a choisi un smoking de velours, et lui, une longue tunique brodée.",
+    "related": [
+      "Tenue de circonstance",
+      "Dress code"
+    ],
+    "lessonIds": [
+      "l-1-3-2",
+      "l-1-2-1"
+    ]
+  },
+  {
+    "id": "d-bonnes-manieres",
+    "term": "Bonnes manières",
+    "definition": "Comportements qui expriment la politesse dans les gestes de tous les jours.",
+    "explanation": "Elles concernent la table, le salut, le maintien. On les apprend souvent très tôt, et elles peuvent servir autant à mettre à l’aise qu’à exclure : d’où l’importance de comprendre à quoi elles servent.",
+    "context": "Vie quotidienne, éducation, relations sociales.",
+    "example": "Ses bonnes manières sont discrètes : on remarque surtout qu’avec elle, on se sent à l’aise.",
+    "related": [
+      "Savoir-vivre",
+      "Étiquette",
+      "Politesse"
+    ],
+    "lessonIds": [
+      "l-4-1-1",
+      "l-5-1-6"
+    ]
+  },
+  {
+    "id": "d-carton",
+    "term": "Carton d’invitation",
+    "definition": "Invitation imprimée à une réception, mentionnant la date, le lieu, l’hôte et la réponse attendue.",
+    "explanation": "Il indique aussi souvent la tenue attendue, et précise qui est invité. Sa formulation renseigne sur le degré de formalité de l’événement.",
+    "context": "Réceptions officielles, mariages, galas, événements professionnels.",
+    "example": "Le carton mentionne « Monsieur Jean Durand », et non « Monsieur et Madame » : la soirée se fera sans conjoint.",
+    "related": [
+      "R.S.V.P.",
+      "Faire-part"
+    ],
+    "lessonIds": [
+      "l-5-1-2",
+      "l-3-3-6"
+    ]
+  },
+  {
+    "id": "d-ceremonial",
+    "term": "Cérémonial",
+    "definition": "Ensemble des règles fixant le déroulement d’une cérémonie.",
+    "explanation": "Il précise l’ordre des entrées, des discours, des gestes. Il permet à un grand nombre de personnes de savoir quoi faire sans se concerter.",
+    "context": "Cérémonies publiques, religieuses ou diplomatiques.",
+    "example": "Le cérémonial de la commémoration prévoit le dépôt de gerbe, la minute de silence, puis l’hymne.",
+    "related": [
+      "Protocole",
+      "Décorum"
+    ],
+    "lessonIds": [
+      "l-4-3-2",
+      "l-8-3-2"
+    ]
+  },
+  {
+    "id": "d-charisme",
+    "term": "Charisme",
+    "definition": "Capacité d’une personne à susciter spontanément l’attention et l’adhésion.",
+    "explanation": "Issu de la sociologie de Max Weber, le mot a été popularisé bien au-delà. On l’imagine souvent inné : l’attention à autrui, l’écoute et la maîtrise de soi y comptent pourtant beaucoup.",
+    "context": "Prise de parole, leadership, vie sociale.",
+    "example": "Elle parle peu en réunion, mais lorsqu’elle se tourne vers quelqu’un, celui-ci se sent le seul dans la pièce : on parle de charisme.",
+    "related": [
+      "Présence",
+      "Mesure"
+    ],
+    "lessonIds": [
+      "l-1-3-3"
+    ],
+    "etymology": "Du grec kharisma, « grâce, don »."
+  },
+  {
+    "id": "d-civilite",
+    "term": "Civilité",
+    "definition": "Respect des règles de vie en commun dans l’espace public.",
+    "explanation": "Le mot a une longue histoire : Érasme publie en 1530 La Civilité puérile. On parle aujourd’hui d’incivilités pour les petites agressions du quotidien, ce qui rappelle que la civilité concerne tous les citoyens.",
+    "context": "Transports, rue, administrations, relations entre inconnus.",
+    "example": "Tenir la porte, ne pas jeter ses déchets, céder une place : autant de gestes de civilité entre des gens qui ne se connaissent pas.",
+    "related": [
+      "Courtoisie",
+      "Politesse",
+      "Urbanité"
+    ],
+    "lessonIds": [
+      "l-4-3-7",
+      "l-4-1-6"
+    ],
+    "etymology": "Du latin civilis, « du citoyen »."
+  },
+  {
+    "id": "d-codes-sociaux",
+    "term": "Codes sociaux",
+    "definition": "Règles implicites qu’un groupe partage, et par lesquelles il reconnaît les siens.",
+    "explanation": "Ils peuvent concerner le langage, la tenue, les références. Ils facilitent la vie commune, mais ils peuvent aussi exclure ceux qui ne les ont pas appris : c’est ce qu’a montré Pierre Bourdieu.",
+    "context": "Milieux professionnels, cercles sociaux, entreprises.",
+    "example": "Dans cette banque, le fait de citer un prénom seul pour parler du directeur fait partie des codes sociaux que les nouveaux venus doivent apprendre.",
+    "related": [
+      "Convention",
+      "Étiquette"
+    ],
+    "lessonIds": [
+      "l-4-3-4",
+      "l-4-2-1"
+    ]
+  },
+  {
+    "id": "d-condoleances",
+    "term": "Condoléances",
+    "definition": "Témoignage de sympathie adressé à une personne endeuillée.",
+    "explanation": "Le mot signifie littéralement « souffrir avec ». Elles s’expriment de vive voix ou par écrit, et valent davantage par la présence et le souvenir que par la formule.",
+    "context": "Décès d’un proche, obsèques, lettres, visites.",
+    "example": "Plutôt que la formule rituelle, il écrit : « Je pense à toi, et à la façon dont ton père riait à table. »",
+    "related": [
+      "Deuil"
+    ],
+    "lessonIds": [
+      "l-6-3-3",
+      "l-6-3-4"
+    ],
+    "etymology": "Du latin condolere, « souffrir avec »."
+  },
+  {
+    "id": "d-consideration",
+    "term": "Considération",
+    "definition": "Estime et attention portées à une personne, quel que soit son rang.",
+    "explanation": "Elle se voit dans les petits gestes : se souvenir d’un prénom, écouter, répondre. Elle constitue sans doute le fond même du savoir-vivre, quand on écarte tout le reste.",
+    "context": "Toutes relations, et en particulier avec des personnes qui n’ont aucun pouvoir sur vous.",
+    "example": "Sa considération pour le personnel se voit au fait qu’il connaît les prénoms de chacun et qu’il prend de leurs nouvelles.",
+    "related": [
+      "Courtoisie",
+      "Délicatesse"
+    ],
+    "lessonIds": [
+      "l-2-3-7"
+    ]
+  },
+  {
+    "id": "d-convention",
+    "term": "Convention",
+    "definition": "Usage admis par un groupe, sans valeur morale ou légale en lui-même.",
+    "explanation": "Une convention coordonne, protège ou signifie. Elle peut être très utile, comme elle peut être dépassée. On ne doit la confondre ni avec un principe moral, ni avec une obligation légale.",
+    "context": "Toute la vie sociale, et ce à quoi cette application attribue un statut.",
+    "example": "Porter du noir à des obsèques est une convention : elle n’a rien d’une loi, mais elle exprime quelque chose à ceux qui la partagent.",
+    "related": [
+      "Bienséance",
+      "Codes sociaux"
+    ],
+    "lessonIds": [
+      "l-4-3-4",
+      "l-4-2-1"
+    ]
+  },
+  {
+    "id": "d-convive",
+    "term": "Convive",
+    "definition": "Personne qui partage un repas avec d’autres.",
+    "explanation": "Le mot insiste sur le fait de vivre ensemble autour de la table. Les devoirs du convive répondent à ceux de la personne qui reçoit.",
+    "context": "Repas, dîners, réceptions.",
+    "example": "Un bon convive parle à ses deux voisins, et non à celui qui l’intéresse le plus.",
+    "related": [
+      "Hôte",
+      "Plan de table"
+    ],
+    "lessonIds": [
+      "l-5-1-7",
+      "l-5-2-2"
+    ],
+    "etymology": "Du latin conviva, « celui qui vit avec »."
+  },
+  {
+    "id": "d-courtoisie",
+    "term": "Courtoisie",
+    "definition": "Politesse attentive, qui cherche à mettre l’autre à l’aise.",
+    "explanation": "Le mot vient de la cour médiévale et de ses idéaux chevaleresques. Il garde une nuance de générosité : la courtoisie va un peu au-delà de ce que la simple politesse exige.",
+    "context": "Toutes relations, y compris lors de conflits, où elle se révèle le plus utile.",
+    "example": "Il a refusé la demande avec tant de courtoisie que son interlocutrice l’a remercié.",
+    "related": [
+      "Politesse",
+      "Civilité",
+      "Tact"
+    ],
+    "lessonIds": [
+      "l-4-1-1",
+      "l-2-1-2"
+    ],
+    "etymology": "De « courtois », lui-même dérivé de « cour »."
+  },
+  {
+    "id": "d-decorum",
+    "term": "Décorum",
+    "definition": "Ensemble des convenances qu’impose une situation solennelle.",
+    "explanation": "Le mot désigne ce qui convient au prestige d’un lieu ou d’une fonction. Il peut prendre une teinte légèrement ironique, lorsqu’il désigne une solennité un peu creuse.",
+    "context": "Cérémonies, institutions, tribunaux, grands événements.",
+    "example": "Sous les ors du palais, le décorum interdit d’applaudir avant la fin des discours.",
+    "related": [
+      "Cérémonial",
+      "Protocole"
+    ],
+    "lessonIds": [
+      "l-4-3-2"
+    ],
+    "etymology": "Du latin decorum, « ce qui convient »."
+  },
+  {
+    "id": "d-deference",
+    "term": "Déférence",
+    "definition": "Respect particulier témoigné à une personne, par égard pour son âge, son rang ou son mérite.",
+    "explanation": "Elle suppose une forme d’inégalité reconnue, ce qui explique que certaines cultures la valorisent bien plus que d’autres. On peut la distinguer de la soumission : elle n’enlève rien à la dignité de celui qui la manifeste.",
+    "context": "Cérémonies, relations avec les aînés, cultures à forte distance hiérarchique.",
+    "example": "En Corée, il verse à boire à son aîné à deux mains : ce geste de déférence n’a rien de servile.",
+    "related": [
+      "Préséance",
+      "Considération"
+    ],
+    "lessonIds": [
+      "l-8-2-6",
+      "l-4-2-2"
+    ]
+  },
+  {
+    "id": "d-delicatesse",
+    "term": "Délicatesse",
+    "definition": "Sensibilité qui fait percevoir ce qui pourrait blesser autrui, et qui permet de l’éviter.",
+    "explanation": "Elle ne s’apprend pas dans une liste de règles. Elle suppose d’imaginer ce que l’autre vit, et de faire ou de taire ce qu’il faut en conséquence.",
+    "context": "Situations de deuil, de maladie, de différences de moyens.",
+    "example": "Elle a réglé la note de son amie au chômage sans en parler à personne : voilà de la délicatesse.",
+    "related": [
+      "Tact",
+      "Discrétion",
+      "Considération"
+    ],
+    "lessonIds": [
+      "l-2-3-7",
+      "l-6-3-3"
+    ]
+  },
+  {
+    "id": "d-deuil",
+    "term": "Deuil",
+    "definition": "Douleur consécutive à la perte d’un proche et période qui la suit.",
+    "explanation": "Autrefois fortement codifié par la société (durée, vêtements, sorties), le deuil est aujourd’hui largement privé. Chacun le vit à son rythme, sans étapes obligatoires.",
+    "context": "Vie familiale et sociale, retour au travail, dates anniversaires.",
+    "example": "Un an après la mort de sa femme, il reste touché qu’on lui en parle encore, et qu’on prononce son nom.",
+    "related": [
+      "Condoléances"
+    ],
+    "lessonIds": [
+      "l-6-3-3",
+      "l-6-3-6"
+    ]
+  },
+  {
+    "id": "d-diner-place",
+    "term": "Dîner placé",
+    "definition": "Dîner où chaque convive a une place attribuée à l’avance.",
+    "explanation": "Le terme s’oppose au buffet ou au dîner dit « debout ». Il permet de soigner les voisinages, et d’honorer certaines personnes.",
+    "context": "Grands dîners, mariages, réceptions professionnelles.",
+    "example": "Pour ses soixante ans, elle organise un dîner placé : elle a passé une soirée entière à composer les tables.",
+    "related": [
+      "Plan de table",
+      "Préséance"
+    ],
+    "lessonIds": [
+      "l-5-2-2",
+      "l-5-3-3"
+    ]
+  },
+  {
+    "id": "d-discernement",
+    "term": "Discernement",
+    "definition": "Capacité à juger de ce qui convient, au-delà de l’application d’une règle.",
+    "explanation": "C’est la troisième dimension de cette application, avec la connaissance et la pratique : savoir quand une règle s’applique, quand l’adapter et quand s’en écarter.",
+    "context": "Toutes les situations où les règles se contredisent, ou ne prévoient pas le cas.",
+    "example": "La règle dit d’attendre pour commencer, mais son voisin diabétique a besoin de manger : le discernement tranche.",
+    "related": [
+      "Tact",
+      "Convention"
+    ],
+    "lessonIds": [
+      "l-4-3-4"
+    ]
+  },
+  {
+    "id": "d-discretion",
+    "term": "Discrétion",
+    "definition": "Retenue dans ce que l’on dit, ce que l’on fait et ce que l’on cherche à savoir.",
+    "explanation": "Elle concerne autant le fait de garder une confidence que celui de ne pas s’imposer et de ne pas poser de questions intrusives. Elle protège l’intimité de chacun.",
+    "context": "Confidences, vie privée, relations de voisinage, travail.",
+    "example": "Il sait depuis un mois que sa collègue attend un enfant, et n’en a parlé à personne : elle l’annoncera elle-même.",
+    "related": [
+      "Indiscrétion",
+      "Tact",
+      "Sobriété"
+    ],
+    "lessonIds": [
+      "l-4-3-6",
+      "l-3-3-5"
+    ]
+  },
+  {
+    "id": "d-dress-code",
+    "term": "Dress code",
+    "definition": "Indication de la tenue attendue lors d’un événement ou d’un lieu de travail.",
+    "explanation": "Le français dit aussi « code vestimentaire » ou « tenue de ville », « tenue correcte exigée ». Il renseigne sur le niveau de formalité. Certains codes sont discutables lorsqu’ils imposent des contraintes selon le sexe.",
+    "context": "Invitations, réceptions, entreprises, certains restaurants.",
+    "example": "« Tenue décontractée chic », indiquait l’invitation : un mélange de consignes qu’il a fallu décrypter, en demandant à l’organisatrice.",
+    "related": [
+      "Black tie",
+      "Tenue de circonstance"
+    ],
+    "lessonIds": [
+      "l-1-2-1",
+      "l-1-3-2"
+    ]
+  },
+  {
+    "id": "d-elegance",
+    "term": "Élégance",
+    "definition": "Qualité d’une personne ou d’un geste dont la justesse paraît naturelle et sans effort.",
+    "explanation": "L’élégance ne se confond ni avec la richesse ni avec la mode. Elle tient à la mesure, à la simplicité, à l’attention portée aux autres, et elle a sa place dans une tenue, un mot ou un refus.",
+    "context": "Toutes circonstances : une tenue, une réponse, la manière de perdre ou de partir.",
+    "example": "Sa réponse à une critique injuste, en deux phrases et sans amertume, était d’une grande élégance.",
+    "related": [
+      "Sobriété",
+      "Mesure",
+      "Ostentation"
+    ],
+    "lessonIds": [
+      "l-1-3-1",
+      "l-1-3-5"
+    ]
+  },
+  {
+    "id": "d-entregent",
+    "term": "Entregent",
+    "definition": "Habileté à nouer des relations et à se mouvoir avec aisance dans la société.",
+    "explanation": "Le mot, un peu vieilli, a une nuance d’efficacité. Il ne dit rien des intentions de la personne, et n’implique pas forcément la sincérité.",
+    "context": "Vie mondaine et professionnelle.",
+    "example": "Grâce à son entregent, il connaissait déjà la moitié de la salle dix minutes après son arrivée.",
+    "related": [
+      "Mondanité",
+      "Charisme"
+    ],
+    "lessonIds": [
+      "l-3-3-1"
+    ]
+  },
+  {
+    "id": "d-etiquette",
+    "term": "Étiquette",
+    "definition": "Ensemble des règles formelles qui régissent le comportement dans un milieu donné.",
+    "explanation": "On rapporte que le mot viendrait des petites fiches indiquant le rôle de chacun à la cour d’Espagne ou de France. L’étiquette reste plus formelle que le savoir-vivre : on peut la connaître parfaitement et manquer de tact.",
+    "context": "Cours royales, diplomatie, certains grands événements.",
+    "example": "L’étiquette de la cour britannique prévoit qu’on ne touche pas le souverain, à moins d’y être invité. Elle n’est pas une règle de vie.",
+    "related": [
+      "Protocole",
+      "Bienséance",
+      "Savoir-vivre"
+    ],
+    "lessonIds": [
+      "l-4-3-1",
+      "l-1-3-4"
+    ]
+  },
+  {
+    "id": "d-face",
+    "term": "Face",
+    "definition": "Image sociale qu’une personne souhaite préserver auprès des autres.",
+    "explanation": "Le sociologue Erving Goffman en a fait une notion centrale : chacun protège sa propre face et celle d’autrui. Elle est particulièrement explicite en Asie orientale, mais elle existe partout.",
+    "context": "Critiques, refus, erreurs en public, négociations.",
+    "example": "Il a repris son collègue en privé plutôt qu’en réunion, pour lui éviter de perdre la face.",
+    "related": [
+      "Tact",
+      "Gaffe"
+    ],
+    "lessonIds": [
+      "l-2-3-2",
+      "l-8-2-6"
+    ]
+  },
+  {
+    "id": "d-faire-part",
+    "term": "Faire-part",
+    "definition": "Annonce imprimée ou électronique d’un événement familial : naissance, mariage, décès.",
+    "explanation": "Le faire-part informe sans inviter nécessairement : un faire-part de mariage peut se distinguer d’une invitation à la réception, et appelle un mot plutôt qu’une réponse.",
+    "context": "Naissances, mariages, décès, parfois divorces.",
+    "example": "Ils ont reçu le faire-part de naissance d’Inès, et ont envoyé une carte de félicitations sans se déplacer.",
+    "related": [
+      "Carton d’invitation"
+    ],
+    "lessonIds": [
+      "l-6-2-1",
+      "l-6-2-4"
+    ]
+  },
+  {
+    "id": "d-familiarite",
+    "term": "Familiarité",
+    "definition": "Manière d’être très proche et sans façons avec quelqu’un.",
+    "explanation": "Appropriée entre proches, elle devient maladroite lorsqu’elle réduit une distance sans y être invité : surnom, tape dans le dos, plaisanterie intime.",
+    "context": "Premiers contacts, relations de travail, relations de service.",
+    "example": "Dès la deuxième phrase, il l’appelait « ma grande » : une familiarité qu’elle n’avait nullement proposée.",
+    "related": [
+      "Tutoiement",
+      "Proxémie",
+      "Impair"
+    ],
+    "lessonIds": [
+      "l-4-2-7"
+    ]
+  },
+  {
+    "id": "d-flatterie",
+    "term": "Flatterie",
+    "definition": "Louange exagérée, souvent intéressée.",
+    "explanation": "Elle se distingue du compliment par sa disproportion et par son but. La Bruyère ou La Fontaine lui ont consacré des portraits célèbres : le flatteur vit toujours aux dépens de celui qui l’écoute.",
+    "context": "Relations hiérarchiques, négociations, réseaux professionnels.",
+    "example": "À trois jours de son augmentation, il découvre que son patron est « le meilleur manager de la décennie » : personne n’est dupe.",
+    "related": [
+      "Tact",
+      "Ostentation"
+    ],
+    "lessonIds": [
+      "l-4-2-7"
+    ]
+  },
+  {
+    "id": "d-formule-politesse",
+    "term": "Formule de politesse",
+    "definition": "Phrase convenue qui ouvre ou conclut un courrier ou un échange.",
+    "explanation": "En français, la formule finale d’une lettre formelle peut être longue et codifiée. Le courriel a largement simplifié ces usages, sans abolir la nécessité d’une clôture.",
+    "context": "Lettres formelles, administratives, professionnelles, courriels.",
+    "example": "« Je vous prie d’agréer, Madame la Directrice, l’expression de mes salutations distinguées » : une formule de politesse classique.",
+    "related": [
+      "Courtoisie"
+    ],
+    "lessonIds": [
+      "l-3-2-6",
+      "l-3-3-6"
+    ]
+  },
+  {
+    "id": "d-gaffe",
+    "term": "Gaffe",
+    "definition": "Parole ou action maladroite qui blesse ou embarrasse, sans mauvaise intention.",
+    "explanation": "Elle naît souvent d’un manque d’information ou d’une supposition. La réparation compte plus que la faute, et elle tient en une phrase.",
+    "context": "Conversations, réceptions, messages envoyés au mauvais destinataire.",
+    "example": "Elle demande à son voisin comment va sa femme : ils se sont séparés il y a deux ans. Une gaffe, vite excusée.",
+    "related": [
+      "Impair",
+      "Face"
+    ],
+    "lessonIds": [
+      "l-4-2-7",
+      "l-4-3-5"
+    ]
+  },
+  {
+    "id": "d-galanterie",
+    "term": "Galanterie",
+    "definition": "Ensemble d’attentions traditionnellement réservées aux femmes de la part des hommes.",
+    "explanation": "Elle mêle des gestes aimables à l’idée que les femmes auraient besoin d’une protection particulière. D’où un débat contemporain : on peut garder le geste aimable, en le détachant du sexe.",
+    "context": "Usages traditionnels, certains cercles familiaux, certaines cultures.",
+    "example": "Il tient la porte à la personne qui le suit, homme ou femme : le geste reste, sans le présupposé de la galanterie.",
+    "related": [
+      "Courtoisie",
+      "Convention"
+    ],
+    "lessonIds": [
+      "l-4-3-4"
+    ]
+  },
+  {
+    "id": "d-goujaterie",
+    "term": "Goujaterie",
+    "definition": "Comportement grossier et sans égards, particulièrement envers ceux qui ne peuvent pas se défendre.",
+    "explanation": "Le mot, marqué, désigne un manque d’égards délibéré. Il traduit davantage un mépris qu’une ignorance des usages.",
+    "context": "Vie sociale, relations avec le personnel, ruptures.",
+    "example": "Annoncer une rupture par message depuis un lieu de vacances : la goujaterie est complète.",
+    "related": [
+      "Tact",
+      "Considération"
+    ],
+    "lessonIds": [
+      "l-2-2-5"
+    ]
+  },
+  {
+    "id": "d-gratitude",
+    "term": "Gratitude",
+    "definition": "Reconnaissance éprouvée pour ce que l’on a reçu, et le fait de l’exprimer.",
+    "explanation": "Elle dépasse le simple « merci » : elle implique de voir ce qui a été fait, et de le dire à la personne. Elle renforce les liens, surtout avec les proches.",
+    "context": "Famille, amitiés, travail, personnel de service.",
+    "example": "Vingt ans après, il a écrit à son ancienne institutrice pour lui dire ce qu’il lui devait : elle a gardé la lettre.",
+    "related": [
+      "Considération"
+    ],
+    "lessonIds": [
+      "l-2-3-7",
+      "l-6-1-5"
+    ]
+  },
+  {
+    "id": "d-hospitalite",
+    "term": "Hospitalité",
+    "definition": "Art et devoir d’accueillir quelqu’un chez soi et de prendre soin de lui.",
+    "explanation": "L’une des obligations les plus anciennes et les plus universelles. Elle ne se mesure ni au luxe, ni à la perfection du repas, mais au soin porté à la personne reçue.",
+    "context": "Repas, séjours, accueil d’inconnus, relations interculturelles.",
+    "example": "Dans ce petit appartement, un bol de soupe et une vraie écoute : on n’a jamais connu plus belle hospitalité.",
+    "related": [
+      "Hôte",
+      "Amphitryon"
+    ],
+    "lessonIds": [
+      "l-5-3-6",
+      "l-5-1-1",
+      "l-7-3-4"
+    ],
+    "etymology": "Du latin hospes, « celui qui reçoit » et « celui qui est reçu »."
+  },
+  {
+    "id": "d-hote",
+    "term": "Hôte",
+    "definition": "Personne qui reçoit, ou celle qui est reçue.",
+    "explanation": "Particularité du français, un même mot désigne les deux rôles, sans doute parce qu’ils sont liés par les mêmes devoirs. Le contexte précise de qui l’on parle.",
+    "context": "Réceptions, séjours, plateformes d’hébergement.",
+    "example": "« L’hôte », dans ce restaurant, est celui qui invite ; à l’hôtel, l’hôte est le client.",
+    "related": [
+      "Hospitalité",
+      "Convive"
+    ],
+    "lessonIds": [
+      "l-5-1-1"
+    ]
+  },
+  {
+    "id": "d-impair",
+    "term": "Impair",
+    "definition": "Faute de comportement qui contrevient à un usage ou qui gêne une personne.",
+    "explanation": "Plus large que la gaffe, l’impair peut être commis par ignorance d’un code, notamment à l’étranger. Reconnaître l’erreur suffit souvent à le réparer.",
+    "context": "Usages sociaux, voyages, relations interculturelles.",
+    "example": "Il a gardé ses chaussures dans cette maison de Kyoto : un impair que ses hôtes lui ont vite pardonné.",
+    "related": [
+      "Gaffe"
+    ],
+    "lessonIds": [
+      "l-4-2-7",
+      "l-8-3-4"
+    ]
+  },
+  {
+    "id": "d-inattention-civile",
+    "term": "Inattention civile",
+    "definition": "Manière de reconnaître brièvement la présence d’un inconnu, puis de détourner son attention pour lui laisser sa tranquillité.",
+    "explanation": "L’expression est du sociologue Erving Goffman. Elle décrit le discret regard et le détournement des yeux qui permettent à des inconnus de cohabiter dans un espace restreint.",
+    "context": "Ascenseurs, transports, salles d’attente.",
+    "example": "Dans l’ascenseur, ils échangent un bref regard, puis observent les chiffres qui défilent : c’est l’inattention civile.",
+    "related": [
+      "Civilité",
+      "Proxémie"
+    ],
+    "lessonIds": [
+      "l-7-1-4",
+      "l-1-2-3"
+    ]
+  },
+  {
+    "id": "d-indiscretion",
+    "term": "Indiscrétion",
+    "definition": "Manque de retenue, soit en posant des questions intrusives, soit en révélant ce que l’on devrait taire.",
+    "explanation": "Elle porte sur l’information : révéler une confidence, lire par-dessus une épaule, interroger sur le salaire ou la santé. Une question ne crée aucune obligation d’y répondre.",
+    "context": "Famille, travail, voisinage, réseaux sociaux.",
+    "example": "« Vous avez maigri, c’est le cancer ? » Une indiscrétion peut aussi être une violence.",
+    "related": [
+      "Discrétion",
+      "Familiarité"
+    ],
+    "lessonIds": [
+      "l-3-3-4",
+      "l-4-3-6"
+    ]
+  },
+  {
+    "id": "d-mesure",
+    "term": "Mesure",
+    "definition": "Sens de ce qui est juste et proportionné, sans excès ni défaut.",
+    "explanation": "Vertu classique, héritée des philosophes grecs, la mesure s’applique aux paroles, aux tenues, aux émotions, aux cadeaux. Elle permet d’éviter autant la froideur que l’emphase.",
+    "context": "Toutes situations, en particulier à forte intensité.",
+    "example": "Il a dit sa colère avec mesure : trois phrases, un ton posé et aucune insulte.",
+    "related": [
+      "Sobriété",
+      "Élégance"
+    ],
+    "lessonIds": [
+      "l-1-3-1",
+      "l-4-1-1"
+    ]
+  },
+  {
+    "id": "d-mondanite",
+    "term": "Mondanité",
+    "definition": "Goût et pratique de la vie sociale dans les cercles en vue.",
+    "explanation": "Au pluriel, les mondanités désignent ces échanges de salon parfois superficiels. Le mot peut être ironique, mais la conversation légère a aussi son charme, et son utilité.",
+    "context": "Réceptions, cocktails, vernissages.",
+    "example": "Après une heure de mondanités, ils ont enfin parlé d’autre chose que du temps et des vacances.",
+    "related": [
+      "Entregent",
+      "Réception"
+    ],
+    "lessonIds": [
+      "l-3-3-1"
+    ]
+  },
+  {
+    "id": "d-ostentation",
+    "term": "Ostentation",
+    "definition": "Fait de montrer avec excès ce que l’on possède ou ce que l’on est.",
+    "explanation": "Elle peut porter sur la richesse, le savoir, la culture ou même la modestie. Thorstein Veblen et Pierre Bourdieu ont montré comment les signes de distinction fonctionnent socialement.",
+    "context": "Tenue, conversation, cadeaux, réseaux sociaux.",
+    "example": "Il a cité le prix du vin avant d’en servir : il ne fallait pas d’autre preuve d’ostentation.",
+    "related": [
+      "Sobriété",
+      "Élégance"
+    ],
+    "lessonIds": [
+      "l-1-3-5"
+    ],
+    "etymology": "Du latin ostendere, « montrer »."
+  },
+  {
+    "id": "d-plan-de-table",
+    "term": "Plan de table",
+    "definition": "Répartition préparée des places à table.",
+    "explanation": "Il permet de soigner les conversations, d’honorer certains convives, de tenir compte des besoins pratiques. Il n’implique ni grande cérémonie, ni carton calligraphié.",
+    "context": "Dîners de plus de six personnes, mariages, repas professionnels.",
+    "example": "Sur une simple feuille, elle a noté qui s’assiérait où, pour que la nouvelle voisine soit près d’elle.",
+    "related": [
+      "Dîner placé",
+      "Préséance"
+    ],
+    "lessonIds": [
+      "l-5-2-2",
+      "l-5-3-3"
+    ]
+  },
+  {
+    "id": "d-politesse",
+    "term": "Politesse",
+    "definition": "Respect des formes convenues dans les relations entre les personnes.",
+    "explanation": "Comte-Sponville la décrit comme l’origine des vertus, sans en être une : on peut être poli et méchant. Elle reste le premier apprentissage de la vie en commun.",
+    "context": "Toute relation sociale.",
+    "example": "Un « bonjour » et un « merci » : la politesse ne demande pas plus pour transformer une journée de travail au guichet.",
+    "related": [
+      "Courtoisie",
+      "Civilité",
+      "Savoir-vivre"
+    ],
+    "lessonIds": [
+      "l-2-1-2",
+      "l-4-1-1"
+    ],
+    "etymology": "De l’italien pulitezza, apparenté à « polir » : ce qui est poli, lissé."
+  },
+  {
+    "id": "d-pourboire",
+    "term": "Pourboire",
+    "definition": "Somme laissée en plus du prix, en reconnaissance d’un service.",
+    "explanation": "Sa fonction varie fortement : part essentielle du salaire aux États-Unis, marque d’appréciation en France où le service est inclus, inutile voire gênante au Japon.",
+    "context": "Restaurants, hôtels, taxis, guides.",
+    "example": "À New York, elle ajoute 20 % sur l’addition ; à Tokyo, elle remercie simplement et ne laisse rien.",
+    "related": [
+      "Considération"
+    ],
+    "lessonIds": [
+      "l-4-2-3",
+      "l-8-2-4"
+    ]
+  },
+  {
+    "id": "d-preseance",
+    "term": "Préséance",
+    "definition": "Droit de passer avant les autres dans une cérémonie, ou d’y occuper une place plus élevée.",
+    "explanation": "Le mot désigne l’ordre fixé selon la fonction ou le rang. En France, un décret de 1989 en règle les grandes lignes pour les cérémonies publiques. Il a pour but d’éviter les conflits entre représentants.",
+    "context": "Cérémonies officielles, dîners diplomatiques, réceptions protocolaires.",
+    "example": "Au dépôt de gerbe, c’est la préfète qui dépose avant le maire, conformément aux règles de préséance.",
+    "related": [
+      "Protocole",
+      "Déférence"
+    ],
+    "lessonIds": [
+      "l-4-2-2",
+      "l-4-3-1"
+    ],
+    "etymology": "De « pré- » et du latin sedere, « s’asseoir » : s’asseoir devant."
+  },
+  {
+    "id": "d-presence",
+    "term": "Présence",
+    "definition": "Capacité à être pleinement là, et à le faire sentir sans s’imposer.",
+    "explanation": "Elle se manifeste moins par la parole que par l’attention, la posture, le calme. On peut avoir une grande présence sans être extraverti.",
+    "context": "Réunions, conversations, prises de parole.",
+    "example": "Elle n’a presque rien dit à cette réunion, mais tout le monde se tournait vers elle : c’est cela, la présence.",
+    "related": [
+      "Charisme",
+      "Mesure"
+    ],
+    "lessonIds": [
+      "l-1-3-3",
+      "l-1-2-4"
+    ]
+  },
+  {
+    "id": "d-protocole",
+    "term": "Protocole",
+    "definition": "Ensemble de règles fixant le déroulement et l’ordre des cérémonies officielles.",
+    "explanation": "Il organise les relations entre États et institutions. Il peut sembler austère, mais il remplit une fonction de paix : une place attribuée à l’avance évite un incident diplomatique.",
+    "context": "Diplomatie, cérémonies publiques, réceptions officielles.",
+    "example": "Le protocole a prévu l’ordre d’arrivée des délégations, le placement de chacun et les hymnes à jouer.",
+    "related": [
+      "Préséance",
+      "Cérémonial",
+      "Étiquette"
+    ],
+    "lessonIds": [
+      "l-4-3-1",
+      "l-8-3-2",
+      "l-5-3-3"
+    ],
+    "etymology": "Du grec prôtokollon, « première feuille collée » d’un rouleau."
+  },
+  {
+    "id": "d-proxemie",
+    "term": "Proxémie",
+    "definition": "Étude de la distance que les personnes maintiennent entre elles.",
+    "explanation": "Le terme est dû à l’anthropologue Edward T. Hall, qui a montré que ces distances varient selon les cultures et qu’on en a rarement conscience, jusqu’à ce qu’elles soient franchies.",
+    "context": "Relations interculturelles, conversations, transports.",
+    "example": "Son interlocuteur reculait d’un pas à chaque phrase : ils n’avaient pas la même proxémie.",
+    "related": [
+      "Inattention civile",
+      "Bise"
+    ],
+    "lessonIds": [
+      "l-1-2-3",
+      "l-8-1-2"
+    ]
+  },
+  {
+    "id": "d-quart-heure",
+    "term": "Quart d’heure de politesse",
+    "definition": "Léger retard admis, ou même attendu, à une invitation à domicile en France.",
+    "explanation": "Il permet à l’hôte d’achever ses préparatifs. Il ne s’applique pas aux rendez-vous professionnels ou aux restaurants, et il surprendra dans bien des pays.",
+    "context": "Dîners entre amis en France.",
+    "example": "Invités à 20 heures, ils sonnent à 20 h 10 : ni en avance, ni vraiment en retard.",
+    "related": [
+      "Hospitalité"
+    ],
+    "lessonIds": [
+      "l-5-1-7",
+      "l-8-1-3"
+    ]
+  },
+  {
+    "id": "d-reception",
+    "term": "Réception",
+    "definition": "Événement au cours duquel on accueille des invités.",
+    "explanation": "Elle peut aller du dîner entre amis au grand cocktail. Son degré de formalité dicte tenue, plan de table et usages.",
+    "context": "Vie privée, professionnelle et officielle.",
+    "example": "La réception a lieu après la cérémonie : un buffet dans le jardin, et chacun circule à son rythme.",
+    "related": [
+      "Hospitalité",
+      "Carton d’invitation"
+    ],
+    "lessonIds": [
+      "l-5-3-1",
+      "l-5-2-5"
+    ]
+  },
+  {
+    "id": "d-rsvp",
+    "term": "R.S.V.P.",
+    "definition": "Abréviation de « Répondez s’il vous plaît », inscrite sur une invitation.",
+    "explanation": "Cette formule française est utilisée à l’international. Elle demande une réponse, quelle qu’elle soit, et pas seulement en cas de refus.",
+    "context": "Invitations écrites, cartons, mariages.",
+    "example": "« R.S.V.P. avant le 15 mai » : ils ont répondu le jour même, pour faciliter l’organisation.",
+    "related": [
+      "Carton d’invitation"
+    ],
+    "lessonIds": [
+      "l-5-1-2",
+      "l-6-2-4"
+    ]
+  },
+  {
+    "id": "d-savoir-vivre",
+    "term": "Savoir-vivre",
+    "definition": "Connaissance et pratique des usages qui permettent de vivre avec les autres dans le respect mutuel.",
+    "explanation": "Le savoir-vivre va au-delà de l’étiquette : il inclut le sens des règles et la capacité de les adapter. C’est pourquoi cette application le présente comme une connaissance, une pratique et un discernement.",
+    "context": "Toute vie sociale, de la plus quotidienne à la plus formelle.",
+    "example": "Elle ne connaît pas la place des verres à dessert, mais elle sait mettre chacun à l’aise : elle a du savoir-vivre.",
+    "related": [
+      "Politesse",
+      "Étiquette",
+      "Bonnes manières"
+    ],
+    "lessonIds": [
+      "l-4-1-1",
+      "l-4-3-4"
+    ]
+  },
+  {
+    "id": "d-sobriete",
+    "term": "Sobriété",
+    "definition": "Refus du superflu, dans la parole, la tenue ou la décoration.",
+    "explanation": "Elle peut être une forme d’élégance, à condition de ne pas devenir elle-même un signe de distinction que l’on affiche.",
+    "context": "Tenue, discours, décoration, cérémonies.",
+    "example": "Pour ce discours d’hommage, elle a choisi la sobriété : deux minutes, sans une seule envolée.",
+    "related": [
+      "Mesure",
+      "Élégance",
+      "Ostentation"
+    ],
+    "lessonIds": [
+      "l-1-3-1",
+      "l-1-3-5"
+    ]
+  },
+  {
+    "id": "d-tact",
+    "term": "Tact",
+    "definition": "Sens de ce qu’il convient de dire ou de taire pour ne pas blesser.",
+    "explanation": "Le mot vient du toucher : il s’agit de sentir où l’on peut poser la main. Le tact ne suppose pas de mentir, mais de choisir ce que l’on dit, et comment on le dit.",
+    "context": "Critiques, deuils, plaisanteries, négociations.",
+    "example": "Plutôt que de lui dire que sa présentation était trop longue, il lui a demandé : « Quels sont les trois points essentiels pour toi ? »",
+    "related": [
+      "Délicatesse",
+      "Discrétion",
+      "Courtoisie"
+    ],
+    "lessonIds": [
+      "l-4-3-3",
+      "l-3-3-4"
+    ],
+    "etymology": "Du latin tactus, « le toucher »."
+  },
+  {
+    "id": "d-tenue-circonstance",
+    "term": "Tenue de circonstance",
+    "definition": "Vêtement adapté à une occasion précise.",
+    "explanation": "Elle dépend du degré de formalité, du lieu, de la saison et de la culture. Elle montre à ceux qui reçoivent que l’on a pris en compte le moment, et elle ne dépend pas du prix.",
+    "context": "Mariages, obsèques, réceptions, cérémonies.",
+    "example": "Pour la remise de décoration, il a sorti son costume le plus sobre, et une cravate qu’il n’aime pas particulièrement.",
+    "related": [
+      "Dress code",
+      "Black tie"
+    ],
+    "lessonIds": [
+      "l-1-2-1",
+      "l-1-3-2"
+    ]
+  },
+  {
+    "id": "d-toast",
+    "term": "Toast",
+    "definition": "Bref discours prononcé en levant son verre, en l’honneur de quelqu’un ou de quelque chose.",
+    "explanation": "L’usage vient d’Angleterre : on y mettait, dit-on, un morceau de pain grillé dans le vin. Le bon toast est court, précis, et se termine par l’invitation à trinquer.",
+    "context": "Mariages, anniversaires, dîners officiels, repas d’affaires.",
+    "example": "« À Lola et Amir, qui prouvent qu’on peut se disputer pendant dix ans et rester amoureux ! » Tout le monde a levé son verre.",
+    "related": [
+      "Réception"
+    ],
+    "lessonIds": [
+      "l-6-3-2"
+    ]
+  },
+  {
+    "id": "d-tutoiement",
+    "term": "Tutoiement",
+    "definition": "Emploi de « tu » pour s’adresser à une personne.",
+    "explanation": "Il marque une proximité ou l’appartenance à un même groupe. Il se propose, ne s’impose pas, et devient problématique lorsqu’il est à sens unique dans une relation d’inégalité.",
+    "context": "Famille, amis, certaines entreprises, associations.",
+    "example": "Dans cette entreprise, tout le monde se tutoie, y compris avec la fondatrice, mais Gérard garde le « vous » : on le respecte.",
+    "related": [
+      "Vouvoiement",
+      "Familiarité"
+    ],
+    "lessonIds": [
+      "l-4-1-4"
+    ]
+  },
+  {
+    "id": "d-urbanite",
+    "term": "Urbanité",
+    "definition": "Politesse fine et naturelle, que l’on attribuait aux habitants de la ville.",
+    "explanation": "Le mot est aujourd’hui littéraire. Il garde la trace d’un temps où la ville incarnait la civilisation et les bonnes manières, ce qui en dit long sur le mépris de la campagne.",
+    "context": "Langue soutenue et littéraire.",
+    "example": "Il répondit à l’attaque avec une telle urbanité que l’assistance en oublia presque le fond de l’affaire.",
+    "related": [
+      "Courtoisie",
+      "Civilité"
+    ],
+    "lessonIds": [
+      "l-4-1-1"
+    ],
+    "etymology": "Du latin urbs, « la ville »."
+  },
+  {
+    "id": "d-vin-honneur",
+    "term": "Vin d’honneur",
+    "definition": "Réception où l’on sert des boissons pour célébrer un événement, souvent après une cérémonie.",
+    "explanation": "Au mariage, il est courant, et il permet d’accueillir plus de personnes que le dîner. Être invité seulement au vin d’honneur n’a rien d’une exclusion.",
+    "context": "Mariages, inaugurations, retraites, commémorations.",
+    "example": "Les collègues sont conviés au vin d’honneur à la sortie de la mairie, et la famille reste pour le dîner.",
+    "related": [
+      "Réception"
+    ],
+    "lessonIds": [
+      "l-6-2-4"
+    ]
+  },
+  {
+    "id": "d-vouvoiement",
+    "term": "Vouvoiement",
+    "definition": "Emploi de « vous » pour s’adresser à une seule personne.",
+    "explanation": "Il marque une distance, non un degré de respect. Il reste le choix par défaut en France avec les adultes inconnus, et permet une relation courtoise sans intimité.",
+    "context": "Relations de service, travail, premiers contacts, certaines familles.",
+    "example": "Ils travaillent ensemble depuis vingt ans et se vouvoient toujours : cela ne les empêche pas d’être très amis.",
+    "related": [
+      "Tutoiement",
+      "Convention"
+    ],
+    "lessonIds": [
+      "l-4-1-4"
+    ]
+  }
+]

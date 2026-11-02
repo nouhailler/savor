@@ -1,0 +1,271 @@
+[
+  {
+    "id": "s-7-1",
+    "domainId": "voyager",
+    "level": "beginner",
+    "title": "Le siège qui recule",
+    "description": "Sur un vol de nuit, votre voisin de devant incline son siège à fond alors que vous êtes en train de manger.",
+    "context": "Vol de huit heures, classe économique. Le plateau-repas vient d’être servi. Le passager devant vous incline brusquement son siège à fond. Votre plateau bascule, et votre verre se renverse sur votre pantalon.",
+    "characters": [
+      "Le passager de devant",
+      "Le personnel de bord"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-7-1-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous donnez un coup de genou dans le dossier, pour qu’il comprenne.",
+            "score": 0,
+            "feedbackTitle": "Une escalade, à dix mille mètres.",
+            "feedback": "L’agression est à éviter partout, et à plus forte raison à bord d’un avion, où un conflit peut avoir des conséquences sérieuses. Il ne sait peut-être même pas ce qu’il a provoqué."
+          },
+          {
+            "id": "b",
+            "label": "Vous lui tapez légèrement l’épaule : « Excusez-moi, pourriez-vous redresser votre siège pendant le repas ? Mon plateau vient de basculer. Merci beaucoup. »",
+            "score": 1,
+            "feedbackTitle": "Une demande simple, avec une raison.",
+            "feedback": "Il s’agit le plus souvent d’une inattention. Vous exposez le fait et vous remerciez. Si cela ne suffit pas, le personnel de bord peut intervenir, sans que vous ayez à hausser le ton."
+          },
+          {
+            "id": "c",
+            "label": "Vous appelez aussitôt le personnel, en vous plaignant de ce passager.",
+            "score": 0.5,
+            "feedbackTitle": "Possible, mais vous sautez une étape.",
+            "feedback": "Le personnel est là pour cela, surtout si vous craignez une réaction. Une demande directe aurait pu suffire, et elle évite de transformer l’incident en affaire."
+          },
+          {
+            "id": "d",
+            "label": "Vous ne dites rien, et vous mangez le plateau sur vos genoux.",
+            "score": 0.5,
+            "feedbackTitle": "Patient, mais inutile.",
+            "feedback": "Vous évitez tout conflit, mais à quel prix ? Il a le droit d’incliner son siège en général, mais une demande polie pendant le repas est parfaitement légitime."
+          }
+        ]
+      }
+    ],
+    "rule": "Dans un espace contraint, on demande d’abord simplement ; on a recours au personnel ensuite. Une demande polie n’a rien d’une agression.",
+    "nuance": "Avant d’incliner votre propre siège, regardez derrière vous et faites-le lentement : c’est un geste simple qui évite ce type d’incident.",
+    "relatedLessonIds": [
+      "l-7-1-5"
+    ],
+    "tags": [
+      "avion",
+      "siège",
+      "repas",
+      "conflit"
+    ]
+  },
+  {
+    "id": "s-7-2",
+    "domainId": "voyager",
+    "level": "intermediate",
+    "title": "L’état des lieux contesté",
+    "description": "À votre départ d’une location, le propriétaire vous reproche une tache que vous n’avez pas faite.",
+    "context": "Vous quittez une location de vacances. Le propriétaire, qui fait le tour de l’appartement, désigne une tache sur le canapé : « Ça, c’est vous. Je retiens 150 € de la caution. » Vous êtes certain qu’elle était là à votre arrivée, et vous avez des photos prises le premier soir, mais il ne les a jamais vues.",
+    "characters": [
+      "Le propriétaire"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-7-2-a",
+        "narrative": "",
+        "question": "Comment réagissez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Vous êtes un escroc, et je vais laisser un avis sur votre annonce pour que tout le monde le sache ! »",
+            "score": 0,
+            "feedbackTitle": "Accuser et menacer vous dessert.",
+            "feedback": "Vous aviez une preuve, et vous la remplacez par une accusation et par une menace. Sa position se durcit, et votre avis perdra toute crédibilité."
+          },
+          {
+            "id": "b",
+            "label": "« Je comprends votre inquiétude. Cette tache était déjà présente à notre arrivée : voici la photo du premier soir, je vous l’envoie maintenant. Pouvons-nous regarder ça ensemble ? »",
+            "score": 1,
+            "feedbackTitle": "Le fait, sans accusation.",
+            "feedback": "Vous ne le traitez pas de menteur : il a peut-être oublié, ou s’est trompé de locataire. La photo parle d’elle-même, et le ton lui permet de revenir en arrière sans perdre la face."
+          },
+          {
+            "id": "c",
+            "label": "Vous payez pour éviter toute discussion, en ruminant.",
+            "score": 0.5,
+            "feedbackTitle": "La paix, mais pas la justice.",
+            "feedback": "Personne ne vous y oblige, surtout avec une preuve. Vous avez le droit de défendre votre position, avec courtoisie."
+          },
+          {
+            "id": "d",
+            "label": "Vous partez sans répondre, et vous laissez la plateforme s’en occuper.",
+            "score": 0.5,
+            "feedbackTitle": "Une voie possible, mais moins rapide.",
+            "feedback": "La médiation de la plateforme existe, et elle peut être utile, surtout si le ton monte. Mais une brève explication sur place aurait pu tout régler en deux minutes."
+          }
+        ]
+      }
+    ],
+    "rule": "Un état des lieux à l’arrivée protège les deux parties. En cas de litige, on présente le fait sans accuser la personne.",
+    "nuance": "En cas de désaccord persistant, passez par le service de médiation de la plateforme, ou renseignez-vous sur les recours. Évitez tout chantage à l’avis en ligne.",
+    "relatedLessonIds": [
+      "l-7-2-4"
+    ],
+    "tags": [
+      "location",
+      "caution",
+      "litige"
+    ]
+  },
+  {
+    "id": "s-7-3",
+    "domainId": "voyager",
+    "level": "intermediate",
+    "title": "Le groupe qui attend",
+    "description": "Dans un voyage organisé, un participant est toujours en retard et fait attendre tout le car.",
+    "context": "Voyage organisé de dix jours en Italie. Pour la troisième fois, le car attend Bernard, qui s’est attardé à faire des photos. Le guide est gêné, le programme prend du retard, et certains commencent à râler à voix haute. Bernard monte en souriant. Vous êtes assis à côté de lui depuis le début du voyage.",
+    "characters": [
+      "Bernard, un participant",
+      "Le guide",
+      "Quarante voyageurs"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-7-3-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous lui dites tout haut : « Bravo, Bernard, encore en retard ! Tu as mis tout le monde à cran. »",
+            "score": 0,
+            "feedbackTitle": "La sanction publique ne règle rien.",
+            "feedback": "Vous lui faites porter l’irritation de tous, et il risque de se fermer. Il reste encore sept jours de voyage en commun, et le car est un petit monde."
+          },
+          {
+            "id": "b",
+            "label": "Plus tard, à la pause, seul à seul : « Bernard, tu as vu que les gens commencent à s’agacer ? Tu fais de belles photos, mais je crois qu’il faudrait veiller aux horaires. Tu veux que je te prévienne cinq minutes avant ? »",
+            "score": 1,
+            "feedbackTitle": "Un mot en privé, avec une aide.",
+            "feedback": "Il ne se rend sans doute pas compte de l’effet qu’il produit. Vous l’en informez sans l’humilier, et vous lui offrez une solution. Il peut changer sans perdre la face."
+          },
+          {
+            "id": "c",
+            "label": "Vous rejoignez ceux qui critiquent Bernard derrière son dos.",
+            "score": 0,
+            "feedbackTitle": "Le groupe se divise.",
+            "feedback": "La rumeur rend l’atmosphère irrespirable, et elle ne lui apprend rien. Un mot direct, ou une consigne du guide, est plus utile."
+          },
+          {
+            "id": "d",
+            "label": "Vous demandez au guide de rappeler la règle à tous, et de partir à l’heure la prochaine fois.",
+            "score": 1,
+            "feedbackTitle": "Le rôle du guide.",
+            "feedback": "Le guide a l’autorité pour rappeler les horaires, et une règle claire, annoncée à tous, ne vise personne en particulier. C’est une excellente solution, qui peut compléter un mot à Bernard."
+          }
+        ]
+      }
+    ],
+    "rule": "Dans un groupe, chacun doit au collectif le respect du programme. On corrige en privé, ou l’on s’appuie sur la personne qui a l’autorité.",
+    "nuance": "Si un participant est lent en raison de son âge, de sa santé ou d’un handicap, la question change : l’organisation doit s’adapter, et le groupe peut se montrer solidaire.",
+    "relatedLessonIds": [
+      "l-7-3-3",
+      "l-7-2-1"
+    ],
+    "tags": [
+      "groupe",
+      "retard",
+      "voyage organisé"
+    ]
+  },
+  {
+    "id": "s-7-4",
+    "domainId": "voyager",
+    "level": "advanced",
+    "title": "Vol annulé",
+    "description": "Votre vol est annulé. Vous devez négocier avec un agent épuisé et rester juste avec les autres.",
+    "context": "Aéroport, 18 h. Le vol vers Athènes, pour lequel vous partiez à un mariage demain matin, vient d’être annulé en raison d’une grève. Soixante personnes font la queue devant un seul guichet. L’agente, Sofia, semble à bout. Vous attendez depuis quarante minutes. Un homme devant vous hurle sur elle.",
+    "characters": [
+      "Sofia, l’agente",
+      "Un passager furieux",
+      "Soixante passagers"
+    ],
+    "estimatedDuration": 5,
+    "steps": [
+      {
+        "id": "s-7-4-a",
+        "narrative": "",
+        "question": "L’homme devant vous hurle : « C’est votre faute, vous êtes des incapables ! » Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous lui dites calmement : « Ce n’est pas elle qui a décidé la grève. On est tous dans la même situation. »",
+            "score": 1,
+            "nextStepId": "s-7-4-b",
+            "feedbackTitle": "Une intervention mesurée.",
+            "feedback": "Vous ne l’agressez pas, et vous donnez un soutien discret à l’agente. Si le ton monte encore ou si vous vous sentez menacé, il sera temps de prévenir la sécurité."
+          },
+          {
+            "id": "b",
+            "label": "Vous filmez la scène pour la publier sur les réseaux sociaux.",
+            "score": 0,
+            "nextStepId": "s-7-4-b",
+            "feedbackTitle": "Vous exposez deux personnes.",
+            "feedback": "L’agente et le passager n’ont rien demandé. Une telle vidéo peut circuler et les poursuivre, et elle n’aide personne ici."
+          },
+          {
+            "id": "c",
+            "label": "Vous attendez, sans vous en mêler.",
+            "score": 0.5,
+            "nextStepId": "s-7-4-b",
+            "feedbackTitle": "Une réserve légitime.",
+            "feedback": "Personne ne vous oblige à intervenir, et il faut se méfier des personnes en colère. Votre attitude ensuite, au guichet, peut aussi tout changer pour l’agente."
+          }
+        ]
+      },
+      {
+        "id": "s-7-4-b",
+        "narrative": "C’est votre tour. Sofia lève à peine les yeux. Son badge porte son prénom.",
+        "question": "Comment vous adressez-vous à elle ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Bonjour Sofia. Je sais que vous n’y êtes pour rien, et que la journée doit être très longue. Je dois être à Athènes demain matin pour un mariage. Quelles sont les options possibles ? »",
+            "score": 1,
+            "feedbackTitle": "Le salut, la considération, le fait.",
+            "feedback": "Vous la traitez comme une personne, vous donnez le fait important et vous posez une question ouverte. Elle fera sans doute plus volontiers tout ce qu’elle peut pour vous."
+          },
+          {
+            "id": "b",
+            "label": "« Il me faut absolument une place pour demain matin. Je connais mes droits. »",
+            "score": 0.5,
+            "feedbackTitle": "Exact, mais rude.",
+            "feedback": "Vous avez des droits, en effet. Mais commencer ainsi vous place en adversaire de la seule personne qui peut vous aider maintenant, et cela vous dessert."
+          },
+          {
+            "id": "c",
+            "label": "« Je voyage souvent avec vous et je vais me plaindre à votre direction de la façon dont vous gérez ça. »",
+            "score": 0,
+            "feedbackTitle": "Une menace inutile.",
+            "feedback": "Elle n’a pas organisé la grève, et elle a sans doute entendu cela vingt fois aujourd’hui. Une éventuelle réclamation se rédige ensuite, à froid."
+          }
+        ]
+      }
+    ],
+    "rule": "Le personnel n’est pas l’auteur des imprévus : on le traite avec considération, et l’on fait valoir ses droits ensuite, par écrit et à froid.",
+    "nuance": "Le règlement (CE) n° 261/2004 prévoit dans l’Union européenne une assistance et, dans certains cas, une indemnisation. Les grèves peuvent constituer des circonstances extraordinaires : vérifiez les conditions et conservez vos justificatifs.",
+    "relatedLessonIds": [
+      "l-7-3-5",
+      "l-7-1-5"
+    ],
+    "tags": [
+      "avion",
+      "annulation",
+      "réclamation",
+      "personnel"
+    ]
+  }
+]

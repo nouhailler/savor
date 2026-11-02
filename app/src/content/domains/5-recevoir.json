@@ -1,0 +1,331 @@
+{
+  "id": "recevoir",
+  "slug": "recevoir",
+  "number": 5,
+  "title": "Savoir recevoir et être reçu",
+  "shortTitle": "Recevoir et être reçu",
+  "description": "Invitations, table, dîners, séjours : l’hospitalité vue des deux côtés de la porte.",
+  "objective": "Enseigner l'art de recevoir, l'organisation des invitations, les usages de table, l'accueil des invités et le comportement approprié lorsqu'on est invité.",
+  "icon": "DoorOpen",
+  "order": 5,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Les bases de la réception",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "Maîtriser l'organisation des réceptions",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "L'art des grandes réceptions",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-5-1-1",
+      "number": "5.1.1",
+      "level": "beginner",
+      "title": "Comprendre l'art de recevoir",
+      "topics": [
+        "Sens de l'hospitalité",
+        "Attention aux invités",
+        "Préparation",
+        "Organisation",
+        "Accueil"
+      ]
+    },
+    {
+      "id": "l-5-1-2",
+      "number": "5.1.2",
+      "level": "beginner",
+      "title": "Les invitations",
+      "topics": [
+        "Inviter oralement",
+        "Inviter par écrit",
+        "Répondre à une invitation",
+        "Confirmer sa présence",
+        "Décliner poliment"
+      ]
+    },
+    {
+      "id": "l-5-1-3",
+      "number": "5.1.3",
+      "level": "beginner",
+      "title": "Préparer son domicile",
+      "topics": [
+        "Propreté",
+        "Ordre",
+        "Préparation de l'espace",
+        "Confort des invités",
+        "Accessibilité"
+      ]
+    },
+    {
+      "id": "l-5-1-4",
+      "number": "5.1.4",
+      "level": "beginner",
+      "title": "Dresser une table",
+      "topics": [
+        "Nappe",
+        "Assiettes",
+        "Couverts",
+        "Verres",
+        "Serviettes",
+        "Présentation générale"
+      ]
+    },
+    {
+      "id": "l-5-1-5",
+      "number": "5.1.5",
+      "level": "beginner",
+      "title": "L'accueil des invités",
+      "topics": [
+        "Accueillir",
+        "Débarrasser un invité de son manteau si nécessaire",
+        "Présenter les personnes",
+        "Orienter les invités",
+        "Proposer une première attention"
+      ]
+    },
+    {
+      "id": "l-5-1-6",
+      "number": "5.1.6",
+      "level": "beginner",
+      "title": "Les manières à table",
+      "topics": [
+        "Position",
+        "Serviette",
+        "Utilisation des couverts",
+        "Conversation",
+        "Respect des convives"
+      ]
+    },
+    {
+      "id": "l-5-1-7",
+      "number": "5.1.7",
+      "level": "beginner",
+      "title": "Être un bon invité",
+      "topics": [
+        "Ponctualité",
+        "Tenue adaptée",
+        "Attitude",
+        "Respect de la maison",
+        "Remerciements"
+      ]
+    },
+    {
+      "id": "l-5-1-8",
+      "number": "5.1.8",
+      "level": "beginner",
+      "title": "Les cadeaux et les fleurs",
+      "topics": [
+        "Choisir un cadeau",
+        "Offrir des fleurs",
+        "Présenter un cadeau",
+        "Recevoir un cadeau",
+        "Remercier"
+      ]
+    },
+    {
+      "id": "l-5-2-1",
+      "number": "5.2.1",
+      "level": "intermediate",
+      "title": "Organiser un dîner",
+      "topics": [
+        "Définir le nombre d'invités",
+        "Choisir le menu",
+        "Organiser les horaires",
+        "Préparer la table",
+        "Prévoir les besoins particuliers"
+      ]
+    },
+    {
+      "id": "l-5-2-2",
+      "number": "5.2.2",
+      "level": "intermediate",
+      "title": "Le placement des convives",
+      "topics": [
+        "Organisation d'une table",
+        "Présentation des invités",
+        "Compatibilité des convives",
+        "Conversations",
+        "Adaptation aux situations"
+      ]
+    },
+    {
+      "id": "l-5-2-3",
+      "number": "5.2.3",
+      "level": "intermediate",
+      "title": "Le menu et le service",
+      "topics": [
+        "Construction d'un menu",
+        "Ordre des plats",
+        "Rythme du repas",
+        "Service",
+        "Attention aux restrictions alimentaires"
+      ]
+    },
+    {
+      "id": "l-5-2-4",
+      "number": "5.2.4",
+      "level": "intermediate",
+      "title": "Les usages des boissons",
+      "topics": [
+        "Service de l'eau",
+        "Service des boissons",
+        "Accords mets et boissons",
+        "Alternatives sans alcool",
+        "Respect des choix des invités"
+      ]
+    },
+    {
+      "id": "l-5-2-5",
+      "number": "5.2.5",
+      "level": "intermediate",
+      "title": "Les cocktails et buffets",
+      "topics": [
+        "Organisation",
+        "Accueil",
+        "Circulation",
+        "Service",
+        "Conversation debout"
+      ]
+    },
+    {
+      "id": "l-5-2-6",
+      "number": "5.2.6",
+      "level": "intermediate",
+      "title": "Les repas en famille et entre amis",
+      "topics": [
+        "Déjeuners",
+        "Dîners",
+        "Repas festifs",
+        "Repas improvisés",
+        "Gestion des invités inattendus"
+      ]
+    },
+    {
+      "id": "l-5-2-7",
+      "number": "5.2.7",
+      "level": "intermediate",
+      "title": "Recevoir pour un week-end",
+      "topics": [
+        "Préparation de la chambre",
+        "Organisation du séjour",
+        "Repas",
+        "Activités",
+        "Respect de l'intimité"
+      ]
+    },
+    {
+      "id": "l-5-2-8",
+      "number": "5.2.8",
+      "level": "intermediate",
+      "title": "Être reçu pour un week-end",
+      "topics": [
+        "Préparer son séjour",
+        "Respecter les habitudes des hôtes",
+        "Participer à la vie commune",
+        "Préserver l'intimité",
+        "Remercier après le séjour"
+      ]
+    },
+    {
+      "id": "l-5-2-9",
+      "number": "5.2.9",
+      "level": "intermediate",
+      "title": "Recevoir des fleurs et des cadeaux",
+      "topics": [
+        "Réaction appropriée",
+        "Remerciements",
+        "Mise en valeur du cadeau",
+        "Gestion des situations embarrassantes"
+      ]
+    },
+    {
+      "id": "l-5-3-1",
+      "number": "5.3.1",
+      "level": "advanced",
+      "title": "Organiser une réception formelle",
+      "topics": [
+        "Définir le protocole",
+        "Préparer les invitations",
+        "Organiser les placements",
+        "Déterminer les temps forts",
+        "Coordonner le service"
+      ]
+    },
+    {
+      "id": "l-5-3-2",
+      "number": "5.3.2",
+      "level": "advanced",
+      "title": "Les dîners de prestige",
+      "topics": [
+        "Composition du menu",
+        "Ordre des services",
+        "Présentation des convives",
+        "Gestion des conversations",
+        "Rythme du dîner"
+      ]
+    },
+    {
+      "id": "l-5-3-3",
+      "number": "5.3.3",
+      "level": "advanced",
+      "title": "Le protocole de table",
+      "topics": [
+        "Préséances",
+        "Organisation des places",
+        "Ordre de service",
+        "Gestion des personnalités",
+        "Adaptation des usages"
+      ]
+    },
+    {
+      "id": "l-5-3-4",
+      "number": "5.3.4",
+      "level": "advanced",
+      "title": "Les réceptions professionnelles",
+      "topics": [
+        "Dîner d'affaires",
+        "Réception de partenaires",
+        "Accueil de clients",
+        "Présentation de collaborateurs",
+        "Conversation professionnelle"
+      ]
+    },
+    {
+      "id": "l-5-3-5",
+      "number": "5.3.5",
+      "level": "advanced",
+      "title": "Les situations délicates lors d'une réception",
+      "topics": [
+        "Invité en retard",
+        "Invité imprévu",
+        "Désaccord entre convives",
+        "Incident de service",
+        "Problème alimentaire",
+        "Comportement déplacé"
+      ]
+    },
+    {
+      "id": "l-5-3-6",
+      "number": "5.3.6",
+      "level": "advanced",
+      "title": "L'art de l'hospitalité",
+      "topics": [
+        "Anticiper les besoins",
+        "Faire sentir les invités à l'aise",
+        "Préserver leur dignité",
+        "Éviter l'ostentation",
+        "Conclure élégamment une réception"
+      ]
+    }
+  ]
+}

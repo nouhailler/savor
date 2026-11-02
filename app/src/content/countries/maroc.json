@@ -1,0 +1,156 @@
+{
+  "id": "c-maroc",
+  "slug": "maroc",
+  "name": "Maroc",
+  "region": "Afrique du Nord",
+  "languages": [
+    "Arabe",
+    "Amazighe (berbère)",
+    "Français, largement utilisé"
+  ],
+  "intro": "L’hospitalité y est une valeur centrale : le thé à la menthe, le temps pris à se saluer, la table généreuse. Le pays mêle des influences arabes, amazighes, africaines et européennes.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Long échange, main sur le cœur possible"
+    },
+    {
+      "label": "Hospitalité",
+      "value": "Thé à la menthe, refus difficile"
+    },
+    {
+      "label": "Main",
+      "value": "Droite, pour manger et donner"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Courant, modeste"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Le salut prend du temps : on s’enquiert de la santé et de la famille avant d’entrer dans le vif du sujet.",
+        "Une poignée de main, parfois suivie d’un geste de la main vers le cœur.",
+        "Entre personnes de sexes différents, attendez que l’autre propose le contact : certains préfèrent s’en abstenir."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "La ponctualité est souple en société, un peu moins en affaires, notamment dans les grandes entreprises.",
+        "Prévoyez du temps pour les échanges avant et après un rendez-vous."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "Accepter une invitation ou du thé est un geste important : un refus répété peut blesser.",
+        "On se déchausse souvent à l’entrée d’une maison.",
+        "On apporte des pâtisseries, des fruits ou un présent pour les enfants, et pas d’alcool si l’on ignore les habitudes de la famille."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "On peut manger dans un plat commun, de la main droite, et uniquement dans la partie devant soi.",
+        "On se lave les mains avant le repas, souvent avec une aiguière que l’on vous présente.",
+        "L’hôte insiste pour vous resservir : c’est une marque d’hospitalité, et vous pouvez décliner avec le sourire, une main sur le cœur."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "On donne et l’on reçoit de la main droite ou des deux mains.",
+        "Un présent de votre région ou une attention pour les enfants est apprécié.",
+        "Évitez l’alcool et le porc, sauf si vous connaissez les habitudes de la famille."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Une tenue couvrant les épaules et les genoux est appréciée, surtout dans les campagnes et les quartiers traditionnels.",
+        "Dans les grandes villes, les usages sont très divers.",
+        "Dans les lieux de culte, seules certaines mosquées sont accessibles aux non-musulmans, comme la mosquée Hassan-II à Casablanca."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "La conversation est chaleureuse, et un refus direct est souvent évité.",
+        "Les formules religieuses (« Inch’Allah », « Hamdoullah ») font partie du langage courant.",
+        "Marchander fait partie de l’usage dans les souks, et se fait avec bonne humeur."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "La main gauche est considérée comme impure pour manger ou donner : employez la droite.",
+        "Montrer la plante de ses pieds est malvenu.",
+        "Les marques d’affection en public restent mal vues entre personnes qui ne sont pas de la même famille. Entre amis du même sexe, elles sont courantes."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "La monarchie, la religion et le Sahara occidental sont des sujets très sensibles, encadrés par la loi. Évitez d’en parler à la légère.",
+        "Certaines relations (hors mariage, homosexuelles) restent pénalisées : informez-vous avant le voyage, et soyez prudent."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "La relation personnelle précède souvent l’affaire : un thé ou un repas peuvent être indispensables.",
+        "Le français est très utilisé dans les affaires, et les titres sont appréciés.",
+        "Pendant le ramadan, les rythmes de travail changent : évitez de manger ou de boire devant vos collègues en journée."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Photographier les personnes sans leur demander.",
+        "Manger ou boire en public pendant le ramadan : la loi peut le sanctionner pour les musulmans, et ce geste est très mal vu.",
+        "Refuser sèchement du thé, ou proposer d’emblée de payer une invitation."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Le pourboire est apprécié pour les services (guides, restaurants, porteurs).",
+        "Quelques mots de darija ou de tachelhit sont très bien reçus.",
+        "Les usages varient beaucoup entre Casablanca, les villages de l’Atlas et le Sud."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Salam alaykoum",
+      "meaning": "Que la paix soit sur vous : salut courant."
+    },
+    {
+      "original": "Choukran",
+      "meaning": "Merci."
+    },
+    {
+      "original": "Bslama",
+      "meaning": "Au revoir."
+    }
+  ],
+  "generalizationNote": "Le Maroc n’est pas uniforme : les identités arabes et amazighes, les villes et les campagnes, les générations et les pratiques religieuses varient fortement. Ces repères sont des tendances. De plus, les règles juridiques évoquées peuvent évoluer : vérifiez-les auprès de sources officielles.",
+  "sources": [
+    {
+      "title": "Conseils aux voyageurs : Maroc",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "title": "Office national marocain du tourisme",
+      "note": "visitmorocco.com"
+    },
+    {
+      "author": "Geert Hofstede, Gert Jan Hofstede, Michael Minkov",
+      "title": "Cultures et organisations"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

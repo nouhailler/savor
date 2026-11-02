@@ -1,0 +1,103 @@
+/* Design system « Une bibliothèque, pas un jeu » — repris de la maquette Claude Design.
+   Papier, encre bleu nuit ; l'or pour les filets et repères ; le sauge pour ce qui est juste. */
+:root {
+  --ivory: #faf7f0;
+  --cream: #f2ecdf;
+  --cream-hover: #ece4d3;
+  --card: #fffdf9;
+  --hover-soft: #f7f2e8;
+  --rule: #e5dccb;
+  --rule-soft: #efe7d8;
+  --rule-strong: #d3c5ac;
+
+  --ink: #1d2640;
+  --ink-hover: #2e3a5c;
+  --on-ink: #faf7f0;
+  --text: #3a3d45;
+  --muted: #5c606b;
+
+  --gold: #b08d45;
+  --gold-deep: #7a5e22;
+  --gold-light: #e3cd9a;
+  --sage-deep: #476046;
+  --terracotta: #9b4a32;
+
+  --ok-bg: #eaf0e6;
+  --ok-bd: #c9d7c2;
+  --ok-fg: #3e5a3d;
+  --mid-bg: #f5edda;
+  --mid-bd: #e0cfa6;
+  --mid-fg: #6e5520;
+  --ko-bg: #f6e6df;
+  --ko-fg: #8a3f2a;
+  --adv-bg: #e6e9f0;
+  --adv-bd: #c3c9d8;
+  --adv-fg: #1d2640;
+
+  --panel-dark: #1d2640;
+  --panel-dark-text: #faf7f0;
+  --panel-dark-accent: #e3cd9a;
+
+  --shadow: 0 1px 2px rgba(29, 38, 64, 0.04), 0 8px 24px -12px rgba(29, 38, 64, 0.14);
+  --serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --sans: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  --ivory: #14181f;
+  --cream: #1e232d;
+  --cream-hover: #272d39;
+  --card: #1a1f28;
+  --hover-soft: #222834;
+  --rule: #343b48;
+  --rule-soft: #2a303c;
+  --rule-strong: #4a5262;
+
+  --ink: #f1ece0;
+  --ink-hover: #ffffff;
+  --on-ink: #14181f;
+  --text: #d6d3ca;
+  --muted: #a7a8ab;
+
+  --gold: #c9a65f;
+  --gold-deep: #dbb974;
+  --gold-light: #e3cd9a;
+  --sage-deep: #9dbb97;
+  --terracotta: #e09a82;
+
+  --ok-bg: #243226;
+  --ok-bd: #3c5240;
+  --ok-fg: #b5d1af;
+  --mid-bg: #352c19;
+  --mid-bd: #57482a;
+  --mid-fg: #e3cd9a;
+  --ko-bg: #3a2620;
+  --ko-fg: #eeb5a2;
+  --adv-bg: #262c3c;
+  --adv-bd: #434c63;
+  --adv-fg: #d5dbea;
+
+  --panel-dark: #262c3c;
+  --panel-dark-text: #f1ece0;
+  --panel-dark-accent: #e3cd9a;
+
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.6);
+  color-scheme: dark;
+}
+
+/* Contraste renforcé : assombrit le texte secondaire et épaissit les séparateurs. */
+:root[data-contrast='high'] {
+  --muted: #3a3d45;
+  --text: #22252c;
+  --rule: #a89a80;
+  --rule-soft: #bfb29a;
+  --gold-deep: #5f4817;
+}
+:root[data-theme='dark'][data-contrast='high'] {
+  --muted: #d6d3ca;
+  --text: #f1ece0;
+  --rule: #6d7486;
+  --rule-soft: #5a6172;
+  --gold-deep: #eccb86;
+}

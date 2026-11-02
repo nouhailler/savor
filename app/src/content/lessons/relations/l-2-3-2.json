@@ -1,0 +1,312 @@
+{
+  "id": "l-2-3-2",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Un conflit bien traité peut renforcer une relation ; mal traité, il s’étend à tout le reste. Repérer les tensions, désamorcer, s’excuser, accepter des excuses et laisser à chacun une issue honorable.",
+  "estimatedDuration": 14,
+  "tags": [
+    "conflit",
+    "désaccord",
+    "excuses",
+    "médiation",
+    "communication non violente",
+    "face",
+    "négociation"
+  ],
+  "objectives": [
+    "Repérer une tension avant qu’elle ne devienne un conflit ouvert.",
+    "Désamorcer un échange qui s’envenime, grâce au langage et au rythme.",
+    "Distinguer les personnes, les besoins et les positions.",
+    "Laisser à chacun une issue honorable, et accepter les excuses de l’autre."
+  ],
+  "introduction": "On présente souvent la bonne éducation comme l’art d’éviter les conflits. C’est une illusion : là où des personnes vivent ou travaillent ensemble, leurs intérêts finissent par entrer en collision. L’évitement n’abolit pas le différend, il le transporte vers les insinuations, les silences et les alliances.\n\nLe véritable savoir-vivre ne consiste donc pas à ne jamais s’opposer. Il consiste à s’opposer de telle façon que la relation survive, et que chacun puisse regarder l’autre en face le lendemain. Cette leçon propose quelques outils issus de la négociation et de la sociologie, sans prétendre tout résoudre : certains conflits nécessitent un médiateur, voire la justice.",
+  "sections": [
+    {
+      "title": "Identifier la tension",
+      "content": "Un conflit s’annonce généralement avant d’éclater : plaisanteries plus acides, réponses laconiques, informations qui ne circulent plus, soupirs en réunion. Plus on intervient tôt, plus la conversation reste simple. Une discussion ouverte le jour où la première irritation apparaît prend dix minutes ; six mois plus tard, elle portera sur des griefs accumulés dont chacun aura sa propre version.\n\nIl est utile de distinguer ce que l’on observe de ce que l’on en conclut. « Tu ne m’as pas mis en copie du message » constitue une observation ; « Tu veux m’écarter du projet » constitue une interprétation. Marshall Rosenberg, le fondateur de la communication non violente, a beaucoup insisté sur ce point : l’observation peut se discuter sans blesser, tandis que l’interprétation met aussitôt l’autre en position de défense. Avant de parler, demandez-vous quels sont les faits et quelle histoire vous vous êtes racontée à partir d’eux.\n\nDemandez-vous aussi si vous êtes dans de bonnes conditions pour agir. La fatigue, la faim, l’urgence et la présence de témoins aggravent tout. Choisir un moment et un lieu propices n’a rien d’une dérobade : il s’agit plutôt de donner sa chance à la conversation. « Je voudrais qu’on parle de la réunion de mardi : tu as un moment demain matin ? »"
+    },
+    {
+      "title": "Désamorcer",
+      "content": "Quand un échange monte, le premier levier est physique : baisser le volume, ralentir le rythme, s’asseoir si l’on est debout. Le corps du vis-à-vis tend à s’accorder au vôtre. Le deuxième levier est l’écoute. Reformuler ce que dit l’autre (« Si je comprends bien, tu as eu l’impression que j’avais décidé sans toi ») ne signifie pas lui donner raison, et produit pourtant presque toujours une baisse de tension : la personne n’a plus besoin de crier pour se faire entendre.\n\nLe vocabulaire compte énormément. « Toujours » et « jamais » transforment un fait en procès. Le « tu » accusateur appelle une défense, tandis que le « je » dit ce que l’on vit : « Quand je reçois la consigne le soir pour le lendemain, je n’arrive pas à m’organiser » plutôt que « Tu ne prévois jamais rien ». Ce n’est pas une recette magique : un « je » sarcastique reste une attaque. L’important est de parler de la situation et de ses effets plutôt que de la personnalité de l’autre.\n\nEnfin, il faut savoir interrompre. « Je sens que je m’énerve et je ne veux pas dire quelque chose que je regretterais : on peut reprendre dans une heure ? » est une marque de maîtrise, à condition de revenir au sujet ensuite. Quitter la pièce sans un mot, ou couper court sans jamais reprendre, revient à punir l’autre par le silence."
+    },
+    {
+      "title": "Chercher une issue",
+      "content": "Roger Fisher et William Ury ont popularisé, dans Comment réussir une négociation, une distinction très utile entre positions et intérêts. Deux voisins se disputent une haie : l’un veut la couper (position), parce qu’il veut de la lumière (intérêt) ; l’autre veut la garder, parce qu’il tient à son intimité. Une haie moins haute, ou taillée en forme, peut satisfaire les deux. Tant qu’on se bat sur les positions, il faut un perdant ; dès qu’on cherche les intérêts, de nouvelles options apparaissent.\n\nIl importe aussi de préserver ce que Goffman appelle la « face » de chacun : l’image de lui qu’il souhaite présenter. Ce qui bloque souvent une résolution n’est pas le fond, mais la peur de sortir humilié de l’échange. Ménager une sortie consiste à présenter un changement de position comme légitime : « Avec ce que tu sais maintenant, cela se comprend », « Personne n’avait toutes les informations ». Humilier quelqu’un qui vient de céder revient à préparer le prochain conflit.\n\nUne solution acceptable n’impose pas l’accord sur tout. On peut être en désaccord sur le fond et s’entendre sur ce qu’on fera ensuite. Il est sain d’écrire ce qui a été convenu, surtout au travail. Certains conflits ne se résolvent pas seuls, et un tiers neutre, comme un médiateur familial, un responsable, un conciliateur de justice, peut être le plus sage recours."
+    },
+    {
+      "title": "Présenter et accepter des excuses",
+      "content": "Les excuses tardives sont plus difficiles, mais elles restent possibles. Après un grave désaccord, elles gagnent à être précises et sans contrepartie : on ne présente pas d’excuses pour obtenir celles de l’autre. Si vous avez aussi des griefs, ils feront l’objet d’une autre conversation. « Je regrette de t’avoir traité d’incompétent devant l’équipe. Rien ne le justifiait, même si nous ne sommes pas d’accord sur le projet. » Cette dernière précision permet de conserver le désaccord sans le transformer en attaque.\n\nAccepter des excuses demande aussi un effort. On peut refuser une fausse excuse, ou dire qu’il faudra du temps. Mais quand une excuse sincère est présentée, l’élégance consiste à ne pas prolonger l’exécution, à ne pas exiger de contrition supplémentaire, et à ne pas ressortir l’affaire au prochain désaccord. « Merci de me le dire. Passons à la suite » constitue une réponse admirable.\n\nAccepter n’est pas oublier, ni tout effacer. Lorsqu’un comportement relève de la violence, du harcèlement ou d’une atteinte répétée, des excuses ne suffisent pas et l’on n’est jamais tenu à la réconciliation. Le savoir-vivre ne remplace pas la protection de soi ni, si nécessaire, la loi."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-2-3-2-r1",
+      "title": "On parle du fait, pas de la personne.",
+      "description": "On décrit une situation observable et ses effets au lieu de porter un jugement sur le caractère de l’autre.",
+      "rationale": "Un fait peut se discuter, alors qu’un jugement sur la personne oblige celle-ci à se défendre. C’est ce qui transforme un problème en combat.",
+      "context": "Différends au travail, en couple, en famille, entre voisins.",
+      "recommendedBehavior": "Dites : « Quand [fait], je [effet sur vous]. » Évitez « toujours », « jamais », et les mots qui désignent des traits de caractère (« égoïste », « incompétent »).",
+      "exceptions": [
+        "Quand un comportement grave doit être signalé, on peut le nommer : la clarté prime sur la douceur."
+      ],
+      "remedy": "Si vous avez attaqué la personne : « Je retire ce que j’ai dit sur toi. Ce qui me pose problème, c’est tel fait. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-2-r2",
+      "title": "Un différend se règle en privé.",
+      "description": "On n’aborde pas un désaccord personnel devant des tiers, ni sur les réseaux sociaux, ni dans un message à tout le groupe.",
+      "rationale": "La présence de témoins oblige chacun à défendre sa « face » et interdit tout recul. Elle prend aussi les tiers en otage.",
+      "context": "Réunions, repas de famille, groupes de messagerie.",
+      "recommendedBehavior": "Reportez la discussion : « Parlons-en après, toi et moi. » Préférez le tête-à-tête ou l’appel à l’écrit, qui durcit le ton et reste.",
+      "exceptions": [
+        "Si une personne est attaquée devant vous, intervenir pour la soutenir peut être nécessaire.",
+        "Un signalement formel suit les canaux prévus."
+      ],
+      "remedy": "Si l’affrontement a eu lieu en public, reprenez en privé, puis dites un mot au groupe : « On s’est parlé, c’est réglé. »",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-2-r3",
+      "title": "On écoute avant de répondre.",
+      "description": "On reformule le point de vue de l’autre et on vérifie sa compréhension avant d’argumenter.",
+      "rationale": "Une personne qui se sent entendue a moins besoin de hausser le ton. Reformuler n’est pas approuver.",
+      "context": "Toutes discussions tendues.",
+      "recommendedBehavior": "« Si je comprends bien, ce qui t’a gêné, c’est… ? » Attendez la confirmation avant de donner votre version.",
+      "exceptions": [
+        "Face à des insultes ou des menaces, on n’écoute pas davantage : on met fin à l’échange."
+      ],
+      "remedy": "Si vous avez coupé la parole : « Excuse-moi, je t’ai interrompu, reprends. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-2-r4",
+      "title": "On laisse à l’autre une issue honorable.",
+      "description": "Une personne qui change d’avis ou reconnaît un tort doit pouvoir le faire sans perdre la face.",
+      "rationale": "Beaucoup de blocages tiennent moins au fond qu’à la crainte d’être humilié. Une sortie digne rend le recul possible.",
+      "context": "Négociations, disputes familiales, débats entre collègues.",
+      "recommendedBehavior": "Soulignez ce qui rend son choix compréhensible. Ne dites jamais « Je te l’avais bien dit », et ne triomphez pas.",
+      "exceptions": [],
+      "remedy": "Si vous avez triomphé bruyamment : « J’ai été lourd. Tu avais de bonnes raisons de penser ça. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-2-r5",
+      "title": "Une excuse sincère se reçoit sans prolonger le procès.",
+      "description": "On accepte l’excuse, ou l’on dit honnêtement qu’il faudra du temps, mais on ne la réutilise pas comme arme dans le prochain différend.",
+      "rationale": "Reprocher éternellement une faute reconnue dissuade toute reconnaissance future et rend le conflit interminable.",
+      "context": "Après des excuses, en couple, en famille, entre amis, au travail.",
+      "recommendedBehavior": "« Merci de me le dire. » Si la blessure reste vive : « J’entends ton excuse, il me faudra un peu de temps. »",
+      "exceptions": [
+        "Violence, harcèlement ou atteinte répétée : des excuses n’obligent en rien à reprendre la relation."
+      ],
+      "remedy": "Si vous avez ressorti une vieille affaire : « Je n’aurais pas dû y revenir, on avait réglé ça. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Le philosophe Georg Simmel, au début du XXe siècle, soutenait déjà que le conflit n’est pas seulement une pathologie des relations, mais aussi une forme de socialisation : on se confronte parce que l’on a un lien. Ce qui détruit les relations n’est donc pas l’existence du désaccord, mais la manière dont on le mène.\n\nLes règles de cette leçon protègent deux choses simples. D’abord, la possibilité de continuer à vivre ou à travailler ensemble une fois l’affaire terminée : on ne peut pas éviter son frère, son voisin ou son collègue toute sa vie. Ensuite, la dignité de chacun, y compris de celui qui a tort. Les recherches sur la négociation, comme celles de Fisher et Ury à Harvard, montrent que ce souci n’est pas seulement moral : il produit aussi de meilleures solutions, parce qu’il permet de parler de ce qui compte réellement.",
+  "examples": [
+    {
+      "context": "Votre collègue s’est attribué votre travail en réunion",
+      "behavior": "Vous attendez la fin et vous dites en tête-à-tête : « Sur la partie budget, tu as présenté le travail sans dire que je l’avais préparé. Ça m’a gêné. Pour la prochaine fois, je voudrais qu’on précise qui a fait quoi. »",
+      "explanation": "Le fait, l’effet et la demande. Vous ne dites pas qu’il est malhonnête : il peut répondre sans avoir à se défendre."
+    },
+    {
+      "context": "Une dispute avec votre frère s’emballe à propos de vos parents âgés",
+      "behavior": "« Je sens qu’on monte tous les deux. Ce qui compte, c’est que maman soit bien : on reprend demain et on liste ce qu’il y a à faire ? »",
+      "explanation": "Vous interrompez sans fuir, avec un rendez-vous, et vous revenez à l’intérêt commun."
+    },
+    {
+      "context": "Une voisine, après avoir contesté un bruit, reconnaît s’être trompée d’appartement",
+      "behavior": "« Merci de me le dire. C’est normal de vouloir savoir d’où ça vient, ces murs sont très mal isolés. »",
+      "explanation": "Vous lui offrez une issue digne plutôt qu’un triomphe : elle pourra vous saluer sans gêne demain."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "En plein repas de famille",
+      "behavior": "« Puisque tout le monde est là, on va enfin parler de ce que tu as fait à Noël dernier. »",
+      "consequences": "La personne est mise en accusation devant tous. Les autres doivent choisir un camp, et rien ne se résout.",
+      "alternative": "« J’aimerais qu’on se voie cette semaine, toi et moi, pour reparler de Noël. »"
+    },
+    {
+      "situation": "Dans un groupe de messagerie",
+      "behavior": "Répondre par un long message accusateur à tout le groupe, à 23 heures.",
+      "consequences": "L’écrit durcit le ton, reste consultable, et transforme un différend en affaire publique.",
+      "alternative": "Attendre le lendemain et téléphoner directement à la personne concernée."
+    },
+    {
+      "situation": "Une collègue reconnaît enfin que vous aviez raison",
+      "behavior": "« Tu vois, je te l’avais dit depuis le début. »",
+      "consequences": "Elle y réfléchira à deux fois avant de reconnaître une erreur la prochaine fois. La relation devient une partie à gagner.",
+      "alternative": "« Merci. Vu ce qu’on savait à l’époque, ton idée se défendait. Comment on rattrape ça ? »"
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Les cultures du conflit.",
+      "text": "Erin Meyer distingue les cultures où le désaccord ouvert est signe d’engagement, comme la France ou Israël, et celles où il menace l’harmonie, comme le Japon. Une objection directe peut être jugée stimulante ici, offensante ailleurs. Une médiation par un tiers, ou un entretien privé, y seront parfois bien plus efficaces."
+    },
+    {
+      "title": "L’égalité supposée.",
+      "text": "Ces outils supposent une relation à peu près équilibrée. Dans une relation de domination, comme le harcèlement moral, le chantage affectif ou les violences conjugales, chercher le bon mot n’a pas de sens et fait peser sur la victime la charge de la solution. Il faut alors parler à des personnes de confiance et à des professionnels, et si nécessaire aux autorités."
+    },
+    {
+      "title": "Tout n’a pas à être réglé.",
+      "text": "Certains désaccords sur les valeurs ne se résoudront pas. Convenir de ne plus en parler entre beaux-frères, garder une relation courtoise et plus distante, ou s’éloigner sont aussi des issues honorables. Le silence n’est blâmable que s’il sert de punition."
+    }
+  ],
+  "contexts": [
+    "Famille : héritages, soins aux parents, éducation, fêtes de famille.",
+    "Couple : tâches, argent, belle-famille, avec une attention particulière à l’équilibre entre les deux.",
+    "Travail : répartition des tâches, reconnaissance, tensions hiérarchiques, en utilisant au besoin un tiers.",
+    "Voisinage : bruit, haies, stationnement, avec le recours possible au conciliateur de justice."
+  ],
+  "keyPoints": [
+    "On parle du fait et de son effet, pas du caractère de la personne.",
+    "Le désaccord se traite en privé et à froid.",
+    "Reformuler n’est pas approuver, mais cela fait presque toujours baisser la tension.",
+    "Une issue honorable permet à l’autre de céder sans perdre la face."
+  ],
+  "exercise": {
+    "type": "ordering",
+    "title": "Une conversation difficile, étape par étape",
+    "instructions": "Un collègue a présenté votre travail comme le sien. Remettez ces étapes dans le meilleur ordre.",
+    "items": [
+      "Attendre d’être calme et distinguer les faits de ce que l’on en conclut",
+      "Proposer un moment en tête-à-tête",
+      "Décrire le fait et son effet sur vous, sans jugement sur sa personne",
+      "Écouter sa version et la reformuler",
+      "Convenir de ce qui se fera la prochaine fois, et le noter"
+    ],
+    "explanation": "Le calme vient d’abord, parce qu’il conditionne tout le reste. Le tête-à-tête évite de devoir sauver la face en public. On écoute avant de chercher une solution, sans quoi elle ne serait pas acceptée, et on termine par un accord concret."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-2-3-2-q1",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Quelle formulation ouvre le mieux une discussion sur un travail rendu en retard par un collègue ?",
+        "choices": [
+          "« Tu es toujours en retard, c’est insupportable. »",
+          "« Le rapport est arrivé jeudi au lieu de mardi, et je n’ai pas pu le relire. Comment s’organiser ? »",
+          "« Certains ne se rendent pas compte du travail que leur retard donne aux autres. »",
+          "« Je ne dis rien, mais tout le monde a remarqué ton retard et en parle déjà. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "La formule décrit un fait, son effet et ouvre sur l’avenir. « Toujours » généralise, l’allusion refuse de nommer le problème, et invoquer « tout le monde » revient à faire pression.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-3-2-q2",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Dans la distinction de Fisher et Ury, quelle est la différence entre position et intérêt ?",
+        "choices": [
+          "La position est ce que l’on réclame, l’intérêt ce qui motive cette demande",
+          "Ce sont deux mots pour la même chose",
+          "La position concerne le travail, l’intérêt la vie privée",
+          "L’intérêt est une demande égoïste, la position une demande légitime"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "« Je veux couper la haie » est une position ; « je veux de la lumière » est un intérêt. Chercher les intérêts ouvre des solutions que l’affrontement des positions rend invisibles.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-2-3-2-q3",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Reformuler le point de vue de l’autre revient à lui donner raison.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : reformuler montre que l’on a compris, non que l’on approuve. Ce geste apaise souvent parce que la personne n’a plus besoin de se répéter plus fort, et il ne vous empêche nullement d’exposer ensuite votre désaccord.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-2-3-2-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Une amie vient de reconnaître ses torts après une dispute. Quelle réaction est la moins heureuse ?",
+        "choices": [
+          "« Merci de me le dire. »",
+          "« J’ai besoin d’un peu de temps, mais j’apprécie que tu m’en parles. »",
+          "« Il était temps. Et puisqu’on y est, il y a aussi ce que tu as fait l’an dernier. »",
+          "« Merci. Je m’en veux aussi d’avoir réagi comme je l’ai fait. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Ressortir d’anciens griefs au moment où l’autre s’excuse le punit de sa franchise. Demander du temps reste légitime, et on peut reconnaître sa propre part sans transformer l’échange en procès.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-2-3-2-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Dans quel cas ces techniques de dialogue ne constituent-elles pas la réponse adaptée ?",
+        "choices": [
+          "Un désaccord sur la répartition des tâches ménagères",
+          "Un conflit de voisinage sur une haie",
+          "Des violences ou un harcèlement répétés",
+          "Une divergence sur l’organisation d’une fête de famille"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Ces méthodes supposent une relation à peu près équilibrée. Face à la violence ou au harcèlement, il ne s’agit plus d’améliorer ses formulations, mais de se protéger, de se faire aider et de saisir les autorités si nécessaire.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Roger Fisher et William Ury",
+      "title": "Comment réussir une négociation",
+      "publisher": "Seuil",
+      "year": "1982"
+    },
+    {
+      "author": "Marshall B. Rosenberg",
+      "title": "Les mots sont des fenêtres (ou bien ce sont des murs)",
+      "publisher": "La Découverte"
+    },
+    {
+      "author": "Erving Goffman",
+      "title": "Les Rites d’interaction",
+      "publisher": "Éditions de Minuit",
+      "year": "1974",
+      "note": "Sur la notion de « face »."
+    },
+    {
+      "author": "Georg Simmel",
+      "title": "Le Conflit",
+      "publisher": "Circé (trad. fr.)",
+      "year": "1908 pour le texte original"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

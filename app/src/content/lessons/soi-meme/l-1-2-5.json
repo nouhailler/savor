@@ -1,0 +1,287 @@
+{
+  "id": "l-1-2-5",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Pourquoi la cravate, pourquoi les talons, pourquoi le pantalon a-t-il été longtemps refusé aux femmes ? Une histoire des codes masculins et féminins, pour choisir librement aujourd’hui.",
+  "estimatedDuration": 11,
+  "tags": [
+    "histoire",
+    "mode",
+    "genre",
+    "pantalon",
+    "cravate",
+    "traditions",
+    "conventions"
+  ],
+  "objectives": [
+    "Situer dans l’histoire les codes vestimentaires dits masculins et féminins.",
+    "Comprendre ce que ces codes ont signifié, et pourquoi ils ont évolué.",
+    "Distinguer les conventions d’un événement des stéréotypes liés au genre.",
+    "Respecter les choix vestimentaires de chacun sans commentaire."
+  ],
+  "introduction": "À Paris, une ordonnance de 1800 interdisait aux femmes de porter le pantalon sans autorisation de la préfecture de police. Elle ne fut officiellement déclarée caduque qu’en 2013, sans avoir été appliquée depuis longtemps. Au XVIIe siècle, les hommes de la cour portaient talons, dentelles et perruques, et Louis XIV exhibait ses jambes comme un signe de pouvoir.\n\nCe que nous tenons pour masculin ou féminin n’a donc rien d’éternel. Cette leçon parcourt quelques étapes de cette histoire. Elle ne vous dira pas comment doit s’habiller un homme ou une femme : elle vous aidera à comprendre ce que portent ces signes, pour décider librement de ce que vous en faites.",
+  "sections": [
+    {
+      "title": "Quand les hommes portaient la dentelle",
+      "content": "Jusqu’à la fin du XVIIIe siècle, le vêtement exprime d’abord le rang. Un aristocrate porte de la soie, des broderies, des couleurs vives, parfois des talons rouges, signe du privilège à la cour de Louis XIV. La parure n’est pas une affaire de femmes : elle sert à montrer sa place dans la hiérarchie. Des lois somptuaires tentent d’ailleurs régulièrement de réserver certaines étoffes aux plus hautes conditions.\n\nLe tournant se produit au XIXe siècle. L’historien Philippe Perrot et d’autres ont décrit ce que l’on a appelé la « grande renonciation masculine » : les hommes de la bourgeoisie abandonnent les couleurs et les ornements pour le costume sombre, signe de sérieux et de travail. La richesse masculine se manifeste désormais par la qualité discrète de la coupe. En revanche, les femmes de cette même bourgeoisie sont chargées d’afficher la réussite de la famille, par des robes coûteuses et encombrantes.\n\nCes contraintes n’étaient pas seulement esthétiques. Le corset et les crinolines limitaient les mouvements, et les codes interdisaient à une femme de sortir sans chapeau ou sans gants. Parler d’élégance féminine sans mentionner cet aspect reviendrait à oublier ce que ces tenues ont signifié pour celles qui les portaient."
+    },
+    {
+      "title": "Le XXe siècle : les frontières se déplacent",
+      "content": "La Première Guerre mondiale, le travail féminin et le sport ont profondément transformé les vêtements. Des créatrices comme Coco Chanel ont proposé des coupes plus simples, inspirées en partie du vestiaire masculin. Le smoking pour femme de Yves Saint Laurent, en 1966, a marqué les esprits, tout comme le pantalon, longtemps refusé dans certains restaurants et lieux officiels. Dans les années 1970, en France, une élue pouvait encore être remarquée pour avoir porté un pantalon à l’Assemblée nationale.\n\nLe vestiaire masculin s’est transformé à son tour, plus lentement. La cravate, autrefois obligatoire dans beaucoup de bureaux, a nettement reculé, en particulier depuis les années 2000. Les couleurs et le soin de soi sont revenus, sans que cela soit jugé incompatible avec la virilité. Dans la mode des années récentes, plusieurs créateurs proposent des collections qu’ils ne destinent à aucun sexe en particulier.\n\nCes évolutions restent inégales. Certains milieux professionnels, certains pays et certaines familles maintiennent des attentes précises. Et les personnes qui s’écartent de ces normes, y compris les personnes transgenres ou non binaires, peuvent subir des remarques ou des discriminations. Le savoir-vivre a un rôle simple à jouer à cet égard : ne pas se mêler de ce que chacun porte."
+    },
+    {
+      "title": "Conventions de l’événement ou stéréotypes ?",
+      "content": "Il faut distinguer ce que demande une occasion de ce qu’une habitude impose aux personnes. Une invitation qui demande une « tenue de soirée » fixe un degré de formalité, et chacun peut y répondre à sa manière. Une consigne qui exigerait que les femmes portent des talons, un maquillage ou une jupe, et les hommes une cravate, va au-delà : elle dit à chacun qui il doit être. En Grande-Bretagne, l’affaire de Nicola Thorp, renvoyée chez elle sans salaire en 2015 pour avoir refusé de porter des talons, a provoqué un débat public important.\n\nCertaines cérémonies conservent des traditions : l’habit à l’Académie française, le costume traditionnel de certains corps de métier, la toque des magistrats ou l’uniforme militaire. Elles ne visent pas à enfermer, mais à marquer une fonction, et ces fonctions sont aujourd’hui ouvertes aux femmes comme aux hommes. Les usages religieux peuvent aussi distinguer les tenues selon le sexe : si vous y assistez, vous respectez le lieu, ce qui n’implique pas d’adhérer à son message.\n\nPour soi, la question est simple : qu’est-ce qui me convient, à ce niveau de formalité ? Pour les autres, la réponse est plus simple encore : on ne commente pas. Dire à une femme qu’elle devrait « se mettre en valeur », à un homme qu’une tenue colorée « fait efféminé », ou demander à quelqu’un ce qu’il est, relève d’une intrusion que rien ne justifie."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-2-5-r1",
+      "title": "Un code décrit un degré de formalité, et non un genre.",
+      "description": "On répond à une invitation au niveau demandé, sans considérer qu’une tenue serait réservée à un sexe.",
+      "rationale": "Les associations entre vêtements et sexe ont beaucoup varié dans l’histoire : elles n’ont rien de naturel, et ne sont pas des règles de politesse.",
+      "context": "Mariages, galas, tenues professionnelles.",
+      "recommendedBehavior": "Choisissez ce qui vous convient au bon niveau de formalité : costume, robe, tailleur, tenue traditionnelle.",
+      "exceptions": [
+        "Certains lieux de culte et certains clubs imposent des distinctions : on se renseigne, puis on décide d’y aller ou non."
+      ],
+      "remedy": "Si l’on vous reproche votre choix, vous n’avez pas à vous justifier.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-2-5-r2",
+      "title": "On ne commente pas le genre à travers une tenue.",
+      "description": "On s’abstient de toute remarque sur le caractère masculin ou féminin de ce que porte une personne.",
+      "rationale": "Ces remarques la renvoient à une norme qu’elle n’a pas demandée, et elles peuvent blesser, en particulier les personnes qui ont déjà à défendre leur identité.",
+      "context": "Travail, famille, réceptions.",
+      "recommendedBehavior": "Ne dites rien, ou faites un compliment sur un choix précis : « Quelle belle couleur. »",
+      "exceptions": [
+        "Si la personne sollicite votre avis, répondez sur la tenue et non sur sa façon d’être un homme ou une femme."
+      ],
+      "remedy": "« Ma remarque était déplacée, excuse-moi. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-2-5-r3",
+      "title": "On respecte la tenue attachée à une fonction ou à un lieu.",
+      "description": "Toge, uniforme, habit d’une institution ou tenue d’un lieu de culte relèvent du rôle ou du lieu, et se respectent à ce titre.",
+      "rationale": "Ils ne disent rien de la valeur de la personne : ils signalent une fonction et un cadre, comme le ferait un badge.",
+      "context": "Tribunaux, armée, académies, lieux de culte.",
+      "recommendedBehavior": "Renseignez-vous avant une visite, et n’en faites pas un sujet de plaisanterie.",
+      "exceptions": [
+        "Rien ne vous empêche de discuter ailleurs de ces traditions : elles peuvent évoluer."
+      ],
+      "remedy": "Si l’on vous demande de vous couvrir à l’entrée d’un lieu : « Bien sûr. » Vous pouvez aussi renoncer à la visite, sans polémique.",
+      "conventionType": "traditional_custom",
+      "normativity": "formal_convention"
+    },
+    {
+      "id": "l-1-2-5-r4",
+      "title": "On replace les usages dans leur époque.",
+      "description": "On ne présente pas comme intemporel ce qui appartient à une période, et l’on se garde de juger les autres à partir de ces références.",
+      "rationale": "Beaucoup de « règles » ont moins d’un siècle, ou n’ont existé que dans un milieu. Les connaître permet de décider librement de ce que l’on en garde.",
+      "context": "Conseils à des proches, éducation, discussions sur la mode.",
+      "recommendedBehavior": "Dites : « C’était l’usage dans tel milieu, à telle époque », et non : « Une vraie femme, un vrai homme ne fait pas cela. »",
+      "exceptions": [],
+      "remedy": "« Je reconnais que c’est une vieille habitude. À toi de voir. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "L’histoire du vêtement n’est pas une anecdote : elle montre comment une société dit à chacun quelle est sa place. Roland Barthes, dans Système de la mode (1967), et plus tard l’historienne Christine Bard, dans Une histoire politique du pantalon (2010), ont montré que les vêtements portent de véritables enjeux de pouvoir et d’autonomie. Le pantalon a été pour les femmes une conquête concrète, liée au travail, au vélo et à la liberté de mouvement.\n\nC’est pourquoi une leçon sur l’élégance contemporaine ne saurait se limiter à répéter d’anciens usages. Ce qui reste de ces codes tient à leur fonction : marquer une occasion, honorer un moment, se reconnaître dans un groupe. Ce qui peut disparaître sans dommage tient à leur capacité à enfermer. Connaître cette histoire permet d’apprécier la beauté d’une tradition, tout en sachant de quoi elle a été faite.",
+  "examples": [
+    {
+      "context": "Pour un gala, une invitée préfère le smoking à la robe longue",
+      "behavior": "Elle choisit un smoking bien coupé. L’hôtesse lui dit simplement : « Bonsoir, quel plaisir de vous voir ! »",
+      "explanation": "Le niveau de formalité est respecté, et son choix n’appelle aucun commentaire."
+    },
+    {
+      "context": "Votre fils adolescent veut porter du vernis à ongles pour un repas de famille",
+      "behavior": "Vous lui demandez s’il veut que vous préveniez quelqu’un, et vous prenez sa défense si une remarque tombe : « C’est son choix, passons à autre chose. »",
+      "explanation": "Vous ne lui imposez pas une norme, et vous ne le laissez pas seul devant celle des autres."
+    },
+    {
+      "context": "Vous visitez une synagogue où les hommes doivent se couvrir la tête",
+      "behavior": "Vous portez la kippa proposée à l’entrée, comme les autres visiteurs, sans commentaire.",
+      "explanation": "Vous respectez l’usage d’un lieu, qui n’engage pas vos convictions."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Dans un mariage, devant une invitée en pantalon",
+      "behavior": "« Tu aurais pu mettre une robe, pour une fois. »",
+      "consequences": "Vous évaluez sa tenue selon une norme de genre, et vous gâchez son moment.",
+      "alternative": "Parler d’autre chose. Si le compliment vous vient, faites-le sur le choix."
+    },
+    {
+      "situation": "Au travail, dans une note de service",
+      "behavior": "Exiger que les femmes de l’accueil portent des talons et du maquillage.",
+      "consequences": "Vous imposez une contrainte liée au sexe, sans rapport avec le poste, et vous exposez l’entreprise à des difficultés au regard du droit.",
+      "alternative": "Exprimer un même niveau de soin pour tous : « tenue soignée, chaussures propres »."
+    },
+    {
+      "situation": "Devant un collègue qui porte une tenue de couleurs vives",
+      "behavior": "« C’est un peu féminin, non ? »",
+      "consequences": "Votre plaisanterie véhicule l’idée qu’être associé au féminin serait dévalorisant.",
+      "alternative": "Ne rien dire, ou : « Cette couleur te va bien. »"
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Les hommes aussi subissent des normes.",
+      "text": "Des hommes peuvent souffrir de l’obligation de cravate dans la chaleur, de plaisanteries sur une tenue trop soignée, ou de ne pas pouvoir porter une chose qu’ils aiment. L’enjeu n’oppose pas les hommes aux femmes : il touche chacun à sa manière."
+    },
+    {
+      "title": "Hors d’Europe.",
+      "text": "Les tenues traditionnelles varient : kimono au Japon, sarong en Asie du Sud-Est, jupe écossaise, djellaba. Plusieurs d’entre elles sont portées par des hommes, ce qui rappelle la relativité des catégories. Il faut néanmoins éviter d’emprunter sans comprendre ce que portent ces signes, surtout s’ils ont une valeur religieuse ou cérémonielle."
+    },
+    {
+      "title": "Goûts personnels.",
+      "text": "Aimer une tenue très classique, voire traditionnellement « féminine » ou « masculine », n’a rien de rétrograde : c’est un choix. Le problème n’est pas le vêtement, mais l’obligation. Il ne faudrait pas remplacer une norme par une autre."
+    }
+  ],
+  "contexts": [
+    "Réceptions et galas : niveau de formalité respecté, liberté de la forme.",
+    "Vie professionnelle : règles identiques pour tous, sauf exigences de sécurité.",
+    "Cérémonies religieuses : respect du lieu, sans obligation d’adhésion.",
+    "Famille : soutien à chacun, et absence de commentaire sur le genre."
+  ],
+  "keyPoints": [
+    "Ce que l’on croit masculin ou féminin a beaucoup varié dans l’histoire.",
+    "Un code fixe un niveau de formalité, et non un genre.",
+    "On respecte les tenues de fonction et de lieu, sans adhésion obligatoire.",
+    "On ne commente jamais le genre à travers une tenue."
+  ],
+  "exercise": {
+    "type": "ordering",
+    "title": "Une brève chronologie",
+    "instructions": "Classez ces étapes de la plus ancienne à la plus récente.",
+    "items": [
+      "Talons et dentelles à la cour de Louis XIV",
+      "Ordonnance parisienne encadrant le port du pantalon par les femmes",
+      "Grande renonciation masculine au costume sombre",
+      "Le smoking pour femme d’Yves Saint Laurent",
+      "L’ordonnance sur le pantalon déclarée caduque par le ministère des Droits des femmes"
+    ],
+    "explanation": "Ces étapes montrent que les codes ne cessent de se déplacer, et qu’ils ont souvent suivi les transformations du travail et des droits. Ce que nous tenons pour une évidence a rarement plus de quelques générations."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-1-2-5-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que désigne la « grande renonciation masculine » ?",
+        "choices": [
+          "Le refus des hommes de porter le pantalon à la fin du XVIIIe siècle",
+          "L’abandon par les hommes de la bourgeoisie des couleurs et ornements, au XIXe siècle",
+          "La suppression de la cravate dans les entreprises, dans les années 2000",
+          "L’interdiction faite aux hommes de porter des talons"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Au XIXe siècle, le costume sombre devient un signe de sérieux et de travail. La parure est alors reportée sur les femmes, ce qui montre le caractère historique de ces associations.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-2-5-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Les talons hauts ont toujours été réservés aux femmes.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : à la cour de Louis XIV, les talons rouges étaient un signe de privilège porté par les hommes. Ce genre d’exemple rappelle que ces associations ne sont en rien naturelles.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-2-5-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Laquelle de ces remarques est la plus maladroite ?",
+        "choices": [
+          "« Quelle belle couleur ! »",
+          "« Cette veste te va vraiment bien, tu sais. »",
+          "« Tu aurais pu mettre une robe, pour une fois. »",
+          "« Où as-tu trouvé ce foulard ? Il est joli. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "La remarque évalue la personne selon une norme de genre. Les autres portent sur un choix et ne lui disent pas comment elle devrait être.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-2-5-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Comment distinguer une convention d’événement d’un stéréotype ?",
+        "choices": [
+          "La convention fixe un niveau de formalité, le stéréotype dicte une tenue selon le sexe",
+          "Le stéréotype est toujours plus ancien que la convention qu’il accompagne",
+          "Une convention ne concerne que les hommes, et un stéréotype que les femmes",
+          "Il n’y a aucune différence"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "« Tenue de soirée » précise un degré de soin, auquel chacun peut répondre. « Talons obligatoires pour les femmes » va au-delà et prescrit un rôle.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-2-5-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Vous visitez un lieu de culte qui impose une tenue distincte selon le sexe. Quelle attitude adopter ?",
+        "choices": [
+          "Refuser et expliquer aux fidèles pourquoi c’est dépassé",
+          "Respecter l’usage pendant la visite, ou y renoncer sans polémique",
+          "Ignorer la consigne, car vous êtes touriste",
+          "Vous moquer de cette règle sur les réseaux sociaux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le respect du lieu n’engage pas vos convictions. Vous pouvez aussi ne pas y aller, ou en discuter ailleurs, mais une visite n’est pas le moment de donner une leçon à ceux qui vous accueillent.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Christine Bard",
+      "title": "Une histoire politique du pantalon",
+      "publisher": "Seuil",
+      "year": "2010"
+    },
+    {
+      "author": "Philippe Perrot",
+      "title": "Les Dessus et les Dessous de la bourgeoisie",
+      "publisher": "Fayard",
+      "year": "1981"
+    },
+    {
+      "author": "Roland Barthes",
+      "title": "Système de la mode",
+      "publisher": "Seuil",
+      "year": "1967"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

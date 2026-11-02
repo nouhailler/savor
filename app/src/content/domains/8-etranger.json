@@ -1,0 +1,268 @@
+{
+  "id": "etranger",
+  "slug": "etranger",
+  "number": 8,
+  "title": "Savoir-vivre à l'étranger",
+  "shortTitle": "Savoir-vivre à l’étranger",
+  "description": "Codes culturels, salutations, table, religion : comprendre les autres sans les caricaturer.",
+  "objective": "Développer une compréhension approfondie des différences culturelles, des usages internationaux et des comportements permettant de respecter les traditions et sensibilités locales.",
+  "icon": "GlobeHemisphereWest",
+  "order": 8,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Comprendre les différences culturelles",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "Les usages par régions du monde",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "L'intelligence interculturelle",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-8-1-1",
+      "number": "8.1.1",
+      "level": "beginner",
+      "title": "Pourquoi les usages diffèrent-ils ?",
+      "topics": [
+        "Culture",
+        "Traditions",
+        "Histoire",
+        "Religion",
+        "Organisation sociale",
+        "Évolution des comportements"
+      ]
+    },
+    {
+      "id": "l-8-1-2",
+      "number": "8.1.2",
+      "level": "beginner",
+      "title": "Les salutations dans le monde",
+      "topics": [
+        "Poignée de main",
+        "Inclinaison",
+        "Salutations verbales",
+        "Gestes de bienvenue",
+        "Respect des distances"
+      ]
+    },
+    {
+      "id": "l-8-1-3",
+      "number": "8.1.3",
+      "level": "beginner",
+      "title": "La ponctualité selon les cultures",
+      "topics": [
+        "Horaires",
+        "Retards",
+        "Rendez-vous",
+        "Invitations",
+        "Tolérance culturelle"
+      ]
+    },
+    {
+      "id": "l-8-1-4",
+      "number": "8.1.4",
+      "level": "beginner",
+      "title": "Les usages à table",
+      "topics": [
+        "Organisation des repas",
+        "Gestes",
+        "Nourriture",
+        "Partage",
+        "Respect des interdits alimentaires"
+      ]
+    },
+    {
+      "id": "l-8-1-5",
+      "number": "8.1.5",
+      "level": "beginner",
+      "title": "Le respect des traditions",
+      "topics": [
+        "Coutumes",
+        "Fêtes",
+        "Lieux de culte",
+        "Tenues",
+        "Comportements adaptés"
+      ]
+    },
+    {
+      "id": "l-8-2-1",
+      "number": "8.2.1",
+      "level": "intermediate",
+      "title": "Europe occidentale",
+      "topics": [
+        "France",
+        "Suisse",
+        "Belgique",
+        "Allemagne",
+        "Royaume-Uni",
+        "Autriche",
+        "Pays-Bas"
+      ]
+    },
+    {
+      "id": "l-8-2-2",
+      "number": "8.2.2",
+      "level": "intermediate",
+      "title": "Europe méridionale",
+      "topics": [
+        "Italie",
+        "Espagne",
+        "Portugal",
+        "Grèce"
+      ]
+    },
+    {
+      "id": "l-8-2-3",
+      "number": "8.2.3",
+      "level": "intermediate",
+      "title": "Europe du Nord",
+      "topics": [
+        "Scandinavie",
+        "Pays nordiques",
+        "Traditions et usages sociaux"
+      ]
+    },
+    {
+      "id": "l-8-2-4",
+      "number": "8.2.4",
+      "level": "intermediate",
+      "title": "Amérique du Nord",
+      "topics": [
+        "États-Unis",
+        "Canada",
+        "Usages professionnels",
+        "Relations sociales",
+        "Invitations"
+      ]
+    },
+    {
+      "id": "l-8-2-5",
+      "number": "8.2.5",
+      "level": "intermediate",
+      "title": "Afrique du Nord",
+      "topics": [
+        "Maroc",
+        "Algérie",
+        "Tunisie",
+        "Hospitalité",
+        "Usages familiaux",
+        "Traditions"
+      ]
+    },
+    {
+      "id": "l-8-2-6",
+      "number": "8.2.6",
+      "level": "intermediate",
+      "title": "Asie orientale",
+      "topics": [
+        "Japon",
+        "Chine",
+        "Corée",
+        "Salutations",
+        "Hiérarchie sociale",
+        "Repas et invitations"
+      ]
+    },
+    {
+      "id": "l-8-2-7",
+      "number": "8.2.7",
+      "level": "intermediate",
+      "title": "Autres régions du monde",
+      "topics": [
+        "Afrique subsaharienne",
+        "Moyen-Orient",
+        "Asie du Sud",
+        "Asie du Sud-Est",
+        "Amérique latine",
+        "Océanie"
+      ]
+    },
+    {
+      "id": "l-8-3-1",
+      "number": "8.3.1",
+      "level": "advanced",
+      "title": "Les relations internationales",
+      "topics": [
+        "Accueil de visiteurs étrangers",
+        "Invitations interculturelles",
+        "Relations professionnelles",
+        "Communication",
+        "Respect des sensibilités"
+      ]
+    },
+    {
+      "id": "l-8-3-2",
+      "number": "8.3.2",
+      "level": "advanced",
+      "title": "Les usages diplomatiques",
+      "topics": [
+        "Présentations",
+        "Protocole",
+        "Préséances",
+        "Cérémonies",
+        "Symboles nationaux"
+      ]
+    },
+    {
+      "id": "l-8-3-3",
+      "number": "8.3.3",
+      "level": "advanced",
+      "title": "Les différences religieuses et culturelles",
+      "topics": [
+        "Respect des convictions",
+        "Restrictions alimentaires",
+        "Fêtes",
+        "Lieux de culte",
+        "Tenues et comportements"
+      ]
+    },
+    {
+      "id": "l-8-3-4",
+      "number": "8.3.4",
+      "level": "advanced",
+      "title": "Les malentendus interculturels",
+      "topics": [
+        "Gestes mal interprétés",
+        "Expressions inadaptées",
+        "Différences de communication",
+        "Erreurs de comportement",
+        "Réparation d'un impair"
+      ]
+    },
+    {
+      "id": "l-8-3-5",
+      "number": "8.3.5",
+      "level": "advanced",
+      "title": "Recevoir des invités étrangers",
+      "topics": [
+        "Préparation",
+        "Présentation des usages locaux",
+        "Menu",
+        "Cadeaux",
+        "Adaptation des habitudes"
+      ]
+    },
+    {
+      "id": "l-8-3-6",
+      "number": "8.3.6",
+      "level": "advanced",
+      "title": "Le savoir-vivre dans un contexte international",
+      "topics": [
+        "Adaptation",
+        "Observation",
+        "Diplomatie",
+        "Respect mutuel",
+        "Éviter les généralisations culturelles"
+      ]
+    }
+  ]
+}

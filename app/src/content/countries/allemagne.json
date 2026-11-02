@@ -1,0 +1,150 @@
+{
+  "id": "c-allemagne",
+  "slug": "allemagne",
+  "name": "Allemagne",
+  "region": "Europe occidentale",
+  "languages": [
+    "Allemand"
+  ],
+  "intro": "Une société où la fiabilité est une forme de courtoisie : on tient ses horaires, on dit clairement ce que l’on pense, et l’on sépare assez nettement vie professionnelle et vie privée.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main, regard direct"
+    },
+    {
+      "label": "Registre",
+      "value": "« Sie » et nom de famille"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "Forte exigence"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Environ 5 à 10 %, remis directement"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "On se serre la main à l’arrivée et au départ, en regardant la personne dans les yeux.",
+        "Dans un petit groupe, on salue chacun ; il est aussi courant de saluer en entrant dans une salle d’attente.",
+        "Les titres (Herr, Frau, parfois Doktor) s’emploient jusqu’à ce que l’on propose le tutoiement."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "L’heure indiquée est l’heure réelle, y compris chez des particuliers.",
+        "Quelques minutes de retard appellent un message ou une excuse."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On arrive à l’heure dite, et l’on apporte des fleurs (sans leur emballage, selon l’usage traditionnel) ou une bouteille.",
+        "On se déchausse parfois chez les particuliers : observez, ou demandez.",
+        "Le partage de l’addition est très courant, y compris entre amis."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "On attend le signal de l’hôte, souvent « Guten Appetit », avant de commencer.",
+        "On trinque en regardant son interlocuteur dans les yeux (« Prost », « Zum Wohl »).",
+        "Les mains restent visibles, et le pain se pose sur une petite assiette."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Les cadeaux sont simples, et ceux d’affaires restent modestes : les règles de conformité sont souvent strictes.",
+        "Le cadeau s’ouvre généralement devant la personne qui l’offre."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "La tenue professionnelle est souvent sobre, mais les usages sont plus souples dans la technologie et à Berlin.",
+        "Dans les saunas, la nudité est très courante, et des espaces précis s’y prêtent."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "La franchise est généralement une marque de respect : une critique directe n’a rien de personnel.",
+        "On répond à la question posée, et les détails sont bienvenus.",
+        "« Wie geht’s? » appelle plus volontiers une vraie réponse qu’aux États-Unis."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On garde une distance assez large, et l’on évite les contacts physiques entre connaissances.",
+        "Taper sur la table avec ses articulations, à la fin d’une conférence, est une manière d’applaudir."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Le nazisme est un sujet grave, et le salut hitlérien et certains symboles sont interdits par la loi.",
+        "Les revenus restent un sujet privé, et la vie privée est très protégée.",
+        "Les différences entre l’Est et l’Ouest peuvent être sensibles."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "Les réunions se préparent, suivent un ordre du jour, et la décision prise est respectée.",
+        "Le passage au « du » (tutoiement) reste moins systématique qu’aux États-Unis, et dépend de l’entreprise.",
+        "Les présentations se fondent sur les faits et les données."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Marcher sur une piste cyclable, très réglementée et utilisée.",
+        "Traverser au rouge devant des enfants.",
+        "Faire du bruit le dimanche, ou pendant les heures de repos (Ruhezeit) en immeuble."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Le recyclage et le dépôt des bouteilles (Pfand) sont très organisés.",
+        "Au restaurant, on annonce le total arrondi à la personne qui encaisse, plutôt que de laisser l’argent sur la table.",
+        "L’espèce reste utilisée dans certains lieux : gardez-en un peu."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Guten Tag",
+      "meaning": "Bonjour."
+    },
+    {
+      "original": "Danke schön / Bitte",
+      "meaning": "Merci / S’il vous plaît, je vous en prie."
+    }
+  ],
+  "generalizationNote": "L’Allemagne est un pays fédéral, marqué par de fortes différences régionales : la Bavière, Berlin et la Rhénanie ne vivent pas de la même façon, et les jeunes générations sont souvent moins formelles. Ces repères ne valent pas pour tous.",
+  "sources": [
+    {
+      "title": "Conseils aux voyageurs : Allemagne",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "title": "Office national allemand du tourisme",
+      "note": "germany.travel"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

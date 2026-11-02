@@ -1,0 +1,253 @@
+{
+  "id": "fetes",
+  "slug": "fetes",
+  "number": 6,
+  "title": "Savoir fêter les grands événements et les fêtes de la vie",
+  "shortTitle": "Fêtes et événements",
+  "description": "Naissances, mariages, anniversaires, deuils : les usages des grands moments de la vie.",
+  "objective": "Apprendre les usages liés aux grandes étapes de l'existence, aux cérémonies familiales, aux fêtes traditionnelles et aux moments heureux ou difficiles.",
+  "icon": "Gift",
+  "order": 6,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Les événements courants",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "Les grandes étapes de la vie",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "Les circonstances exceptionnelles",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-6-1-1",
+      "number": "6.1.1",
+      "level": "beginner",
+      "title": "Les anniversaires",
+      "topics": [
+        "Organiser un anniversaire",
+        "Répondre à une invitation",
+        "Choisir un cadeau",
+        "Présenter ses vœux",
+        "Remercier"
+      ]
+    },
+    {
+      "id": "l-6-1-2",
+      "number": "6.1.2",
+      "level": "beginner",
+      "title": "Les fêtes familiales",
+      "topics": [
+        "Repas de famille",
+        "Réunions intergénérationnelles",
+        "Organisation",
+        "Cadeaux",
+        "Attentions particulières"
+      ]
+    },
+    {
+      "id": "l-6-1-3",
+      "number": "6.1.3",
+      "level": "beginner",
+      "title": "Les fêtes de fin d'année",
+      "topics": [
+        "Noël",
+        "Nouvel An",
+        "Invitations",
+        "Cadeaux",
+        "Messages de vœux"
+      ]
+    },
+    {
+      "id": "l-6-1-4",
+      "number": "6.1.4",
+      "level": "beginner",
+      "title": "Les félicitations",
+      "topics": [
+        "Naissance",
+        "Réussite",
+        "Promotion",
+        "Mariage",
+        "Événement heureux"
+      ]
+    },
+    {
+      "id": "l-6-1-5",
+      "number": "6.1.5",
+      "level": "beginner",
+      "title": "Les remerciements",
+      "topics": [
+        "Après une réception",
+        "Après un cadeau",
+        "Après une invitation",
+        "Après une aide",
+        "Après un événement"
+      ]
+    },
+    {
+      "id": "l-6-2-1",
+      "number": "6.2.1",
+      "level": "intermediate",
+      "title": "La naissance",
+      "topics": [
+        "Féliciter les parents",
+        "Rendre visite",
+        "Choisir un cadeau",
+        "Respecter les habitudes familiales",
+        "Préserver l'intimité"
+      ]
+    },
+    {
+      "id": "l-6-2-2",
+      "number": "6.2.2",
+      "level": "intermediate",
+      "title": "Le baptême et les cérémonies religieuses",
+      "topics": [
+        "Invitations",
+        "Tenue",
+        "Comportement",
+        "Cadeaux",
+        "Respect des convictions"
+      ]
+    },
+    {
+      "id": "l-6-2-3",
+      "number": "6.2.3",
+      "level": "intermediate",
+      "title": "Les fiançailles",
+      "topics": [
+        "Annonce",
+        "Réception",
+        "Présentation des familles",
+        "Cadeaux",
+        "Usages contemporains"
+      ]
+    },
+    {
+      "id": "l-6-2-4",
+      "number": "6.2.4",
+      "level": "intermediate",
+      "title": "Le mariage",
+      "topics": [
+        "Invitation",
+        "Tenue",
+        "Cérémonie",
+        "Réception",
+        "Cadeaux",
+        "Discours",
+        "Comportement des invités"
+      ]
+    },
+    {
+      "id": "l-6-2-5",
+      "number": "6.2.5",
+      "level": "intermediate",
+      "title": "Les cérémonies civiles et culturelles",
+      "topics": [
+        "Cérémonies officielles",
+        "Célébrations traditionnelles",
+        "Respect des convictions",
+        "Adaptation culturelle"
+      ]
+    },
+    {
+      "id": "l-6-2-6",
+      "number": "6.2.6",
+      "level": "intermediate",
+      "title": "Les fêtes annuelles",
+      "topics": [
+        "Fête des parents",
+        "Fêtes religieuses",
+        "Fêtes nationales",
+        "Traditions régionales",
+        "Anniversaires particuliers"
+      ]
+    },
+    {
+      "id": "l-6-3-1",
+      "number": "6.3.1",
+      "level": "advanced",
+      "title": "Organiser une grande cérémonie",
+      "topics": [
+        "Préparation",
+        "Invitations",
+        "Placement",
+        "Protocole",
+        "Coordination des invités"
+      ]
+    },
+    {
+      "id": "l-6-3-2",
+      "number": "6.3.2",
+      "level": "advanced",
+      "title": "Les discours de circonstance",
+      "topics": [
+        "Discours de mariage",
+        "Discours d'anniversaire",
+        "Toast",
+        "Hommage",
+        "Discours de remerciement"
+      ]
+    },
+    {
+      "id": "l-6-3-3",
+      "number": "6.3.3",
+      "level": "advanced",
+      "title": "Les condoléances",
+      "topics": [
+        "Présenter ses condoléances",
+        "Choisir les mots appropriés",
+        "Écrire un message",
+        "Rendre visite",
+        "Respecter le deuil"
+      ]
+    },
+    {
+      "id": "l-6-3-4",
+      "number": "6.3.4",
+      "level": "advanced",
+      "title": "Les obsèques",
+      "topics": [
+        "Tenue",
+        "Présence",
+        "Attitude",
+        "Respect des familles",
+        "Différences de traditions"
+      ]
+    },
+    {
+      "id": "l-6-3-5",
+      "number": "6.3.5",
+      "level": "advanced",
+      "title": "Accompagner une personne en fin de vie",
+      "topics": [
+        "Attitude",
+        "Discrétion",
+        "Présence",
+        "Respect des proches",
+        "Respect des convictions"
+      ]
+    },
+    {
+      "id": "l-6-3-6",
+      "number": "6.3.6",
+      "level": "advanced",
+      "title": "Les situations de deuil complexes",
+      "topics": [
+        "Perte d'un proche",
+        "Décès inattendu",
+        "Relations familiales difficiles",
+        "Soutien dans la durée",
+        "Respect du temps de chacun"
+      ]
+    }
+  ]
+}

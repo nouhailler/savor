@@ -1,0 +1,577 @@
+[
+  {
+    "id": "f-excuses",
+    "domainId": "relations",
+    "title": "Comment présenter des excuses ?",
+    "situation": "Vous avez blessé quelqu’un, oublié un engagement ou commis une erreur, et vous voulez réparer.",
+    "advice": [
+      "Reconnaissez le fait, sans détour.",
+      "Reconnaissez son effet sur l’autre.",
+      "Évitez le « mais » : une explication peut venir ensuite, brièvement.",
+      "Proposez une réparation, ou dites ce que vous ferez désormais.",
+      "Laissez à l’autre le temps de répondre, sans exiger son pardon."
+    ],
+    "reasons": "L’excuse rend à l’autre sa place de personne atteinte. Toute justification immédiate la lui retire.",
+    "mistakes": [
+      "« Je suis désolé que tu l’aies pris comme ça. »",
+      "« Si je t’ai blessé, je m’excuse. »",
+      "Répéter ses excuses jusqu’à ce que l’autre vous console."
+    ],
+    "example": "« Je t’ai coupé la parole devant l’équipe, et je sais que cela t’a mis en difficulté. Je le regrette. Demain, je reviendrai sur ton idée pendant la réunion. »",
+    "culturalNuances": "Au Japon, une excuse en personne compte beaucoup. Aux États-Unis, elle doit indiquer clairement ce qui sera fait pour réparer.",
+    "relatedLessonIds": [
+      "l-2-1-2",
+      "l-2-3-2"
+    ],
+    "tags": [
+      "excuses",
+      "réparer",
+      "conflit"
+    ]
+  },
+  {
+    "id": "f-accepter-excuses",
+    "domainId": "relations",
+    "title": "Comment accepter des excuses ?",
+    "situation": "Quelqu’un vous présente des excuses. Vous êtes encore blessé, ou vous l’êtes un peu moins.",
+    "advice": [
+      "Écoutez jusqu’au bout, sans ressortir d’autres griefs.",
+      "Remerciez-la de vous le dire.",
+      "Si la blessure reste vive, dites honnêtement qu’il vous faudra du temps.",
+      "Une fois acceptées, ne ressortez pas ces excuses au prochain désaccord."
+    ],
+    "reasons": "Reprocher éternellement une faute reconnue dissuade de reconnaître les fautes futures. Mais accepter n’est pas oublier, et personne ne peut vous y obliger.",
+    "mistakes": [
+      "« Il était temps. Et puisqu’on y est… »",
+      "Dire « C’est oublié » sans le penser, puis revenir sur le sujet.",
+      "Exiger toujours plus de contrition."
+    ],
+    "example": "« Merci de me le dire. Ça m’a fait de la peine, et j’apprécie que tu m’en parles. »",
+    "relatedLessonIds": [
+      "l-2-3-2"
+    ],
+    "tags": [
+      "excuses",
+      "pardon",
+      "conflit"
+    ]
+  },
+  {
+    "id": "f-desamorcer",
+    "domainId": "relations",
+    "title": "Comment désamorcer une dispute ?",
+    "situation": "Une conversation s’envenime : le ton monte, et chacun répète ses arguments.",
+    "advice": [
+      "Baissez votre voix, ralentissez, asseyez-vous si vous êtes debout.",
+      "Reformulez le point de vue de l’autre, puis attendez sa réponse.",
+      "Parlez des faits et de leurs effets, sans « toujours » ni « jamais ».",
+      "Proposez une pause si nécessaire, et fixez le moment de la reprise.",
+      "Cherchez ce que chacun veut réellement, au-delà de sa position."
+    ],
+    "reasons": "Une personne qui se sent entendue a moins besoin de crier. Et un conflit se résout rarement à chaud : la pause n’est une fuite que si l’on ne revient jamais.",
+    "mistakes": [
+      "Quitter la pièce sans un mot, ou répondre par le silence pendant des jours.",
+      "Humilier l’autre devant témoins.",
+      "Écrire un long message à minuit."
+    ],
+    "example": "« Je sens qu’on monte tous les deux, et je ne veux pas dire quelque chose que je regretterais. On reprend dans une heure ? »",
+    "culturalNuances": "En cas de violence ou de menace, ce n’est plus une question de dialogue : éloignez-vous et demandez de l’aide.",
+    "relatedLessonIds": [
+      "l-2-3-2",
+      "l-4-2-6"
+    ],
+    "tags": [
+      "dispute",
+      "conflit",
+      "calme"
+    ]
+  },
+  {
+    "id": "f-visite-malade",
+    "domainId": "relations",
+    "title": "Comment rendre visite à une personne malade ?",
+    "situation": "Un proche ou une connaissance est hospitalisé ou malade chez lui.",
+    "advice": [
+      "Prévenez à l’avance et demandez si la visite lui convient, sans vous vexer d’un refus.",
+      "Venez peu de temps, et sans foule : une vingtaine de minutes suffit souvent.",
+      "Parlez-lui à elle, de ce qui l’intéresse, et pas seulement de sa maladie.",
+      "Laissez-la décider de ce qu’elle veut dire de son état.",
+      "Respectez les consignes d’hygiène, et ne venez pas si vous êtes contagieux."
+    ],
+    "reasons": "La maladie enlève beaucoup de libertés : laisser à la personne le choix de vous recevoir et de ce qu’elle dit lui en rend une part. Elle est plus qu’un patient.",
+    "mistakes": [
+      "Raconter les maladies de vos proches ou lui recommander un remède miracle.",
+      "Vous adresser à son accompagnant comme si elle n’était pas là.",
+      "Apporter des fleurs très parfumées sans vérifier."
+    ],
+    "example": "« Je passerais volontiers vous voir jeudi pour une demi-heure, si cela vous dit, et je comprendrai parfaitement si vous préférez attendre. Puis-je vous apporter un livre ? »",
+    "relatedLessonIds": [
+      "l-2-3-3",
+      "l-2-1-6"
+    ],
+    "tags": [
+      "maladie",
+      "visite",
+      "hôpital"
+    ]
+  },
+  {
+    "id": "f-personne-handicapee",
+    "domainId": "relations",
+    "title": "Comment se comporter avec une personne en situation de handicap ?",
+    "situation": "Vous rencontrez une personne qui se déplace en fauteuil, qui est malvoyante ou sourde, ou qui a un handicap que vous ne connaissez pas.",
+    "advice": [
+      "Adressez-vous à elle directement, et non à son accompagnant.",
+      "Proposez votre aide, attendez sa réponse, et faites comme elle vous l’indique.",
+      "Ne touchez ni son fauteuil, ni sa canne, ni son chien guide sans son accord.",
+      "Parlez normalement, et faites-vous voir si la personne lit sur les lèvres.",
+      "Présentez-vous en nommant votre nom auprès d’une personne aveugle."
+    ],
+    "reasons": "Une personne reste la première spécialiste de sa situation. La traiter en adulte, c’est lui laisser les décisions qui la concernent.",
+    "mistakes": [
+      "Lui parler lentement et fort sans raison.",
+      "Lui demander ce qui lui est arrivé.",
+      "La féliciter de « son courage » pour une chose banale."
+    ],
+    "example": "« Bonjour. Je peux vous aider à franchir cette marche, si vous le souhaitez. Comment préférez-vous que je m’y prenne ? »",
+    "relatedLessonIds": [
+      "l-2-1-6",
+      "l-2-3-3"
+    ],
+    "tags": [
+      "handicap",
+      "aide",
+      "respect"
+    ]
+  },
+  {
+    "id": "f-voisin-bruyant",
+    "domainId": "relations",
+    "title": "Comment parler à un voisin bruyant ?",
+    "situation": "Le bruit d’un voisin vous gêne régulièrement.",
+    "advice": [
+      "Vérifiez d’abord le caractère répété de la gêne : tout le monde peut faire une fête.",
+      "Parlez-lui de vive voix, à un moment calme, et non au milieu du bruit si possible.",
+      "Décrivez ce que vous entendez et son effet sur vous, sans accusation.",
+      "Proposez une solution précise : horaires, tapis, déplacement d’une enceinte.",
+      "Si cela persiste : un courrier écrit, le syndic, puis un conciliateur de justice."
+    ],
+    "reasons": "Beaucoup de voisins ignorent ce que l’on entend à travers un mur. Une conversation évite les ressentiments durables, et elle est souvent exigée avant toute procédure.",
+    "mistakes": [
+      "Taper sur les murs ou faire du bruit en représailles.",
+      "Laisser un mot anonyme dans le hall.",
+      "Attendre six mois avant d’en parler, et exploser pour une broutille."
+    ],
+    "example": "« Bonjour, je suis votre voisine du dessous. Je crois que vous ne vous en rendez pas compte, mais la musique s’entend beaucoup après 23 heures chez moi. Serait-il possible de baisser le son le soir ? »",
+    "culturalNuances": "Le bruit de voisinage est encadré par le droit français (Code de la santé publique, Code pénal). Ces règles et leur application varient selon les pays.",
+    "relatedLessonIds": [
+      "l-2-1-5"
+    ],
+    "tags": [
+      "voisinage",
+      "bruit",
+      "conciliation"
+    ]
+  },
+  {
+    "id": "f-premiere-belle-famille",
+    "domainId": "relations",
+    "title": "Comment réussir une première rencontre avec la belle-famille ?",
+    "situation": "Vous rencontrez pour la première fois la famille de votre conjoint.",
+    "advice": [
+      "Demandez à votre conjoint quelques repères : sujets sensibles, usages, tutoiement.",
+      "Apportez un présent simple.",
+      "Soyez vous-même, et intéressez-vous à eux par des questions ouvertes.",
+      "Proposez d’aider, sans vous imposer.",
+      "Ne critiquez pas votre conjoint devant ses parents, même pour plaisanter."
+    ],
+    "reasons": "Ils cherchent à savoir si leur enfant est bien avec vous : vous n’avez pas besoin de les impressionner. Ce que vous pouvez leur offrir, c’est de la considération.",
+    "mistakes": [
+      "Afficher vos opinions sur la religion ou la politique dès le premier repas.",
+      "Faire étalage de votre réussite ou de vos diplômes.",
+      "Partir trop vite, ou trop tard."
+    ],
+    "example": "« Merci de me recevoir, Louis m’a beaucoup parlé de votre jardin. Depuis combien de temps vous en occupez-vous ? »",
+    "relatedLessonIds": [
+      "l-2-2-2"
+    ],
+    "tags": [
+      "belle-famille",
+      "rencontre"
+    ]
+  },
+  {
+    "id": "f-pret-argent",
+    "domainId": "relations",
+    "title": "Comment demander à un ami de vous rembourser ?",
+    "situation": "Un proche vous doit de l’argent depuis un moment, sans en parler.",
+    "advice": [
+      "Parlez-lui en privé, ou écrivez un message simple.",
+      "Mentionnez clairement la somme et les faits.",
+      "Donnez une raison si vous le souhaitez, sans vous justifier longuement.",
+      "Laissez-lui proposer une date ou un échéancier."
+    ],
+    "reasons": "Une personne peut avoir réellement oublié. Une demande directe coûte moins que la rancune ou la brouille, et l’argent n’a aucune raison de rester tabou entre vous.",
+    "mistakes": [
+      "Le lui rappeler devant vos amis, sous forme de plaisanterie.",
+      "Lui faire des reproches sur ses vacances.",
+      "Vous éloigner sans rien dire."
+    ],
+    "example": "« Dis, tu te souviens des 200 € de mars ? Ils me seraient utiles en ce moment. Tu me dis ce qui est possible pour toi ? »",
+    "relatedLessonIds": [
+      "l-2-2-7"
+    ],
+    "tags": [
+      "argent",
+      "prêt",
+      "dette"
+    ]
+  },
+  {
+    "id": "f-engager-conversation",
+    "domainId": "communication",
+    "title": "Comment engager la conversation avec un inconnu ?",
+    "situation": "Vous ne connaissez personne à une réception, et vous n’osez pas aborder qui que ce soit.",
+    "advice": [
+      "Choisissez une personne seule, ou un groupe ouvert plutôt qu’un cercle fermé.",
+      "Partez de ce que vous partagez : le lieu, l’hôte, l’événement.",
+      "Posez une question ouverte, et écoutez vraiment la réponse.",
+      "Présentez-vous rapidement.",
+      "Si l’échange ne prend pas, remerciez et allez plus loin."
+    ],
+    "reasons": "La plupart des gens présents se sentent tout aussi seuls que vous. Celui qui vient leur parler est souvent reçu comme un soulagement.",
+    "mistakes": [
+      "Commencer par « Et vous, vous faites quoi ? », qui réduit la personne à son métier.",
+      "Raconter d’emblée sa propre vie.",
+      "Regarder par-dessus l’épaule en parlant."
+    ],
+    "example": "« Bonsoir, je ne connais encore personne ici. Vous connaissez bien Paul et Élise ? »",
+    "relatedLessonIds": [
+      "l-3-1-3",
+      "l-3-2-1"
+    ],
+    "tags": [
+      "conversation",
+      "timidité",
+      "réception"
+    ]
+  },
+  {
+    "id": "f-mettre-fin-conversation",
+    "domainId": "communication",
+    "title": "Comment mettre fin à une conversation ?",
+    "situation": "Un interlocuteur vous retient, et vous voulez partir sans le vexer.",
+    "advice": [
+      "Attendez une respiration, ou interrompez doucement avec son prénom.",
+      "Annoncez que vous allez devoir partir.",
+      "Dites un mot sur ce que vous avez apprécié.",
+      "À une réception : présentez-le à quelqu’un d’autre avant de vous éloigner.",
+      "Partez réellement, sans repartir sur un nouveau sujet."
+    ],
+    "reasons": "Une conversation se termine toujours : l’annoncer est plus honnête et plus aimable que de laisser l’impatience se voir.",
+    "mistakes": [
+      "Regarder sa montre ou la salle derrière la personne.",
+      "Inventer un rendez-vous imaginaire.",
+      "Répondre par monosyllabes jusqu’à ce que l’autre comprenne."
+    ],
+    "example": "« Martine, je vous arrête, je dois vous laisser. C’était un plaisir d’avoir de vos nouvelles. À bientôt ! »",
+    "relatedLessonIds": [
+      "l-3-3-4",
+      "l-3-1-3"
+    ],
+    "tags": [
+      "conversation",
+      "prendre congé"
+    ]
+  },
+  {
+    "id": "f-desaccord",
+    "domainId": "communication",
+    "title": "Comment exprimer un désaccord ?",
+    "situation": "Vous ne partagez pas l’avis d’un collègue, d’un ami ou d’un parent, et vous voulez le dire sans le blesser.",
+    "advice": [
+      "Vérifiez d’abord que vous avez bien compris sa position.",
+      "Reconnaissez ce qui vous semble juste.",
+      "Exposez votre point de vue à la première personne, à partir de faits.",
+      "Choisissez le lieu : un point délicat se dit à part.",
+      "Sachez clore : vous n’avez pas besoin du dernier mot."
+    ],
+    "reasons": "On peut changer d’avis sur une idée, mais pas sur sa propre personne. Un désaccord qui vise l’idée laisse chacun libre de bouger.",
+    "mistakes": [
+      "« Tu dis n’importe quoi. »",
+      "« Sans vouloir te vexer, c’est idiot. »",
+      "« Tout le monde pense que tu as tort. »"
+    ],
+    "example": "« Je vois l’intérêt de lancer en juin. Ce qui m’inquiète, c’est la charge de l’équipe : comment pourrait-on la couvrir ? »",
+    "culturalNuances": "Un débat vif est stimulant pour certains, et offensant pour d’autres : au Japon ou en Thaïlande, le désaccord se dit plus volontiers à part, ou par un intermédiaire.",
+    "relatedLessonIds": [
+      "l-3-2-3"
+    ],
+    "tags": [
+      "désaccord",
+      "débat",
+      "nuance"
+    ]
+  },
+  {
+    "id": "f-laisser-message",
+    "domainId": "communication",
+    "title": "Comment laisser un bon message vocal ?",
+    "situation": "Vous tombez sur la messagerie d’une personne que vous cherchez à joindre.",
+    "advice": [
+      "Dites votre nom et votre lien avec la personne, dès le début.",
+      "Donnez l’objet de l’appel en une phrase.",
+      "Indiquez ce que vous attendez : un rappel, une réponse, rien.",
+      "Dites votre numéro distinctement, deux fois si besoin.",
+      "Tenez en moins d’une minute."
+    ],
+    "reasons": "Un message clair fait gagner du temps à la personne qui l’écoute. Il lui évite de devoir vous rappeler simplement pour savoir ce que vous vouliez.",
+    "mistakes": [
+      "« C’est moi, rappelle-moi. »",
+      "Un monologue de trois minutes.",
+      "Un numéro prononcé à toute vitesse."
+    ],
+    "example": "« Bonjour, Inès Morel, de la société Almo. Je vous appelle à propos du devis du 3 mars. Pourriez-vous me rappeler avant jeudi au 06 12 34 56 78 ? Je répète : 06 12 34 56 78. Merci, bonne journée. »",
+    "culturalNuances": "Beaucoup de jeunes adultes préfèrent aujourd’hui un message écrit. Lorsqu’on les appelle, il est poli de prévenir par écrit si le sujet n’est pas urgent.",
+    "relatedLessonIds": [
+      "l-3-1-5",
+      "l-3-2-5"
+    ],
+    "tags": [
+      "téléphone",
+      "message vocal"
+    ]
+  },
+  {
+    "id": "f-courriel-pro",
+    "domainId": "communication",
+    "title": "Comment rédiger un bon courriel professionnel ?",
+    "situation": "Vous devez écrire à un collègue, un client ou une administration.",
+    "advice": [
+      "Rédigez un objet précis, qui permet de retrouver le message.",
+      "Saluez : « Bonjour Madame Roche, » ou « Bonjour Marc, ».",
+      "Donnez la demande et le délai dès le début.",
+      "Limitez-vous à un sujet ou deux.",
+      "Concluez par une formule adaptée, et vérifiez les destinataires avant d’envoyer."
+    ],
+    "reasons": "Vos correspondants reçoivent des dizaines de messages : la clarté est une forme de politesse. Un courriel reste écrit, et il peut être transféré.",
+    "mistakes": [
+      "« Répondre à tous » sans y réfléchir.",
+      "Écrire en majuscules.",
+      "Envoyer un message coléreux sans se relire le lendemain."
+    ],
+    "example": "Objet : Devis pour la salle de Lyon, réponse avant jeudi. « Bonjour Madame Roche, pourriez-vous me confirmer le devis ci-joint avant jeudi soir ? Nous bloquerons la salle dès votre accord. Bien cordialement, Inès Morel. »",
+    "relatedLessonIds": [
+      "l-3-2-8",
+      "l-3-1-6"
+    ],
+    "tags": [
+      "courriel",
+      "travail",
+      "écrit"
+    ]
+  },
+  {
+    "id": "f-formules-lettre",
+    "domainId": "communication",
+    "title": "Quelle formule choisir pour une lettre ?",
+    "situation": "Vous ne savez pas comment commencer ou terminer une lettre ou un courriel.",
+    "advice": [
+      "Adaptez l’appel au lien : « Madame, », « Chère Madame, », « Chère Claire, ».",
+      "En cas de fonction connue, utilisez-la : « Madame la Directrice, ».",
+      "Reprenez la même formule d’appel dans la formule finale d’une lettre formelle.",
+      "Pour un courriel de travail : « Bien cordialement » ou « Cordialement ».",
+      "Entre proches : « Je t’embrasse », « Amitiés »."
+    ],
+    "reasons": "Ces formules indiquent la distance que vous proposez. La cohérence entre l’appel et la conclusion importe plus que leur élégance.",
+    "mistakes": [
+      "« Cher Monsieur » à un inconnu, trop familier en France.",
+      "« Cordialement » dans une lettre de condoléances.",
+      "« Madame, Monsieur » lorsque le nom du destinataire est facile à trouver."
+    ],
+    "example": "« Madame la Directrice, […] Je vous prie d’agréer, Madame la Directrice, l’expression de mes salutations distinguées. »",
+    "culturalNuances": "Les correspondances en anglais utilisent « Dear » sans la familiarité de « Cher » : c’est une convention, et non une marque d’affection.",
+    "relatedLessonIds": [
+      "l-3-2-6",
+      "l-3-3-6"
+    ],
+    "tags": [
+      "lettre",
+      "formules",
+      "correspondance"
+    ]
+  },
+  {
+    "id": "f-visio",
+    "domainId": "communication",
+    "title": "Comment bien se tenir en visioconférence ?",
+    "situation": "Vous participez à une réunion à distance, depuis chez vous ou votre bureau.",
+    "advice": [
+      "Vérifiez votre micro et votre connexion quelques minutes avant.",
+      "Coupez votre micro quand vous ne parlez pas.",
+      "Regardez parfois la caméra, surtout lorsque vous parlez.",
+      "Soignez l’arrière-plan, ou utilisez un fond neutre.",
+      "Ne faites pas autre chose de visible pendant ce temps."
+    ],
+    "reasons": "À distance, on perd beaucoup d’indices. Ces gestes simples permettent à chacun de se sentir à une vraie réunion, et de ne pas subir vos bruits de clavier.",
+    "mistakes": [
+      "Manger, ou se déplacer avec son téléphone sans raison.",
+      "Interrompre sans cesse à cause du délai : un signe de la main peut aider.",
+      "Exiger de tous la caméra allumée, sans tenir compte de leur situation."
+    ],
+    "example": "« Excusez-moi, je coupe ma caméra pour la fin de la réunion : ma connexion est faible. Je reste à l’écoute. »",
+    "relatedLessonIds": [
+      "l-3-2-8"
+    ],
+    "tags": [
+      "visioconférence",
+      "travail",
+      "numérique"
+    ]
+  },
+  {
+    "id": "f-theatre",
+    "domainId": "usages",
+    "title": "Comment se tenir au théâtre ou à l’opéra ?",
+    "situation": "Vous allez à un spectacle vivant, et vous ne connaissez pas bien les usages.",
+    "advice": [
+      "Arrivez assez tôt : au-delà de l’heure, on peut ne plus vous faire entrer.",
+      "Éteignez votre téléphone, sans vous contenter du mode silencieux.",
+      "Passez face aux personnes assises, en remerciant à voix basse.",
+      "Ne parlez pas, ne déballez pas de bonbons pendant le spectacle.",
+      "Applaudissez à la fin. À l’opéra, on peut applaudir après un air, en suivant le mouvement de la salle."
+    ],
+    "reasons": "Le spectacle vivant se produit devant vous : les artistes entendent et voient la salle, et votre écran allumé se voit depuis toute la rangée.",
+    "mistakes": [
+      "Filmer ou photographier sans autorisation.",
+      "Partir avant les saluts sans raison, en dérangeant la rangée.",
+      "Commenter à voix basse avec votre voisin."
+    ],
+    "example": "À l’entrée, en retard : « Je comprends, j’attends l’entracte. Pouvez-vous me dire quand je pourrai rejoindre ma place ? »",
+    "relatedLessonIds": [
+      "l-4-2-4"
+    ],
+    "tags": [
+      "théâtre",
+      "opéra",
+      "spectacle"
+    ]
+  },
+  {
+    "id": "f-restaurant",
+    "domainId": "usages",
+    "title": "Comment se comporter au restaurant ?",
+    "situation": "Vous allez au restaurant, avec des amis ou dans un cadre professionnel.",
+    "advice": [
+      "Réservez et prévenez en cas de retard ou d’annulation.",
+      "Saluez à l’arrivée, et attendez d’être placé.",
+      "Attirez l’attention du serveur par un regard ou un geste discret.",
+      "Annoncez clairement qui invite, avant ou au moment de l’addition.",
+      "Remerciez en partant, et laissez un pourboire si l’usage local le demande."
+    ],
+    "reasons": "La manière dont on traite le personnel d’un restaurant en dit plus que tout le reste. Une table réservée et non honorée représente aussi un vrai coût pour l’établissement.",
+    "mistakes": [
+      "Appeler le serveur par un claquement de doigts.",
+      "Ne pas se présenter à une réservation sans prévenir.",
+      "Faire une scène à table : signalez un problème calmement."
+    ],
+    "example": "« Excusez-moi, je crois que ce n’est pas le plat que j’avais demandé. Est-ce que ce serait possible de vérifier ? Merci. »",
+    "culturalNuances": "Pourboire attendu et élevé aux États-Unis, modeste en France, qui inclut le service, et absent ou gênant au Japon.",
+    "relatedLessonIds": [
+      "l-4-1-7",
+      "l-4-2-3"
+    ],
+    "tags": [
+      "restaurant",
+      "serveur",
+      "pourboire"
+    ]
+  },
+  {
+    "id": "f-gaffe",
+    "domainId": "usages",
+    "title": "Comment réagir à une gaffe ?",
+    "situation": "Vous venez de dire quelque chose de maladroit devant plusieurs personnes.",
+    "advice": [
+      "Reconnaissez-le tout de suite, en une phrase.",
+      "Si la gaffe a blessé, adoptez un ton sobre, sans humour.",
+      "Changez de sujet, ou laissez quelqu’un d’autre le faire.",
+      "Revenez-y en privé si cela semble nécessaire.",
+      "Ne reparlez pas d’une broutille que personne n’a remarquée."
+    ],
+    "reasons": "Les excuses répétées prolongent la gêne et obligent la personne atteinte à vous consoler. On retient plus la réparation que l’impair.",
+    "mistakes": [
+      "Multiplier les explications.",
+      "Prétendre que c’était une plaisanterie.",
+      "Attaquer l’autre : « Tu es bien susceptible. »"
+    ],
+    "example": "« Pardon, je ne savais pas. Je suis désolé. » Puis, après un temps : « Vous revenez de Lisbonne, m’a-t-on dit ? »",
+    "relatedLessonIds": [
+      "l-4-2-7",
+      "l-4-3-5"
+    ],
+    "tags": [
+      "gaffe",
+      "impair",
+      "réparer"
+    ]
+  },
+  {
+    "id": "f-train",
+    "domainId": "voyager",
+    "title": "Comment bien voyager en train ?",
+    "situation": "Vous prenez un train pour quelques heures, parmi des voyageurs inconnus.",
+    "advice": [
+      "Téléphonez sur la plate-forme, et gardez le son dans vos écouteurs.",
+      "Rangez vos bagages avant de vous asseoir, sans occuper le siège voisin.",
+      "Laissez descendre avant de monter.",
+      "Évitez les plats à l’odeur forte, et emportez vos déchets.",
+      "Si quelqu’un occupe votre place : montrez poliment votre billet."
+    ],
+    "reasons": "Votre siège est à vous, le reste est à tous. Personne n’a choisi ses voisins, et la tranquillité de chacun repose sur ces accords tacites.",
+    "mistakes": [
+      "Regarder une vidéo sans casque.",
+      "Bloquer l’allée avec une valise.",
+      "Faire semblant de dormir pour garder sa place libre."
+    ],
+    "example": "« Excusez-moi, je crois que c’est ma place : voiture 12, place 34. Vous êtes peut-être dans une autre voiture ? »",
+    "relatedLessonIds": [
+      "l-7-1-4"
+    ],
+    "tags": [
+      "train",
+      "transport",
+      "téléphone"
+    ]
+  },
+  {
+    "id": "f-pourboire-monde",
+    "domainId": "etranger",
+    "title": "Faut-il laisser un pourboire à l’étranger ?",
+    "situation": "Vous voyagez, et vous ne savez pas combien laisser au restaurant, à l’hôtel ou en taxi.",
+    "advice": [
+      "Renseignez-vous avant le voyage : les usages varient énormément.",
+      "Regardez si le service est déjà inclus sur la note.",
+      "Suivez l’usage local plutôt que le vôtre.",
+      "Si possible, donnez de la main à la main, ou selon ce qui se pratique.",
+      "En cas de doute, demandez à la réception de votre hôtel."
+    ],
+    "reasons": "Le pourboire ne remplit pas la même fonction partout : part essentielle du salaire ici, marque d’appréciation là, gêne ailleurs.",
+    "mistakes": [
+      "Appliquer l’usage français aux États-Unis, où le service ne figure pas dans les prix.",
+      "Laisser un pourboire au Japon, où il peut être mal compris.",
+      "Traiter le pourboire comme une faveur devant la personne."
+    ],
+    "example": "Aux États-Unis : environ 18 à 20 % au restaurant. En France : quelques euros si le service vous a plu. Au Japon : rien, un merci sincère suffit. (Ces chiffres sont des repères.)",
+    "culturalNuances": "Ces repères peuvent évoluer rapidement avec les prix et les usages. Certains pays du Golfe et d’Asie du Sud-Est ajoutent des frais de service spécifiques.",
+    "relatedLessonIds": [
+      "l-4-2-3",
+      "l-8-2-4"
+    ],
+    "tags": [
+      "pourboire",
+      "restaurant",
+      "voyage"
+    ]
+  }
+]

@@ -1,0 +1,299 @@
+{
+  "id": "l-4-2-4",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Le spectacle vivant se joue devant vous, et non pour vous seul. Arrivée, tenue, téléphone, toux, applaudissements : ce que l’on doit aux artistes et à ses voisins, et pourquoi il ne faut pas se laisser intimider.",
+  "estimatedDuration": 9,
+  "tags": [
+    "théâtre",
+    "opéra",
+    "concert",
+    "spectacle",
+    "applaudissements",
+    "téléphone",
+    "tenue",
+    "entracte"
+  ],
+  "objectives": [
+    "Préparer une sortie au théâtre, au concert ou à l’opéra.",
+    "Respecter les artistes et les autres spectateurs pendant le spectacle.",
+    "Savoir quand et comment applaudir.",
+    "Se sentir à l’aise, même pour une première fois."
+  ],
+  "introduction": "Il y a des gens qui n’osent pas aller à l’opéra, parce qu’ils ne savent ni comment s’habiller, ni quand applaudir. Ils craignent d’y être jugés, et ils se privent ainsi d’un plaisir immense. C’est dommage : les règles sont très simples, et les salles sont aujourd’hui largement plus ouvertes que leur réputation ne le laisse croire.\n\nUn seul principe les résume. Le spectacle vivant se produit réellement devant vous : les artistes vous entendent, et ils travaillent sans filet. Vos voisins ont payé, et sont venus pour écouter. Tout ce qui suit découle de ce double respect. Et, pour ce qui concerne le reste, n’ayez pas peur : personne n’est né en sachant quand on applaudit chez Wagner.",
+  "sections": [
+    {
+      "title": "Avant le lever de rideau",
+      "content": "Arrivez en avance, un quart d’heure à une demi-heure selon la salle, le temps de déposer votre manteau, de trouver votre place et de consulter le programme. Beaucoup de salles n’admettent plus les retardataires une fois le spectacle commencé, ou ne les laissent entrer qu’à une pause, voire à l’entracte. Cette règle n’a rien de punitif : elle protège les artistes et le public.\n\nLa tenue n’obéit pas aux règles d’autrefois. Rien n’impose le smoking à l’opéra, à l’exception de quelques soirées de gala où l’invitation le précise. Une tenue soignée reste une manière d’honorer l’occasion : certains y voient un plaisir et s’habillent davantage pour une première, sans que personne ne soit tenu de le faire. Évitez seulement les parfums très marqués, le grand chapeau qui gêne, et les bracelets ou les sacs bruyants. Si vous êtes grand, pensez à ne pas vous pencher en avant, ce qui masque la vue de ceux qui sont derrière vous.\n\nSi votre place se trouve au milieu d’une rangée, on passe en faisant face aux personnes assises, en s’excusant à voix basse et en les remerciant : passer le dos tourné revient à leur présenter ce qu’il y a de moins agréable. Lorsque quelqu’un veut passer devant vous, levez-vous ou repliez-vous en souriant. Coupez entièrement votre téléphone : le mode silencieux peut encore vibrer, et un écran allumé se voit à dix rangs."
+    },
+    {
+      "title": "Pendant le spectacle",
+      "content": "On se tait, de la première à la dernière note, et cela vaut aussi pour les commentaires à voix basse à son voisin. Évitez les papiers de bonbon, les sacs que l’on fouille et les fermetures Éclair. Si vous devez tousser, attendez un passage bruyant ou une pause et étouffez ce son dans un mouchoir. Prévoyez des pastilles déballées avant le début, ou de l’eau dans un flacon silencieux si la salle l’autorise.\n\nLa photographie et l’enregistrement sont généralement interdits, à la fois pour des raisons de droit d’auteur et par respect pour les artistes : un écran allumé les distrait et prive vos voisins de leur attention. Certains concerts de musique actuelle les tolèrent, et le règlement l’indique en général. Dans un concert classique, on ne se lève pas, on ne quitte pas sa place et on ne suit pas sur son téléphone. Si vous êtes malade ou contraint de sortir, attendez un changement de scène ou une pause, et sortez discrètement par le bout de la rangée.\n\nLes enfants peuvent découvrir ces lieux, et c’est une très bonne chose, à condition de choisir des spectacles adaptés à leur âge et d’accepter de sortir avec eux s’ils s’agitent. Beaucoup de salles proposent des séances pour le jeune public, pendant lesquelles les règles sont plus souples. Il en va de même pour les personnes autistes ou sensibles : des séances dites « relax », où l’on peut bouger, se développent en France et méritent d’être connues."
+    },
+    {
+      "title": "Applaudir, partir",
+      "content": "Les habitudes diffèrent selon les genres. Au théâtre, on applaudit généralement à la fin, et aux saluts. Dans un concert de musique classique, on attend la fin de l’œuvre complète, et non chaque mouvement, ce que l’on peut vérifier dans le programme, et l’on attend que le chef baisse les bras. À l’opéra, on peut applaudir à la fin d’un air célèbre, si la salle le fait. En jazz, on applaudit les solos en plein morceau. Dans le doute, faites comme les autres, juste un peu après eux. Et si vous applaudissez seul, souriez : cela arrive même aux habitués.\n\nLes marques de satisfaction varient aussi : des « bravo » à l’opéra, un public debout, plusieurs rappels. Les huées existent dans certaines salles d’opéra, notamment à l’égard des mises en scène contestées. Elles restent un usage controversé, et l’on peut parfaitement exprimer sa déception en s’abstenant d’applaudir. Il est également d’usage de ne pas se ruer vers la sortie dès le rideau : les artistes saluent, et cette quinzaine de secondes leur revient.\n\nPendant l’entracte, on peut se dégourdir les jambes et prendre un verre. Revenez à votre place à la sonnerie, sans attendre le dernier moment. À la sortie, on patiente au vestiaire, et l’on se garde de critiquer à haute voix la mise en scène dans le hall : un proche de l’artiste peut être à côté de vous. Parler de ce que l’on a vu reste bien sûr l’un des grands plaisirs de ces soirées."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-4-2-4-r1",
+      "title": "On arrive avant le début.",
+      "description": "On se présente suffisamment tôt pour être assis avant le lever de rideau, et l’on accepte d’attendre en cas de retard.",
+      "rationale": "Toute entrée en cours de spectacle dérange les artistes et une rangée entière de spectateurs.",
+      "context": "Théâtres, opéras, concerts classiques.",
+      "recommendedBehavior": "Visez un quart d’heure à une demi-heure d’avance. En cas de retard, suivez l’ouvreuse et rejoignez votre place à l’entracte.",
+      "exceptions": [
+        "Certains concerts de musique actuelle ou certains spectacles en plein air sont plus souples."
+      ],
+      "remedy": "« Je comprends, j’attends l’entracte. Où puis-je me placer d’ici là ? »",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-4-2-4-r2",
+      "title": "Le téléphone s’éteint complètement.",
+      "description": "On éteint son téléphone, sans se contenter du mode silencieux, et on ne le consulte pas pendant le spectacle.",
+      "rationale": "La vibration s’entend, l’écran se voit de loin, et la photographie est le plus souvent interdite.",
+      "context": "Toute salle de spectacle vivant et tout cinéma.",
+      "recommendedBehavior": "Éteignez-le à l’entrée. Si vous êtes de garde, prévenez l’équipe d’accueil, et placez-vous en bout de rangée.",
+      "exceptions": [
+        "Un soignant d’astreinte ou un parent peut garder un appareil discret, en se plaçant de façon à sortir facilement."
+      ],
+      "remedy": "Si votre téléphone sonne : éteignez-le immédiatement, sans chercher à le faire oublier, et excusez-vous à voix basse.",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-4-2-4-r3",
+      "title": "On se tait, et on écoute.",
+      "description": "Pendant le spectacle, on ne parle pas et on limite les bruits, y compris la toux, les papiers et les sacs.",
+      "rationale": "Les artistes et les spectateurs entendent tout. Le silence fait partie de l’œuvre.",
+      "context": "Théâtre, musique classique, opéra, danse.",
+      "recommendedBehavior": "Déballez vos pastilles à l’avance, placez votre sac à vos pieds, étouffez votre toux dans un mouchoir.",
+      "exceptions": [
+        "Les spectacles pour jeune public, les séances « relax » et certains concerts ont d’autres usages."
+      ],
+      "remedy": "Si vous avez une quinte de toux qui ne cesse pas : sortez discrètement, personne ne vous en voudra.",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-4-2-4-r4",
+      "title": "On applaudit comme la salle.",
+      "description": "Les usages varient selon le genre ; on attend la fin d’une œuvre en musique classique, et l’on suit la salle en cas de doute.",
+      "rationale": "Un applaudissement à contretemps peut interrompre un moment de tension, mais il n’a rien de grave pour autant.",
+      "context": "Concerts classiques, opéra, jazz, théâtre.",
+      "recommendedBehavior": "Attendez que le chef baisse les bras. Restez pour les saluts : ils reviennent aux artistes.",
+      "exceptions": [
+        "En jazz, on applaudit les solos en plein morceau.",
+        "À l’opéra, un air célèbre peut être applaudi."
+      ],
+      "remedy": "Si vous applaudissez seul, souriez : cela n’a aucune importance.",
+      "conventionType": "cultural_custom",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "Le silence au concert n’a pas toujours existé. Au XVIIIe siècle, on parlait, on mangeait et l’on jouait aux cartes à l’opéra, et l’on applaudissait ou sifflait en plein air d’après son goût. Les musiciens et les directeurs de salles ont progressivement imposé un silence attentif au cours du XIXe siècle. Wagner, à Bayreuth, a contribué à cette évolution en plongeant la salle dans l’obscurité. Le silence du concert classique est donc une convention récente.\n\nCela ne la rend pas moins utile : elle permet à des centaines de personnes d’entendre le même son, et aux artistes de travailler dans la concentration. Il faut aussi reconnaître son ambiguïté. Ces règles ont parfois servi de barrière sociale : ceux qui les connaissaient pouvaient regarder de haut ceux qui les ignoraient. Bien des institutions françaises cherchent aujourd’hui à ouvrir leurs portes, avec des tarifs réduits et des répétitions publiques. Un habitué qui soupire contre un voisin qui applaudit au mauvais moment manque plus à l’élégance que ce voisin.",
+  "examples": [
+    {
+      "context": "Vous emmenez un ami à son premier opéra",
+      "behavior": "Vous lui envoyez le résumé de l’histoire avant de venir, vous lui expliquez que les surtitres l’aideront, et vous lui dites qu’il peut s’habiller comme il le souhaite. À l’entracte, vous lui demandez ce qu’il en pense.",
+      "explanation": "Vous levez les petites craintes, et vous lui laissez découvrir l’œuvre sans lui imposer votre avis."
+    },
+    {
+      "context": "Une voisine de rangée applaudit après le premier mouvement d’une symphonie",
+      "behavior": "Vous ne lui lancez aucun regard noir. Si elle se tourne vers vous, un sourire suffit.",
+      "explanation": "Sa joie est sincère, et l’usage qu’elle ignore n’a rien de moral. Sa gêne serait plus grave que son geste."
+    },
+    {
+      "context": "Vous arrivez avec dix minutes de retard au théâtre",
+      "behavior": "« Je comprends, j’attends. » Vous suivez l’ouvreuse, vous attendez la pause indiquée, et vous vous installez sans bruit.",
+      "explanation": "Vous acceptez les conséquences de votre retard, et vous ne les faites pas porter aux autres."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Pendant un concert",
+      "behavior": "Filmer une minute d’un air célèbre, écran allumé, pour le publier le soir même.",
+      "consequences": "Votre écran gêne plusieurs rangs, les artistes le voient et cette captation est le plus souvent interdite.",
+      "alternative": "Garder le souvenir pour vous, et acheter l’enregistrement si la salle le propose."
+    },
+    {
+      "situation": "Devant un spectateur inexpérimenté",
+      "behavior": "Lui faire un « chut ! » cinglant parce qu’il a applaudi au mauvais moment.",
+      "consequences": "Il n’osera plus revenir, et vous ajoutez du bruit au bruit.",
+      "alternative": "Ne rien dire. Il comprendra de lui-même, et cela n’a pas de conséquence."
+    },
+    {
+      "situation": "À la fin d’une représentation",
+      "behavior": "Se lever et bousculer toute la rangée pendant que les artistes saluent, pour éviter la queue au vestiaire.",
+      "consequences": "Vous privez les artistes de ce moment, et vous empêchez vos voisins de voir.",
+      "alternative": "Rester quelques instants pour les saluts. Le vestiaire peut bien attendre."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Tous les spectacles ne se valent pas.",
+      "text": "Un concert de rock, un opéra en plein air, un festival ou un one-man-show ont leurs propres usages : on peut chanter, se lever ou réagir à voix haute. Il serait tout aussi déplacé d’y imposer un silence absolu. Observez ce qui se fait dans la salle."
+    },
+    {
+      "title": "Différences culturelles.",
+      "text": "Dans le cinéma indien, le public peut applaudir et chanter. Dans une salle de théâtre italienne, on peut réagir plus vivement qu’en Allemagne ou au Japon. Ces variations n’ont rien de plus ou moins respectueux."
+    },
+    {
+      "title": "Accessibilité.",
+      "text": "De nombreuses salles proposent désormais des places pour fauteuils, des boucles magnétiques, des surtitres ou des séances adaptées. Une personne autiste, malade ou ayant un trouble moteur peut faire du bruit malgré elle : on ne la reprend pas, et on lui laisse la possibilité de sortir."
+    }
+  ],
+  "contexts": [
+    "Théâtre : silence, saluts à la fin.",
+    "Concert classique : attente de la fin de l’œuvre et attention au chef.",
+    "Opéra : surtitres, air applaudi possible, entractes.",
+    "Musiques actuelles : usages plus libres, attention aux règles de captation."
+  ],
+  "keyPoints": [
+    "Le spectacle vivant se joue devant vous : les artistes vous entendent.",
+    "On arrive tôt, et l’on éteint vraiment son téléphone.",
+    "Dans le doute sur les applaudissements, on suit la salle.",
+    "Une erreur d’usage n’a rien de grave. Le mépris de l’habitué, si."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Quand applaudit-on ?",
+    "instructions": "Associez chaque genre à l’usage le plus fréquent.",
+    "pairs": [
+      {
+        "left": "Symphonie en quatre mouvements",
+        "right": "À la fin de l’œuvre complète, quand le chef baisse les bras"
+      },
+      {
+        "left": "Grand air d’opéra",
+        "right": "Après l’air, si la salle le fait"
+      },
+      {
+        "left": "Concert de jazz",
+        "right": "Après un solo, en plein morceau"
+      },
+      {
+        "left": "Pièce de théâtre",
+        "right": "À la fin, et aux saluts"
+      }
+    ],
+    "explanation": "Ces usages sont des conventions, et ils ont changé avec le temps. Le meilleur guide reste la salle : un léger temps d’attente vous permettra de suivre le mouvement."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-4-2-4-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Dans un concert classique, à quel moment applaudit-on généralement ?",
+        "choices": [
+          "Après chaque mouvement, pour encourager les musiciens",
+          "À la fin de l’œuvre, quand le chef baisse les bras",
+          "Pendant les passages les plus forts, comme à l’opéra",
+          "On n’applaudit jamais"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "On attend la fin de l’œuvre complète : le programme indique le nombre de mouvements. Cet usage, qui date du XIXe siècle, reste une convention, et une erreur n’a rien de grave.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-4-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "À l’opéra, le smoking ou la robe longue sont obligatoires pour toutes les représentations.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : hors soirée de gala où l’invitation le précise, on peut s’habiller comme on le souhaite, de préférence avec soin. Cette crainte éloigne malheureusement beaucoup de personnes de ces salles.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-4-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Lequel de ces comportements dérange le plus lors d’une représentation ?",
+        "choices": [
+          "Applaudir une seconde trop tôt",
+          "Consulter son téléphone, écran allumé",
+          "Suivre le spectacle avec les surtitres",
+          "Sortir discrètement lors d’une quinte de toux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Un écran allumé se voit depuis plusieurs rangs, et il distrait les artistes. Une erreur d’applaudissement passe vite, et sortir pour tousser témoigne au contraire de considération.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-4-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Comment passe-t-on au milieu d’une rangée déjà assise ?",
+        "choices": [
+          "Le dos tourné aux personnes assises, rapidement",
+          "Face aux personnes assises, en s’excusant à voix basse",
+          "En demandant à tous de sortir",
+          "En passant par-dessus les sièges"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Se placer face aux personnes est considéré comme plus courtois que de leur tourner le dos, et l’on remercie à voix basse. Dans certains pays, l’usage peut être inverse : observez.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-4-2-4-q5",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous arrivez après le début du spectacle. Que dites-vous à l’ouvreuse ?",
+        "choices": [
+          "« J’ai payé ma place, laissez-moi passer. »",
+          "« Je comprends. À quel moment pourrai-je rejoindre ma place ? »",
+          "« Vous pouvez arrêter le spectacle deux minutes ? »",
+          "Rien, et vous forcez le passage"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Vous reconnaissez la règle, qui protège le public et les artistes. Vous avez payé votre place, certes, mais votre retard n’a pas à peser sur les autres.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "James H. Johnson",
+      "title": "Listening in Paris: A Cultural History",
+      "publisher": "University of California Press",
+      "year": "1995",
+      "note": "Sur l’apparition du silence au concert."
+    },
+    {
+      "title": "Code de la propriété intellectuelle",
+      "note": "Sur les droits d’auteur et droits voisins : la captation d’un spectacle est généralement soumise à autorisation."
+    },
+    {
+      "title": "Relax",
+      "note": "Séances de spectacle adaptées, proposées par plusieurs institutions culturelles françaises."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

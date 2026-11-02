@@ -1,0 +1,308 @@
+{
+  "id": "relations",
+  "slug": "relations",
+  "number": 2,
+  "title": "Savoir-vivre avec sa famille et avec les autres",
+  "shortTitle": "Famille et autres",
+  "description": "Famille, couple, amis, voisins, professionnels : construire des liens justes, respectueux et durables.",
+  "objective": "Apprendre à construire des relations harmonieuses, respectueuses et équilibrées avec les membres de sa famille, ses amis, ses voisins, les professionnels et les personnes rencontrées dans la vie quotidienne.",
+  "icon": "UsersThree",
+  "order": 2,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Les fondamentaux des relations humaines",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "Maîtriser les relations sociales",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "L'intelligence des relations humaines",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-2-1-1",
+      "number": "2.1.1",
+      "level": "beginner",
+      "title": "Le respect des autres",
+      "topics": [
+        "Respect des opinions",
+        "Respect de la vie privée",
+        "Respect de l'espace personnel",
+        "Respect des différences",
+        "Discrétion"
+      ]
+    },
+    {
+      "id": "l-2-1-2",
+      "number": "2.1.2",
+      "level": "beginner",
+      "title": "La politesse dans les relations quotidiennes",
+      "topics": [
+        "Saluer",
+        "Remercier",
+        "S'excuser",
+        "Demander avec courtoisie",
+        "Reconnaître une attention"
+      ]
+    },
+    {
+      "id": "l-2-1-3",
+      "number": "2.1.3",
+      "level": "beginner",
+      "title": "Le savoir-vivre en famille",
+      "topics": [
+        "Respect entre générations",
+        "Relations avec les parents",
+        "Relations avec les enfants adultes",
+        "Relations entre frères et sœurs",
+        "Attentions familiales"
+      ]
+    },
+    {
+      "id": "l-2-1-4",
+      "number": "2.1.4",
+      "level": "beginner",
+      "title": "Les relations amicales",
+      "topics": [
+        "Fidélité en amitié",
+        "Discrétion",
+        "Disponibilité",
+        "Respect des engagements",
+        "Gestion des désaccords"
+      ]
+    },
+    {
+      "id": "l-2-1-5",
+      "number": "2.1.5",
+      "level": "beginner",
+      "title": "Le respect du voisinage",
+      "topics": [
+        "Bruit et nuisances",
+        "Espaces communs",
+        "Relations de voisinage",
+        "Entraide",
+        "Gestion des conflits"
+      ]
+    },
+    {
+      "id": "l-2-1-6",
+      "number": "2.1.6",
+      "level": "beginner",
+      "title": "Le respect des personnes vulnérables",
+      "topics": [
+        "Personnes âgées",
+        "Personnes malades",
+        "Personnes handicapées",
+        "Personnes isolées",
+        "Attitude respectueuse et non paternaliste"
+      ]
+    },
+    {
+      "id": "l-2-2-1",
+      "number": "2.2.1",
+      "level": "intermediate",
+      "title": "Le savoir-vivre dans le couple",
+      "topics": [
+        "Communication",
+        "Respect mutuel",
+        "Attentions quotidiennes",
+        "Désaccords",
+        "Vie commune"
+      ]
+    },
+    {
+      "id": "l-2-2-2",
+      "number": "2.2.2",
+      "level": "intermediate",
+      "title": "Les relations avec la belle-famille",
+      "topics": [
+        "Première rencontre",
+        "Relations avec les beaux-parents",
+        "Respect des habitudes",
+        "Limites personnelles",
+        "Gestion des tensions"
+      ]
+    },
+    {
+      "id": "l-2-2-3",
+      "number": "2.2.3",
+      "level": "intermediate",
+      "title": "Les familles recomposées",
+      "topics": [
+        "Relations avec les enfants du conjoint",
+        "Respect des rôles",
+        "Gestion des différences éducatives",
+        "Relations avec les anciens conjoints",
+        "Organisation des événements familiaux"
+      ]
+    },
+    {
+      "id": "l-2-2-4",
+      "number": "2.2.4",
+      "level": "intermediate",
+      "title": "Le savoir-vivre avec les enfants et adolescents",
+      "topics": [
+        "Communication respectueuse",
+        "Transmission des règles sociales",
+        "Autorité et bienveillance",
+        "Respect de leur autonomie",
+        "Relations entre générations"
+      ]
+    },
+    {
+      "id": "l-2-2-5",
+      "number": "2.2.5",
+      "level": "intermediate",
+      "title": "Les ruptures et les séparations",
+      "topics": [
+        "Annoncer une séparation",
+        "Respecter son ancien partenaire",
+        "Préserver les enfants",
+        "Gestion des relations communes",
+        "Discrétion après une rupture"
+      ]
+    },
+    {
+      "id": "l-2-2-6",
+      "number": "2.2.6",
+      "level": "intermediate",
+      "title": "Les relations avec les professionnels",
+      "topics": [
+        "Commerçants",
+        "Artisans",
+        "Personnel de maison",
+        "Gardiens et concierges",
+        "Chauffeurs",
+        "Personnel d'accueil",
+        "Professionnels de santé"
+      ]
+    },
+    {
+      "id": "l-2-2-7",
+      "number": "2.2.7",
+      "level": "intermediate",
+      "title": "Le savoir-vivre avec l'argent",
+      "topics": [
+        "Discrétion financière",
+        "Prêts et emprunts",
+        "Dettes",
+        "Cadeaux et gratifications",
+        "Relations financières entre proches",
+        "Respect des différences de moyens"
+      ]
+    },
+    {
+      "id": "l-2-2-8",
+      "number": "2.2.8",
+      "level": "intermediate",
+      "title": "Les relations avec les animaux",
+      "topics": [
+        "Respect des animaux",
+        "Responsabilité du propriétaire",
+        "Comportement avec les animaux d'autrui",
+        "Présence des animaux dans les lieux publics"
+      ]
+    },
+    {
+      "id": "l-2-3-1",
+      "number": "2.3.1",
+      "level": "advanced",
+      "title": "Les relations sociales complexes",
+      "topics": [
+        "Relations hiérarchiques",
+        "Relations entre générations",
+        "Relations entre personnes de milieux différents",
+        "Gestion des rivalités",
+        "Respect des sensibilités"
+      ]
+    },
+    {
+      "id": "l-2-3-2",
+      "number": "2.3.2",
+      "level": "advanced",
+      "title": "La gestion des conflits",
+      "topics": [
+        "Identifier les tensions",
+        "Désamorcer un conflit",
+        "Savoir présenter des excuses",
+        "Savoir accepter des excuses",
+        "Trouver une issue honorable"
+      ]
+    },
+    {
+      "id": "l-2-3-3",
+      "number": "2.3.3",
+      "level": "advanced",
+      "title": "Les situations de maladie et de vulnérabilité",
+      "topics": [
+        "Rendre visite à une personne malade",
+        "Accompagner un proche",
+        "Comportement auprès d'une personne handicapée",
+        "Respect de l'autonomie",
+        "Attitude face à la dépendance"
+      ]
+    },
+    {
+      "id": "l-2-3-4",
+      "number": "2.3.4",
+      "level": "advanced",
+      "title": "Les relations avec les personnes en difficulté",
+      "topics": [
+        "Précarité",
+        "Isolement",
+        "Immigration",
+        "Exclusion",
+        "Solidarité sans condescendance"
+      ]
+    },
+    {
+      "id": "l-2-3-5",
+      "number": "2.3.5",
+      "level": "advanced",
+      "title": "Les relations avec les professionnels du droit et de la santé",
+      "topics": [
+        "Avocat",
+        "Notaire",
+        "Médecin",
+        "Infirmier",
+        "Patient",
+        "Confidentialité",
+        "Respect des compétences et des responsabilités"
+      ]
+    },
+    {
+      "id": "l-2-3-6",
+      "number": "2.3.6",
+      "level": "advanced",
+      "title": "La gestion des relations délicates",
+      "topics": [
+        "Personnes envahissantes",
+        "Personnes indiscrètes",
+        "Relations déséquilibrées",
+        "Manipulation relationnelle",
+        "Protection de ses limites"
+      ]
+    },
+    {
+      "id": "l-2-3-7",
+      "number": "2.3.7",
+      "level": "advanced",
+      "title": "L'art de la considération",
+      "topics": [
+        "Reconnaissance",
+        "Gratitude",
+        "Attention aux autres",
+        "Écoute",
+        "Respect sans distinction de statut social"
+      ]
+    }
+  ]
+}

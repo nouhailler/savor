@@ -1,0 +1,333 @@
+[
+  {
+    "id": "s-3-1",
+    "domainId": "communication",
+    "level": "beginner",
+    "title": "Le nom envolé",
+    "description": "Vous retrouvez quelqu’un que vous avez déjà rencontré, mais son nom vous échappe. Vous devez le présenter.",
+    "context": "Lors d’un vernissage, une femme vous salue chaleureusement : « Quelle joie de vous revoir ! » Vous l’avez déjà rencontrée, c’est certain, mais son nom vous échappe. Votre ami Paul arrive à cet instant, et attend d’être présenté.",
+    "characters": [
+      "Une connaissance dont vous avez oublié le nom",
+      "Paul, votre ami"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-3-1-a",
+        "narrative": "",
+        "question": "Comment réagissez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous l’appelez « chère amie » et vous laissez Paul planté là.",
+            "score": 0,
+            "feedbackTitle": "Votre gêne devient celle de tous.",
+            "feedback": "Paul reste sans explication, et la personne comprendra sans doute la manœuvre. Vous gardez votre secret, au prix de deux personnes mal à l’aise."
+          },
+          {
+            "id": "b",
+            "label": "Vous vous tournez vers Paul : « Paul, je te présente… » puis vous vous adressez à elle : « Pardon, je suis confus, votre nom m’échappe. »",
+            "score": 1,
+            "feedbackTitle": "L’aveu, simple et rapide.",
+            "feedback": "L’oubli d’un nom est très fréquent, et l’aveu ne coûte presque rien. Vous assumez, et tout le monde peut poursuivre. La confusion ne dure qu’un instant."
+          },
+          {
+            "id": "c",
+            "label": "Vous dites à Paul : « Je te laisse te présenter ! »",
+            "score": 0.5,
+            "feedbackTitle": "Habile, et sans doute suffisant.",
+            "feedback": "Cette astuce fonctionne souvent, car chacun donne son nom spontanément. Elle reste un peu visible, et vous n’êtes pas à l’abri de devoir reparler d’elle plus tard."
+          },
+          {
+            "id": "d",
+            "label": "« Excusez-moi, on se connaît ? »",
+            "score": 0,
+            "feedbackTitle": "Une gifle involontaire.",
+            "feedback": "Elle vient de vous saluer avec chaleur : vous lui dites qu’elle n’a laissé aucune trace. Il y a une grande différence entre oublier un nom et oublier une personne."
+          }
+        ]
+      }
+    ],
+    "rule": "Oublier un nom n’a rien d’une faute. Ce qui blesse, c’est de le cacher longuement, ou de laisser quelqu’un sans présentation.",
+    "nuance": "Pour aider autrui dans ce cas, redonnez votre nom spontanément à ceux que vous n’avez pas vus depuis longtemps : « Inès Morel, nous nous sommes vus à Lyon. »",
+    "relatedLessonIds": [
+      "l-4-1-3",
+      "l-3-1-3"
+    ],
+    "tags": [
+      "nom",
+      "présentation",
+      "oubli"
+    ]
+  },
+  {
+    "id": "s-3-2",
+    "domainId": "communication",
+    "level": "intermediate",
+    "title": "« Répondre à tous »",
+    "description": "Vous venez d’envoyer à toute l’équipe un message moqueur sur une collègue.",
+    "context": "Agacé après une réunion, vous écrivez à votre ami Karim : « Encore un exposé interminable de Sylvie, on a frôlé la mort par ennui. » Vous cliquez sur « Répondre à tous » : le message part à toute l’équipe, Sylvie comprise. Vous vous en apercevez dix secondes plus tard.",
+    "characters": [
+      "Sylvie, votre collègue",
+      "Karim, votre ami",
+      "Toute l’équipe"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-3-2-a",
+        "narrative": "",
+        "question": "Quelle est votre première réaction ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous écrivez à tous qu’il s’agissait d’une plaisanterie, et que vous adorez les exposés de Sylvie.",
+            "score": 0,
+            "feedbackTitle": "Une couche de plus.",
+            "feedback": "Personne n’y croit, et vous remettez le sujet dans toutes les boîtes. Sylvie est de nouveau exposée, cette fois par une ironie involontaire."
+          },
+          {
+            "id": "b",
+            "label": "Vous allez voir Sylvie aussitôt : « Je vous ai envoyé par erreur un message qui ne vous était pas destiné. C’était méchant, et injuste. Je vous présente mes excuses. »",
+            "score": 1,
+            "feedbackTitle": "De vive voix, et sans excuse.",
+            "feedback": "La rencontre directe et rapide est la seule réparation qui compte. Vous ne vous justifiez pas par votre agacement ni par l’humour. Un mot bref à l’équipe, si nécessaire, pourra suivre."
+          },
+          {
+            "id": "c",
+            "label": "Vous tentez de rappeler le message, sans parler à personne.",
+            "score": 0.5,
+            "feedbackTitle": "Bon réflexe, mais insuffisant.",
+            "feedback": "Rappeler le message n’est pas inutile, mais cela fonctionne rarement, et il laisse une notification. Il ne peut pas remplacer une excuse si Sylvie l’a lu."
+          },
+          {
+            "id": "d",
+            "label": "Vous envoyez à Sylvie un message : « Tu sais bien que je plaisante, ne le prends pas mal. »",
+            "score": 0,
+            "feedbackTitle": "Le reproche se retourne.",
+            "feedback": "Vous lui demandez de ne pas se sentir blessée, au lieu de reconnaître que vous l’avez blessée. C’est sa réaction qui deviendrait le problème."
+          }
+        ]
+      }
+    ],
+    "rule": "Un message blessant se répare vite, directement et sans justification : le fait, l’effet, l’excuse.",
+    "nuance": "Le plus sûr reste d’éviter d’écrire ce qu’on ne pourrait pas dire à la personne. Une habitude utile : vérifier les destinataires avant l’envoi, surtout dans un moment d’énervement.",
+    "relatedLessonIds": [
+      "l-3-2-8",
+      "l-4-2-7"
+    ],
+    "tags": [
+      "courriel",
+      "erreur",
+      "excuses",
+      "travail"
+    ]
+  },
+  {
+    "id": "s-3-3",
+    "domainId": "communication",
+    "level": "intermediate",
+    "title": "Le dîner politique",
+    "description": "Un convive affirme des généralités qui vous exaspèrent. Faut-il répondre ?",
+    "context": "Dîner chez des amis. Un convive, Gilles, affirme avec assurance : « De toute façon, les chômeurs ne veulent pas travailler. » Vous êtes en désaccord, et vous savez que Thomas, assis en face, est au chômage depuis un an. Il se tait.",
+    "characters": [
+      "Gilles, un convive",
+      "Thomas, un ami au chômage",
+      "Vos hôtes"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-3-3-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Tu dis n’importe quoi. Tu n’as visiblement jamais eu de difficultés. »",
+            "score": 0,
+            "feedbackTitle": "L’attaque remplace l’argument.",
+            "feedback": "Vous visez Gilles, et non ce qu’il dit. Il va se défendre, le ton va monter, et tous les regards risquent de se tourner vers Thomas, qui n’a rien demandé."
+          },
+          {
+            "id": "b",
+            "label": "« Ce n’est pas ce que je vois autour de moi. La plupart des gens que je connais dans cette situation cherchent activement, et c’est très dur. Qu’est-ce qui te fait dire ça ? »",
+            "score": 1,
+            "feedbackTitle": "Contredire sur le fond, sans exposer quiconque.",
+            "feedback": "Vous opposez une expérience à une généralité et vous posez une question. Vous n’êtes pas resté silencieux devant un propos injuste, et Thomas n’a pas à se dévoiler."
+          },
+          {
+            "id": "c",
+            "label": "« Thomas, toi qui es au chômage, tu pourrais nous dire ce que tu en penses ? »",
+            "score": 0,
+            "feedbackTitle": "Vous l’exposez malgré lui.",
+            "feedback": "Vous croyez le défendre, mais vous révélez sa situation, et vous l’obligez à répondre devant tous. Il revient à Thomas de décider s’il veut en parler."
+          },
+          {
+            "id": "d",
+            "label": "Vous changez de sujet, en interrogeant vos hôtes sur leurs vacances.",
+            "score": 0.5,
+            "feedbackTitle": "Une issue possible.",
+            "feedback": "Changer de sujet préserve la soirée et protège Thomas de l’attention. Mais le propos reste sans réponse, et Thomas peut l’avoir mal vécu : vous pourrez lui dire un mot plus tard."
+          }
+        ]
+      }
+    ],
+    "rule": "Un désaccord vise une idée, non une personne, et il n’expose jamais ceux qui sont concernés sans leur accord.",
+    "nuance": "Si les propos visent directement une personne présente ou sont discriminatoires, l’hôte et chacun des convives peuvent dire : « Je préfère qu’on s’arrête là. »",
+    "relatedLessonIds": [
+      "l-3-2-3",
+      "l-3-3-4"
+    ],
+    "tags": [
+      "désaccord",
+      "politique",
+      "dîner",
+      "tact"
+    ]
+  },
+  {
+    "id": "s-3-4",
+    "domainId": "communication",
+    "level": "advanced",
+    "title": "Le toast qui dérape",
+    "description": "Vous prononcez un discours au mariage de votre frère, et un convive éméché prend le micro.",
+    "context": "Mariage de votre frère, 120 invités. Vous venez de finir votre discours de témoin, apprécié. Le cousin Damien, passablement éméché, s’empare du micro : « Moi aussi, j’ai une anecdote ! Notre marié, quand il sortait avec Julie, à Biarritz… » La mariée se fige. Damien cherche ses mots.",
+    "characters": [
+      "Damien, un cousin éméché",
+      "Les mariés",
+      "120 invités"
+    ],
+    "estimatedDuration": 5,
+    "steps": [
+      {
+        "id": "s-3-4-a",
+        "narrative": "",
+        "question": "Vous êtes tout près de lui. Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous vous approchez en souriant, posez la main sur son épaule et dites au micro : « Et Damien me rappelle que le dessert nous attend ! Levons nos verres aux mariés ! »",
+            "score": 1,
+            "nextStepId": "s-3-4-b",
+            "feedbackTitle": "Une reprise de main sans humiliation.",
+            "feedback": "Vous reprenez le micro avec le sourire, et le toast offre à tous une sortie immédiate. Damien n’a pas été accusé devant la salle. Les mariés sont protégés."
+          },
+          {
+            "id": "b",
+            "label": "Vous lui arrachez le micro : « Damien, ça suffit, tu es ivre. »",
+            "score": 0,
+            "nextStepId": "s-3-4-c",
+            "feedbackTitle": "Stoppé, mais avec un second incident.",
+            "feedback": "La gêne est arrêtée, mais la scène en crée une autre, devant 120 personnes. Damien peut réagir, et le souvenir que garderont les mariés sera cette altercation."
+          },
+          {
+            "id": "c",
+            "label": "Vous ne bougez pas : ce n’est pas votre responsabilité.",
+            "score": 0,
+            "nextStepId": "s-3-4-d",
+            "feedbackTitle": "L’anecdote va suivre son cours.",
+            "feedback": "Vous êtes témoin et à portée de main : votre discrétion laisse les mariés seuls. La réserve n’est plus une politesse quand on peut empêcher une blessure publique."
+          }
+        ]
+      },
+      {
+        "id": "s-3-4-b",
+        "narrative": "Les invités lèvent leurs verres, soulagés. La fête reprend. Damien, un peu perdu, retourne s’asseoir, et le frère de la mariée vous adresse un signe de remerciement.",
+        "question": "Que faites-vous de Damien ensuite ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous le rejoignez : « Viens prendre un peu l’air avec moi. Tu rentres comment, ce soir ? »",
+            "score": 1,
+            "feedbackTitle": "Vous prenez soin de lui aussi.",
+            "feedback": "Vous évitez qu’il ne recommence et vous vous assurez qu’il ne prendra pas le volant. Il n’a pas besoin d’une leçon ce soir ; il reste un invité, et votre cousin."
+          },
+          {
+            "id": "b",
+            "label": "Vous lui dites devant sa famille qu’il vous a fait honte.",
+            "score": 0,
+            "feedbackTitle": "Une humiliation différée.",
+            "feedback": "Vous aviez réussi à l’épargner. Il n’y a aucun intérêt à ce règlement de comptes en pleine fête, qui risque de relancer l’incident."
+          },
+          {
+            "id": "c",
+            "label": "Vous ne vous en occupez plus : il est adulte.",
+            "score": 0.5,
+            "feedbackTitle": "Compréhensible.",
+            "feedback": "Vous avez déjà fait beaucoup. Mais une personne ivre peut être un danger pour elle-même sur la route : déléguer cette vigilance à un proche serait utile."
+          }
+        ]
+      },
+      {
+        "id": "s-3-4-c",
+        "narrative": "Damien, vexé, réplique à voix haute : « On ne peut plus rien dire dans cette famille ! » La salle se tait. Les mariés vous regardent.",
+        "question": "Comment reprendre le contrôle ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous gardez le micro : « Damien a raison sur un point : on aime tous beaucoup Paul. Un dernier toast aux mariés, et place au gâteau ! » Vous demandez ensuite à un proche de s’occuper de lui.",
+            "score": 1,
+            "feedbackTitle": "Vous lui rendez une issue.",
+            "feedback": "Vous concédez ce que vous pouvez, vous reconduisez l’attention vers les mariés, et vous déléguez. Vous pourrez leur présenter vos regrets plus tard."
+          },
+          {
+            "id": "b",
+            "label": "Vous poursuivez l’altercation pour avoir le dernier mot.",
+            "score": 0,
+            "feedbackTitle": "Le mariage devient votre querelle.",
+            "feedback": "Peu importe qui a raison. Chaque réplique éloigne encore la fête de ceux qu’elle célèbre."
+          },
+          {
+            "id": "c",
+            "label": "Vous quittez la salle pour vous calmer, en laissant le micro à Damien.",
+            "score": 0,
+            "feedbackTitle": "Vous laissez le micro au problème.",
+            "feedback": "Prendre l’air serait sage, mais pas en laissant le micro à la personne qui crée l’incident."
+          }
+        ]
+      },
+      {
+        "id": "s-3-4-d",
+        "narrative": "Damien poursuit : « … et il lui avait promis de l’épouser ! » Quelques rires, un grand malaise. La mariée se lève et sort. Votre frère vous regarde.",
+        "question": "Que faites-vous à présent ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous reprenez le micro : « Damien nous a fait une farce de mauvais goût. Musique, s’il vous plaît ! » Vous rejoignez ensuite votre frère, et vous demandez à une amie de la mariée d’aller la voir.",
+            "score": 1,
+            "feedbackTitle": "Il n’est jamais trop tard pour agir.",
+            "feedback": "Vous mettez fin à la séquence, vous donnez un signal clair à l’assistance et vous organisez un soutien. L’anecdote ne pourra pas être effacée, mais la soirée peut encore repartir."
+          },
+          {
+            "id": "b",
+            "label": "Vous riez pour dédramatiser.",
+            "score": 0,
+            "feedbackTitle": "Le rire ajoute à la blessure.",
+            "feedback": "La mariée vient de sortir. Rire signifie qu’il n’y a rien de grave, et abandonne les personnes atteintes."
+          },
+          {
+            "id": "c",
+            "label": "Vous allez chercher la mariée et vous lui expliquez que Damien a trop bu, donc que ce n’est pas grave.",
+            "score": 0.5,
+            "feedbackTitle": "Bien intentionné, mais trop rapide.",
+            "feedback": "Votre soutien est bienvenu, mais elle n’a pas besoin qu’on minimise. Écoutez-la, et laissez son conjoint ou une amie proche rester auprès d’elle."
+          }
+        ]
+      }
+    ],
+    "rule": "On intervient avant la blessure quand on le peut, en laissant à chacun une issue : la fête appartient à ceux que l’on célèbre.",
+    "nuance": "Prévenir vaut mieux que réparer : un micro confié à un maître de cérémonie et une liste de prises de parole préparée avec les mariés évitent la plupart de ces accidents.",
+    "relatedLessonIds": [
+      "l-6-3-2",
+      "l-6-2-4",
+      "l-5-3-5"
+    ],
+    "tags": [
+      "discours",
+      "mariage",
+      "incident",
+      "alcool"
+    ]
+  }
+]

@@ -1,0 +1,326 @@
+{
+  "id": "l-3-2-8",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Courriels, SMS, messageries, visio, réseaux : des usages récents, sans règles écrites. Délais de réponse, ponctuation et ton, vie privée, droit de ne pas répondre : le savoir-vivre de l’écran.",
+  "estimatedDuration": 13,
+  "tags": [
+    "numérique",
+    "courriel",
+    "SMS",
+    "messagerie",
+    "visioconférence",
+    "réseaux sociaux",
+    "ton",
+    "vie privée",
+    "déconnexion"
+  ],
+  "objectives": [
+    "Adapter le canal et le ton au message et au destinataire.",
+    "Gérer les délais de réponse sans exiger l’immédiateté.",
+    "Éviter les malentendus liés à l’écrit, à la ponctuation et aux emojis.",
+    "Protéger sa vie privée et celle des autres, en ligne."
+  ],
+  "introduction": "Un point à la fin d’un SMS peut sembler froid à vos enfants. Un « OK » peut blesser. Un message vu et resté sans réponse peut gâcher une soirée. Une photo publiée sans demander peut faire perdre un emploi. Aucun de nos grands-parents n’a eu à apprendre ces codes, et personne ne nous les a enseignés : nous les inventons à mesure, avec des générations qui ne s’accordent pas.\n\nLe savoir-vivre numérique part du même principe que l’autre : il y a une personne de l’autre côté. L’écran nous fait parfois oublier cela, et nous écrivons ce que nous n’oserions jamais dire en face. Cette leçon propose quelques repères, à actualiser souvent, car ces usages évoluent très vite.",
+  "sections": [
+    {
+      "title": "Quel canal pour quel message ?",
+      "content": "Chaque outil a son niveau d’urgence et d’intimité. Le courriel convient aux échanges professionnels et aux messages longs qui peuvent attendre. Le SMS ou la messagerie conviennent aux échanges rapides, à des personnes dont vous avez le numéro à bon escient. Le téléphone reste préférable pour une urgence, un sujet complexe ou une mauvaise nouvelle. Une rencontre en personne s’impose pour certaines annonces : on n’annonce pas une rupture ni un licenciement par SMS, sauf situation de danger.\n\nN’utilisez pas un canal personnel pour un sujet professionnel sans y être invité. Écrire à un collègue sur son téléphone privé le dimanche, pour une question qui attendra lundi, empiète sur sa vie. En France, le droit à la déconnexion est reconnu aux salariés depuis 2017. Les responsables donnent le ton : un message envoyé à 23 heures peut créer une pression involontaire. Beaucoup d’outils permettent de programmer l’envoi pour le lendemain matin.\n\nDans un groupe de messagerie, on se demande si tout le monde a besoin de lire ce que l’on écrit. On n’y discute pas d’un sujet privé entre deux personnes, on évite la longue suite de « merci », et l’on quitte discrètement un groupe qui ne vous concerne plus. Avant d’ajouter quelqu’un à un groupe, il vaut mieux le lui demander, car cela communique son numéro à tous les autres membres."
+    },
+    {
+      "title": "Le courriel",
+      "content": "Un bon courriel se lit en trente secondes. L’objet permet de savoir de quoi il s’agit et de le retrouver plus tard. On commence par saluer, on donne la demande et le délai dès les premières lignes, puis les détails utiles. On signe. « Bonjour » et « Bien cordialement » ne prennent qu’une seconde à écrire, et leur absence peut paraître sèche, même si les échanges rapides entre collègues peuvent s’en passer une fois la conversation engagée.\n\nLes destinataires demandent de l’attention. En copie, on met ceux qui ont besoin d’être informés, et non pas toute l’entreprise pour se protéger. Mettre un responsable en copie au milieu d’un désaccord est perçu comme une menace. La copie cachée peut être utile pour protéger des adresses d’un envoi groupé, et elle devient douteuse lorsqu’elle sert à surveiller. Vérifiez deux fois avant d’utiliser « Répondre à tous », et plus encore avant de transférer un message : son auteur ne l’a peut-être pas écrit pour d’autres yeux.\n\nÉvitez d’écrire sous le coup de la colère. Rédigez, si cela vous soulage, sans remplir le champ du destinataire, et relisez le lendemain. Un message très négatif se traite mieux à l’oral : on se parle puis, si nécessaire, on confirme par écrit. Une conversation qui s’envenime au bout de deux échanges de courriels doit passer au téléphone : l’écrit durcit les choses et, contrairement à la parole, il reste."
+    },
+    {
+      "title": "Ton, ponctuation, délais",
+      "content": "À l’écrit, on perd le visage, la voix et le rythme de l’échange : un même « D’accord. » peut signifier beaucoup de choses. Les chercheurs ont d’ailleurs observé qu’un point final dans un SMS tend à être perçu comme moins sincère par les jeunes adultes, tandis que les générations plus âgées y voient seulement une phrase correcte. Les majuscules passent pour un cri. Les émoticônes aident à donner le ton dans un échange familier, mais peuvent prêter à confusion selon les âges et les cultures. Dans le doute, on écrit une phrase complète, et l’on relit.\n\nLe délai attendu dépend du canal et de la relation. Un courriel professionnel appelle une réponse sous un à deux jours ouvrés, ou au moins un accusé de réception : « Bien reçu, je vous réponds d’ici vendredi. » Un SMS entre proches appelle une réponse dans la journée, mais rien n’oblige à répondre immédiatement, et personne ne doit être tenu pour responsable de ne pas être connecté. Les accusés de lecture peuvent créer une pression inutile, et il n’y a aucune impolitesse à les désactiver.\n\nInsister (« Tu as vu mon message ? ») reste possible une fois, avec légèreté. On évite cependant de tirer des conclusions d’un silence : la personne peut être au travail, malade ou simplement fatiguée. Du côté de celui qui n’a pas répondu, un mot simple suffit : « Désolé, j’avais vu ton message et je n’ai pas eu le temps. » Il n’y a rien à ajouter."
+    },
+    {
+      "title": "Visio, réseaux, vie privée",
+      "content": "En visioconférence, on arrive à l’heure, avec un micro coupé lorsqu’on ne parle pas. On regarde parfois la caméra, on s’assure que l’arrière-plan ne révèle rien de gênant et l’on évite de faire autre chose de visible. Allumer la caméra est souvent apprécié, mais rien ne doit obliger à montrer son domicile. Si le débit ou l’intimité vous en empêchent, dites-le simplement. Ne mangez pas à l’image, et pensez à prévenir si vous êtes contraint de sortir. Un enfant ou un chat qui apparaît n’a rien de dramatique : on sourit, on règle, et l’on reprend.\n\nSur les réseaux sociaux, la règle la plus sûre consiste à ne rien publier que vous ne pourriez assumer devant votre employeur, votre mère, et dans dix ans. La photo d’une autre personne ne s’y publie pas sans son accord : le droit à l’image existe en France (article 9 du Code civil), et il protège particulièrement les enfants. Une loi de 2024 rappelle d’ailleurs aux parents leur responsabilité sur l’image de leurs enfants. N’annoncez pas à la place d’autrui un décès, une grossesse ou une maladie.\n\nEn cas de désaccord, on préfère un message privé à une réponse publique. On évite d’ajouter un commentaire sous le coup de la colère. Une capture d’écran d’une conversation privée, envoyée à d’autres, est une trahison de confiance. Le cyberharcèlement est puni par la loi française : si vous en êtes victime, conservez les preuves et faites appel à la plateforme, à une association (comme le 3018 pour les jeunes) ou à la police."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-3-2-8-r1",
+      "title": "Le canal dépend du message.",
+      "description": "Une urgence se téléphone, une mauvaise nouvelle se dit de vive voix, et un détail peut attendre un courriel.",
+      "rationale": "Le canal indique le degré d’importance, et il peut lui-même blesser : on ne licencie pas ni ne quitte quelqu’un par SMS.",
+      "context": "Vie professionnelle, vie de couple, famille.",
+      "recommendedBehavior": "Avant d’écrire, demandez-vous : par quel moyen cette personne souhaiterait-elle l’apprendre ?",
+      "exceptions": [
+        "Quitter une relation par écrit peut être justifié pour des raisons de sécurité personnelle."
+      ],
+      "remedy": "Si le choix était mauvais : « J’aurais dû t’appeler plutôt que de t’écrire. Peux-tu me parler ce soir ? »",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-2-8-r2",
+      "title": "On n’écrit pas sous le coup de la colère.",
+      "description": "Un message écrit à chaud se relit le lendemain, ou se remplace par un appel.",
+      "rationale": "L’écrit durcit le ton, et il reste. Il peut être transféré ou relu des années après.",
+      "context": "Différends professionnels, messages familiaux, réseaux sociaux.",
+      "recommendedBehavior": "Écrivez sans remplir le destinataire. Relisez plus tard. Passez à l’oral dès le deuxième échange tendu.",
+      "exceptions": [],
+      "remedy": "« Mon message d’hier était trop vif. Ce que je voulais dire, c’est… »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-2-8-r3",
+      "title": "On respecte le temps de l’autre.",
+      "description": "Personne ne doit répondre immédiatement. On évite les sollicitations hors horaires, et l’on accuse réception lorsque la réponse tarde.",
+      "rationale": "La disponibilité permanente épuise. En France, le droit à la déconnexion est d’ailleurs reconnu aux salariés depuis 2017.",
+      "context": "Travail, famille, groupes.",
+      "recommendedBehavior": "Programmez vos envois professionnels pour les heures de bureau. « Bien reçu, je te réponds vendredi. »",
+      "exceptions": [
+        "Une urgence réelle justifie un appel, à toute heure."
+      ],
+      "remedy": "« Désolé de t’avoir écrit si tard : rien d’urgent, cela attendra lundi. »",
+      "conventionType": "modern_custom",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-3-2-8-r4",
+      "title": "La vie des autres n’est pas à publier.",
+      "description": "Ni photo, ni conversation, ni nouvelle concernant une autre personne ne se partage sans son accord.",
+      "rationale": "Chacun garde la maîtrise de son image et de ses informations. Une publication ne se reprend jamais tout à fait.",
+      "context": "Réseaux sociaux, groupes, captures d’écran, photos d’enfants.",
+      "recommendedBehavior": "Demandez : « Puis-je publier cette photo ? » Pour un enfant, on s’adresse à ses parents, et on l’écoute lui aussi s’il est en âge de donner son avis.",
+      "exceptions": [
+        "La photographie d’un lieu public où l’on ne vise pas une personne en particulier obéit à d’autres règles."
+      ],
+      "remedy": "Supprimez rapidement si l’on vous le demande, et présentez vos excuses.",
+      "conventionType": "universal_principle",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-3-2-8-r5",
+      "title": "Un message se relit, destinataires compris.",
+      "description": "Avant d’envoyer, on vérifie à qui l’on écrit, le ton, et ce qui pourrait être mal compris.",
+      "rationale": "L’écrit n’a ni voix ni visage, et une seule erreur de destinataire peut causer beaucoup de dégâts.",
+      "context": "Courriels, groupes, « Répondre à tous ».",
+      "recommendedBehavior": "Dix secondes de relecture : qui reçoit ? Quel ton ? Un point d’ironie se comprendrait-il ?",
+      "exceptions": [],
+      "remedy": "En cas d’erreur : prévenez immédiatement la personne concernée, de vive voix si possible.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Le philosophe Marshall McLuhan a fait connaître dès les années 1960 l’idée que le média influence le message. C’est particulièrement vrai ici. Une conversation numérique efface le visage et le ton, et plusieurs psychologues parlent d’un « effet de désinhibition en ligne » : à distance, certains se permettent ce qu’ils n’auraient jamais osé dire en face. La politesse ne peut plus s’y fonder sur le regard de l’autre : elle doit être voulue.\n\nCes usages sont encore jeunes, et ils évoluent avec chaque nouvel outil. Il faut donc se garder de les figer : ce qui est impoli à une génération peut être anodin pour une autre, comme le montrent les débats sur le point final d’un SMS. Une constante demeure : il y a quelqu’un de l’autre côté de l’écran, avec ses occupations, sa sensibilité et sa vie privée. Le droit a commencé à s’en occuper (droit à l’image, droit à la déconnexion, cyberharcèlement), mais la considération reste une affaire de choix.",
+  "examples": [
+    {
+      "context": "Une annonce difficile à un collègue",
+      "behavior": "Plutôt qu’un courriel, vous lui dites : « Tu as dix minutes ? Je préfère te dire ça de vive voix. » Vous confirmez ensuite par écrit ce qui a été décidé.",
+      "explanation": "Le ton passe à l’oral. L’écrit vient ensuite pour conserver une trace claire."
+    },
+    {
+      "context": "Votre responsable vous écrit le samedi soir",
+      "behavior": "Si vous l’êtes vous-même, vous programmez vos messages pour lundi 8 heures, afin de ne mettre personne sous pression. Si vous recevez un message, vous répondez lundi.",
+      "explanation": "Vous respectez la vie personnelle de chacun, et vous évitez d’entretenir une habitude de disponibilité."
+    },
+    {
+      "context": "Vous voulez publier une belle photo d’un repas d’amis",
+      "behavior": "Vous la montrez à la table : « Je peux la mettre en ligne ? Ça vous dérange ? » Une amie préfère ne pas y figurer : vous choisissez une autre photo.",
+      "explanation": "Cette question ne prend que trente secondes, et elle évite qu’une personne apparaisse là où elle ne le souhaitait pas."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "En plein désaccord",
+      "behavior": "Répondre à tous, avec le directeur en copie, sur un ton sec.",
+      "consequences": "Votre collègue voit cette copie comme une menace, et l’ensemble de l’équipe se retrouve pris dans votre conflit.",
+      "alternative": "Passer à une conversation directe, ou à un message réservé à la personne concernée."
+    },
+    {
+      "situation": "Dans une relation de couple",
+      "behavior": "Quitter son partenaire d’un long SMS, puis bloquer son numéro, sans raison de sécurité.",
+      "consequences": "La personne n’a aucune possibilité de réponse, et la rupture devient plus douloureuse.",
+      "alternative": "Une conversation de vive voix ou par téléphone, sauf en cas de danger."
+    },
+    {
+      "situation": "Dans une conversation privée",
+      "behavior": "Envoyer une capture d’écran d’un message d’un ami à d’autres personnes, pour en rire.",
+      "consequences": "Votre ami, s’il l’apprend, ne vous confiera plus jamais rien, et ceux qui ont vu la capture sauront que vous pourriez leur faire de même.",
+      "alternative": "Ne rien transférer sans accord. Parlez-lui directement de ce qui vous a gêné."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Générations.",
+      "text": "Un SMS sans point, un emoji souriant ou un message vocal de deux minutes ne sont pas perçus de la même façon selon les âges. Personne n’a tort. Adaptez-vous à votre interlocuteur, et ne lisez pas trop vite de l’hostilité dans un message qui vous paraît sec."
+    },
+    {
+      "title": "Culture d’entreprise.",
+      "text": "Une entreprise qui utilise une messagerie interne peut avoir ses propres habitudes : messages courts, emojis, absence de « bonjour ». Observez avant de juger. Chez certains clients, un courriel formel reste attendu."
+    },
+    {
+      "title": "Accessibilité.",
+      "text": "Une personne malvoyante peut utiliser un lecteur d’écran, qui lit mal les images et les longues suites d’emojis. Une personne dyslexique peut écrire moins facilement, sans que cela ne dise quoi que ce soit de sa compétence. Décrivez ce que vous envoyez, et n’ironisez pas sur les fautes."
+    }
+  ],
+  "contexts": [
+    "Travail : courriels clairs, respect des horaires, attention à la copie.",
+    "Famille et amis : groupes de messagerie, photos d’enfants, délais de réponse.",
+    "Réseaux publics : prudence sur ce qui reste, et message privé en cas de désaccord.",
+    "Visioconférences : micro coupé, arrière-plan neutre, caméra selon les possibilités."
+  ],
+  "keyPoints": [
+    "Il y a une personne de l’autre côté de l’écran.",
+    "Le canal indique l’importance : une mauvaise nouvelle ne s’envoie pas par SMS.",
+    "Personne ne doit répondre immédiatement.",
+    "On ne publie ni l’image, ni la vie, ni les messages d’un autre, sans son accord."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Le bon canal",
+    "instructions": "Associez chaque message au canal le plus adapté.",
+    "pairs": [
+      {
+        "left": "Annoncer à un ami la mort d’un proche commun",
+        "right": "Téléphone"
+      },
+      {
+        "left": "Prévenir d’un retard de dix minutes",
+        "right": "SMS"
+      },
+      {
+        "left": "Envoyer un compte rendu détaillé à l’équipe",
+        "right": "Courriel"
+      },
+      {
+        "left": "Annoncer à un collaborateur la fin de son contrat",
+        "right": "Entretien en personne, confirmé par écrit"
+      },
+      {
+        "left": "Partager une photo de groupe, avec l’accord de chacun",
+        "right": "Messagerie du groupe concerné"
+      }
+    ],
+    "explanation": "Plus un message touche quelqu’un, plus il appelle un moyen de communication direct, où l’autre peut réagir et où votre voix passe."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-3-2-8-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quel est le meilleur canal pour annoncer une mauvaise nouvelle à un proche ?",
+        "choices": [
+          "Un SMS, pour lui laisser le temps de digérer la nouvelle",
+          "Un message dans le groupe familial, pour prévenir tout le monde",
+          "De vive voix, ou par téléphone si l’on est loin",
+          "Une publication sur un réseau social"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Une mauvaise nouvelle appelle votre voix et la possibilité d’y réagir. L’écrit laisse la personne seule, et un message de groupe ou une publication lui retire toute intimité.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-2-8-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Un collaborateur doit répondre à un courriel professionnel envoyé le samedi soir, afin de montrer son engagement.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : en France, le droit à la déconnexion existe depuis 2017, et une entreprise doit en organiser les modalités. Hors urgence réelle, il peut attendre lundi, et il n’y a pas de faute à le faire.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-3-2-8-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quel geste est le plus maladroit lors d’un désaccord par courriel avec un collègue ?",
+        "choices": [
+          "Lui proposer un appel pour en parler de vive voix",
+          "Lui répondre seulement à lui",
+          "Mettre votre responsable commun en copie, sans prévenir",
+          "Attendre le lendemain pour répondre, une fois calmé"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "La copie surprise est perçue comme une menace, et elle durcit immédiatement le conflit. Parler directement à la personne est préférable, et l’on peut informer un responsable ensuite, si nécessaire.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-2-8-q4",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous recevez une demande à laquelle vous ne pouvez pas répondre tout de suite. Que faire ?",
+        "choices": [
+          "Ne rien répondre tant que vous n’avez pas la réponse",
+          "« Bien reçu, je vous réponds d’ici vendredi. »",
+          "« Je n’ai pas le temps. »",
+          "« Pourquoi cette urgence ? »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "L’accusé de réception rassure et fixe une échéance, sans vous obliger à une réponse immédiate. Le silence laisse l’autre dans le doute.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-2-8-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Que faut-il faire avant de publier une photo de groupe d’un repas chez des amis ? (plusieurs réponses)",
+        "choices": [
+          "Demander leur accord aux personnes qui y figurent",
+          "Vérifier qu’aucun enfant n’y apparaît sans l’accord de ses parents",
+          "Identifier tout le monde, pour plus de clarté",
+          "Accepter de choisir une autre photo si quelqu’un le demande"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "Chacun garde la maîtrise de son image, et ce droit protège particulièrement les enfants. Identifier des personnes sans leur accord rend au contraire leur présence encore plus visible.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Code civil, article 9",
+      "note": "Droit au respect de la vie privée, dont découle le droit à l’image."
+    },
+    {
+      "title": "Code du travail, article L2242-17",
+      "note": "Droit à la déconnexion. À vérifier dans sa version en vigueur."
+    },
+    {
+      "title": "Loi n° 2024-120 du 19 février 2024",
+      "note": "Visant à garantir le respect du droit à l’image des enfants."
+    },
+    {
+      "author": "John Suler",
+      "title": "The Online Disinhibition Effect",
+      "publisher": "CyberPsychology & Behavior",
+      "year": "2004"
+    },
+    {
+      "title": "3018",
+      "note": "Numéro national français contre les violences numériques subies par les jeunes."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

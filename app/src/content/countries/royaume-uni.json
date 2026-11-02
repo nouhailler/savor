@@ -1,0 +1,151 @@
+{
+  "id": "c-royaume-uni",
+  "slug": "royaume-uni",
+  "name": "Royaume-Uni",
+  "region": "Europe occidentale",
+  "languages": [
+    "Anglais",
+    "Gallois",
+    "Gaélique écossais"
+  ],
+  "intro": "Une société où la courtoisie passe par la retenue et l’humour. On dit souvent moins que ce que l’on pense, et l’on s’excuse volontiers, même lorsque ce n’est pas sa faute.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main brève, sans bise"
+    },
+    {
+      "label": "File d’attente",
+      "value": "Très respectée"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Environ 10 % au restaurant si non inclus"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "À l’heure, léger retard chez des amis"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Une poignée de main brève lors d’une première rencontre ; souvent aucun contact ensuite.",
+        "Le prénom s’emploie vite, sauf dans les cadres très formels.",
+        "« How do you do? » et « How are you? » ne demandent pas de réponse détaillée."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "La ponctualité est de règle pour les rendez-vous professionnels et au restaurant.",
+        "Pour un dîner à domicile, un retard de quelques minutes est courant, et il est mal venu d’arriver en avance."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "« You must come round sometime » peut être une simple amabilité, et non une véritable invitation.",
+        "On apporte une bouteille ou des fleurs, et un mot de remerciement est apprécié.",
+        "Au pub, chacun paie sa tournée (« round ») à son tour : y manquer est très remarqué."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "Couteau et fourchette se gardent en main, fourchette dents vers le bas, et les mains peuvent reposer sur les genoux entre deux bouchées.",
+        "On ne commence pas avant que tous soient servis.",
+        "Une pause se signale en écartant les couverts, et la fin du repas en les rapprochant, parallèles."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Un présent modeste suffit, et il est souvent ouvert devant vous.",
+        "Le vin, les chocolats ou une spécialité de votre région conviennent bien."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Certains événements (mariages, courses de chevaux, clubs) ont des codes vestimentaires précis, à lire sur l’invitation.",
+        "Dans les affaires, la tenue dépend beaucoup du secteur et de la ville."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "La litote est partout : « not bad » peut signifier « excellent », et « interesting » peut cacher un désaccord.",
+        "« Sorry » et « please » sont très fréquents : leur absence peut paraître brutale.",
+        "L’autodérision est très valorisée, et l’humour sert souvent à détendre une situation."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On garde une distance assez importante, et l’on évite de toucher son interlocuteur.",
+        "Le signe V de la main, paume tournée vers soi, est insultant."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Les revenus et le patrimoine, ainsi que les distinctions de classe, sont des sujets délicats.",
+        "Appeler « Anglais » un Écossais, un Gallois ou un Nord-Irlandais est une maladresse fréquente.",
+        "L’Irlande du Nord et le Brexit peuvent susciter des réactions vives."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "La critique s’exprime souvent de façon indirecte : « you might want to consider » peut signifier une vraie réserve.",
+        "Une plaisanterie est fréquente en réunion, et elle ne signifie pas un manque de sérieux."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Passer devant les autres dans une file d’attente.",
+        "Prendre une amabilité pour une invitation ferme.",
+        "Se tenir à gauche sur les escalators de Londres, où l’on se place à droite."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "On roule à gauche : regardez à droite avant de traverser.",
+        "Au pub, on commande au comptoir, en règle générale, sans attendre le serveur.",
+        "Un service de 10 à 12,5 % peut être inscrit sur l’addition : vérifiez avant d’ajouter un pourboire."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Sorry, could I just…",
+      "meaning": "Formule d’entrée très courante pour une demande."
+    },
+    {
+      "original": "Cheers",
+      "meaning": "Merci, au revoir ou santé, selon le contexte."
+    }
+  ],
+  "generalizationNote": "Le Royaume-Uni rassemble quatre nations, de fortes différences régionales et sociales, et une population très diverse. Ces repères, souvent fondés sur des usages anglais, ne décrivent pas tous ses habitants.",
+  "sources": [
+    {
+      "author": "Debrett’s",
+      "title": "Debrett’s Handbook",
+      "year": "2014",
+      "note": "Référence britannique sur les usages."
+    },
+    {
+      "title": "VisitBritain",
+      "note": "Office national du tourisme."
+    },
+    {
+      "title": "Conseils aux voyageurs : Royaume-Uni",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

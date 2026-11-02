@@ -1,0 +1,153 @@
+{
+  "id": "c-suisse",
+  "slug": "suisse",
+  "name": "Suisse",
+  "region": "Europe occidentale",
+  "languages": [
+    "Allemand",
+    "Français",
+    "Italien",
+    "Romanche"
+  ],
+  "intro": "Un pays à quatre langues, où la discrétion, la fiabilité et le respect des règles communes comptent beaucoup. Le consensus y est une façon de vivre, jusque dans les relations de voisinage.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Poignée de main, trois bises entre proches"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "Très attendue"
+    },
+    {
+      "label": "Registre",
+      "value": "Vouvoiement et noms au premier contact"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Service inclus, arrondi apprécié"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Poignée de main au premier contact, et souvent trois bises entre proches.",
+        "On salue volontiers par le nom : « Grüezi Frau Meier », « Bonjour Madame Favre ».",
+        "On se salue aussi en randonnée, et dans les petits commerces."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "L’heure annoncée est l’heure réelle, autant pour un dîner que pour un rendez-vous.",
+        "Prévenez du moindre retard ; les transports eux-mêmes donnent l’exemple."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On répond rapidement, et l’on apporte une attention modeste : fleurs, chocolats, vin.",
+        "On se déchausse souvent à l’entrée d’une maison, surtout en Suisse alémanique : observez ou demandez."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "On attend le « Bon appétit » ou « En Guete » pour commencer.",
+        "On trinque en regardant chaque convive dans les yeux, en le nommant parfois.",
+        "Lors d’une fondue, la tradition veut que celui qui perd son pain s’acquitte d’un gage amusant."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Les cadeaux restent modestes : les grands gestes peuvent gêner.",
+        "En affaires, les règles de conformité limitent souvent ce que l’on peut accepter."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Les tenues sont soignées et sobres, sans ostentation.",
+        "Les signes extérieurs de richesse sont plutôt mal vus, et la discrétion est la norme."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "On parle généralement sans élever la voix, et l’on évite les conflits ouverts.",
+        "Une langue étrangère parlée par courtoisie est appréciée : ne présumez pas que tous les Suisses parlent français.",
+        "Les Alémaniques parlent souvent suisse allemand entre eux, et ne maîtrisent pas forcément votre langue."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On garde une certaine distance, et les grands gestes sont rares.",
+        "Les contacts physiques entre connaissances restent limités."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Les revenus et le patrimoine sont des sujets très privés.",
+        "Les clichés sur les banques et la neutralité, ainsi que le rôle de la Suisse pendant la Seconde Guerre mondiale, sont à manier avec prudence.",
+        "Comparer défavorablement la Suisse à la France ou à l’Allemagne est mal reçu."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "Les décisions se prennent souvent par consensus, ce qui peut prendre du temps.",
+        "La fiabilité et la précision sont très valorisées, et les promesses se tiennent."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Faire du bruit le dimanche ou tard le soir : les règlements d’immeuble sont souvent stricts.",
+        "Ne pas trier ses déchets : le tri est très organisé et les sacs peuvent être taxés.",
+        "Traiter la Suisse romande comme une simple région française."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Le règlement de maison (Hausordnung) indique les usages de la buanderie commune : lisez-le.",
+        "Les dimanches, les commerces sont largement fermés.",
+        "Les trains sont ponctuels : arrivez à l’heure, ils n’attendent pas."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Grüezi",
+      "meaning": "Bonjour, en Suisse alémanique (Zurich et sa région)."
+    },
+    {
+      "original": "Merci vilmal",
+      "meaning": "Merci beaucoup, en suisse allemand."
+    },
+    {
+      "original": "Septante, nonante",
+      "meaning": "Soixante-dix et quatre-vingt-dix, en Suisse romande."
+    }
+  ],
+  "generalizationNote": "Il n’existe pas un seul usage suisse : les cantons alémaniques, romands et tessinois diffèrent nettement, tout comme les villes et les vallées. Ces repères sont des tendances, et ne décrivent pas tous les habitants.",
+  "sources": [
+    {
+      "title": "Suisse Tourisme",
+      "note": "myswitzerland.com"
+    },
+    {
+      "title": "Conseils aux voyageurs : Suisse",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "author": "Geert Hofstede, Gert Jan Hofstede, Michael Minkov",
+      "title": "Cultures et organisations"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

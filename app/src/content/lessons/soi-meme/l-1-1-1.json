@@ -1,0 +1,303 @@
+{
+  "id": "l-1-1-1",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "On ne peut traiter durablement les autres mieux que l’on se traite soi-même. Ce que recouvre le respect de soi, en quoi il diffère de l’orgueil, et comment il se traduit dans les gestes ordinaires.",
+  "estimatedDuration": 10,
+  "tags": [
+    "respect de soi",
+    "estime de soi",
+    "dignité",
+    "limites",
+    "intimité",
+    "environnement"
+  ],
+  "objectives": [
+    "Distinguer respect de soi, estime de soi, orgueil et narcissisme.",
+    "Reconnaître les gestes quotidiens qui expriment le respect de soi.",
+    "Poser une limite personnelle sans agressivité.",
+    "Comprendre le lien entre le soin de soi et la considération d’autrui."
+  ],
+  "introduction": "Un traité de savoir-vivre commence d’ordinaire par les autres : comment les saluer, les recevoir, les ménager. Celui-ci commence par vous. Ce choix n’a rien de complaisant. Une personne qui se néglige, se dénigre ou accepte d’être maltraitée met les autres dans l’embarras, tout autant que celle qui les écrase. Et la politesse tenue par la seule crainte de déplaire finit toujours par s’épuiser.\n\nLe respect de soi n’est ni un luxe ni une affaire de miroir. Il se compose de gestes modestes : dormir assez, tenir parole à soi-même, ne pas se laisser parler n’importe comment, garder pour soi ce qui relève de l’intime. Cette leçon en dessine les contours.",
+  "sections": [
+    {
+      "title": "Respect de soi, estime de soi, orgueil",
+      "content": "Ces notions sont voisines, mais elles ne se confondent pas. L’estime de soi désigne le jugement que l’on porte sur sa propre valeur. Elle varie : elle monte et descend selon les réussites, les échecs et les regards reçus. Le respect de soi est plus stable : il désigne la manière dont on se traite, quelle que soit l’opinion que l’on a de soi ce jour-là. On peut se juger sévèrement après une erreur et continuer à prendre soin de soi, à se tenir droit, à refuser l’insulte.\n\nL’orgueil, lui, a besoin d’une comparaison : il se nourrit de la supériorité que l’on croit avoir sur autrui. C’est pourquoi il rend si souvent désagréable. Le respect de soi n’exige aucun classement : il suppose au contraire que tous aient la même dignité, soi-même compris. C’est d’ailleurs ce qui permet de reconnaître ses torts sans s’effondrer, ou de présenter des excuses sans se sentir humilié.\n\nLa timidité et l’effacement ne sont pas pour autant des fautes. Certaines personnes s’expriment peu et n’en ont pas moins une conscience solide d’elles-mêmes. Il n’existe pas de manière unique, tonitruante ou sereine, de manifester sa dignité."
+    },
+    {
+      "title": "Se traiter comme une personne à qui l’on tient",
+      "content": "Un critère simple permet de se repérer : traitez-vous comme vous traiteriez quelqu’un à qui vous tenez. Lui parleriez-vous comme vous vous parlez intérieurement après une maladresse ? Le laisseriez-vous sauter ses repas, vivre dans un désordre qui le déprime, renoncer à toute activité qui lui plaît ? Le soin que l’on se porte n’est pas une récompense, à mériter après les autres obligations : c’est une condition de tout le reste.\n\nCe soin passe aussi par le lieu où l’on vit. Un intérieur n’a pas besoin d’être luxueux ni de ressembler à une revue, mais le ranger un peu, aérer, faire son lit, poser ses affaires à leur place signale, d’abord à soi-même, qu’on mérite un cadre agréable. Il en va de même d’une tenue propre un dimanche où personne ne viendra : personne n’en saura rien, et c’est précisément pour cela qu’elle n’a rien d’une représentation.\n\nCes gestes ne supposent aucun moyen particulier. Il faut toutefois le rappeler : la maladie, la dépression, la précarité ou la surcharge rendent ces soins parfois impossibles. Une personne qui n’y parvient plus n’a pas à en éprouver de la honte. Elle a besoin d’aide, et demander de l’aide est, en pareil cas, le premier acte de respect de soi."
+    },
+    {
+      "title": "Dignité, limites et intimité",
+      "content": "Se respecter, c’est aussi fixer ce que l’on n’accepte pas : plaisanteries répétées sur votre physique, demandes abusives, intrusions, contacts physiques non désirés. Une limite n’est pas une agression. Elle s’énonce calmement, à la première personne, sans accuser : « Je préfère que l’on ne plaisante pas là-dessus. » Vous n’avez pas à vous justifier longuement, ni à attendre d’être à bout pour parler.\n\nL’intimité forme une autre frontière. Votre corps, votre santé, vos finances, votre vie sentimentale vous appartiennent. Vous pouvez les partager avec qui vous voulez, mais vous ne devez à personne, fût-ce à un proche, le récit de ce qui s’y passe. Se confier à tout venant, exposer son intimité en public ou sur les réseaux sociaux, c’est s’exposer à regretter ; le regret vient souvent après que l’information a circulé.\n\nEnfin, la manière dont on parle de soi compte. L’autodérision a son charme, mais à haute dose elle devient une demande de réconfort. Répéter « je suis nul » oblige l’entourage à vous contredire. De même, se vanter sans cesse lui impose d’applaudir. Entre les deux existe une manière tranquille d’évoquer ses qualités et ses limites comme des faits."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-1-1-1-r1",
+      "title": "On se parle avec la décence qu’on aurait pour un autre.",
+      "description": "Le discours que l’on tient sur soi, à voix haute comme intérieurement, ne mérite pas plus de dureté que celui qu’on adresserait à un ami.",
+      "rationale": "La dépréciation de soi nuit à l’équilibre, et elle gêne l’entourage, sommé de vous rassurer. Ce n’est pas de la modestie.",
+      "context": "Après une erreur, un échec, face à un compliment, en parlant de son physique ou de ses compétences.",
+      "recommendedBehavior": "Nommez le fait sans vous condamner : « J’ai mal préparé ce rendez-vous » plutôt que « Je suis un incapable ». Répondez à un compliment par un simple « Merci ».",
+      "exceptions": [
+        "L’autodérision légère, entre personnes qui se connaissent, reste un charme de la conversation."
+      ],
+      "remedy": "Si vous vous êtes rabaissé en public, inutile de vous en excuser : changez de sujet et, la prochaine fois, acceptez simplement le compliment.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-1-1-r2",
+      "title": "Le soin de soi ne dépend pas d’un public.",
+      "description": "Être propre, reposé, nourri, vivre dans un cadre décent : ces soins valent pour soi, y compris les jours où personne ne vous verra.",
+      "rationale": "Ils entretiennent la santé et l’énergie dont se nourrit l’attention aux autres. Réservés aux occasions, ils ne sont plus qu’un costume.",
+      "context": "Vie quotidienne, télétravail, périodes de solitude.",
+      "recommendedBehavior": "Gardez quelques rituels simples et tenables : se lever à heure fixe, s’habiller, aérer, ranger un peu chaque jour.",
+      "exceptions": [
+        "Maladie, deuil, dépression : un relâchement n’a rien d’une faute. Il peut alors indiquer le besoin d’une aide."
+      ],
+      "remedy": "Reprendre par un seul geste, sans culpabilité : on ne remet pas en ordre toute une vie en un jour.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-1-1-r3",
+      "title": "Une limite se pose calmement et tôt.",
+      "description": "On peut refuser un propos, une demande ou un contact, à la première personne et sans attendre l’exaspération.",
+      "rationale": "Une limite exprimée tôt reste courtoise ; ravalée trop longtemps, elle finit par sortir en colère et blesse pour de bon.",
+      "context": "Plaisanteries sur le corps, questions intrusives, sollicitations répétées, contacts physiques non souhaités.",
+      "recommendedBehavior": "« Je préfère ne pas parler de ça. » « Cela ne me convient pas. » Une phrase, un ton neutre, sans explication détaillée.",
+      "exceptions": [
+        "Face à une personne dangereuse, la sécurité prime sur la formule : on s’éloigne, on demande de l’aide et, si nécessaire, on signale les faits."
+      ],
+      "remedy": "Une limite n’a pas été dite ? Il n’est jamais trop tard : « L’autre jour, je n’ai rien dit, mais je préfère que cela ne se reproduise pas. »",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-1-1-1-r4",
+      "title": "L’intime se partage par choix.",
+      "description": "Santé, argent, sexualité, conflits familiaux : personne n’a droit à ces informations sans votre accord, et il vaut mieux réfléchir avant de les publier.",
+      "rationale": "Une confidence ne se reprend pas. Préserver son intimité, c’est garder la maîtrise de ce que les autres savent de vous.",
+      "context": "Travail, réseaux sociaux, conversations avec des connaissances.",
+      "recommendedBehavior": "Posez-vous la question : « Accepterais-je que cela se sache partout dans un an ? » En cas de doute, parlez à un proche de confiance ou à un professionnel.",
+      "exceptions": [
+        "Le droit français protège la vie privée (article 9 du Code civil) ; à l’inverse, certaines informations de santé doivent être transmises à un médecin pour être soigné."
+      ],
+      "remedy": "Si vous regrettez une confidence : supprimez le message s’il est en ligne, demandez aux personnes concernées de garder la discrétion, sans dramatiser.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "L’idée que l’on doit à soi-même une forme de respect est ancienne. Les stoïciens tenaient la maîtrise de soi pour la condition de la liberté, et Kant parlait d’un devoir envers soi-même : une personne ne doit pas se traiter comme un simple moyen. Plus près de nous, les psychologues Christophe André et François Lelord ont montré, dans L’Estime de soi, combien le rapport à soi influence les relations à autrui, l’attention, l’audace, les conflits.\n\nLe lien avec le savoir-vivre est direct. Celui qui se méprise se sent vite menacé, et se défend par l’agressivité, la vantardise ou l’effacement. Une personne qui s’accepte peut au contraire s’intéresser aux autres : elle n’a rien à prouver. C’est aussi ce qui donne à la politesse sa valeur : elle ne fait plus figure de soumission, mais de relation entre deux personnes de même dignité.",
+  "examples": [
+    {
+      "context": "Un collègue vous félicite d’une présentation réussie",
+      "behavior": "« Merci, cela me fait plaisir. J’y avais passé du temps. »",
+      "explanation": "Accepter un compliment n’est pas se vanter. Vous évitez à votre collègue de devoir insister pour vous convaincre."
+    },
+    {
+      "context": "Un ami répète des plaisanteries sur votre poids",
+      "behavior": "Vous le prenez à part : « Je sais que tu ne cherches pas à me blesser, mais je préfère que tu arrêtes les blagues sur mon poids. »",
+      "explanation": "La limite vise les faits et non la personne. Le tête-à-tête lui évite de perdre la face devant le groupe."
+    },
+    {
+      "context": "Un dimanche en solitaire",
+      "behavior": "Vous vous habillez, préparez un vrai repas, et sortez marcher une demi-heure, même si rien ne vous y oblige.",
+      "explanation": "Ces gestes n’ont pas d’autre public que vous, et ils contribuent à structurer la journée."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Lors d’un entretien ou d’une rencontre",
+      "behavior": "Se présenter en s’excusant : « Je ne suis sûrement pas assez compétent, mais je peux toujours essayer… »",
+      "consequences": "Votre interlocuteur doit vous rassurer et risque de vous croire ; vous n’avez pas parlé de ce que vous savez faire.",
+      "alternative": "Décrire précisément vos compétences et ce que vous ne connaissez pas encore, sans excuse."
+    },
+    {
+      "situation": "Sur les réseaux sociaux, après une rupture",
+      "behavior": "Publier le récit détaillé de la séparation, des griefs et des disputes.",
+      "consequences": "Vous exposez votre intimité et celle d’un tiers, de façon quasi irréversible : employeurs, proches et enfants y auront accès.",
+      "alternative": "Réserver ce récit à un ami sûr ou à un professionnel, et ne rien publier pendant les premières semaines."
+    },
+    {
+      "situation": "Une connaissance vous demande toujours plus de services",
+      "behavior": "Accepter à chaque fois en ruminant, puis finir par éclater pour une broutille.",
+      "consequences": "La personne ne comprend pas votre colère, et la relation se dégrade.",
+      "alternative": "Refuser tôt, d’une phrase : « Cette semaine, je ne vais pas pouvoir. »"
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Respect de soi et moyens.",
+      "text": "Prendre soin de soi n’a rien à voir avec les produits coûteux, les instituts ou le « bien-être » que vend la publicité. Une toilette soignée, du sommeil, une marche et une pièce rangée coûtent peu. Il ne faut pas non plus juger quelqu’un sur ce que sa situation ne lui permet pas."
+    },
+    {
+      "title": "Différences culturelles.",
+      "text": "L’expression de soi varie. Certaines cultures valorisent la modestie : refuser un compliment y constitue une politesse et non une dépréciation. Ailleurs, parler de ses réussites passe pour une preuve de franchise. Il faut donc adapter la forme, sans renoncer au fond."
+    },
+    {
+      "title": "Quand ce n’est plus une affaire de savoir-vivre.",
+      "text": "Une dévalorisation persistante, une perte d’intérêt pour tout, ou le sentiment de ne plus compter pour personne relèvent de la santé. Un médecin ou un psychologue peut aider, et une telle démarche n’a rien d’honteux."
+    }
+  ],
+  "contexts": [
+    "Vie personnelle : rythme de sommeil, alimentation, entretien du lieu de vie, temps pour soi.",
+    "Vie professionnelle : parler de ses compétences avec exactitude, refuser une charge excessive, ne pas tolérer les propos dégradants.",
+    "Vie relationnelle : réagir aux plaisanteries blessantes, aux demandes abusives et aux intrusions.",
+    "Vie numérique : réfléchir à ce que l’on publie sur soi et à la durée de vie de ces traces."
+  ],
+  "keyPoints": [
+    "Le respect de soi désigne la manière dont on se traite, non l’opinion que l’on a de soi.",
+    "Il ne s’agit pas de se croire supérieur : la même dignité vaut pour soi et pour les autres.",
+    "Une limite posée tôt et calmement reste courtoise.",
+    "L’intime se partage par choix, jamais par obligation."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Respect de soi ou faux-semblant ?",
+    "instructions": "Associez chaque attitude à ce qu’elle révèle.",
+    "pairs": [
+      {
+        "left": "Répondre « Merci » à un compliment.",
+        "right": "Accepter de recevoir, sans se rabaisser ni se vanter."
+      },
+      {
+        "left": "Rappeler sans cesse à ses collègues ses diplômes.",
+        "right": "Orgueil : il a besoin d’une comparaison pour exister."
+      },
+      {
+        "left": "Dire « Je suis nulle » à tout propos.",
+        "right": "Dépréciation : elle oblige l’entourage à vous rassurer."
+      },
+      {
+        "left": "Refuser calmement une question sur son salaire.",
+        "right": "Préservation de son intimité, sans agressivité."
+      },
+      {
+        "left": "Tenir son logement en ordre sans attendre de visite.",
+        "right": "Soin de soi indépendant du regard des autres."
+      }
+    ],
+    "explanation": "La ligne de partage ne sépare pas les modestes des assurés. Elle sépare les attitudes qui nécessitent le regard des autres, pour être rassuré ou admiré, de celles qui tiennent sans lui."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-1-1-1-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Qu’est-ce qui distingue le respect de soi de l’orgueil ?",
+        "choices": [
+          "Le respect de soi suppose d’avoir réussi quelque chose",
+          "L’orgueil a besoin de se comparer aux autres, le respect de soi non",
+          "L’orgueil est plus discret que le respect de soi",
+          "Il n’y a aucune différence réelle entre les deux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "L’orgueil se nourrit de la supériorité qu’on s’attribue ; le respect de soi s’accorde avec l’égale dignité de tous. Il ne dépend ni de la réussite, ni de la discrétion.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-1-q2",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Une connaissance vous interroge sur votre traitement médical. Quelle réponse préserve le mieux votre intimité sans agresser ?",
+        "choices": [
+          "« Ça ne vous regarde absolument pas ! »",
+          "« Je préfère ne pas parler de ça. Et vous, comment va votre fils ? »",
+          "Une réponse inventée pour qu’elle cesse de chercher à savoir",
+          "Un récit complet de la situation, pour ne pas sembler froid"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Une phrase calme et une relance suffisent : vous fermez le sujet sans humilier. Rien ne vous oblige à répondre, et mentir vous engagerait pour la suite.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-1-1-q3",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Prendre soin de son lieu de vie et de sa personne est une forme de respect de soi, même si personne n’en est témoin.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Vrai : ce soin ne s’adresse pas à un public. Il entretient l’énergie et le cadre dans lesquels on vit. Bien sûr, il n’est jamais une faute de ne pas y parvenir en période de maladie ou d’épuisement.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-1-1-1-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Lequel de ces comportements ne relève pas du respect de soi ?",
+        "choices": [
+          "Refuser sans s’emporter une plaisanterie blessante",
+          "Se juger sévèrement après un échec, tout en continuant à prendre soin de soi",
+          "Demander de l’aide lorsqu’on n’arrive plus à faire face",
+          "Rappeler à tout propos ses titres pour que l’on vous traite correctement"
+        ],
+        "correctAnswers": [
+          3
+        ],
+        "explanation": "Exhiber ses titres pour obtenir de la considération relève de l’orgueil ou de l’insécurité : on réclame une place. Les trois autres témoignent d’un rapport sain à soi, y compris demander de l’aide.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-1-1-1-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quelles formulations posent une limite de façon appropriée ? (plusieurs réponses)",
+        "choices": [
+          "« Je préfère que l’on ne plaisante pas là-dessus. »",
+          "« Tu es vraiment lourd, comme toujours. »",
+          "« Cela ne me convient pas. »",
+          "« Si tu recommences, tout le monde saura ce que tu as fait. »"
+        ],
+        "correctAnswers": [
+          0,
+          2
+        ],
+        "explanation": "Une limite s’énonce à la première personne et vise un fait. Attaquer la personne ou menacer déplace le conflit et ne protège pas mieux : cela donne à l’autre une raison légitime de se défendre.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Christophe André et François Lelord",
+      "title": "L’Estime de soi",
+      "publisher": "Odile Jacob",
+      "year": "1999"
+    },
+    {
+      "author": "André Comte-Sponville",
+      "title": "Petit traité des grandes vertus",
+      "publisher": "PUF",
+      "year": "1995",
+      "note": "Voir notamment les chapitres sur la politesse et l’humilité."
+    },
+    {
+      "title": "Code civil, article 9",
+      "note": "« Chacun a droit au respect de sa vie privée. »"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

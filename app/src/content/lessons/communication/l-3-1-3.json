@@ -1,0 +1,300 @@
+{
+  "id": "l-3-1-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Engager, entretenir, conclure : une conversation est une coopération qui s’apprend. De quoi parler à un inconnu, comment partager la parole, et comment en sortir sans gêne.",
+  "estimatedDuration": 10,
+  "tags": [
+    "conversation",
+    "engager",
+    "questions",
+    "tours de parole",
+    "banalités",
+    "timidité"
+  ],
+  "objectives": [
+    "Engager une conversation à partir d’un élément partagé.",
+    "Poser des questions qui donnent à l’autre envie de répondre.",
+    "Partager équitablement la parole.",
+    "Terminer un échange sans le laisser s’éteindre."
+  ],
+  "introduction": "Beaucoup de gens se croient mauvais en conversation, comme s’il s’agissait d’un talent reçu à la naissance. Ils se tiennent à l’écart d’un groupe, cherchent une phrase brillante, puis y renoncent. Or ceux que l’on trouve « bons en conversation » disent rarement des choses remarquables : ils posent de bonnes questions, et ils écoutent les réponses.\n\nLe philosophe du langage Paul Grice a décrit la conversation comme une entreprise de coopération : chacun y contribue en donnant ce qu’il faut, de façon claire et pertinente. Cette leçon propose de quoi s’y exercer simplement, avec un principe qui libère les plus timides : vous n’avez pas à être intéressant, mais à vous intéresser.",
+  "sections": [
+    {
+      "title": "Engager la conversation",
+      "content": "On engage rarement une conversation par une idée brillante, et tant mieux. Le plus simple est de partir de ce que l’on partage : le lieu, l’événement, la personne qui reçoit, le temps qu’il fait. « Vous connaissez bien Paul et Élise ? » ou « Vous êtes venu de loin ? » conviennent très bien. Ces phrases n’ont pas d’autre objet que de dire : je suis disponible pour parler. Les linguistes parlent de fonction phatique du langage, celle qui établit le contact. Ce bavardage léger n’a rien de superficiel, puisqu’il permet d’aller plus loin.\n\nChoisissez à qui vous adresser. Une personne seule, près du buffet, en sera généralement soulagée. Un groupe de trois dont les corps sont ouverts vers l’extérieur peut vous accueillir ; deux personnes en grande conversation à voix basse, moins facilement. On s’approche, on attend une respiration, on écoute un moment, et l’on se présente à la première occasion. On ne coupe pas la parole pour annoncer son arrivée.\n\nLe sujet qui ouvre mérite un peu d’attention. « Et vous, vous faites quoi dans la vie ? » n’a rien de grave, mais cette question réduit vite la personne à son métier, et peut embarrasser quelqu’un au chômage ou à la retraite. « Qu’est-ce qui vous occupe en ce moment ? » ou « Comment avez-vous passé l’été ? » laissent plus de liberté. On évite aussi d’ouvrir sur le physique, l’âge, le couple ou l’origine."
+    },
+    {
+      "title": "Entretenir l’échange",
+      "content": "Les questions ouvertes, qui commencent par « comment », « qu’est-ce qui » ou « pourquoi », invitent à raconter ; les questions fermées appellent un oui ou un non. Il ne s’agit pas de faire passer un interrogatoire : on alterne questions et apports personnels. Si la personne parle d’un voyage au Portugal, vous pouvez demander ce qu’elle y a préféré, puis dire un mot de ce que vous en savez ou de ce qui vous en donne envie.\n\nLes tours de parole se partagent. Une règle simple permet de se surveiller : si vous parlez depuis plus d’une ou deux minutes sans question ni réaction de l’autre, il est sans doute temps de rendre la parole. Observez les signes : un regard qui s’égare, des réponses plus courtes. Inversement, si quelqu’un parle sans fin, vous pouvez profiter d’une respiration pour rebondir ou pour inviter quelqu’un d’autre : « Sara, toi qui connais Lisbonne, qu’en penses-tu ? »\n\nN’hésitez pas à offrir quelque chose de vous-même. La personne qui ne fait que poser des questions finit par mettre l’autre mal à l’aise, comme dans un entretien. Une petite confidence sans importance (« Je ne connais personne ici ») crée souvent la confiance. On reste toutefois loin des sujets très intimes avec une personne que l’on vient de rencontrer, et l’on ne se plaint pas à longueur de conversation."
+    },
+    {
+      "title": "Terminer un échange",
+      "content": "Toutes les conversations ont une fin, et il n’y a rien d’impoli à le signaler. La bonne sortie comprend un signal (« Je vais vous laisser »), une raison simple si vous le souhaitez (« Je dois saluer nos hôtes »), et un mot aimable sur ce qui a été dit : « C’était un plaisir de parler de Lisbonne avec vous. » Vous pouvez aussi présenter la personne à quelqu’un d’autre avant de vous éloigner : c’est même la façon la plus élégante de le faire.\n\nCertains signes indiquent qu’une conversation s’épuise : silences plus longs, réponses brèves, personne qui regarde sa montre. Au lieu de chercher frénétiquement un autre sujet, on peut y mettre fin tranquillement. Une conversation courte et agréable laisse une meilleure impression qu’une conversation étirée.\n\nLes silences ne doivent pas vous effrayer. Quelques secondes de pause sont normales dans un échange, et elles peuvent même être agréables entre personnes qui se connaissent. La peur du blanc pousse à dire n’importe quoi, et les plus grandes maladresses viennent souvent de cette peur. Une petite gorgée, un regard autour de soi ou une respiration suffisent à laisser passer ce moment."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-3-1-3-r1",
+      "title": "On engage à partir de ce que l’on partage.",
+      "description": "Le lieu, l’événement ou les personnes présentes offrent un point d’entrée simple, sans intrusion.",
+      "rationale": "Le premier échange sert à établir le contact, et non à briller. Un terrain commun permet à chacun de répondre sans effort.",
+      "context": "Réceptions, files d’attente, voisinage, formations.",
+      "recommendedBehavior": "« Vous connaissez bien Paul ? » « C’est votre première fois ici ? » Évitez l’âge, le couple, l’origine ou le physique.",
+      "exceptions": [
+        "Dans un train ou une salle d’attente, la personne peut préférer le silence : on n’insiste pas."
+      ],
+      "remedy": "Si votre entrée a jeté un froid : « Pardon, ma question était indiscrète. »",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-1-3-r2",
+      "title": "On pose des questions ouvertes, sans interroger.",
+      "description": "On alterne questions ouvertes et apports personnels, pour que l’échange circule dans les deux sens.",
+      "rationale": "Une question ouverte invite au récit. Une suite de questions, sans rien donner de soi, ressemble à un interrogatoire.",
+      "context": "Toute conversation.",
+      "recommendedBehavior": "« Qu’est-ce qui vous a plu au Portugal ? » Puis un mot de vous, avant une autre question.",
+      "exceptions": [
+        "Certaines personnes aiment répondre longuement : laissez-les faire, si cela vous convient."
+      ],
+      "remedy": "« Je vous pose beaucoup de questions, pardon ! Pour ma part… »",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-1-3-r3",
+      "title": "On partage la parole.",
+      "description": "On s’efforce de ne pas monopoliser l’échange, et de faire de la place aux autres, surtout aux plus discrets.",
+      "rationale": "Une conversation est une coopération, et celui qui prend toute la place empêche les autres d’y participer.",
+      "context": "Tables, groupes, réunions.",
+      "recommendedBehavior": "Au-delà d’une ou deux minutes, rendez la parole. Dans un groupe, faites le lien vers ceux qui se taisent, sans les mettre en difficulté.",
+      "exceptions": [
+        "Un récit préparé, à la demande du groupe, peut durer davantage.",
+        "Une personne en détresse a besoin de plus de temps."
+      ],
+      "remedy": "« Je parle trop ! Et toi, comment ça s’est passé ? »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-1-3-r4",
+      "title": "On signale la fin, sans disparaître.",
+      "description": "On clôt un échange par une phrase explicite et aimable plutôt que de fuir, ou de laisser la conversation mourir.",
+      "rationale": "Un adieu clair évite à l’autre de se demander ce qu’il a fait, ou s’il vous a ennuyé.",
+      "context": "Réceptions, couloirs, téléphone, rencontres de hasard.",
+      "recommendedBehavior": "« Je vais vous laisser, j’ai été ravi de parler de Lisbonne avec vous. » Présentez la personne à une autre, si possible.",
+      "exceptions": [],
+      "remedy": "Si vous êtes parti brusquement, un mot à la prochaine rencontre : « Désolé d’avoir filé l’autre jour. »",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "L’art de la conversation a longtemps été considéré comme l’un des sommets de la vie sociale. Les salons parisiens du XVIIe siècle en ont fait un idéal, et Madeleine de Scudéry lui a consacré plusieurs textes. La conversation y réunissait des personnes de milieux et d’opinions variés, à condition que personne ne domine. On y voyait déjà une règle : qui parle trop, ou fait la leçon, gâche le plaisir commun.\n\nPlus près de nous, le philosophe Paul Grice a montré que toute conversation repose sur un principe de coopération : chacun suppose que l’autre dit ce qui est utile et pertinent. Le linguiste Roman Jakobson a nommé « phatique » la fonction du langage qui sert seulement à maintenir le contact : « Il fait beau ! » ou « Ça va ? » n’apportent aucune information, et remplissent pourtant une fonction réelle. Ces paroles, parfois dédaignées, sont ce qui ouvre la porte aux autres.",
+  "examples": [
+    {
+      "context": "À un mariage, vous êtes assis à côté d’une personne inconnue",
+      "behavior": "« Bonjour, je suis Hugo, l’ami d’Amir depuis le lycée. Et vous, comment connaissez-vous les mariés ? » Elle répond, et vous rebondissez : « Vous avez fait du théâtre ensemble ? Racontez-moi. »",
+      "explanation": "Le mariage fournit le terrain commun, et votre deuxième question part de sa réponse. Elle se sent écoutée."
+    },
+    {
+      "context": "Dans un groupe qui parle de cinéma, Karim se tait",
+      "behavior": "« Karim, toi qui as vécu à Rome, tu as vu ce film italien ? »",
+      "explanation": "Vous lui offrez une entrée à partir de ce qu’il connaît, sans le mettre sur la sellette."
+    },
+    {
+      "context": "Un voisin bavard vous retient dans l’ascenseur",
+      "behavior": "« Je vais vous laisser, je suis attendu. Contente d’avoir eu de vos nouvelles, et à bientôt ! »",
+      "explanation": "Un signal, un mot aimable, et une véritable sortie : vous ne prétendez pas avoir un rendez-vous imaginaire."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Lors d’une première rencontre",
+      "behavior": "« Vous êtes d’où, vraiment ? Non, je veux dire, à l’origine ? »",
+      "consequences": "La personne se sent renvoyée à une origine supposée. La question peut lui être adressée pour la centième fois.",
+      "alternative": "« Vous habitez dans le coin ? » Si la personne veut parler de ses origines, elle le fera."
+    },
+    {
+      "situation": "À table, pendant que l’autre raconte son voyage",
+      "behavior": "« Ah oui, moi, j’y suis allé en 2019, et je vais te raconter… » suivi de dix minutes de récit.",
+      "consequences": "Votre interlocuteur n’a plus qu’à écouter, et il se sent dépossédé de son récit.",
+      "alternative": "Posez d’abord une ou deux questions. Une courte anecdote pourra venir ensuite."
+    },
+    {
+      "situation": "Dans un silence de quelques secondes",
+      "behavior": "Lancer une plaisanterie sur le physique de quelqu’un pour combler le vide.",
+      "consequences": "La peur du blanc provoque une maladresse bien pire que le silence.",
+      "alternative": "Laisser passer ce moment, ou relancer : « Et ce nouveau travail, alors ? »"
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Les tempéraments.",
+      "text": "Certaines personnes ne s’épanouissent pas dans les grands groupes, et préfèrent les conversations à deux. Il n’y a là aucune faute. Elles peuvent choisir une seule rencontre dans une soirée, et partir plus tôt. Les conseils de cette leçon visent à faciliter les choses, et non à transformer chacun en orateur."
+    },
+    {
+      "title": "Les cultures.",
+      "text": "Le bavardage léger est très prisé aux États-Unis, et plus rare en Finlande, où un silence n’a rien de gênant. Au Japon, on peut échanger des banalités avant d’aborder un sujet professionnel. En France, on peut entrer assez vite dans un débat. Adaptez-vous à vos interlocuteurs."
+    },
+    {
+      "title": "Autisme et anxiété sociale.",
+      "text": "Pour certaines personnes, la conversation informelle est véritablement difficile, et ces règles tacites demandent un effort. Elles peuvent préférer des échanges sur un sujet précis. Une attitude patiente, sans moquerie, leur rend les choses plus simples."
+    }
+  ],
+  "contexts": [
+    "Réceptions : circulation entre les groupes, présentations, sorties aimables.",
+    "Tables : conversation avec les deux voisins, puis avec la table entière.",
+    "Vie professionnelle : quelques minutes de bavardage avant et après une réunion.",
+    "Voyages : conversations occasionnelles, à condition que l’autre le souhaite."
+  ],
+  "keyPoints": [
+    "Vous n’avez pas à être intéressant, mais à vous intéresser.",
+    "On engage à partir de ce que l’on partage.",
+    "On alterne questions ouvertes et apports personnels.",
+    "On signale la fin : c’est plus aimable que de disparaître."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Fermée ou ouverte ?",
+    "instructions": "Associez chaque question fermée à une version qui ouvre davantage la conversation.",
+    "pairs": [
+      {
+        "left": "« Vous aimez votre travail ? »",
+        "right": "« Qu’est-ce qui vous occupe le plus, en ce moment ? »"
+      },
+      {
+        "left": "« Le Portugal, c’était bien ? »",
+        "right": "« Qu’est-ce qui vous a le plus marqué, au Portugal ? »"
+      },
+      {
+        "left": "« Vous connaissez les mariés ? »",
+        "right": "« Comment avez-vous rencontré les mariés ? »"
+      },
+      {
+        "left": "« Vous avez lu ce livre ? »",
+        "right": "« Quel livre vous a marqué récemment ? »"
+      }
+    ],
+    "explanation": "Une question ouverte invite au récit. Elle laisse aussi la personne libre de choisir ce qu’elle souhaite dire, ce qui respecte sa vie privée."
+  },
+  "quiz": {
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": "l-3-1-3-q1",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous ne connaissez personne à une réception. Quelle phrase d’entrée est la meilleure ?",
+        "choices": [
+          "« Vous gagnez bien votre vie ? »",
+          "« Vous connaissez bien Élise et Paul ? »",
+          "« Quelle horrible musique, non ? »",
+          "« Quel âge avez-vous ? »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Elle part d’un terrain commun, et n’expose rien de personnel. Critiquer l’ambiance peut vous mettre en difficulté, et les questions sur les revenus ou l’âge sont indiscrètes.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-3-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Les banalités sur le temps qu’il fait sont inutiles et devraient être évitées.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : elles remplissent une fonction de contact que les linguistes appellent « phatique ». Elles signalent une disponibilité, et elles permettent d’aller vers des sujets plus intéressants.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-3-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quelle attitude nuit le plus à une conversation ?",
+        "choices": [
+          "Reprendre un mot de l’autre pour poser une question",
+          "Répondre à chaque récit par son propre récit, plus long",
+          "Marquer une courte pause avant de répondre",
+          "Présenter son interlocuteur à une autre personne"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Ce réflexe enlève la parole à l’autre, sous l’apparence d’un point commun. Les autres gestes témoignent d’écoute et de considération.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-1-3-q4",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que signifie la fonction « phatique » du langage ?",
+        "choices": [
+          "Le fait d’exprimer une émotion personnelle à son interlocuteur",
+          "Le fait d’établir et de maintenir le contact, sans apporter d’information",
+          "Le fait de donner un ordre ou une consigne à quelqu’un",
+          "Le fait d’employer un langage poétique"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le terme, repris par Roman Jakobson, désigne ce qui sert à maintenir le contact : « Ça va ? », « Allô ? ». Il explique pourquoi ces formules ont une vraie utilité sociale.",
+        "difficulty": 3
+      },
+      {
+        "id": "l-3-1-3-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quelles façons de mettre fin à un échange sont appropriées ? (plusieurs réponses)",
+        "choices": [
+          "« Je vais vous laisser, c’était un plaisir de parler avec vous. »",
+          "Présenter la personne à quelqu’un d’autre avant de vous éloigner",
+          "Regarder sans cesse sa montre jusqu’à ce que l’autre comprenne",
+          "« Je dois saluer nos hôtes, à plus tard ! »"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "On annonce la fin avec un mot aimable, ou l’on assure le relais. L’impatience silencieuse dit la même chose, sans la courtoisie et avec la honte en plus.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "Paul Grice",
+      "title": "Logique et conversation",
+      "year": "1975",
+      "note": "Article fondateur sur le principe de coopération."
+    },
+    {
+      "author": "Roman Jakobson",
+      "title": "Essais de linguistique générale",
+      "publisher": "Éditions de Minuit",
+      "year": "1963"
+    },
+    {
+      "author": "Marc Fumaroli",
+      "title": "Trois institutions littéraires",
+      "publisher": "Gallimard",
+      "year": "1994"
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

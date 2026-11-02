@@ -1,0 +1,310 @@
+{
+  "id": "communication",
+  "slug": "communication",
+  "number": 3,
+  "title": "Savoir parler, téléphoner et écrire",
+  "shortTitle": "Parler, téléphoner, écrire",
+  "description": "Conversation, écoute, téléphone, correspondance et messages : l’art de bien se faire comprendre.",
+  "objective": "Développer une expression orale et écrite de qualité, maîtriser l'art de la conversation et communiquer avec élégance dans toutes les circonstances.",
+  "icon": "ChatText",
+  "order": 3,
+  "active": true,
+  "levels": [
+    {
+      "level": "beginner",
+      "title": "Les bases de la communication",
+      "description": "Les règles fondamentales, expliquées pour des adultes : ce que chacun attend de vous dans les situations courantes."
+    },
+    {
+      "level": "intermediate",
+      "title": "L'art de la communication",
+      "description": "Adapter son comportement aux circonstances : situations plus complexes, conventions comparées, interactions délicates."
+    },
+    {
+      "level": "advanced",
+      "title": "L'éloquence et la maîtrise de la communication",
+      "description": "Protocole, subtilités et discernement : savoir quand appliquer une règle, quand l’adapter, et pourquoi."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-3-1-1",
+      "number": "3.1.1",
+      "level": "beginner",
+      "title": "S'exprimer clairement",
+      "topics": [
+        "Prononciation",
+        "Articulation",
+        "Débit",
+        "Construction des phrases",
+        "Choix du vocabulaire"
+      ]
+    },
+    {
+      "id": "l-3-1-2",
+      "number": "3.1.2",
+      "level": "beginner",
+      "title": "Le vocabulaire et la qualité du langage",
+      "topics": [
+        "Précision des mots",
+        "Richesse lexicale",
+        "Expressions adaptées",
+        "Éviter les grossièretés",
+        "Adapter son registre de langue"
+      ]
+    },
+    {
+      "id": "l-3-1-3",
+      "number": "3.1.3",
+      "level": "beginner",
+      "title": "Les bases de la conversation",
+      "topics": [
+        "Engager une conversation",
+        "Écouter son interlocuteur",
+        "Poser des questions",
+        "Respecter les tours de parole",
+        "Terminer un échange"
+      ]
+    },
+    {
+      "id": "l-3-1-4",
+      "number": "3.1.4",
+      "level": "beginner",
+      "title": "Savoir écouter",
+      "topics": [
+        "Écoute attentive",
+        "Ne pas interrompre",
+        "Montrer son intérêt",
+        "Reformuler",
+        "Respecter les silences"
+      ]
+    },
+    {
+      "id": "l-3-1-5",
+      "number": "3.1.5",
+      "level": "beginner",
+      "title": "Les règles du téléphone",
+      "topics": [
+        "Se présenter",
+        "Répondre à un appel",
+        "Laisser un message",
+        "Mettre fin à un appel",
+        "Respecter les horaires"
+      ]
+    },
+    {
+      "id": "l-3-1-6",
+      "number": "3.1.6",
+      "level": "beginner",
+      "title": "Les bases de la correspondance",
+      "topics": [
+        "Rédiger un message",
+        "Présenter une demande",
+        "Remercier",
+        "S'excuser",
+        "Conclure un courrier"
+      ]
+    },
+    {
+      "id": "l-3-2-1",
+      "number": "3.2.1",
+      "level": "intermediate",
+      "title": "L'art de la conversation",
+      "topics": [
+        "Introduire un sujet",
+        "Entretenir une discussion",
+        "Passer d'un sujet à un autre",
+        "Éviter les conversations monotones",
+        "Intégrer une personne dans un groupe"
+      ]
+    },
+    {
+      "id": "l-3-2-2",
+      "number": "3.2.2",
+      "level": "intermediate",
+      "title": "Les sujets de conversation",
+      "topics": [
+        "Sujets agréables",
+        "Sujets délicats",
+        "Sujets personnels",
+        "Sujets sensibles",
+        "Sujets à éviter selon les circonstances"
+      ]
+    },
+    {
+      "id": "l-3-2-3",
+      "number": "3.2.3",
+      "level": "intermediate",
+      "title": "Savoir exprimer un désaccord",
+      "topics": [
+        "Désaccord courtois",
+        "Argumentation",
+        "Nuance",
+        "Respect des opinions",
+        "Prévention des tensions"
+      ]
+    },
+    {
+      "id": "l-3-2-4",
+      "number": "3.2.4",
+      "level": "intermediate",
+      "title": "L'humour et l'esprit",
+      "topics": [
+        "Humour bienveillant",
+        "Autodérision",
+        "Ironie",
+        "Limites de la plaisanterie",
+        "Éviter les humiliations"
+      ]
+    },
+    {
+      "id": "l-3-2-5",
+      "number": "3.2.5",
+      "level": "intermediate",
+      "title": "Maîtriser les conversations téléphoniques",
+      "topics": [
+        "Appels professionnels",
+        "Appels personnels",
+        "Messages vocaux",
+        "Communication à travers un tiers",
+        "Gestion des appels importuns"
+      ]
+    },
+    {
+      "id": "l-3-2-6",
+      "number": "3.2.6",
+      "level": "intermediate",
+      "title": "La correspondance élégante",
+      "topics": [
+        "Formules d'appel",
+        "Formules de conclusion",
+        "Remerciements",
+        "Invitations écrites",
+        "Félicitations",
+        "Condoléances",
+        "Lettres personnelles et professionnelles"
+      ]
+    },
+    {
+      "id": "l-3-2-7",
+      "number": "3.2.7",
+      "level": "intermediate",
+      "title": "Les cartes et les messages de circonstance",
+      "topics": [
+        "Cartes de visite",
+        "Cartes de vœux",
+        "Cartes de remerciement",
+        "Cartes d'anniversaire",
+        "Messages de félicitations"
+      ]
+    },
+    {
+      "id": "l-3-2-8",
+      "number": "3.2.8",
+      "level": "intermediate",
+      "title": "La communication numérique",
+      "topics": [
+        "Courriels",
+        "SMS",
+        "Messageries instantanées",
+        "Visioconférences",
+        "Réseaux sociaux",
+        "Respect de la vie privée",
+        "Délais de réponse",
+        "Ponctuation et ton des messages"
+      ]
+    },
+    {
+      "id": "l-3-3-1",
+      "number": "3.3.1",
+      "level": "advanced",
+      "title": "L'art de la conversation raffinée",
+      "topics": [
+        "Conversation en petit comité",
+        "Conversation mondaine",
+        "Conversation professionnelle",
+        "Gestion des interlocuteurs difficiles",
+        "Capacité à intéresser sans monopoliser"
+      ]
+    },
+    {
+      "id": "l-3-3-2",
+      "number": "3.3.2",
+      "level": "advanced",
+      "title": "L'art du discours",
+      "topics": [
+        "Préparer une allocution",
+        "Organiser ses idées",
+        "Construire une introduction",
+        "Développer un propos",
+        "Conclure avec élégance",
+        "Prendre la parole en public"
+      ]
+    },
+    {
+      "id": "l-3-3-3",
+      "number": "3.3.3",
+      "level": "advanced",
+      "title": "L'art de convaincre sans imposer",
+      "topics": [
+        "Argumentation",
+        "Diplomatie",
+        "Persuasion respectueuse",
+        "Négociation",
+        "Gestion des objections"
+      ]
+    },
+    {
+      "id": "l-3-3-4",
+      "number": "3.3.4",
+      "level": "advanced",
+      "title": "La maîtrise des situations délicates",
+      "topics": [
+        "Répondre à une critique",
+        "Refuser une demande",
+        "Mettre fin à une conversation",
+        "Réagir à une indiscrétion",
+        "Éviter une polémique"
+      ]
+    },
+    {
+      "id": "l-3-3-5",
+      "number": "3.3.5",
+      "level": "advanced",
+      "title": "Le silence et la discrétion",
+      "topics": [
+        "Savoir ne pas répondre",
+        "Respecter les confidences",
+        "Éviter les indiscrétions",
+        "Ne pas monopoliser la parole",
+        "Préserver la vie privée"
+      ]
+    },
+    {
+      "id": "l-3-3-6",
+      "number": "3.3.6",
+      "level": "advanced",
+      "title": "La correspondance de haut niveau",
+      "topics": [
+        "Correspondance institutionnelle",
+        "Correspondance protocolaire",
+        "Invitations formelles",
+        "Lettres de circonstance",
+        "Communication diplomatique"
+      ]
+    },
+    {
+      "id": "l-3-3-7",
+      "number": "3.3.7",
+      "level": "advanced",
+      "title": "La communication interculturelle",
+      "topics": [
+        "Différences de langage",
+        "Formes de politesse",
+        "Traduction des intentions",
+        "Communication non verbale",
+        "Risques de malentendus culturels"
+      ]
+    }
+  ]
+}

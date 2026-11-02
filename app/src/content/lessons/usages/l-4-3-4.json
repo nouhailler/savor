@@ -1,0 +1,326 @@
+{
+  "id": "l-4-3-4",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Une règle de politesse n’est pas une loi morale ni une loi tout court. D’où vient l’autorité des conventions, quand les suivre, quand les adapter, et comment remettre en cause celles qui ont fait leur temps.",
+  "estimatedDuration": 14,
+  "tags": [
+    "conventions",
+    "morale",
+    "droit",
+    "égalité",
+    "discernement",
+    "galanterie",
+    "usages dépassés"
+  ],
+  "objectives": [
+    "Distinguer principe moral, convention sociale et obligation légale.",
+    "Analyser une règle : à quoi sert-elle, et à qui ?",
+    "Reconnaître les usages fondés sur des inégalités et réfléchir à leur évolution.",
+    "S’écarter d’une convention sans prendre les autres de haut."
+  ],
+  "introduction": "Pourquoi tient-on sa fourchette dans la main gauche en France, et dans la main droite aux États-Unis ? Pourquoi une femme garde-t-elle son chapeau à l’église quand un homme doit l’ôter ? Pourquoi serait-il impoli d’arriver à l’heure pile chez des amis ? Aucune de ces règles n’a de valeur morale. On peut les suivre ou non sans devenir meilleur ou pire. Pourtant, y manquer peut blesser, exclure ou faire rire.\n\nCette leçon de niveau avancé est sans doute l’une des plus importantes de l’ouvrage. Elle ne donne pas de nouvelles règles : elle propose des outils pour penser celles qui existent. Le discernement ne consiste pas à ignorer les conventions, mais à savoir ce qu’elles valent.",
+  "sections": [
+    {
+      "title": "Trois ordres à ne pas confondre",
+      "content": "Le premier ordre est moral. Ne pas humilier, ne pas mentir pour nuire, respecter la dignité de chacun : ces principes valent en tout lieu, et leur violation constitue une faute quelles que soient les habitudes locales. Le deuxième est conventionnel. Tenir sa fourchette d’une certaine façon, porter du noir à un enterrement, envoyer un mot de remerciement : ces usages varient selon les époques et les lieux. Le troisième est juridique. Respecter le secret médical, ne pas faire de tapage nocturne, ne pas harceler : la loi prescrit et sanctionne.\n\nCes trois ordres se croisent sans se recouvrir. Certaines choses sont interdites sans être immorales, comme stationner sur un emplacement. D’autres sont légales et profondément indélicates : on peut très légalement humilier un serveur. Certaines conventions enfin ont un sens moral dérivé : un usage arbitraire, comme se découvrir devant un cercueil, peut devenir la manière dont une société exprime un respect réel. Ne pas le suivre, en le connaissant, envoie alors un message qui n’a plus rien d’arbitraire.\n\nC’est pourquoi cette application affiche pour chaque règle son statut et son degré de normativité. Elle cherche à éviter deux erreurs symétriques : présenter une habitude comme une obligation, et mépriser une convention sous prétexte qu’elle n’est « que » conventionnelle. André Comte-Sponville l’exprime avec justesse : la politesse n’est pas une vertu, mais elle en est peut-être la première apparence, et l’on apprend souvent la seconde par la première."
+    },
+    {
+      "title": "À quoi sert une convention ?",
+      "content": "Une convention peut d’abord coordonner : comme rouler à droite, elle épargne une négociation à chaque fois. Savoir que l’on se serre la main à la première rencontre évite de se demander quoi faire. Elle peut également protéger : la distance imposée par le vouvoiement, les délais de réponse à une invitation, le fait de ne pas parler d’argent à table évitent des blessures. Elle peut encore signifier : la tenue de deuil, le cadeau offert, le silence à la cérémonie disent quelque chose que les mots ne suffiraient pas à dire.\n\nMais une convention peut aussi trier. Pierre Bourdieu a montré que les codes sociaux servent à distinguer ceux qui les maîtrisent de ceux qui n’y ont pas eu accès. Une règle de table compliquée n’améliore pas le repas ; elle révèle en revanche qui a grandi dans certains milieux, et exclut les autres de façon silencieuse. Il faut donc poser une question simple devant chaque règle : à quoi sert-elle, et à qui ? Facilite-t-elle la vie commune, ou permet-elle à certains de se sentir supérieurs ?\n\nCela ne conduit pas à rejeter toutes les règles compliquées. Un protocole officiel détaillé a sa fonction : il évite les conflits entre représentants d’États et de collectivités, à une échelle où chaque geste prend une signification. Le décret français sur les préséances, pour austère qu’il paraisse, a précisément pour rôle d’éviter de devoir arbitrer à chaque cérémonie. La même exigence serait absurde à un dîner entre amis."
+    },
+    {
+      "title": "Égalité et usages dépassés",
+      "content": "Beaucoup de conventions anciennes reposaient sur une hiérarchie que nous ne reconnaissons plus : l’homme devait céder sa place à la femme, jugée fragile ; la bonne devait manger à part ; l’on présentait les subalternes à leurs supérieurs, parce qu’ils valaient moins. Les présenter telles quelles reviendrait à enseigner ces hiérarchies. Les écarter toutes, à l’inverse, reviendrait à oublier qu’elles peuvent avoir un sens résiduel : tenir une porte reste aimable, pour peu qu’on le fasse pour tout le monde.\n\nLa galanterie offre un cas d’école. Elle mêle des attentions agréables et un présupposé : les femmes auraient besoin d’une protection particulière. Certaines l’apprécient, d’autres s’en passent volontiers, et d’autres encore y voient une condescendance. La solution contemporaine la plus simple consiste à détacher le geste du sexe : on tient la porte à la personne qui arrive derrière soi, on aide quiconque porte une lourde charge, on cède sa place à qui en a besoin. Le geste demeure ; il perd seulement son présupposé.\n\nD’autres usages ont évolué plus récemment : l’emploi des formules « Mademoiselle » (retirée en 2012 des formulaires administratifs français), les modes de désignation dans les couples mixtes ou de même sexe, les pronoms choisis par les personnes transgenres ou non binaires. Dans tous ces cas, le principe le plus sûr est de s’en remettre à la personne concernée. Elle sait mieux que quiconque comment elle veut être désignée."
+    },
+    {
+      "title": "S’écarter d’une convention",
+      "content": "On peut s’écarter d’un usage pour de bonnes raisons : par conviction, par incapacité, ou parce qu’il n’a pas de sens dans la situation. Toute la question est de savoir comment. La transgression ostentatoire, qui veut donner une leçon à toute la table, repose souvent sur le même mépris que celui qu’elle dénonce. Elle fait des autres, qui suivent simplement ce qu’on leur a enseigné, les représentants d’un monde dépassé. Il est généralement possible de faire autrement sans le souligner.\n\nDans certains cas, le respect du lieu passe avant ses préférences : on se couvre pour visiter un lieu de culte, on respecte les usages d’un deuil, on se lève pour la personne que l’on honore. Il s’agit ici d’un respect dû à ceux qui nous reçoivent, et non d’un accord sur le fond. Mais rien ne vous oblige à participer à un usage qui blesse votre conscience, comme un rite auquel vous ne pouvez adhérer : il existe en général une manière discrète de rester présent sans y participer.\n\nVous pouvez aussi faire évoluer un usage dans votre cercle ou votre entreprise : proposer la suppression d’une formule datée, présenter une personne selon son choix, ne plus assigner une tâche selon le sexe. Une évolution se fait rarement par décret, mais souvent par l’exemple. Le fait que tant de nos conventions aient changé en cent ans montre qu’elles n’ont jamais cessé d’être débattues : il n’y a pas d’âge d’or du savoir-vivre."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-4-3-4-r1",
+      "title": "On ne confond pas convention et obligation légale.",
+      "description": "Une règle de savoir-vivre n’a pas de force légale, et une obligation légale n’est pas un simple usage.",
+      "rationale": "Cette confusion donne à de simples habitudes une autorité qu’elles n’ont pas et, en sens inverse, banalise des obligations réelles.",
+      "context": "Conseils à des proches, gestion d’un litige, vie de l’immeuble, travail.",
+      "recommendedBehavior": "Posez-vous la question : « Est-ce interdit, ou est-ce simplement mal vu ? » En cas de doute sur le droit, renseignez-vous auprès d’une source officielle.",
+      "exceptions": [],
+      "remedy": "Si vous avez présenté un usage comme une règle : « Je me suis mal exprimé, c’est une habitude, pas une obligation. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-3-4-r2",
+      "title": "On juge une convention à ce qu’elle produit.",
+      "description": "Devant un usage, on se demande à quoi il sert et à qui il profite, et l’on distingue ce qui facilite la vie commune de ce qui exclut.",
+      "rationale": "C’est le discernement qui permet à la fois de garder ce qui a du sens et de laisser ce qui ne sert qu’à trier les personnes.",
+      "context": "Réflexion personnelle, éducation des enfants, usages d’entreprise, organisation d’événements.",
+      "recommendedBehavior": "Gardez les règles qui mettent à l’aise. Simplifiez celles qui n’ont d’autre effet que d’embarrasser ceux qui ne les connaissent pas.",
+      "exceptions": [
+        "Le protocole officiel suit une logique propre, et l’on ne l’improvise pas."
+      ],
+      "remedy": "Si vous avez embarrassé quelqu’un au nom d’une règle : « Peu importe, ce n’est qu’un usage. »",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-3-4-r3",
+      "title": "On détache les gestes aimables du sexe et du rang.",
+      "description": "Une attention est offerte selon le besoin et non selon le sexe, l’âge supposé ou le statut social.",
+      "rationale": "Le geste garde sa valeur lorsqu’il cesse de reposer sur l’idée qu’une catégorie de personnes serait plus faible ou inférieure.",
+      "context": "Portes, sièges, bagages, addition, service à table, tâches lors d’une réception.",
+      "recommendedBehavior": "Tenez la porte à la personne qui suit, proposez votre aide à qui a les mains pleines. Si une personne préfère s’en passer, n’insistez pas.",
+      "exceptions": [
+        "Une tradition familiale ou culturelle peut conserver des formes plus marquées : on les respecte chez ceux qui reçoivent, sans les imposer ailleurs."
+      ],
+      "remedy": "Si l’on vous reprend sur un geste de galanterie : « Bien sûr, pardon. » Ni vexation, ni débat.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-3-4-r4",
+      "title": "La désignation d’une personne lui appartient.",
+      "description": "On utilise le nom, le titre et les pronoms qu’elle demande, y compris lorsque cela évolue ou que vous n’en avez pas l’habitude.",
+      "rationale": "Ce sont des éléments de son identité. Vous ne perdez rien en les respectant ; elle perd beaucoup si vous les lui refusez.",
+      "context": "Vie sociale et professionnelle, formulaires, correspondance.",
+      "recommendedBehavior": "Demandez si vous ne savez pas, puis employez la forme demandée. Pour une femme adulte, « Madame » convient quel que soit son statut conjugal.",
+      "exceptions": [],
+      "remedy": "En cas d’erreur : une brève correction et rien de plus. « Pardon, Monsieur Dupré. » Évitez les excuses qui durent.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-3-4-r5",
+      "title": "On s’écarte d’un usage sans donner de leçon.",
+      "description": "Refuser une convention peut être légitime ; humilier ceux qui la suivent, non.",
+      "rationale": "Celui qui fait la leçon à la table reproduit le mépris qu’il dénonce. Et les personnes en cause suivent souvent simplement ce qu’on leur a appris.",
+      "context": "Mariages traditionnels, rites religieux, usages familiaux, cérémonies d’entreprise.",
+      "recommendedBehavior": "Faites votre choix discrètement : vous pouvez rester présent sans participer. Si l’on vous interroge, répondez sobrement.",
+      "exceptions": [
+        "Face à une discrimination réelle, on peut avoir le devoir de parler clairement."
+      ],
+      "remedy": "« Je n’avais pas à le dire comme ça. Je pense ce que je pense, mais ce n’était ni le lieu ni le ton. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Montaigne s’étonnait déjà, dans les Essais, de la diversité des coutumes, et notait que chacun appelle barbarie ce qui n’est pas de son usage. Pascal, plus sévère, voyait dans la coutume l’unique fondement de nombreuses autorités. Cette interrogation n’a rien de neuf, et la sociologie l’a seulement précisée : avec Norbert Elias, nous savons que les conventions ont une histoire, et avec Bourdieu qu’elles ont des effets sociaux.\n\nFaut-il donc les abandonner ? Une société sans conventions n’existe pas : si elles n’étaient pas là, il faudrait tout négocier, et chacun serait soumis à la loi du plus fort ou du plus sûr de lui. Les conventions, comme le rappelle Dominique Picard, donnent un langage commun à l’expression du respect. Leur valeur tient à ce qu’elles servent. Le discernement permet de continuer à parler ce langage, tout en se demandant ce qu’on y dit.",
+  "examples": [
+    {
+      "context": "Lors d’un dîner traditionnel, on vous demande de « servir d’abord les dames »",
+      "behavior": "Vous suivez l’usage de la maison, puisque vous y êtes invité. Vous garderez d’autres habitudes chez vous, où vous servez d’abord les plus âgés ou les invités.",
+      "explanation": "Vous distinguez ce qui relève du respect de vos hôtes de ce que vous choisissez personnellement. Aucun débat n’était nécessaire."
+    },
+    {
+      "context": "Vous organisez un séminaire d’entreprise avec un code vestimentaire très formel",
+      "behavior": "Vous réfléchissez à la fonction de ce code. Il ne sert à rien de précis et exclut les plus jeunes aux moyens limités. Vous proposez une « tenue soignée », en donnant quelques exemples.",
+      "explanation": "Vous avez appliqué le test « à quoi ça sert, et à qui ? » pour simplifier, tout en gardant un repère commun."
+    },
+    {
+      "context": "Un collègue vous annonce que, désormais, il souhaite qu’on l’appelle Alex et qu’on emploie le féminin",
+      "behavior": "« Merci de me le dire, Alex. » Vous l’appliquez, sans poser de question intime, et vous vous corrigez simplement si vous vous trompez.",
+      "explanation": "La désignation appartient à la personne. Aucune explication ne vous est due, et il est inutile de commenter."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Une personne se trompe de couvert lors d’un grand dîner",
+      "behavior": "Lui expliquer que « ça se voit qu’elle n’a pas l’habitude ».",
+      "consequences": "La convention n’est plus qu’une arme ; celui qui parle manque gravement à ce qu’elle est censée servir.",
+      "alternative": "Ne rien dire. Si elle demande, répondre gentiment, comme si la question était toute naturelle."
+    },
+    {
+      "situation": "Au mariage de cousins très attachés à une tradition",
+      "behavior": "Annoncer publiquement au cours du repas que les rites religieux n’ont aucun sens.",
+      "consequences": "Votre conviction est peut-être légitime, mais le lieu et le moment humilient ceux qui vous reçoivent.",
+      "alternative": "Rester présent respectueusement, ne pas participer à ce qui vous pose question, et en parler une autre fois si le sujet vient."
+    },
+    {
+      "situation": "Dans un litige de voisinage",
+      "behavior": "Dire : « C’est interdit par le savoir-vivre, je vais porter plainte. »",
+      "consequences": "Vous confondez deux ordres, et le voisin n’a aucune raison de céder si le droit n’est pas en cause.",
+      "alternative": "Renseignez-vous sur le règlement de copropriété et sur le droit applicable, et parlez d’abord de la gêne concrète."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Respecter n’est pas adhérer.",
+      "text": "Suivre un usage chez ses hôtes n’engage pas vos convictions : on peut se couvrir la tête dans un lieu de culte sans partager la foi qui s’y pratique. Inversement, une tradition n’est pas intouchable par principe : certaines ont été légitimement combattues, comme celles qui excluaient les femmes de certains lieux."
+    },
+    {
+      "title": "Conventions et classes sociales.",
+      "text": "Il est tentant, quand on a grandi dans un milieu où ces codes étaient naturels, de les tenir pour secondaires. Pour quelqu’un qui les découvre, ils peuvent peser lourd : ne pas les connaître peut coûter un poste. Enseigner ces usages n’a donc rien de frivole, tant qu’on dit aussi ce qu’ils valent."
+    },
+    {
+      "title": "Toutes les cultures ne placent pas les mêmes limites.",
+      "text": "Ce que la France contemporaine tient pour un usage dépassé peut garder toute sa légitimité ailleurs, et réciproquement. Une différence n’appelle pas une leçon. Le critère moral, comme l’atteinte à la dignité, reste applicable partout, mais il ne faut pas le confondre avec nos propres habitudes."
+    }
+  ],
+  "contexts": [
+    "Éducation : expliquer à un enfant ou à un adolescent pourquoi une règle existe, plutôt que « parce que c’est comme ça ».",
+    "Vie professionnelle : revoir les formules, les codes vestimentaires et les rituels d’entreprise.",
+    "Réceptions familiales : respecter ceux qui reçoivent, même quand on a d’autres habitudes.",
+    "Rencontres interculturelles : ne pas transformer ses propres conventions en principes moraux."
+  ],
+  "keyPoints": [
+    "Morale, convention et loi sont trois ordres distincts, et il faut les nommer pour les penser.",
+    "Devant une règle : à quoi sert-elle, et à qui ?",
+    "Un geste aimable vaut pour tout le monde : il se détache du sexe et du rang.",
+    "On peut s’écarter d’un usage sans donner de leçon."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Moral, conventionnel ou légal ?",
+    "instructions": "Associez chaque règle à l’ordre dont elle relève principalement, en France.",
+    "pairs": [
+      {
+        "left": "Ne pas humilier une personne devant les autres.",
+        "right": "Principe moral, valable partout."
+      },
+      {
+        "left": "Tenir sa fourchette de la main gauche.",
+        "right": "Convention culturelle, variable selon les lieux."
+      },
+      {
+        "left": "Respecter le secret médical pour un soignant.",
+        "right": "Obligation légale, sanctionnée par le droit."
+      },
+      {
+        "left": "Porter du noir à des obsèques.",
+        "right": "Usage traditionnel, de moins en moins strict."
+      }
+    ],
+    "explanation": "Ces catégories peuvent se croiser : le secret médical répond aussi à une exigence morale, et un usage de deuil peut signifier un respect réel. L’utilité de la distinction est d’éviter de brandir l’un au nom de l’autre."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-4-3-4-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle est la meilleure question à se poser pour juger une convention ?",
+        "choices": [
+          "Est-elle ancienne ?",
+          "Est-elle pratiquée dans les milieux les plus aisés ?",
+          "À quoi sert-elle, et à qui ?",
+          "Est-elle mentionnée dans un manuel ?"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "L’ancienneté ou le prestige ne disent rien de sa valeur. La fonction permet de distinguer ce qui facilite la vie commune de ce qui sert surtout à exclure.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-4-3-4-q2",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que signifie « détacher le geste du sexe » dans le cas de la galanterie ?",
+        "choices": [
+          "Supprimer toute attention envers autrui, puisque chacun est désormais l’égal de l’autre",
+          "Réserver les attentions aux personnes âgées",
+          "Offrir l’attention selon le besoin de la personne, et non selon qu’elle soit une femme ou un homme",
+          "Laisser les femmes prendre seules toutes les initiatives"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "On garde le geste aimable, on écarte l’idée que les femmes auraient besoin d’une protection particulière. On tient donc la porte à la personne qui suit, et l’on aide quiconque a les mains pleines.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-4-3-4-q3",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Puisque les conventions varient selon les époques et les lieux, elles n’ont aucune valeur et l’on peut les ignorer.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : variable n’est pas synonyme de vain. Les conventions coordonnent les comportements, protègent, et donnent une forme au respect. L’ignorer sciemment peut blesser, même si la règle n’a rien de moral en soi.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-4-3-4-q4",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Vous êtes opposé à certaines traditions d’un mariage auquel vous êtes invité. Quelle attitude pose problème ?",
+        "choices": [
+          "Assister sans participer à un rite qui vous pose question",
+          "Rester respectueux, et en parler plus tard si un proche vous le demande",
+          "Annoncer votre désaccord dans votre discours, devant les invités",
+          "Décliner l’invitation avec courtoisie si cela vous est impossible"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Le discours détourne la fête vers vos convictions et humilie ceux qui vous reçoivent. Les autres solutions préservent à la fois votre conscience et le respect dû à vos hôtes.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-4-3-4-q5",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Parmi les affirmations suivantes, lesquelles confondent à tort les ordres moral, conventionnel et légal ? (plusieurs réponses)",
+        "choices": [
+          "« Il est illégal de ne pas répondre à une invitation. »",
+          "« Humilier quelqu’un sans enfreindre la loi reste une faute morale. »",
+          "« Ce serveur a mal posé l’assiette : c’est immoral. »",
+          "« Le tapage nocturne peut être sanctionné par la loi. »"
+        ],
+        "correctAnswers": [
+          0,
+          2
+        ],
+        "explanation": "Ne pas répondre à une invitation est un manque de courtoisie, sans effet légal. Une assiette mal posée relève d’un usage, non de la morale. Les deux autres distinguent correctement la morale et le droit (article R623-2 du Code pénal pour le tapage).",
+        "difficulty": 3
+      }
+    ]
+  },
+  "references": [
+    {
+      "author": "André Comte-Sponville",
+      "title": "Petit traité des grandes vertus",
+      "publisher": "PUF",
+      "year": "1995",
+      "note": "Chapitre « La politesse »."
+    },
+    {
+      "author": "Pierre Bourdieu",
+      "title": "La Distinction. Critique sociale du jugement",
+      "publisher": "Éditions de Minuit",
+      "year": "1979"
+    },
+    {
+      "author": "Norbert Elias",
+      "title": "La Civilisation des mœurs",
+      "publisher": "Calmann-Lévy",
+      "year": "1973"
+    },
+    {
+      "author": "Michel de Montaigne",
+      "title": "Essais",
+      "year": "1580-1592",
+      "note": "Notamment « Des cannibales » et « De la coutume »."
+    },
+    {
+      "title": "Circulaire du Premier ministre n° 5575 du 21 février 2012",
+      "note": "Suppression de « Mademoiselle » dans les formulaires administratifs français."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

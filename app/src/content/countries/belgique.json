@@ -1,0 +1,153 @@
+{
+  "id": "c-belgique",
+  "slug": "belgique",
+  "name": "Belgique",
+  "region": "Europe occidentale",
+  "languages": [
+    "Néerlandais",
+    "Français",
+    "Allemand"
+  ],
+  "intro": "Un pays à trois langues officielles, où l’on se moque volontiers de soi-même. La convivialité y est réelle, et le compromis un art de vivre. La question linguistique reste à manier avec tact.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Main au travail, bise entre proches"
+    },
+    {
+      "label": "Langues",
+      "value": "Attention au choix de la langue"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "Attendue, surtout en Flandre"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Service inclus, arrondi apprécié"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Poignée de main en contexte professionnel.",
+        "Entre proches, une bise est courante, et certains en font trois pour marquer une attention particulière ou saluer une personne âgée.",
+        "On laisse à l’autre le soin de proposer le geste, faute de règle unique."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "La ponctualité est attendue dans le monde professionnel, plus encore en Flandre.",
+        "Un léger retard reste admis en société, à condition de prévenir."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "Une invitation à domicile reste une marque de confiance ; on arrive à l’heure, avec une attention.",
+        "Des chocolats ou des fleurs, sans chrysanthèmes : ceux-ci sont réservés aux cimetières."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "La bière se sert dans le verre propre à chaque brasserie, un vrai sujet de conversation.",
+        "Les usages rejoignent ceux de la France et des Pays-Bas : on attend que tous soient servis.",
+        "On termine son assiette, et on complimente le repas."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Un présent modeste suffit, et l’on évite les cadeaux trop personnels au travail.",
+        "Les chocolats sont un choix sûr, mais on en connaît ici la qualité : mieux vaut un artisan qu’une marque de supermarché."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Tenue soignée mais simple ; Bruxelles se montre plus formelle dans les institutions européennes.",
+        "Les grandes occasions de carnaval, comme à Binche, ont leurs propres codes traditionnels."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "L’autodérision est très répandue, et les Belges sont souvent les premiers à plaisanter sur eux-mêmes.",
+        "Les plaisanteries françaises sur les Belges sont en revanche fort peu appréciées.",
+        "On emploie « septante » et « nonante », qui n’ont rien d’une faute."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "Le ton reste généralement posé, et la distance modérée.",
+        "On évite de parler trop fort dans les lieux publics."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "Le sujet de la langue et des relations entre Flamands et Wallons est très délicat.",
+        "L’histoire coloniale au Congo est un sujet grave, et elle continue à être discutée."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "Le compromis et le consensus comptent : les décisions peuvent se préparer longuement.",
+        "En Flandre, un style plus direct est fréquent, alors qu’à Bruxelles et en Wallonie les codes sont plus proches de ceux de la France.",
+        "Le choix de la langue de la réunion peut constituer une question de respect : demandez."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "S’adresser en français à un Flamand sans demander : commencer en anglais ou demander peut être préférable.",
+        "Plaisanter sur les Belges comme on le ferait en France.",
+        "Traiter le pays comme s’il était entièrement francophone."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Les noms de villes changent selon la langue (Liège / Luik, Anvers / Antwerpen) : vérifiez les panneaux.",
+        "Les frites et la bière se prennent très au sérieux."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Dank u wel",
+      "meaning": "Merci, en néerlandais."
+    },
+    {
+      "original": "S’il vous plaît",
+      "meaning": "En Belgique francophone, peut aussi signifier « tenez » quand on vous tend quelque chose."
+    },
+    {
+      "original": "Une fois",
+      "meaning": "Formule souvent employée en fin de phrase, à Bruxelles. Elle est à ne pas imiter pour plaisanter."
+    }
+  ],
+  "generalizationNote": "La Flandre, la Wallonie, Bruxelles et la communauté germanophone n’ont pas les mêmes habitudes. Ces repères ne valent donc pas pour tout le pays, et encore moins pour tous ses habitants.",
+  "sources": [
+    {
+      "title": "Conseils aux voyageurs : Belgique",
+      "publisher": "Ministère français de l’Europe et des Affaires étrangères"
+    },
+    {
+      "title": "Offices du tourisme de Flandre et de Wallonie",
+      "note": "visitflanders.com ; walloniebelgiquetourisme.be"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

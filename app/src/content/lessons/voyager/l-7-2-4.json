@@ -1,0 +1,302 @@
+{
+  "id": "l-7-2-4",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "summary": "Une location de vacances n’est ni un hôtel ni votre maison. État des lieux, voisins qui y vivent à l’année, ménage, casse, avis en ligne : les usages d’un séjour dont vous n’êtes que le locataire.",
+  "estimatedDuration": 10,
+  "tags": [
+    "location",
+    "vacances",
+    "état des lieux",
+    "voisinage",
+    "ménage",
+    "avis",
+    "propriétaire"
+  ],
+  "objectives": [
+    "Préparer son arrivée et réaliser un état des lieux utile.",
+    "Respecter le logement, et les règles de la maison et de l’immeuble.",
+    "Tenir compte des voisins et des habitants à l’année.",
+    "Bien partir : ménage, casse, restitution et avis honnête."
+  ],
+  "introduction": "Vous arrivez dans un appartement de bord de mer loué pour une semaine. Il y a les photos de famille d’un autre, un mot sur la table, un voisin de palier qui vous regarde d’un air méfiant. Ce logement est à mi-chemin entre l’hôtel et la maison d’un ami : vous l’avez payé, mais il appartient à quelqu’un, et d’autres y vivent tout près de vous.\n\nDans de nombreuses villes, les locations touristiques ont fini par devenir un sujet de tension avec les habitants. Votre comportement peut soit nourrir ces tensions, soit montrer qu’on peut passer sans peser. Cette leçon couvre un séjour complet, de la réservation à l’avis laissé en ligne.",
+  "sections": [
+    {
+      "title": "Arriver et faire l’état des lieux",
+      "content": "Avant de partir, lisez attentivement l’annonce et le règlement : nombre de personnes, animaux, fêtes, tabac, horaires. Ce nombre n’est pas indicatif : dépasser ce qui est prévu peut poser des problèmes d’assurance et de sécurité, et peut aller jusqu’à la résiliation. Prévenez de votre heure d’arrivée, et d’un retard éventuel : quelqu’un peut vous attendre pour vous remettre les clés.\n\nÀ l’arrivée, un état des lieux évite les litiges : vérifiez avec le propriétaire, ou seul s’il n’est pas là, l’état du logement et de l’inventaire. Photographiez ce qui est abîmé, et signalez-le dans les vingt-quatre heures par message. C’est plus aimable et plus utile que de le découvrir ensemble au moment de partir. Votre but n’est pas de chercher des fautes, mais de garder une trace. Le cadre légal varie selon le type de location et de pays : en France, les meublés de tourisme sont encadrés par le Code du tourisme, et il est sage de consulter les conditions de la plateforme.\n\nSi quelque chose ne va pas, dites-le immédiatement, de façon précise et en laissant au propriétaire le temps de réagir. « Le chauffe-eau ne fonctionne pas : pourriez-vous nous dire comment faire ou envoyer quelqu’un ? » est plus efficace qu’une critique publique en fin de séjour, au moment où il est trop tard pour réparer."
+    },
+    {
+      "title": "Occuper un lieu qui n’est pas le vôtre",
+      "content": "Traitez le logement comme vous traiteriez celui d’un ami qui vous l’aurait prêté, et non comme une chambre d’hôtel où tout est prévu pour être remplacé. On ne déplace pas tout le mobilier ; s’il le faut, on le remet en place. On n’ouvre pas les placards fermés à clé et on ne fouille pas les affaires personnelles qui s’y trouvent. Le bois sur lequel on pose une tasse brûlante, le tapis sur lequel on renverse du vin, le canapé où dort un chien appartiennent à quelqu’un.\n\nLes consommables utilisés de façon raisonnable ne posent pas de problème ; on ne vide pas pour autant les réserves laissées par l’hôte, et on remplace ce qu’on aura largement consommé. Le tri des déchets suit la règle locale, souvent indiquée dans un livret d’accueil. L’eau et le chauffage ne sont pas illimités non plus : on ne laisse pas la climatisation tourner fenêtre ouverte, parce qu’on a payé. Cette logique est aussi celle d’une société qui doit économiser ses ressources, en particulier dans les régions touchées par la sécheresse.\n\nSi vous avez cassé ou abîmé quelque chose, dites-le immédiatement et proposez de le remplacer ou de le faire réparer. Cela arrive, et les propriétaires le savent. Le verre que l’on cache derrière d’autres sera découvert ; l’honnêteté, elle, sera remarquée. Selon la valeur, votre assurance ou le dépôt de garantie peuvent intervenir."
+    },
+    {
+      "title": "Les voisins",
+      "content": "Pour vous, c’est une semaine ; pour eux, c’est leur vie. Ils se lèvent peut-être à six heures, et ont vu défiler dix familles depuis juin. Les bruits, en particulier les valises à roulettes à l’aube, les conversations sur le balcon le soir et la musique près de la piscine, leur pèsent davantage que vous ne l’imaginez. Un « bonjour » dans l’escalier, un mot de présentation au voisin immédiat si l’on reste plus longtemps, sont des gestes simples qui changent la perception du séjour.\n\nDans une copropriété, le stationnement, les parties communes et les poubelles relèvent de règles qu’il faut lire et suivre. Le bruit de nuit peut être sanctionné : en France, le tapage nocturne constitue une infraction (article R623-2 du Code pénal), et le bruit de voisinage est encadré également de jour. Une fête non autorisée dans une location peut coûter très cher au propriétaire, y compris son droit de louer. Si vous avez prévu un grand repas ou un anniversaire, prévenez les voisins à l’avance.\n\nDans une station ou un village, n’oubliez pas que votre logement est peut-être soustrait au marché local du logement : un sujet souvent sensible pour ceux qui y vivent à l’année. Vous n’avez pas à vous excuser d’être là, mais un peu de discrétion, quelques achats chez les commerçants locaux et un intérêt réel pour le lieu seront appréciés."
+    },
+    {
+      "title": "Partir et donner son avis",
+      "content": "Le départ suit les consignes indiquées : heure, clés, ménage, poubelles. Si un forfait de ménage est compris, on laisse tout de même le logement correct : vaisselle lavée, poubelles sorties, frigo vidé, objets remis à leur place. Le forfait paie un nettoyage, et non la remise en état après une fête. Signalez toute casse et tout problème avant de partir, plutôt que de laisser un mot sur la table et de disparaître.\n\nL’état des lieux de sortie fait pendant à celui d’entrée. S’il n’y a personne, quelques photos horodatées vous protégeront, et un message remerciera l’hôte en indiquant que vous êtes bien parti. Un petit mot manuscrit et une bouteille laissés sur la table pour la famille qui vous a bien reçu sont un joli geste, mais tout à fait facultatif, surtout lorsqu’il s’agit d’une location purement commerciale.\n\nLaisser un avis en ligne est utile à condition d’être honnête et proportionné. Dites ce qui s’est passé et non ce que vous pensez de la personne. Un reproche sur le chauffe-eau, que vous n’avez jamais signalé, n’a rien d’équitable. On ne publie pas de photos identifiantes ni de détails personnels sur l’hôte. Ne menacez jamais de laisser un mauvais avis pour obtenir un geste commercial : cette pratique, parfois sanctionnable, est très mal considérée. Enfin, vous-même serez noté : le comportement de chacun fait partie de ce système."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-7-2-4-r1",
+      "title": "On respecte ce que l’annonce prévoit.",
+      "description": "Nombre d’occupants, animaux, fêtes, tabac, horaires d’arrivée et de départ : ces règles font partie de ce que vous avez accepté.",
+      "rationale": "Elles reflètent les contraintes d’assurance, de sécurité et de voisinage, qui peuvent engager le propriétaire.",
+      "context": "Locations de vacances entre particuliers ou par des professionnels.",
+      "recommendedBehavior": "Lisez avant de réserver. Si vous avez un besoin particulier (un convive de plus, un chien), demandez-le avant.",
+      "exceptions": [
+        "Un chien d’assistance ne relève pas du régime des animaux de compagnie : la loi française en protège l’accès."
+      ],
+      "remedy": "Si vous avez enfreint une règle sans le vouloir, prévenez et proposez une solution : mieux vaut un message qu’une découverte.",
+      "conventionType": "contextual_rule",
+      "normativity": "formal_convention"
+    },
+    {
+      "id": "l-7-2-4-r2",
+      "title": "Un état des lieux n’est pas une méfiance.",
+      "description": "On note et photographie l’état du logement à l’arrivée et au départ, et l’on signale rapidement toute anomalie.",
+      "rationale": "Il protège les deux parties. C’est le meilleur moyen d’éviter les contestations et les soupçons.",
+      "context": "Toute location, en particulier avec un dépôt de garantie.",
+      "recommendedBehavior": "Faites ce relevé dans les vingt-quatre heures, par message, sur un ton neutre.",
+      "exceptions": [],
+      "remedy": "Si vous n’en avez pas fait, signalez dès que possible ce que vous constatez, en précisant que ce n’est pas de votre fait.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-7-2-4-r3",
+      "title": "Les voisins ne sont pas en vacances.",
+      "description": "On limite le bruit, en particulier le soir et au petit matin, et l’on suit les règles de copropriété.",
+      "rationale": "Vous partagez leur lieu de vie, pour une semaine, et ils subissent une rotation constante de locataires.",
+      "context": "Immeubles, lotissements, petits villages, piscines partagées.",
+      "recommendedBehavior": "Portez les valises au lieu de les traîner dans les couloirs, baissez la voix après 22 heures et saluez les personnes croisées.",
+      "exceptions": [
+        "La loi peut sanctionner le tapage nocturne ainsi que les bruits répétés, quelle qu’en soit l’heure : cet usage reflète aussi une obligation légale."
+      ],
+      "remedy": "Si un voisin vient se plaindre : excusez-vous, sans vous défendre. Et faites ce qu’il demande si c’est raisonnable.",
+      "conventionType": "universal_principle",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-7-2-4-r4",
+      "title": "On dit ce que l’on a cassé.",
+      "description": "Tout dommage, même mineur, est signalé rapidement, avec une proposition de réparation.",
+      "rationale": "Un objet cassé est un accident. Le cacher en fait une tromperie, et cela met le prochain occupant en difficulté.",
+      "context": "Pendant le séjour ou au départ.",
+      "recommendedBehavior": "« Nous avons cassé deux verres : voulez-vous que nous les remplacions ou que nous vous les remboursions ? »",
+      "exceptions": [],
+      "remedy": "Si vous vous en rendez compte après le départ, envoyez un message, même tardif.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-7-2-4-r5",
+      "title": "Un avis est honnête, précis et sans chantage.",
+      "description": "On évalue ce qui a été vécu, en mentionnant les faits, y compris les problèmes résolus. On ne menace jamais d’un mauvais avis.",
+      "rationale": "Ces avis engagent des personnes et leurs revenus. Un mauvais usage déséquilibre le système et nuit à tous.",
+      "context": "Plateformes de location, sites d’avis.",
+      "recommendedBehavior": "Dites si le logement correspond à l’annonce, comment l’hôte a réagi, et ce qui pourrait être utile aux suivants.",
+      "exceptions": [
+        "Un danger réel ou une tromperie grave doivent être signalés à la plateforme et, si nécessaire, aux autorités."
+      ],
+      "remedy": "Si votre avis a été excessif, modifiez-le si la plateforme le permet, ou répondez à l’hôte de façon mesurée.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "L’hôtel a des règles précises, parce qu’il existe un personnel dont c’est le métier. Une location entre particuliers, au contraire, repose sur un rapport hybride : on paie un service, mais à quelqu’un qui vous confie ses biens et n’est pas nécessairement professionnel. Ce mélange rend les malentendus fréquents, et il explique que l’on y attende à la fois la courtoisie d’un invité et la clarté d’un contrat.\n\nLa multiplication des locations touristiques a également transformé de nombreux quartiers et villages. Des villes européennes ont adopté des règles pour limiter leur nombre ou les enregistrer : en France, plusieurs lois ont encadré ces locations, et la réglementation change régulièrement. Il ne s’agit pas seulement d’un sujet politique : au quotidien, ce mouvement se traduit par des voisins fatigués, parfois hostiles. Un comportement soigneux relève ainsi autant du respect des personnes que du souci collectif de préserver la vie des lieux que l’on visite.",
+  "examples": [
+    {
+      "context": "À l’arrivée, vous remarquez une tache sur le canapé et une chaise cassée",
+      "behavior": "Vous envoyez deux photos le soir même : « Bonsoir, tout est très agréable, merci. Je vous signale la tache et la chaise ci-joint, pour que nous en ayons la trace. »",
+      "explanation": "Le ton est neutre, et le message commence par un remerciement. Votre responsabilité n’est plus en question."
+    },
+    {
+      "context": "Vous prévoyez un dîner d’anniversaire à dix sur la terrasse",
+      "behavior": "Vous prévenez le propriétaire, qui vous autorise. Vous glissez un mot aux voisins : « Nous fêtons un anniversaire samedi. Nous rentrerons à 22 h, n’hésitez pas à nous le dire si cela vous gêne. »",
+      "explanation": "Prévenu, un voisin supporte beaucoup mieux une gêne. Et l’horaire donne une limite claire."
+    },
+    {
+      "context": "Au moment de laisser un avis sur un logement sympathique mais trop bruyant",
+      "behavior": "« Très bel appartement, conforme aux photos, hôte réactif. Attention, il donne sur une rue animée le soir : à savoir pour les personnes sensibles au bruit. »",
+      "explanation": "Vous informez les suivants sans accuser personne : c’est l’usage le plus utile qu’on puisse faire d’un avis."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Au moment du départ",
+      "behavior": "Laisser la vaisselle sale, les poubelles pleines et un meuble cassé, sans message, parce que « le ménage est payé ».",
+      "consequences": "La prestation de ménage ne couvre ni la remise en état ni la casse. L’hôte perd du temps entre deux locations, et vous recevrez un mauvais avis.",
+      "alternative": "Respecter les consignes, et signaler tout dommage avant de partir."
+    },
+    {
+      "situation": "Dans un immeuble, à minuit",
+      "behavior": "Discuter sur le balcon avec de la musique, parce que vous êtes en vacances.",
+      "consequences": "Les voisins se plaignent, ou appellent la police. Le propriétaire peut être mis en cause par la copropriété.",
+      "alternative": "Rentrer à l’intérieur après 22 h, et baisser la voix."
+    },
+    {
+      "situation": "Après un petit problème",
+      "behavior": "Écrire à l’hôte : « Si vous ne me remboursez pas 100 €, je mets une étoile. »",
+      "consequences": "C’est du chantage, sanctionné par les plateformes et, dans certains cas, par la loi. Vous perdez toute légitimité sur le fond.",
+      "alternative": "Exposer le problème, demander une solution, et utiliser le service de médiation de la plateforme si nécessaire."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Location commerciale ou maison de famille.",
+      "text": "Une résidence gérée par une agence n’appelle pas le même lien que la maison d’une personne âgée qui vous a préparé un bouquet. Adaptez votre comportement : remerciez chaleureusement dans le second cas, et rien ne vous oblige à simuler une amitié dans le premier."
+    },
+    {
+      "title": "Selon les pays.",
+      "text": "Les règles de bruit, d’animaux ou de tri peuvent être bien plus strictes qu’en France : en Suisse et en Allemagne, par exemple, le bruit dominical ou le recyclage sont très réglementés. Dans d’autres pays, les usages seront plus souples. Le livret d’accueil et les voisins seront vos meilleures sources."
+    },
+    {
+      "title": "Discriminations.",
+      "text": "Un propriétaire ne peut pas refuser une location en raison de l’origine, du handicap ou de l’orientation sexuelle : c’est contraire à la loi française, et souvent aux conditions des plateformes. Si cela vous arrive, vous n’avez pas à vous comporter en client compréhensif : vous pouvez le signaler à la plateforme, et au Défenseur des droits."
+    }
+  ],
+  "contexts": [
+    "Appartement en ville : bruit, parties communes, voisins permanents.",
+    "Maison à la campagne : gestion de l’eau, du feu, des animaux et du voisinage rural.",
+    "Résidence de vacances : piscine et espaces partagés avec d’autres familles.",
+    "Échange de maison : responsabilités réciproques, plus étroites encore."
+  ],
+  "keyPoints": [
+    "Vous avez payé pour un séjour, non pour tout ce qui l’entoure.",
+    "État des lieux à l’arrivée, signalement rapide : c’est une protection, et non une méfiance.",
+    "Les voisins ne sont pas en vacances.",
+    "Un avis honnête aide les suivants, et un chantage ne devrait jamais en être un."
+  ],
+  "exercise": {
+    "type": "ordering",
+    "title": "Une location bien menée",
+    "instructions": "Remettez ces étapes dans l’ordre d’un séjour.",
+    "items": [
+      "Lire l’annonce et le règlement avant de réserver",
+      "Prévenir de votre heure d’arrivée",
+      "Faire l’état des lieux et signaler par message ce qui ne va pas",
+      "Respecter le voisinage et le tri des déchets",
+      "Laisser le logement correct et signaler les éventuels dommages",
+      "Rédiger un avis honnête après le départ"
+    ],
+    "explanation": "Chaque étape évite un conflit de l’étape suivante. Signaler tôt et avant de partir laisse le temps de trouver une solution, et rend l’avis final plus juste."
+  },
+  "quiz": {
+    "passingScore": 75,
+    "questions": [
+      {
+        "id": "l-7-2-4-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Vous découvrez une chaise cassée en arrivant. Que faites-vous ?",
+        "choices": [
+          "Rien : on verra au départ",
+          "Vous envoyez un message avec une photo, dans les vingt-quatre heures",
+          "Vous la cachez dans un placard",
+          "Vous mentionnez seulement le problème dans votre avis final"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Signaler rapidement vous protège et laisse à l’hôte la possibilité de réparer. Le mentionner seulement dans l’avis lui enlève toute chance de réagir, et vous laisse exposé à une contestation.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-4-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Si un forfait de ménage est compris, on peut partir en laissant le logement dans n’importe quel état.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux : ce forfait couvre un nettoyage normal, et non la remise en état. Il reste convenu de ranger, de vider le frigo, de sortir les poubelles et de signaler toute casse.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-4-q3",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quel comportement pose le plus problème dans un immeuble ?",
+        "choices": [
+          "Saluer les voisins croisés dans l’escalier",
+          "Porter vos valises dans les couloirs",
+          "Faire la fête à minuit sur le balcon",
+          "Demander où se trouvent les poubelles de tri"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Le bruit nocturne gêne des personnes qui ne sont pas en vacances. Il peut aussi constituer une infraction, et mettre le propriétaire en difficulté vis-à-vis de la copropriété.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-4-q4",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Vous avez cassé un plat de valeur. Quelle formule choisir ?",
+        "choices": [
+          "« Votre plat était déjà fragile. »",
+          "Rien : vous rangez les morceaux au fond d’un placard",
+          "« Nous avons cassé votre plat, et nous en sommes désolés. Voulez-vous qu’on le remplace ? »",
+          "« Vous devriez ne pas laisser d’objets de valeur dans une location comme celle-ci. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Dire les faits et proposer une réparation suffit. Les autres options cherchent à déplacer la responsabilité sur le propriétaire, ou à la dissimuler, ce qui aggrave toujours la situation.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-2-4-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Qu’est-ce qui caractérise un avis en ligne équitable ?",
+        "choices": [
+          "Il rapporte des faits, y compris les problèmes résolus, sans détail personnel",
+          "Il comporte toujours cinq étoiles, par politesse envers la personne qui reçoit",
+          "Il sert à obtenir un remboursement",
+          "Il décrit la personnalité de l’hôte et ses habitudes"
+        ],
+        "correctAnswers": [
+          0
+        ],
+        "explanation": "Un avis utile décrit des faits : logement, conformité à l’annonce, réactivité. Il n’a pas à flatter ni à punir, et on ne l’utilise jamais comme moyen de pression.",
+        "difficulty": 2
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Code pénal, article R623-2",
+      "note": "Bruits ou tapages injurieux ou nocturnes."
+    },
+    {
+      "title": "Code de la santé publique, article R1336-5",
+      "note": "Bruits de voisinage."
+    },
+    {
+      "title": "Code du tourisme",
+      "note": "Encadrement des meublés de tourisme : à vérifier dans sa version en vigueur."
+    },
+    {
+      "title": "Défenseur des droits",
+      "note": "Institution française compétente en matière de discriminations."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "note": "Première rédaction."
+    }
+  ]
+}

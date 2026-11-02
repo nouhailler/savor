@@ -1,0 +1,327 @@
+[
+  {
+    "id": "s-1-1",
+    "domainId": "soi-meme",
+    "level": "beginner",
+    "title": "Un compliment inattendu",
+    "description": "En réunion, votre responsable loue votre travail devant toute l’équipe. Vous êtes gêné.",
+    "context": "Fin de réunion, un mardi. Votre responsable, Nadia, dit devant huit collègues : « Je tiens à souligner le travail remarquable de ce dossier : c’est clair, précis, et cela nous a fait gagner une semaine. » Tous les regards se tournent vers vous.",
+    "characters": [
+      "Nadia, votre responsable",
+      "Huit collègues"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-1-1-a",
+        "narrative": "",
+        "question": "Que répondez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Oh non, ce n’est rien, n’importe qui aurait fait pareil. D’ailleurs il y a encore plein d’erreurs. »",
+            "score": 0,
+            "feedbackTitle": "Une modestie qui embarrasse.",
+            "feedback": "En niant le compliment, vous contredisez Nadia devant tout le monde et vous l’obligez à insister. Vous semez aussi le doute sur votre propre travail, que personne ne mettait en cause."
+          },
+          {
+            "id": "b",
+            "label": "« Merci, Nadia. Cela me fait plaisir. Je dois aussi une bonne part à Marc, pour les chiffres. »",
+            "score": 1,
+            "feedbackTitle": "Recevoir, et partager ce qui doit l’être.",
+            "feedback": "Vous acceptez simplement le compliment, ce qui honore celle qui l’a fait. Citer Marc reconnaît un apport réel, sans transformer cela en dénégation. C’est la juste mesure."
+          },
+          {
+            "id": "c",
+            "label": "« Merci. C’est vrai que personne d’autre n’aurait pu le faire aussi vite. »",
+            "score": 0,
+            "feedbackTitle": "Le compliment devient une supériorité.",
+            "feedback": "Accepter est juste, mais vous en profitez pour vous placer au-dessus de vos collègues, qui sont juste à côté. Le respect de soi n’a pas besoin de comparaison."
+          },
+          {
+            "id": "d",
+            "label": "Vous souriez, vous baissez les yeux, et vous ne dites rien.",
+            "score": 0.5,
+            "feedbackTitle": "Acceptable, mais un mot suffirait.",
+            "feedback": "Le silence n’est pas impoli, surtout si vous êtes timide. Un simple « Merci » vous coûterait peu, et confirmerait à Nadia que son geste a été bien reçu."
+          }
+        ]
+      }
+    ],
+    "rule": "Un compliment se reçoit : ni le nier, ni en faire un trophée. Un « merci » simple, et la reconnaissance de ce que l’on doit aux autres, suffisent.",
+    "nuance": "Dans plusieurs cultures, notamment en Asie orientale, on décline d’abord un compliment par modestie : c’est un usage, non une faute.",
+    "relatedLessonIds": [
+      "l-1-1-1"
+    ],
+    "tags": [
+      "compliment",
+      "modestie",
+      "travail"
+    ]
+  },
+  {
+    "id": "s-1-2",
+    "domainId": "soi-meme",
+    "level": "intermediate",
+    "title": "Une tenue qui ne convient pas",
+    "description": "Vous arrivez à une réception en tenue décontractée. Tout le monde est très habillé.",
+    "context": "Invité à l’anniversaire des cinquante ans d’une collègue, vous pensiez à un barbecue. Vous découvrez un grand jardin, des tables nappées, des invités en tenue de soirée. Vous portez un jean et une chemise.",
+    "characters": [
+      "Céline, qui fête son anniversaire",
+      "Ses invités"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-1-2-a",
+        "narrative": "",
+        "question": "Comment réagissez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous partez discrètement avant que l’on vous voie, et vous envoyez un message d’excuse.",
+            "score": 0,
+            "feedbackTitle": "La fuite coûte plus cher que le jean.",
+            "feedback": "Céline remarquera votre absence bien plus que votre tenue. Vous lui retirez votre présence, qui était ce qu’elle attendait de vous."
+          },
+          {
+            "id": "b",
+            "label": "Vous saluez Céline en disant une fois avec le sourire : « Je me suis trompé de registre, mais je ne voulais surtout pas manquer ça. » Puis vous n’en parlez plus.",
+            "score": 1,
+            "feedbackTitle": "Assumer, une fois, et passer à autre chose.",
+            "feedback": "Une phrase légère reconnaît l’écart, et l’attention revient sur la fête. C’est votre aisance qui mettra les autres à l’aise. Personne ne regardera votre chemise longtemps si vous n’y pensez plus."
+          },
+          {
+            "id": "c",
+            "label": "Vous vous excusez auprès de chaque personne que vous rencontrez.",
+            "score": 0.5,
+            "feedbackTitle": "Bien intentionné, mais pesant.",
+            "feedback": "Le souci est compréhensible, mais à chaque excuse, vous attirez de nouveau les regards sur votre tenue et vous obligez votre interlocuteur à vous rassurer."
+          },
+          {
+            "id": "d",
+            "label": "Vous lancez à la cantonade : « Quelle idée de s’habiller comme ça pour un anniversaire ! »",
+            "score": 0,
+            "feedbackTitle": "Votre gêne devient un reproche.",
+            "feedback": "Pour vous rassurer, vous critiquez le choix des hôtes et de leurs invités. Votre erreur était mineure : celle-ci les met en cause."
+          }
+        ]
+      }
+    ],
+    "rule": "Une erreur de tenue s’assume en une phrase. Ce que retiendront vos hôtes, c’est votre présence et votre aisance.",
+    "nuance": "Pour éviter cette gêne, on peut toujours demander à l’avance : « Quel est le ton de la soirée ? » Cette question n’a rien de ridicule.",
+    "relatedLessonIds": [
+      "l-1-2-1",
+      "l-1-3-5"
+    ],
+    "tags": [
+      "tenue",
+      "réception",
+      "gêne"
+    ]
+  },
+  {
+    "id": "s-1-3",
+    "domainId": "soi-meme",
+    "level": "intermediate",
+    "title": "Trop près",
+    "description": "Un nouveau collègue parle très près de vous et vous touche le bras à chaque phrase.",
+    "context": "Benoît, arrivé depuis une semaine, se montre très sympathique. Mais il se tient à quelques centimètres de vous à la machine à café et pose la main sur votre bras à chaque phrase. Vous reculez : il se rapproche.",
+    "characters": [
+      "Benoît, nouveau collègue"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-1-3-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous supportez sans rien dire : il veut sûrement être aimable.",
+            "score": 0,
+            "feedbackTitle": "L’inconfort s’installera.",
+            "feedback": "Votre limite ne disparaîtra pas : elle ressortira plus tard, peut-être sous forme d’évitement ou de colère. Et Benoît ignore qu’il vous gêne."
+          },
+          {
+            "id": "b",
+            "label": "Vous lui dites devant les autres : « Tu ne peux pas arrêter de me tripoter ? »",
+            "score": 0,
+            "feedbackTitle": "Une limite juste, mal placée.",
+            "feedback": "Vous avez le droit de poser cette limite, mais le ton et le public l’humilient, sans doute pour une maladresse. Le contact n’appelle pas une telle accusation dès la première fois."
+          },
+          {
+            "id": "c",
+            "label": "Vous reculez d’un pas et, à part, vous dites : « Je préfère un peu plus d’espace et qu’on ne me touche pas le bras, ne le prends pas mal. »",
+            "score": 1,
+            "feedbackTitle": "Une limite claire et courtoise.",
+            "feedback": "Vous parlez de vous et de votre préférence, en privé, sans accuser. Benoît peut corriger son comportement sans perdre la face : la plupart des gens le font aussitôt."
+          },
+          {
+            "id": "d",
+            "label": "Vous parlez de lui aux autres collègues, pour qu’ils le lui fassent comprendre.",
+            "score": 0,
+            "feedbackTitle": "Le problème grandit sans se régler.",
+            "feedback": "Benoît n’apprend rien, mais il devient un sujet de conversation. Si le comportement persistait et vous semblait problématique, il faudrait alors en parler à un responsable, et non au groupe."
+          }
+        ]
+      }
+    ],
+    "rule": "La distance et le contact appartiennent à chacun : une limite se pose tôt, à la première personne et de préférence en privé.",
+    "nuance": "Si le contact a une dimension sexuelle, ou continue malgré votre demande, il ne s’agit plus de savoir-vivre : parlez-en à un responsable ou aux représentants du personnel.",
+    "relatedLessonIds": [
+      "l-1-2-3",
+      "l-1-1-1"
+    ],
+    "tags": [
+      "distance",
+      "contact",
+      "limites",
+      "travail"
+    ]
+  },
+  {
+    "id": "s-1-4",
+    "domainId": "soi-meme",
+    "level": "advanced",
+    "title": "Le vin du patron",
+    "description": "Lors d’un dîner, un dirigeant étale sa réussite et humilie gentiment un convive. Comment rester soi-même ?",
+    "context": "Dîner d’entreprise dans un grand restaurant. Votre dirigeant, Philippe, choisit le vin en annonçant son prix, puis, se tournant vers une stagiaire, Lina, lance : « Vous, vous n’avez jamais dû goûter ça, hein ? » Il y a des rires gênés. Lina rougit.",
+    "characters": [
+      "Philippe, dirigeant",
+      "Lina, stagiaire",
+      "Six collègues"
+    ],
+    "estimatedDuration": 5,
+    "steps": [
+      {
+        "id": "s-1-4-a",
+        "narrative": "",
+        "question": "Vous êtes assis à côté de Lina. Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous riez avec les autres, pour ne pas vous faire remarquer.",
+            "score": 0,
+            "nextStepId": "s-1-4-b",
+            "feedbackTitle": "Le rire confirme le geste.",
+            "feedback": "Rire valide la plaisanterie, et laisse Lina seule. La retenue n’impose pas de participer à une humiliation, même légère."
+          },
+          {
+            "id": "b",
+            "label": "Vous vous tournez vers Lina : « Moi non plus, je n’en ai jamais bu. Lina, tu nous parlais de ton mémoire sur les archives ? »",
+            "score": 1,
+            "nextStepId": "s-1-4-c",
+            "feedbackTitle": "Une diversion élégante.",
+            "feedback": "Vous ôtez à Lina le poids de la remarque en vous plaçant du même côté, et vous lui rendez la parole sur ce qu’elle connaît. Personne n’est attaqué, et le dirigeant n’a pas à perdre la face."
+          },
+          {
+            "id": "c",
+            "label": "« Philippe, je trouve ça déplacé. Tout le monde n’a pas vos moyens. »",
+            "score": 0.5,
+            "nextStepId": "s-1-4-d",
+            "feedbackTitle": "Courageux, mais risqué pour elle aussi.",
+            "feedback": "Vous prenez position, et c’est honorable. Mais l’affrontement public oblige Philippe à se défendre, et Lina se retrouve au centre d’un conflit qu’elle n’a pas choisi."
+          }
+        ]
+      },
+      {
+        "id": "s-1-4-b",
+        "narrative": "Le repas continue. Lina se tait et regarde son assiette. Un peu plus tard, Philippe recommence, cette fois sur les chaussures d’un collègue.",
+        "question": "Que faites-vous à présent ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Rien : c’est le patron, ça ne vous regarde pas.",
+            "score": 0,
+            "feedbackTitle": "Le silence s’installe.",
+            "feedback": "Personne ne vous demande d’être un héros, mais votre silence laisse ces remarques devenir la norme. Un mot ultérieur reste possible."
+          },
+          {
+            "id": "b",
+            "label": "Vous changez de sujet en posant une question à Philippe sur le projet en cours, et, le lendemain, vous dites un mot à Lina.",
+            "score": 1,
+            "feedbackTitle": "Il n’est pas trop tard.",
+            "feedback": "Votre question détourne l’attention sans affronter. Et un mot à Lina (« Je n’ai pas aimé ce moment hier, désolé de ne pas avoir réagi ») répare en partie votre premier réflexe."
+          },
+          {
+            "id": "c",
+            "label": "Vous envoyez un message à toute l’équipe pour dénoncer son attitude.",
+            "score": 0,
+            "feedbackTitle": "L’écrit public aggrave tout.",
+            "feedback": "Le message expose tout le monde, y compris Lina, et il vous expose à des conséquences importantes. S’il y a un problème de fond, il existe des interlocuteurs : ressources humaines ou représentants."
+          }
+        ]
+      },
+      {
+        "id": "s-1-4-c",
+        "narrative": "La conversation reprend. Lina vous lance un regard reconnaissant et parle de son mémoire. À la fin du repas, Philippe vous demande : « Vous la connaissez bien, Lina ? Elle est un peu timide, non ? »",
+        "question": "Que répondez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Elle est très compétente. Son travail sur les archives nous fait gagner du temps. Ces dîners sont impressionnants, quand on débute. »",
+            "score": 1,
+            "feedbackTitle": "Vous la valorisez sans faire la leçon.",
+            "feedback": "Vous déplacez la conversation vers ses compétences, et vous suggérez avec tact pourquoi elle pouvait être impressionnée. Philippe peut l’entendre sans être accusé."
+          },
+          {
+            "id": "b",
+            "label": "« Elle n’est pas timide, c’est vous qui êtes lourd. »",
+            "score": 0,
+            "feedbackTitle": "La franchise tourne à l’attaque.",
+            "feedback": "Vous aviez réussi à apaiser la situation. Une attaque personnelle, en fin de soirée, ne laissera que de la rancœur, sans rien changer sur le fond."
+          },
+          {
+            "id": "d",
+            "label": "« Oui, très timide. Il faudrait qu’elle se décoince un peu. »",
+            "score": 0,
+            "feedbackTitle": "Vous reprenez à votre compte le jugement.",
+            "feedback": "Pour plaire au dirigeant, vous abandonnez celle que vous veniez d’aider, et vous confirmez sa remarque."
+          }
+        ]
+      },
+      {
+        "id": "s-1-4-d",
+        "narrative": "Un silence gêné. Philippe répond, piqué : « On ne peut plus plaisanter ? » Lina murmure que ce n’est rien.",
+        "question": "Comment sortez-vous de cette situation ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Si, bien sûr. Je me suis peut-être emporté, mais c’est un sujet qui me tient à cœur. Lina, tu nous parlais de ton mémoire ? »",
+            "score": 1,
+            "feedbackTitle": "Vous laissez une issue à chacun.",
+            "feedback": "Vous ne vous reniez pas, vous offrez à Philippe une sortie honorable et vous rendez sa place à Lina. Vous pourrez reprendre le fond en privé, si vous le jugez utile."
+          },
+          {
+            "id": "b",
+            "label": "Vous insistez, en lui expliquant le mépris de classe devant toute la table.",
+            "score": 0,
+            "feedbackTitle": "Avoir raison n’aide plus personne.",
+            "feedback": "Sur le fond, vous n’avez peut-être pas tort. Mais continuer devant témoins durcit Philippe, et Lina reste au centre de l’attention, malgré elle."
+          },
+          {
+            "id": "c",
+            "label": "Vous présentez de plates excuses à Philippe, et vous riez avec lui.",
+            "score": 0,
+            "feedbackTitle": "Vous abandonnez ce que vous avez dit.",
+            "feedback": "Vous aviez une raison de parler. Le ton pouvait être ajusté, mais renier votre position laisse Lina encore plus seule qu’avant."
+          }
+        ]
+      }
+    ],
+    "rule": "L’élégance ne se confond pas avec la richesse, et elle se mesure à la manière dont on traite ceux qui ont moins de pouvoir. Devant une humiliation, on peut protéger sans humilier à son tour.",
+    "nuance": "Le rapport hiérarchique rend ces réactions difficiles, et personne ne peut vous imposer de prendre un risque pour votre emploi. Un soutien en privé a déjà beaucoup de valeur. Un comportement répété relève du droit du travail, non de la politesse.",
+    "relatedLessonIds": [
+      "l-1-3-5",
+      "l-1-3-3"
+    ],
+    "tags": [
+      "ostentation",
+      "humiliation",
+      "hiérarchie",
+      "travail"
+    ]
+  }
+]

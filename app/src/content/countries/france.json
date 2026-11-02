@@ -1,0 +1,152 @@
+{
+  "id": "c-france",
+  "slug": "france",
+  "name": "France",
+  "region": "Europe occidentale",
+  "languages": [
+    "Français"
+  ],
+  "intro": "Une société où la forme compte : le « bonjour » n’y est jamais facultatif, le débat vif passe pour un signe d’intérêt, et le repas reste un moment important de la vie sociale.",
+  "highlights": [
+    {
+      "label": "Salut",
+      "value": "Bonjour, main ou bise selon le lien"
+    },
+    {
+      "label": "Registre",
+      "value": "« Vous » par défaut"
+    },
+    {
+      "label": "Pourboire",
+      "value": "Service inclus, geste libre"
+    },
+    {
+      "label": "Ponctualité",
+      "value": "À l’heure au travail, léger retard chez des amis"
+    }
+  ],
+  "sections": [
+    {
+      "key": "greetings",
+      "items": [
+        "Un « bonjour » est attendu en entrant dans un commerce, un cabinet médical ou un ascenseur, souvent suivi de « Madame » ou « Monsieur ».",
+        "La poignée de main domine dans le cadre professionnel ; la bise se pratique entre proches, et son nombre varie selon les régions.",
+        "On peut décliner la bise avec simplicité : aucune personne n’est tenue de la faire."
+      ]
+    },
+    {
+      "key": "punctuality",
+      "items": [
+        "Les rendez-vous professionnels se tiennent à l’heure, et l’on prévient en cas de retard.",
+        "Chez des amis, un retard de dix à quinze minutes est courant et laisse à l’hôte le temps de finir ; arriver en avance peut le gêner."
+      ]
+    },
+    {
+      "key": "invitations",
+      "items": [
+        "On répond rapidement, et l’on apporte une petite attention : bouteille, fleurs, chocolats.",
+        "L’apéritif peut durer et le repas s’étendre sur plusieurs heures : prévoyez du temps.",
+        "On remercie le lendemain, d’un message ou d’un appel."
+      ]
+    },
+    {
+      "key": "table",
+      "items": [
+        "Les mains restent visibles, poignets au bord de la table ; le pain se rompt à la main, et se pose souvent sur la nappe.",
+        "On attend que tout le monde soit servi. Parler de cuisine à table est très apprécié.",
+        "Le « repas gastronomique des Français » est inscrit au patrimoine immatériel de l’UNESCO depuis 2010."
+      ]
+    },
+    {
+      "key": "gifts",
+      "items": [
+        "Une attention modeste suffit ; un cadeau trop cher peut gêner.",
+        "Pour les fleurs, les chrysanthèmes sont associés aux cimetières, et le vin apporté ne sera pas forcément servi le soir même."
+      ]
+    },
+    {
+      "key": "dress",
+      "items": [
+        "Une tenue soignée est appréciée dans les grandes villes, sans qu’elle ait à être coûteuse.",
+        "Les codes varient beaucoup selon les secteurs professionnels et les régions."
+      ]
+    },
+    {
+      "key": "verbal",
+      "items": [
+        "Le débat et la contradiction sont souvent perçus comme des marques d’intérêt, et non comme des attaques.",
+        "L’ironie et le second degré sont fréquents, ce qui peut dérouter les visiteurs.",
+        "On parle volontiers de politique ou de culture, moins de salaire ou de patrimoine."
+      ]
+    },
+    {
+      "key": "nonverbal",
+      "items": [
+        "On se tient en général à environ un bras de distance dans une conversation.",
+        "Le sourire n’est pas systématique avec des inconnus : son absence ne signifie pas de l’hostilité."
+      ]
+    },
+    {
+      "key": "sensitive",
+      "items": [
+        "L’argent, les revenus, le prix des biens : sujets évités avec des connaissances.",
+        "La laïcité, la religion, la colonisation et l’immigration peuvent susciter des discussions vives."
+      ]
+    },
+    {
+      "key": "professional",
+      "items": [
+        "Les titres et le vouvoiement restent courants, même si le tutoiement progresse dans certains secteurs.",
+        "Une réunion peut comporter de longues analyses, et une critique directe de vos idées n’est pas forcément une critique de vous.",
+        "Le déjeuner d’affaires reste un moment de relation, et l’on ne parle pas forcément de travail dès l’entrée."
+      ]
+    },
+    {
+      "key": "mistakes",
+      "items": [
+        "Poser sa question dans un commerce sans dire bonjour.",
+        "Prendre une plaisanterie ironique au premier degré.",
+        "Tutoyer d’emblée un inconnu adulte."
+      ]
+    },
+    {
+      "key": "tips",
+      "items": [
+        "Le service est compris dans les prix des restaurants : un pourboire est un geste libre.",
+        "De nombreux commerces de petites villes ferment entre midi et deux heures, et le dimanche.",
+        "Il suffit de quelques mots de français pour que l’accueil change."
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "original": "Bonjour Madame, Monsieur",
+      "meaning": "La formule qui ouvre presque tous les échanges."
+    },
+    {
+      "original": "S’il vous plaît / Merci",
+      "meaning": "Indispensables, même si l’on ne parle pas français."
+    }
+  ],
+  "generalizationNote": "La France n’a pas d’usage unique : les pratiques diffèrent entre Paris et les régions, entre générations et selon les milieux. Le nombre de bises ou le degré de formalité en sont de bons exemples. Ces repères ne décrivent pas tous les Français.",
+  "sources": [
+    {
+      "author": "Dominique Picard",
+      "title": "Politesse, savoir-vivre et relations sociales",
+      "publisher": "PUF, coll. Que sais-je ?",
+      "year": "1998"
+    },
+    {
+      "author": "Erin Meyer",
+      "title": "La Carte des différences culturelles",
+      "publisher": "Diateino",
+      "year": "2016"
+    },
+    {
+      "author": "UNESCO",
+      "title": "Le repas gastronomique des Français",
+      "year": "2010"
+    }
+  ],
+  "lastVerifiedAt": "2026-11-02"
+}

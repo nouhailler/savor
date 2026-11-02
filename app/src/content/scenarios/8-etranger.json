@@ -1,0 +1,333 @@
+[
+  {
+    "id": "s-8-1",
+    "domainId": "etranger",
+    "level": "beginner",
+    "title": "La main qui ne vient pas",
+    "description": "À l’occasion d’une rencontre professionnelle à l’étranger, votre interlocuteur ne prend pas la main que vous lui tendez.",
+    "context": "Lors d’une réunion d’affaires à Amman, on vous présente le directeur de votre partenaire local, puis sa collaboratrice, Madame Haddad. Vous tendez la main à celle-ci. Elle sourit, pose sa main sur son cœur, et incline légèrement la tête. Votre main reste en suspens.",
+    "characters": [
+      "Madame Haddad",
+      "Le directeur",
+      "Vos collègues"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-8-1-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous retirez la main avec naturel, vous posez la vôtre sur le cœur, vous souriez et vous poursuivez.",
+            "score": 1,
+            "feedbackTitle": "Vous vous accordez.",
+            "feedback": "Elle vous a proposé un autre salut, tout aussi respectueux, et vous le lui rendez. Aucune explication n’est nécessaire : l’incident n’existe que si on le crée."
+          },
+          {
+            "id": "b",
+            "label": "Vous gardez la main tendue en attendant qu’elle la prenne.",
+            "score": 0,
+            "feedbackTitle": "Vous forcez un geste.",
+            "feedback": "Elle a clairement indiqué sa préférence. Insister la met dans une position embarrassante, et votre geste se transforme en pression."
+          },
+          {
+            "id": "c",
+            "label": "« Excusez-moi, j’ignorais que vous ne serriez pas la main aux hommes. Vous pouvez m’expliquer pourquoi ? »",
+            "score": 0,
+            "feedbackTitle": "Une curiosité mal placée.",
+            "feedback": "Vous lui demandez de justifier sa conviction devant tout le monde, en contexte professionnel. Elle n’a aucune explication à vous fournir."
+          },
+          {
+            "id": "d",
+            "label": "Vous vous excusez à plusieurs reprises, et vous restez gêné pendant toute la réunion.",
+            "score": 0.5,
+            "feedbackTitle": "Une bonne intention, trop lourde.",
+            "feedback": "Votre souci est louable, mais vos excuses répétées donnent de l’importance à un détail, et l’obligent à vous rassurer."
+          }
+        ]
+      }
+    ],
+    "rule": "Un refus de contact n’est pas une offense : on s’accorde sans commentaire au salut qui vous est proposé.",
+    "nuance": "Pour éviter cet instant, on peut laisser la personne prendre l’initiative. Les usages varient fortement selon les personnes : d’autres femmes jordaniennes vous tendront la main sans hésiter.",
+    "relatedLessonIds": [
+      "l-8-1-2",
+      "l-8-3-4"
+    ],
+    "tags": [
+      "salut",
+      "main",
+      "religion",
+      "contact"
+    ]
+  },
+  {
+    "id": "s-8-2",
+    "domainId": "etranger",
+    "level": "intermediate",
+    "title": "« Ce sera difficile »",
+    "description": "Votre partenaire japonais hésite, et vous ne savez pas s’il vient de dire non.",
+    "context": "Après votre présentation à Tokyo, vous demandez à M. Sato si son entreprise peut livrer en six semaines. Il marque un long silence, inspire entre ses dents, et dit : « Six semaines… Ce sera un peu difficile. » Vos collègues français paraissent optimistes : « Il n’a pas dit non ! »",
+    "characters": [
+      "M. Sato, votre partenaire",
+      "Vos collègues français"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-8-2-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Mais concrètement, c’est oui ou c’est non ? Il nous faut une réponse. »",
+            "score": 0,
+            "feedbackTitle": "Vous forcez un non qu’il voulait vous épargner.",
+            "feedback": "Sa réponse était probablement déjà un non. Vous l’obligez à le dire devant tout le monde, ce qui le met dans l’embarras et abîme la relation."
+          },
+          {
+            "id": "b",
+            "label": "« Je comprends. Quel délai vous paraîtrait réaliste ? Et qu’est-ce qui pourrait vous aider à avancer ? »",
+            "score": 1,
+            "feedbackTitle": "Vous ouvrez une autre porte.",
+            "feedback": "Vous prenez la phrase pour ce qu’elle est probablement, et vous lui permettez de proposer une alternative sans avoir à refuser. C’est aussi ce qui vous donnera une information réelle."
+          },
+          {
+            "id": "c",
+            "label": "Vous notez « accord de principe » et vous annoncez la date à votre direction.",
+            "score": 0,
+            "feedbackTitle": "Un malentendu coûteux.",
+            "feedback": "Vous prenez votre désir pour une réponse. La mauvaise surprise sera pour plus tard, et elle coûtera bien plus cher."
+          },
+          {
+            "id": "d",
+            "label": "Vous ne dites rien sur le moment, et vous demandez plus tard à un collaborateur japonais ce qu’il en a compris.",
+            "score": 1,
+            "feedbackTitle": "Une excellente source.",
+            "feedback": "Passer par un intermédiaire ou un collègue local est très adapté. Il vous aidera à interpréter ce qui a été dit, et vous pourrez revenir vers M. Sato en conséquence."
+          }
+        ]
+      }
+    ],
+    "rule": "Dans une culture à contexte élevé, on écoute aussi ce qui n’est pas dit, et l’on ménage à l’autre une issue plutôt qu’un non explicite.",
+    "nuance": "Cette description est une tendance, qui varie selon les personnes et les générations, et un partenaire habitué aux échanges internationaux peut être beaucoup plus direct.",
+    "relatedLessonIds": [
+      "l-8-2-6",
+      "l-8-3-4"
+    ],
+    "tags": [
+      "Japon",
+      "refus",
+      "négociation",
+      "communication indirecte"
+    ]
+  },
+  {
+    "id": "s-8-3",
+    "domainId": "etranger",
+    "level": "intermediate",
+    "title": "Pourboire à New York",
+    "description": "Vous trouvez que le service n’était pas à la hauteur et vous voulez laisser peu de pourboire.",
+    "context": "Vous dînez à New York avec des amis. L’addition arrive : 120 dollars, sans service inclus. Le serveur a été aimable mais lent, et il s’est trompé de plat. L’un de vos amis français dit : « Chez nous, on ne laisse rien quand le service est moyen. On arrondit. »",
+    "characters": [
+      "Vos amis français",
+      "Le serveur"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-8-3-a",
+        "narrative": "",
+        "question": "Que décidez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous arrondissez à 125 dollars, comme en France : le service n’a pas été excellent.",
+            "score": 0,
+            "feedbackTitle": "Une logique qui ne s’applique pas ici.",
+            "feedback": "Aux États-Unis, le pourboire fait une grande partie de la rémunération des serveurs. Laisser 4 % n’est pas perçu comme une nuance, mais comme une sanction, voire une insulte."
+          },
+          {
+            "id": "b",
+            "label": "Vous laissez autour de 18 à 20 %, et, si le service a vraiment posé problème, vous en parlez poliment au responsable.",
+            "score": 1,
+            "feedbackTitle": "Vous suivez l’usage local.",
+            "feedback": "Vous respectez un usage qui ne relève pas de la générosité, mais du fonctionnement du lieu. Une remarque polie, si elle est utile, sera plus efficace qu’une sanction anonyme."
+          },
+          {
+            "id": "c",
+            "label": "Vous laissez 15 %, en tenant compte du service moyen.",
+            "score": 0.5,
+            "feedbackTitle": "Acceptable.",
+            "feedback": "15 % reste dans une zone admise pour un service moyen, même si les usages tendent vers 18 à 20 % dans les grandes villes. Personne ne se formalisera."
+          },
+          {
+            "id": "d",
+            "label": "Vous discutez de la pertinence du système du pourboire avec le serveur.",
+            "score": 0,
+            "feedbackTitle": "Il n’y est pour rien.",
+            "feedback": "Le débat de société est légitime, mais ce n’est pas au serveur d’en porter le poids. Il dépend de ce système pour vivre."
+          }
+        ]
+      }
+    ],
+    "rule": "À l’étranger, on applique l’usage local plutôt que le sien : le pourboire n’a pas la même fonction partout.",
+    "nuance": "Le Japon est à l’opposé : le pourboire peut y gêner, et l’on peut vous le rendre. Les fiches pays donnent ces repères, à vérifier sur place.",
+    "relatedLessonIds": [
+      "l-8-2-4",
+      "l-4-2-3"
+    ],
+    "tags": [
+      "pourboire",
+      "États-Unis",
+      "restaurant",
+      "usage local"
+    ]
+  },
+  {
+    "id": "s-8-4",
+    "domainId": "etranger",
+    "level": "advanced",
+    "title": "L’invité d’honneur",
+    "description": "En visite dans un village marocain, on vous sert en premier la meilleure part. Vous êtes végétarien, et l’hôte insiste.",
+    "context": "Lors d’un voyage dans le Haut Atlas, une famille berbère que vous avez rencontrée au souk vous invite à déjeuner. La maison est modeste. Après le thé, on apporte un tajine de mouton, et l’hôte, Si Mohamed, choisit le meilleur morceau et le pose devant vous. Vous êtes végétarien depuis quinze ans. Il vous regarde, tout sourire.",
+    "characters": [
+      "Si Mohamed, votre hôte",
+      "Sa famille"
+    ],
+    "estimatedDuration": 5,
+    "steps": [
+      {
+        "id": "s-8-4-a",
+        "narrative": "",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous remerciez chaleureusement, la main sur le cœur : « Quel honneur ! Mais je ne mange pas de viande, pour ma santé. Ces légumes et ce pain sont un festin pour moi. »",
+            "score": 1,
+            "nextStepId": "s-8-4-b",
+            "feedbackTitle": "Reconnaître, puis décliner.",
+            "feedback": "Vous reconnaissez d’abord le geste, qui est l’essentiel. La raison de santé est généralement bien acceptée, sans que votre choix soit présenté comme un jugement."
+          },
+          {
+            "id": "b",
+            "label": "Vous mangez la viande, pour ne pas offenser : ce n’est qu’une fois.",
+            "score": 0.5,
+            "nextStepId": "s-8-4-c",
+            "feedbackTitle": "Un choix respectable, et personnel.",
+            "feedback": "Certains végétariens font cette exception en voyage, et c’est leur liberté. Vous n’y êtes toutefois pas obligé, et l’hospitalité n’impose pas de transgresser vos convictions."
+          },
+          {
+            "id": "c",
+            "label": "« Je ne mange pas d’animaux morts. Je trouve ça cruel. »",
+            "score": 0,
+            "nextStepId": "s-8-4-d",
+            "feedbackTitle": "Votre conviction devient un jugement.",
+            "feedback": "Il vous offre ce qu’il a de meilleur, peut-être un mouton dont sa famille se passe. Vous transformez votre choix en une condamnation de ce qu’il vit."
+          }
+        ]
+      },
+      {
+        "id": "s-8-4-b",
+        "narrative": "Si Mohamed insiste à plusieurs reprises : « Juste un morceau, vous êtes notre invité ! » Sa femme apporte une nouvelle assiette de légumes. On sent que l’on veut vous faire plaisir à tout prix.",
+        "question": "Comment poursuivez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous répétez, en souriant et la main sur le cœur : « Vous êtes trop généreux, je suis comblé », et vous mangez avec appétit les légumes et le pain, en complimentant la personne qui a cuisiné.",
+            "score": 1,
+            "feedbackTitle": "L’appétit vaut un long discours.",
+            "feedback": "Dans bien des cultures, on insiste par politesse, et un refus répété et souriant est compris. Ce que votre hôte veut vérifier, c’est que vous êtes heureux à sa table."
+          },
+          {
+            "id": "b",
+            "label": "Vous finissez par vous agacer : « J’ai dit non ! »",
+            "score": 0,
+            "feedbackTitle": "Un malentendu sur l’insistance.",
+            "feedback": "Cette insistance n’est pas un manque de respect envers votre choix : c’est un rituel d’hospitalité. L’agacement gâcherait tout, y compris vos autres efforts."
+          },
+          {
+            "id": "c",
+            "label": "Vous acceptez une toute petite bouchée, puisqu’il y tient vraiment.",
+            "score": 0.5,
+            "feedbackTitle": "Un compromis personnel.",
+            "feedback": "C’est à vous de voir où se situe votre limite. Il n’y a pas de mauvaise décision, tant que vous restez fidèle à vous-même, et courtois."
+          }
+        ]
+      },
+      {
+        "id": "s-8-4-c",
+        "narrative": "Le repas se poursuit. En partant, vous voulez remercier. Vous remarquez que la famille vit très simplement, et vous avez de l’argent sur vous.",
+        "question": "Comment remercier ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous remerciez chaleureusement, vous prenez leur adresse, et vous envoyez ensuite un présent ou les photographies prises avec leur accord.",
+            "score": 1,
+            "feedbackTitle": "Un lien, et non une transaction.",
+            "feedback": "Vous honorez leur geste sans le transformer en achat. La promesse tenue d’un envoi compte souvent davantage que tout ce qui se donne sur le moment."
+          },
+          {
+            "id": "b",
+            "label": "Vous sortez un billet et vous le tendez à Si Mohamed devant sa famille.",
+            "score": 0,
+            "feedbackTitle": "Un risque d’offense.",
+            "feedback": "Il vous a reçu comme un invité : payer devant les siens transforme cet honneur en service, et peut le blesser. Si une aide vous semble vraiment utile, un présent pour les enfants sera mieux compris."
+          },
+          {
+            "id": "c",
+            "label": "Vous demandez à votre guide, s’il y en a un, ce qui se fait ici.",
+            "score": 1,
+            "feedbackTitle": "Une excellente idée.",
+            "feedback": "Un intermédiaire local connaîtra les usages, et saura comment contribuer sans gêner. Sa réponse peut varier selon le contexte, notamment si la visite était organisée."
+          }
+        ]
+      },
+      {
+        "id": "s-8-4-d",
+        "narrative": "Un silence. Si Mohamed retire doucement la viande et se ferme. Sa femme baisse les yeux. Vous comprenez que vous avez blessé quelqu’un.",
+        "question": "Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Pardonnez-moi, je me suis mal exprimé. Vous m’honorez, et je suis touché de me trouver ici. Ces légumes sont délicieux. » Vous gardez ensuite une attitude reconnaissante, sans revenir sur le sujet.",
+            "score": 1,
+            "feedbackTitle": "Reconnaître sans se renier.",
+            "feedback": "Vous gardez votre choix, tout en excusant la manière. Vos gestes durant le reste du repas compteront plus que vos mots."
+          },
+          {
+            "id": "b",
+            "label": "Vous expliquez plus en détail pourquoi l’élevage pose un problème éthique.",
+            "score": 0,
+            "feedbackTitle": "Vous aggravez la blessure.",
+            "feedback": "Vous êtes chez lui, et il n’a rien demandé. Un sujet de cette nature ne peut pas s’aborder à ce moment, et dans ce rapport."
+          },
+          {
+            "id": "c",
+            "label": "Vous écourtez le repas et vous partez.",
+            "score": 0,
+            "feedbackTitle": "L’offense devient définitive.",
+            "feedback": "Vous n’avez pas réparé, et vous leur laissez le souvenir d’un visiteur qui les a jugés. Quelques mots et un peu de patience auraient pu changer ce souvenir."
+          }
+        ]
+      }
+    ],
+    "rule": "On reconnaît d’abord le geste d’hospitalité, puis on décline ce que l’on ne peut accepter. Une conviction peut être gardée sans être imposée.",
+    "nuance": "Cette scène décrit une situation possible : les usages varient beaucoup entre les villes et les campagnes marocaines, ainsi qu’entre les familles. Prévenir de ses restrictions, dès que l’invitation est lancée, évite souvent cet instant.",
+    "relatedLessonIds": [
+      "l-8-1-4",
+      "l-8-2-5",
+      "l-7-3-4"
+    ],
+    "tags": [
+      "hospitalité",
+      "Maroc",
+      "végétarien",
+      "refus",
+      "argent"
+    ]
+  }
+]

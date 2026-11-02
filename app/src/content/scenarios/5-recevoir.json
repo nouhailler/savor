@@ -1,0 +1,301 @@
+[
+  {
+    "id": "s-5-1",
+    "domainId": "recevoir",
+    "level": "beginner",
+    "title": "Le cadeau qui ne vous plaît pas",
+    "description": "On vous offre un vase que vous trouvez affreux, et la personne vous regarde l’ouvrir.",
+    "context": "Votre tante Geneviève, qui a peu de moyens, vous tend un paquet soigneusement emballé pour votre anniversaire. Vous découvrez un grand vase orange à motifs que vous trouvez très laid. Elle guette votre réaction : « Je l’ai trouvé en pensant à toi. »",
+    "characters": [
+      "Geneviève, votre tante"
+    ],
+    "estimatedDuration": 2,
+    "steps": [
+      {
+        "id": "s-5-1-a",
+        "narrative": "",
+        "question": "Que répondez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Tu n’aurais pas dû… Tu as gardé le ticket, au cas où ? »",
+            "score": 0,
+            "feedbackTitle": "Une déception mal cachée.",
+            "feedback": "La question du ticket lui dit clairement que le présent ne vous plaît pas. Elle n’oubliera pas ce moment, car elle y avait mis de l’attention et de l’argent."
+          },
+          {
+            "id": "b",
+            "label": "« Qu’il est touchant que tu aies pensé à moi, merci ! Et quel emballage soigné. » Vous l’embrassez.",
+            "score": 1,
+            "feedbackTitle": "Remercier ce qui est vrai.",
+            "feedback": "Vous êtes sincèrement touché par l’attention : ce n’est pas un mensonge. Vous remerciez le geste, qui est le véritable cadeau, sans vous prononcer sur l’objet."
+          },
+          {
+            "id": "c",
+            "label": "« Quel vase magnifique, c’est exactement ce que je voulais, il ira dans le salon ! »",
+            "score": 0.5,
+            "feedbackTitle": "Chaleureux, mais vous vous engagez.",
+            "feedback": "L’intention est bonne, et personne ne vous en voudra. Mais elle s’attendra peut-être à le voir à chaque visite, et vous risquez d’en recevoir d’autres !"
+          },
+          {
+            "id": "d",
+            "label": "« C’est gentil, mais ce n’est pas trop mon style, tu sais. »",
+            "score": 0,
+            "feedbackTitle": "Une franchise que rien n’appelait.",
+            "feedback": "Elle ne vous a pas demandé votre avis. Le cadeau est un geste de lien, et votre honnêteté n’apporte rien à personne ici, sinon de la peine."
+          }
+        ]
+      }
+    ],
+    "rule": "On remercie l’attention avant l’objet : ce n’est pas mentir que de choisir ce que l’on dit.",
+    "nuance": "Vous pouvez en disposer plus tard comme vous l’entendez, mais avec discrétion : on évite de le revendre sur une plateforme locale ou de l’offrir à quelqu’un du même cercle.",
+    "relatedLessonIds": [
+      "l-5-1-8",
+      "l-5-2-9"
+    ],
+    "tags": [
+      "cadeau",
+      "remerciement",
+      "tact"
+    ]
+  },
+  {
+    "id": "s-5-2",
+    "domainId": "recevoir",
+    "level": "intermediate",
+    "title": "Un convive critique votre repas",
+    "description": "Devant toute la table, un invité commente négativement votre cuisine.",
+    "context": "Vous avez passé l’après-midi à cuisiner pour six amis. Au plat principal, Serge, un collègue de votre conjoint, goûte, pose sa fourchette et lance à voix haute : « C’est un peu trop salé, non ? Moi, je le ferais avec moins de crème. » Les autres se taisent.",
+    "characters": [
+      "Serge, un invité",
+      "Cinq autres convives",
+      "Votre conjoint"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-5-2-a",
+        "narrative": "",
+        "question": "Comment répondez-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Eh bien, la prochaine fois, c’est toi qui cuisineras, puisque tu sais mieux. »",
+            "score": 0,
+            "feedbackTitle": "Vous répondez à une maladresse par une attaque.",
+            "feedback": "Votre agacement est compréhensible, mais la table se fige. L’hôte est celui qui peut, précisément, ne pas envenimer la situation."
+          },
+          {
+            "id": "b",
+            "label": "Avec légèreté : « Ah, c’est vrai que je ne me suis pas retenu sur le sel ! Le pain est là pour ça. Dis-nous plutôt, Lucie, comment s’est passé ton déménagement ? »",
+            "score": 1,
+            "feedbackTitle": "Vous gardez la main sur la soirée.",
+            "feedback": "Une réponse légère, sans vous excuser à outrance, et un changement de sujet. Vous n’avez pas à vous justifier, et les autres convives peuvent respirer."
+          },
+          {
+            "id": "c",
+            "label": "Vous vous excusez à plusieurs reprises, et vous proposez de refaire quelque chose.",
+            "score": 0,
+            "feedbackTitle": "Vous mettez tout le monde mal à l’aise.",
+            "feedback": "Une telle réaction fait porter la gêne sur toute la table, et donne à la remarque d’un seul convive une importance qu’elle n’a pas."
+          },
+          {
+            "id": "d",
+            "label": "Vous ne répondez pas et vous partez en cuisine pendant dix minutes.",
+            "score": 0.5,
+            "feedbackTitle": "Un temps pour se calmer, mais trop long.",
+            "feedback": "Prendre l’air peut éviter une réplique que vous regretteriez, mais une absence aussi longue laisse la tablée sans hôte. Quelques instants suffisent."
+          }
+        ]
+      }
+    ],
+    "rule": "On ne commente pas défavorablement ce que l’on vous sert. Si un convive le fait, l’hôte ne répond ni par une attaque ni par une excuse : il passe à autre chose.",
+    "nuance": "Si votre conjoint connaît Serge, il peut lui dire un mot plus tard. Et si un plat est réellement raté, le dire soi-même avec humour désamorce toute critique.",
+    "relatedLessonIds": [
+      "l-5-3-5",
+      "l-5-1-7"
+    ],
+    "tags": [
+      "critique",
+      "repas",
+      "convive",
+      "hôte"
+    ]
+  },
+  {
+    "id": "s-5-3",
+    "domainId": "recevoir",
+    "level": "intermediate",
+    "title": "Un week-end trop long",
+    "description": "Vos amis vous reçoivent pour le week-end, et vous avez des habitudes très différentes des leurs.",
+    "context": "Vous êtes invités du vendredi au dimanche chez un couple d’amis à la campagne. Le samedi matin, à 7 h, leurs enfants font déjà du bruit. Vous dormez d’habitude jusqu’à 10 h. Le programme prévoit une longue randonnée, et vous avez une douleur au genou.",
+    "characters": [
+      "Vos amis et leurs deux enfants"
+    ],
+    "estimatedDuration": 3,
+    "steps": [
+      {
+        "id": "s-5-3-a",
+        "narrative": "",
+        "question": "Comment gérez-vous la journée ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous descendez à 10 h, sans explication, puis vous dites que vous n’avez pas envie de marcher.",
+            "score": 0,
+            "feedbackTitle": "Vous traitez la maison comme un hôtel.",
+            "feedback": "Vos hôtes ont organisé leur journée autour de vous. Sans explication, votre absence ressemble à de l’indifférence."
+          },
+          {
+            "id": "b",
+            "label": "Vous vous levez pour le petit-déjeuner, vous proposez de l’aide, et vous dites : « Mon genou me joue des tours : je vous rejoindrai à mi-parcours, ou je prépare le dîner, si cela vous aide. »",
+            "score": 1,
+            "feedbackTitle": "S’accorder sans se forcer.",
+            "feedback": "Vous respectez le rythme de la maison sans vous mettre en danger, vous êtes clair sur vos limites, et vous proposez une contribution. Un bon invité participe à sa façon."
+          },
+          {
+            "id": "c",
+            "label": "Vous partez en randonnée malgré la douleur, sans rien dire, et vous boitez tout le dimanche.",
+            "score": 0.5,
+            "feedbackTitle": "Courtois, mais contre-productif.",
+            "feedback": "Vous ne vouliez pas déranger, mais votre santé compte aussi, et vos hôtes seraient désolés de l’apprendre. Une limite exprimée à temps n’a rien d’impoli."
+          },
+          {
+            "id": "d",
+            "label": "Vous annoncez à vos amis que leurs enfants vous ont réveillé trop tôt.",
+            "score": 0,
+            "feedbackTitle": "Une critique que rien ne répare.",
+            "feedback": "Vous ne pouvez rien y changer, et la remarque les met mal à l’aise. Si vous êtes sensible au bruit, des bouchons d’oreille régleront le problème."
+          }
+        ]
+      }
+    ],
+    "rule": "Être reçu, c’est s’accorder au rythme de la maison et participer à la vie commune, tout en restant clair sur ses limites réelles.",
+    "nuance": "Vos hôtes doivent aussi préserver votre liberté : un bon programme comporte des temps libres, et un bon hôte n’insiste pas.",
+    "relatedLessonIds": [
+      "l-5-2-8",
+      "l-5-2-7"
+    ],
+    "tags": [
+      "week-end",
+      "invité",
+      "rythme",
+      "limites"
+    ]
+  },
+  {
+    "id": "s-5-4",
+    "domainId": "recevoir",
+    "level": "advanced",
+    "title": "Le dîner qui bascule",
+    "description": "Un invité arrive en retard, avec une personne non prévue. Un autre semble ne pas pouvoir manger le plat. La soirée se complique.",
+    "context": "Vous recevez huit personnes pour un dîner soigné. Il est 20 h 40 et le rôti attend depuis vingt minutes. Marc, en retard, n’a pas prévenu. On sonne : c’est bien lui, accompagné d’une femme que vous ne connaissez pas. « Je vous présente Ana, ma nouvelle amie. Ça ne pose pas de problème ? »",
+    "characters": [
+      "Marc, un ami",
+      "Ana, son amie",
+      "Sept convives déjà à table"
+    ],
+    "estimatedDuration": 6,
+    "steps": [
+      {
+        "id": "s-5-4-a",
+        "narrative": "",
+        "question": "Que faites-vous sur le pas de la porte ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Bonsoir Ana, bienvenue ! Entrez vite, nous venons de passer à table : je vous ajoute un couvert. »",
+            "score": 1,
+            "nextStepId": "s-5-4-b",
+            "feedbackTitle": "Ana n’a rien fait.",
+            "feedback": "C’est Marc qui a manqué de tact, et non Ana. Vous l’accueillez comme une invitée, et vous garderez vos remarques éventuelles pour plus tard."
+          },
+          {
+            "id": "b",
+            "label": "« Tu aurais pu prévenir, je n’ai rien prévu pour elle. Vous allez devoir vous arranger. »",
+            "score": 0,
+            "nextStepId": "s-5-4-c",
+            "feedbackTitle": "La remarque tombe sur la mauvaise personne.",
+            "feedback": "Votre agacement envers Marc est légitime, mais il est dit devant Ana, qui se sent de trop dès la première minute."
+          },
+          {
+            "id": "c",
+            "label": "Vous les faites entrer sans dire un mot, en jetant un regard noir à Marc.",
+            "score": 0.5,
+            "feedbackTitle": "Accueil sans chaleur.",
+            "nextStepId": "s-5-4-b",
+            "feedback": "Vous évitez les paroles blessantes, mais votre visage est lisible. Vos autres convives le remarquent, et Ana le sentira."
+          }
+        ]
+      },
+      {
+        "id": "s-5-4-b",
+        "narrative": "Tout le monde est installé. Vous servez le rôti de porc. Ana regarde son assiette, gênée, puis murmure : « Excusez-moi, je ne mange pas de porc. » Un convive lance : « Oh, une petite tranche, ça ne va pas vous tuer ! »",
+        "question": "Que faites-vous ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "Vous ne dites rien au convive et vous laissez Ana se débrouiller avec les légumes.",
+            "score": 0.5,
+            "feedbackTitle": "Vous laissez passer l’essentiel.",
+            "feedback": "Les légumes la nourriront, mais elle reste seule face à la remarque. Votre silence laisse penser que vous l’approuvez."
+          },
+          {
+            "id": "b",
+            "label": "« C’est moi qui n’ai pas posé la question : je vous prépare une belle omelette et des légumes, cela prend cinq minutes. » Puis, au convive : « Chacun mange ce qu’il veut chez moi. » Vous changez de sujet.",
+            "score": 1,
+            "feedbackTitle": "Vous protégez et vous résolvez.",
+            "feedback": "Vous prenez la responsabilité, vous proposez une solution sans questions sur ses raisons, et vous fermez la remarque. Ana n’a pas à se justifier devant tous."
+          },
+          {
+            "id": "c",
+            "label": "« Ah bon ? C’est pour des raisons religieuses, ou de santé ? »",
+            "score": 0,
+            "feedbackTitle": "Une question de trop.",
+            "feedback": "Elle n’a pas à expliquer ses choix devant une table d’inconnus. La question l’expose, sans rien résoudre."
+          }
+        ]
+      },
+      {
+        "id": "s-5-4-c",
+        "narrative": "Ana se fige : « Je peux partir, si ça dérange. » Marc se défend à voix haute. Les convives dans la salle à manger se sont tus, et vous entendent.",
+        "question": "Comment reprenez-vous la main ?",
+        "choices": [
+          {
+            "id": "a",
+            "label": "« Non, pardon Ana, je me suis mal exprimé : vous êtes la bienvenue. Marc et moi réglerons notre affaire plus tard. Venez, je vous présente tout le monde. »",
+            "score": 1,
+            "feedbackTitle": "Se reprendre, et distinguer les personnes.",
+            "feedback": "Votre excuse s’adresse à la bonne personne, et vous remettez à plus tard votre explication avec Marc. Ana peut encore passer une bonne soirée."
+          },
+          {
+            "id": "b",
+            "label": "« Comme vous voulez. »",
+            "score": 0,
+            "feedbackTitle": "Vous la mettez à la porte sans le dire.",
+            "feedback": "Ana n’y est pour rien, et vous transformez une maladresse de Marc en affront à une inconnue, et en malaise pour tous."
+          },
+          {
+            "id": "c",
+            "label": "Vous entamez votre explication avec Marc sur le palier, en laissant Ana attendre.",
+            "score": 0,
+            "feedbackTitle": "La conversation peut attendre.",
+            "feedback": "Elle n’a pas sa place ici. Ana est sur le pas de votre porte, et vos invités attendent à table."
+          }
+        ]
+      }
+    ],
+    "rule": "Le soir même, l’hôte accueille, protège et résout : il règle ses comptes plus tard et en privé, si cela reste nécessaire.",
+    "nuance": "Un bon réflexe, qui évite bien des situations : demander au moment de l’invitation s’il y a des allergies ou des régimes, et préciser le nombre de convives.",
+    "relatedLessonIds": [
+      "l-5-3-5",
+      "l-5-3-6"
+    ],
+    "tags": [
+      "invité imprévu",
+      "retard",
+      "régime",
+      "hôte"
+    ]
+  }
+]
