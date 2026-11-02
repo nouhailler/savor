@@ -85,6 +85,8 @@ export default defineConfig({
     globals: true,
     setupFiles: ['./src/tests/setup.ts'],
     include: ['src/**/*.test.{ts,tsx}'],
-    testTimeout: 20000
+    testTimeout: 20000,
+    // Le cache de modules garde la liste de import.meta.glob : une leçon ajoutée échapperait au contrôle de contenu.
+    fsModuleCache: false
   }
 });
