@@ -2,8 +2,8 @@
 // L'application ne lit pas la position de l'appareil : pas de section « Précision de la localisation ».
 // Pas d'âge minimum ni de politique de confidentialité distincte à ce stade : à décider par l'éditeur.
 export const LEGAL_NOTICE_VERSION = '1.1';
-// Mode non strict : monter la version ne redemande pas l'acceptation. Mettre à true le jour où un changement le mérite.
-export const LEGAL_REPROMPT_ON_VERSION_CHANGE = false;
+// La version 1.1 ajoute la clause de non-responsabilité de l'éditeur : elle est présentée à ceux qui avaient accepté la précédente.
+export const LEGAL_REPROMPT_ON_VERSION_CHANGE = true;
 
 export const legalNotice = {
   title: 'Information importante',

@@ -49,6 +49,29 @@ test('premier lancement : accueil par étapes, acceptation obligatoire, mémoris
   await expect(page.getByRole('dialog')).toBeVisible();
 });
 
+test('un avertissement modifié est présenté à ceux qui avaient accepté le précédent, et l’accueil peut être revu', async ({ page }) => {
+  await accept(page);
+  await page.waitForTimeout(400);
+  await page.evaluate(() => new Promise<void>((done) => {
+    const open = indexedDB.open('savoir-vivre');
+    open.onsuccess = () => {
+      const store = open.result.transaction('documents', 'readwrite').objectStore('documents');
+      const get = store.get('user');
+      get.onsuccess = () => { store.put({ ...get.result, legalNoticeVersion: '1.0' }, 'user').onsuccess = () => { open.result.close(); done(); }; };
+    };
+  }));
+  await page.reload();
+  await expect(page.getByText('L’éditeur de l’application n’est pas responsable des données')).toBeVisible();
+  await expect(page.getByRole('button', { name: 'J’ai compris' })).toBeDisabled();
+  await page.getByRole('checkbox').check();
+  await page.getByRole('button', { name: 'J’ai compris' }).click();
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await page.goto('/#/systeme');
+  await page.getByRole('button', { name: 'Revoir l’accueil' }).click();
+  await expect(page.getByRole('heading', { name: 'Bienvenue dans L’Art du Savoir-Vivre' })).toBeVisible();
+  await finishOnboarding(page);
+});
+
 test('menu hamburger : catégories, navigation, fermeture au clavier et au retour', async ({ page }) => {
   await accept(page);
   const open = page.getByRole('button', { name: 'Ouvrir le menu' });
@@ -341,6 +364,19 @@ test.describe('mises à jour', () => {
     await page.waitForFunction(() => !(window as unknown as { avant?: boolean }).avant, undefined, { timeout: 20000 });
     await expect(page.getByRole('heading', { name: 'Paramètres système' })).toBeVisible();
     await expect(page.getByText('Une nouvelle version est prête', { exact: false })).toHaveCount(0);
+  });
+
+  test('une version déjà téléchargée s’installe d’elle-même à la réouverture', async ({ page }) => {
+    await open(page);
+    await page.goto(`${origin}/#/systeme`);
+    release = '\n// nouvelle version';
+    await page.getByRole('button', { name: 'Vérifier les mises à jour' }).click();
+    await expect(page.getByText('Une nouvelle version est prête', { exact: false }).first()).toBeVisible({ timeout: 20000 });
+    await page.reload();
+    await expect(page.getByRole('heading', { name: 'Paramètres système' })).toBeVisible();
+    // La nouvelle version s'active sans clic : plus rien n'attend, et le bandeau disparaît.
+    await expect.poll(() => page.evaluate(async () => !(await navigator.serviceWorker.getRegistration())?.waiting), { timeout: 20000 }).toBe(true);
+    await expect(page.getByText('Une nouvelle version est prête', { exact: false })).toHaveCount(0, { timeout: 20000 });
   });
 
   test('une nouvelle version n’interrompt pas un quiz en cours', async ({ page }) => {

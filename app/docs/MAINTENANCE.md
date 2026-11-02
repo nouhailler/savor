@@ -39,7 +39,7 @@ Un champ nouveau reçoit une valeur par défaut dans `emptyUserData` et `sanitiz
 
 ## Modifier les mentions légales
 
-Le texte unique est `src/app/legal.ts`, rendu par la modale et par la page. `LEGAL_NOTICE_VERSION` y est enregistrée. Monter la version ne redemande pas l'acceptation : voyez le commentaire dans ce fichier pour le faire le jour où un changement le justifie. Pour rejouer le premier lancement : Paramètres, « Tout effacer ». Les étapes de présentation sont dans `src/app/LegalNotice.tsx`.
+Le texte unique est `src/app/legal.ts`, rendu par la modale et par la page. `LEGAL_NOTICE_VERSION` y est enregistrée. Monter la version redemande l'acceptation à tous, directement à l'étape de l'avertissement : ne le faites que pour un changement qui le justifie, sinon passez `LEGAL_REPROMPT_ON_VERSION_CHANGE` à `false`. Pour rejouer le premier lancement : Paramètres, « Tout effacer ». Les étapes de présentation sont dans `src/app/LegalNotice.tsx`.
 
 ## Publier une version
 

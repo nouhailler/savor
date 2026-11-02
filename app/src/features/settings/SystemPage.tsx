@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { ArrowsClockwise, Lightning } from '@phosphor-icons/react';
 import { usePageTitle, useToast } from '../../components/ui';
+import { useUser } from '../../storage/UserContext';
 import { InstallButton } from '../../components/InstallButton';
 import { checkForUpdates, forceUpdate, useUpdateState, type UpdatePhase } from '../../services/updates';
 import { isAutoUpdateEnabled, setAutoUpdateEnabled } from '../../utils/updatePrefs';
@@ -24,6 +25,7 @@ export default function SystemPage() {
   usePageTitle('Paramètres système');
   const { phase, lastCheck } = useUpdateState();
   const toast = useToast();
+  const { acknowledgeLegal } = useUser();
   const [auto, setAuto] = useState(isAutoUpdateEnabled);
   const [online, setOnline] = useState(navigator.onLine);
   const busy = phase === 'checking' || phase === 'applying';
@@ -91,6 +93,10 @@ export default function SystemPage() {
           <div className="setting-row">
             <div className="setting-label"><strong>Installer l’application</strong><span>Une icône sur votre écran d’accueil ou votre bureau, et un accès sans connexion.</span></div>
             <InstallButton />
+          </div>
+          <div className="setting-row">
+            <div className="setting-label"><strong>Accueil et avertissement</strong><span>Revoir la présentation de l’application et l’avertissement du premier lancement.</span></div>
+            <button type="button" className="btn btn-secondary" onClick={() => acknowledgeLegal('')}>Revoir l’accueil</button>
           </div>
         </div>
       </section>

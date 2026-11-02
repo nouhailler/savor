@@ -70,6 +70,15 @@ export function FirstLaunchNotice() {
   const current = STEPS[step];
   const onLegal = current === 'legal';
 
+  // Une personne qui a déjà accepté une version précédente va droit au nouveau texte.
+  useEffect(() => {
+    if (!open) return;
+    setStep(seen ? STEPS.length - 1 : 0);
+    setDetails(false);
+    setAccepted(false);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [open]);
+
   useEffect(() => {
     if (!open) return;
     if (onLegal && !details && !accepted) checkbox.current?.focus();

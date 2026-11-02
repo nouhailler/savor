@@ -65,7 +65,7 @@ Le service worker précache tous les fichiers générés (environ 3,1 Mo, dont t
 
 - **Vérification** : à chaque ouverture, puis toutes les heures, au retour de la connexion et au retour sur l'application si la dernière a plus d'une heure. Une application web ne peut vérifier que lorsqu'elle est ouverte.
 - **Téléchargement** : par le navigateur, en arrière-plan ; la nouvelle version attend ensuite d'être activée.
-- **Installation automatique** : quand la page passe en arrière-plan, ou juste après l'ouverture si rien n'a encore été touché. Elle suit alors un rechargement, jamais sur un quiz, une évaluation ou une situation, dont les réponses en cours seraient perdues. Si plusieurs onglets sont ouverts, ils se rechargent tous, y compris un onglet en plein quiz.
+- **Installation automatique** : quand la page passe en arrière-plan, ou juste après l'ouverture si rien n'a encore été touché (ce second cas n'est pas confirmé après un simple rechargement, voir le rapport des tests). Elle suit alors un rechargement, jamais sur un quiz, une évaluation ou une situation, dont les réponses en cours seraient perdues. Si plusieurs onglets sont ouverts, ils se rechargent tous, y compris un onglet en plein quiz.
 - **Désactivation** : un interrupteur dans `/systeme`. La nouvelle version reste alors annoncée par le bandeau.
 - **Forcer** : efface les caches et le service worker, puis recharge. Le serveur est d'abord interrogé : sans réponse, rien n'est modifié.
 

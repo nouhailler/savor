@@ -3,8 +3,8 @@ import { spawn } from 'node:child_process';
 import { chromium, devices } from '@playwright/test';
 
 const out = new URL('../docs/screenshots/', import.meta.url).pathname;
-const base = 'http://localhost:4175';
-const server = spawn('npx', ['vite', 'preview', '--port', '4175', '--strictPort'], { stdio: 'ignore', detached: true });
+const base = 'http://localhost:4192';
+const server = spawn('npx', ['vite', 'preview', '--port', '4192', '--strictPort'], { stdio: 'ignore', detached: true });
 await new Promise((r) => setTimeout(r, 2500));
 
 async function enter(page) {

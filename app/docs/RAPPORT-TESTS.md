@@ -10,7 +10,7 @@ Dernière exécution : 2 novembre 2026, sur 86 leçons. Environnement : Linux, N
 | Lint | `npm run lint` | Aucune erreur |
 | Tests unitaires et contenu | `npm test` | **550 réussis sur 550** (7 fichiers) |
 | Build de production | `npm run build` | Réussi, 152 fichiers en précache, 3,1 Mo |
-| Parcours navigateur | `npm run test:e2e` | **108 réussis sur 108** (54 scénarios, bureau et mobile émulé) |
+| Parcours navigateur | `npm run test:e2e` | **110 réussis sur 112** (56 scénarios, bureau et mobile émulé) ; 1 scénario échoue, voir plus bas |
 | Mêmes parcours sous Wrangler, avec les vrais en-têtes | `E2E_BASE_URL=… npx playwright test --project=desktop` | **54 réussis sur 54** |
 | Dépendances de production | `npm audit --omit=dev` | **0 vulnérabilité** |
 | Toutes dépendances | `npm audit` | 19 vulnérabilités, outils de développement seulement (voir plus bas) |
@@ -41,6 +41,8 @@ Il n'y a pas d'intégration continue : ces résultats ne se rejouent que par les
 | Menu : catégories, focus, Échap, bouton retour, navigation sans réouverture | Playwright | Réussi |
 | Installation : invite simulée du navigateur, explications sinon | Playwright, Vitest | Réussi |
 | Mises à jour, sur un serveur publiant une nouvelle version : vérification, détection, installation en quittant | Playwright | Réussi |
+| Version déjà téléchargée installée seule après un rechargement | Playwright | **Échoue** : la nouvelle version reste en attente. Cause non établie, à analyser hors Playwright |
+| Avertissement modifié présenté à nouveau ; accueil consultable depuis `/systeme` | Playwright | Réussi |
 | Une nouvelle version n'interrompt pas un quiz | Playwright | Réussi |
 | Forcer la mise à jour : progression conservée ; refus sans réseau | Playwright | Réussi |
 
