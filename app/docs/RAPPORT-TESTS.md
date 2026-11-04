@@ -8,10 +8,10 @@ Dernière exécution : 4 novembre 2026, sur 158 leçons. Environnement : Linux, 
 |---|---|---|
 | TypeScript | `npm run typecheck` | Aucune erreur |
 | Lint | `npm run lint` | Aucune erreur |
-| Tests unitaires et contenu | `npm test` | **982 réussis sur 982** (7 fichiers) |
-| Build de production | `npm run build` | Réussi, 224 fichiers en précache, 5 Mo |
-| Parcours navigateur | `npm run test:e2e` | **110 réussis sur 112** (56 scénarios, bureau et mobile émulé) ; 1 scénario échoue, voir plus bas |
-| Mêmes parcours sous Wrangler, avec les vrais en-têtes | `E2E_BASE_URL=… npx playwright test --project=desktop` | **54 réussis sur 54**, à 86 leçons : non relancé depuis |
+| Tests unitaires et contenu | `npm test` | **988 réussis sur 988** (8 fichiers) |
+| Build de production | `npm run build` | Réussi, 237 fichiers en précache, 5,4 Mo |
+| Parcours navigateur | `npm run test:e2e` | **126 réussis sur 128** (64 scénarios, bureau et mobile émulé) ; 1 scénario échoue, voir plus bas |
+| Mêmes parcours sous Wrangler, avec les vrais en-têtes | `E2E_BASE_URL=… npx playwright test --project=desktop` | **63 réussis sur 64** ; le même scénario échoue |
 | Dépendances de production | `npm audit --omit=dev` | **0 vulnérabilité** |
 | Toutes dépendances | `npm audit` | 19 vulnérabilités, outils de développement seulement (voir plus bas) |
 
@@ -41,7 +41,9 @@ Il n'y a pas d'intégration continue : ces résultats ne se rejouent que par les
 | Menu : catégories, focus, Échap, bouton retour, navigation sans réouverture | Playwright | Réussi |
 | Installation : invite simulée du navigateur, explications sinon | Playwright, Vitest | Réussi |
 | Mises à jour, sur un serveur publiant une nouvelle version : vérification, détection, installation en quittant | Playwright | Réussi |
-| Version déjà téléchargée installée seule après un rechargement | Playwright | **Échoue** : la nouvelle version reste en attente. Cause non établie, à analyser hors Playwright |
+| Version déjà téléchargée installée seule après un rechargement | Playwright | **Échoue** : la nouvelle version reste en attente. Le blocage se reproduit aussi dans un Chromium sans outil de débogage, avec un script d’essai qui envoyait des requêtes. Cause non établie |
+| Page de présentation : console, débordement, axe, clavier, liens vers l’application, manifeste, service worker, hors ligne | Playwright, deux formats et sous Wrangler | Réussi |
+| Page de présentation : chiffres, domaines, situations et statuts comparés au contenu réel | Vitest | Réussi |
 | Avertissement modifié présenté à nouveau ; accueil consultable depuis `/systeme` | Playwright | Réussi |
 | Une nouvelle version n'interrompt pas un quiz | Playwright | Réussi |
 | Forcer la mise à jour : progression conservée ; refus sans réseau | Playwright | Réussi |

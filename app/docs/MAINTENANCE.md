@@ -69,6 +69,8 @@ npm run deploy
 
 Le fichier `.node-version` impose Node 22 au build. Si le nom du Worker créé dans le tableau de bord diffère de `savoir-vivre`, alignez `name` dans `wrangler.jsonc`.
 
+**Cloudflare Pages** : le projet en ligne se construit avec ces réglages : racine `app`, commande `npm run build`, sortie `dist`, sans commande de déploiement. Une racine vide provoque l'erreur `Could not read package.json`.
+
 **Ne changez pas d'adresse à la légère** : le service worker, l'installation et la progression sont liés à l'adresse. Une progression enregistrée sur `workers.dev` ne suit pas vers un domaine personnalisé, sauf par export et import. Choisissez donc le domaine définitif avant d'annoncer l'application.
 
 **Cache et en-têtes** : `public/_headers`. Les fichiers de `/assets/` portent une empreinte et restent en cache un an. `sw.js`, `index.html` et le manifeste ne doivent jamais rester en cache, sinon les mises à jour ne seraient plus détectées. Après un changement de la CSP, vérifiez sous Wrangler :

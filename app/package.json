@@ -17,6 +17,7 @@
     "content:typo": "node scripts/typo.mjs",
     "icons": "node scripts/icons.mjs",
     "screenshots": "node scripts/screenshots.mjs",
+    "landing:assets": "node scripts/landing-assets.mjs",
     "deploy": "npm run build && npx wrangler deploy"
   },
   "dependencies": {

@@ -70,9 +70,12 @@ export default defineConfig({
         ]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,woff2}'],
+        // La page de présentation (public/decouvrir/) est précachée avec ses captures, mais pas son image de partage.
+        globPatterns: ['**/*.{js,css,html,svg,png,woff2}', 'decouvrir/img/*.jpg'],
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
         navigateFallback: 'index.html',
+        // /decouvrir sans barre finale doit atteindre le serveur, pas l'application.
+        navigateFallbackDenylist: [/^\/decouvrir/],
         cleanupOutdatedCaches: true
       },
       devOptions: { enabled: false }

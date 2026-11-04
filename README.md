@@ -68,6 +68,10 @@ Pour essayer la version de production, avec le mode hors ligne et les mises à j
 npm run build && npm run preview
 ```
 
+## 🪧 Page de présentation
+
+Une page statique, sans JavaScript, présente Savor à l’adresse `/decouvrir/` et renvoie vers l’application. Son rôle, ses commandes et ses limites sont décrits dans [LANDING.md](app/docs/LANDING.md).
+
 ## ☁️ Déploiement sur Cloudflare
 
 Tout est prêt dans `app/` : `wrangler.jsonc`, `.node-version` et `public/_headers` (cache et en-têtes de sécurité).

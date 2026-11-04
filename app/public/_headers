@@ -16,6 +16,10 @@
   Cache-Control: no-cache
 /
   Cache-Control: no-cache
+/decouvrir/
+  Cache-Control: no-cache
+/decouvrir/index.html
+  Cache-Control: no-cache
 /sw.js
   Cache-Control: no-cache
 /registerSW.js
