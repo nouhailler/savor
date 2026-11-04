@@ -10,10 +10,10 @@ Légende : **Fait** = fonctionne et est couvert par un test automatique ou un co
 |---|---|---|---|
 | ACC-001 | Huit domaines | Fait | Test de catalogue, parcours navigateur |
 | ACC-002 | Trois niveaux | Fait | Test de catalogue : 3 leçons minimum par niveau et domaine |
-| ACC-003 | Catalogue | Fait | 158 leçons classées, 86 rédigées, filtres et bibliothèque |
-| ACC-004 | Contenus | Fait, à relire | 86 leçons structurées selon l'annexe B ; statut `draft` tant qu'aucune personne ne les a relues |
+| ACC-003 | Catalogue | Fait | 158 leçons classées et rédigées, filtres et bibliothèque |
+| ACC-004 | Contenus | Fait, à relire | 158 leçons structurées selon l'annexe B ; statut `draft` tant qu'aucune personne ne les a relues |
 | ACC-005 | Fiches pratiques | Fait | 40 fiches, recherche et consultation |
-| ACC-006 | Quiz | Fait | 86 quiz, 430 questions, correction expliquée, crédit partiel |
+| ACC-006 | Quiz | Fait | 158 quiz, 790 questions, correction expliquée, crédit partiel |
 | ACC-007 | Scénarios | Fait | 32 situations ramifiées ; le test vérifie qu'aucune étape n'est inatteignable |
 | ACC-008 | Progression | Fait | Conservée après rechargement, export et restauration testés |
 | ACC-009 | Favoris | Fait | Ajout, suppression, conservation |
@@ -37,11 +37,11 @@ Légende : **Fait** = fonctionne et est couvert par un test automatique ou un co
 |---|---:|---:|
 | Domaines | 8 | 8 |
 | Niveaux par domaine | 3 | 3 |
-| Leçons rédigées | 72 | 86 (9 minimum par domaine, 3 par niveau et domaine) |
+| Leçons rédigées | 72 | 158 (17 minimum par domaine) |
 | Fiches pratiques | 40 | 40 |
 | Scénarios | 32 | 32 |
-| Quiz | 24 | 86 |
-| Questions de quiz | 240 | 430 |
+| Quiz | 24 | 158 |
+| Questions de quiz | 240 | 790 |
 | Définitions | 60 | 64 |
 | Fiches pays | 12 | 12 |
 

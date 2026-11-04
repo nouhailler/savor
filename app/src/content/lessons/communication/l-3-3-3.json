@@ -1,0 +1,311 @@
+{
+  "id": "l-3-3-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "summary": "Convaincre n’est pas vaincre. Argumenter avec honnêteté, tenir compte de ce que l’autre veut vraiment, négocier sans écraser et accueillir les objections : une manière de faire changer d’avis qui laisse la relation intacte.",
+  "estimatedDuration": 12,
+  "tags": [
+    "persuasion",
+    "argumentation",
+    "négociation",
+    "diplomatie",
+    "objections",
+    "manipulation",
+    "désaccord",
+    "influence"
+  ],
+  "objectives": [
+    "Construire une argumentation claire et honnête.",
+    "Distinguer la persuasion respectueuse de la manipulation.",
+    "Négocier en cherchant les intérêts plutôt que les positions.",
+    "Accueillir une objection comme une information."
+  ],
+  "introduction": "Il y a deux façons de gagner une discussion. La première laisse l’autre à terre, muet et rancunier : il fera ce que vous voulez cette fois-ci, et il s’en souviendra. La seconde le laisse debout, avec le sentiment d’avoir réfléchi et décidé par lui-même. Seule la seconde mérite vraiment le nom de conviction. On a tous en mémoire une personne qui avait raison, et qu’on n’a pas pu écouter à cause de sa manière de l’avoir.\n\nCette leçon de niveau avancé ne propose pas de techniques pour obtenir n’importe quoi de n’importe qui. Elle part d’une limite éthique : on peut chercher à convaincre, à condition que l’autre garde sa liberté de refuser, en connaissance de cause. Elle s’appuie sur une tradition ancienne, de la rhétorique d’Aristote aux travaux contemporains sur la négociation, et elle s’applique aussi bien à un conseil d’administration qu’à une discussion avec un parent âgé qui refuse de quitter sa maison.",
+  "sections": [
+    {
+      "title": "Argumenter avec honnêteté",
+      "content": "Aristote distinguait trois ressorts de la persuasion : le crédit de celui qui parle, l’émotion de celui qui écoute et la solidité du raisonnement. Les trois existent toujours. Le crédit se gagne en connaissant son sujet, en admettant ce qu’on ignore et en tenant ses engagements. L’émotion a sa place, si elle est vraie : raconter le cas d’un patient qu’on a soigné est légitime, inventer un drame ne l’est pas. Le raisonnement, lui, doit pouvoir être vérifié. Avancez peu d’arguments, en commençant par les meilleurs : cinq raisons dont trois sont faibles donnent à l’autre trois occasions de vous contredire et de tout rejeter.\n\nCommencez par ce que vous avez en commun. Si deux frères se disputent au sujet de leur mère, ils veulent sans doute tous deux qu’elle soit en sécurité et qu’elle garde sa dignité : le dire d’abord change la suite de la discussion. Présentez ensuite la position adverse dans sa version la plus forte, celle que son défenseur reconnaîtrait. Cette pratique, que les philosophes appellent le principe de charité, a un double avantage : elle vous oblige à comprendre, et elle montre à l’autre qu’il a été entendu. Une personne qui se sent caricaturée n’écoutera plus rien.\n\nL’honnêteté vous impose aussi certains renoncements. Ne citez pas de chiffres que vous n’avez pas vérifiés, ne prêtez pas à l’autre ce qu’il n’a pas dit et ne vous en prenez pas à sa personne quand ses arguments vous gênent. Schopenhauer a recensé ces procédés avec une ironie féroce dans L’Art d’avoir toujours raison, texte qu’on lit surtout pour reconnaître les ruses de ceux qui l’utilisent. Reconnaissez les points où l’autre a raison : ce n’est pas une faiblesse, et cela rend vos autres arguments plus crédibles. Admettre « Sur ce point, je me suis trompé » a souvent plus de force qu’une démonstration parfaite."
+    },
+    {
+      "title": "Persuader sans manipuler",
+      "content": "Où finit l’influence, où commence la manipulation ? Un test simple : accepteriez-vous que l’autre sache exactement ce que vous faites ? Expliquer les avantages d’une offre passe ce test. Inventer une date limite, faire culpabiliser une personne âgée, isoler quelqu’un de ses proches ou lui faire croire que tout le monde a déjà accepté ne le passe pas. Robert Cialdini a décrit plusieurs mécanismes de l’influence : la réciprocité, la cohérence, la preuve sociale, l’autorité, la sympathie et la rareté. Les connaître sert d’abord à se défendre, en reconnaissant le moment où quelqu’un les utilise sur vous.\n\nLa persuasion respectueuse laisse du temps. Une personne pressée de décider, surtout à propos d’argent ou de santé, doit pouvoir dire : « J’y réfléchis. » Si vous insistez pour une réponse immédiate, c’est que votre argument ne tiendra peut-être pas au réveil. De même, elle ne cherche pas à profiter d’une faiblesse : deuil, maladie, dépendance, ignorance d’une langue. Dans ces situations, votre devoir augmente. En droit français, l’abus de faiblesse est d’ailleurs réprimé, en particulier en matière de consommation et, dans certains cas, par le Code pénal. Il ne suffit pas d’obtenir un « oui » pour être dans son droit.\n\nEnfin, sachez poser une question plutôt qu’asséner. Les personnes changent rarement d’avis parce qu’on leur a démontré leur erreur, surtout devant témoins. Elles changent plus facilement quand elles sont amenées à examiner elles-mêmes les choses : « Qu’est-ce qui te ferait changer d’avis ? », « Comment vois-tu la prochaine étape ? » Les praticiens de l’entretien motivationnel, en santé, ont étudié cette approche pour accompagner un changement de comportement sans l’imposer. Il faut parfois accepter de ne pas voir l’effet immédiatement : l’autre peut défendre sa position devant vous, puis y repenser dans trois semaines, et ne jamais vous en parler."
+    },
+    {
+      "title": "Négocier",
+      "content": "Le classique Comment réussir une négociation, de Roger Fisher et William Ury, propose une distinction utile : les positions sont ce que l’on demande, et les intérêts sont ce pour quoi on le demande. Deux voisins se disputent une haie : l’un veut la couper, l’autre la garder. La discussion s’enlise tant qu’on reste sur la haie. Si l’un veut de la lumière dans sa cuisine et l’autre de l’intimité sur sa terrasse, on peut tailler une partie, ou la remplacer. Posez la question : « Qu’est-ce qui est le plus important pour vous, dans ce sujet ? » Écoutez la réponse. Vous apprendrez souvent ce qui peut se donner à peu de frais.\n\nPréparez-vous. Sachez ce que vous ferez si l’accord échoue, ce que les auteurs appellent votre meilleure solution de rechange : c’est elle qui vous donne de la liberté. Vous n’êtes pas obligé de tout dire, mais il ne faut pas mentir. Vous pouvez refuser de révéler votre plafond ; annoncer une autre offre qui n’existe pas revient à tromper. Séparez les personnes du problème : on peut être ferme sur le fond et doux avec celui qui est en face. Faites baisser la tension avant de chercher un accord, et proposez une pause lorsque le ton monte. Il n’est pas rare qu’un accord impossible à 18 h devienne facile après un café le lendemain.\n\nUne bonne négociation laisse à chacun de quoi expliquer l’accord à ses proches. Permettez à l’autre de sauver la face : ne triomphez pas, ne rappelez pas ce qu’il a concédé et ne racontez pas votre victoire. Écrivez ce qui a été décidé pour éviter les malentendus, sans transformer ce geste en contrat lorsqu’il s’agit de famille. Une négociation entre proches, sur un héritage par exemple, demande une attention particulière : les intérêts y sont mêlés à de vieilles blessures, et un tiers neutre, notaire ou médiateur, est souvent précieux. Le jour où l’on perd le lien pour obtenir une armoire, on a rarement fait une bonne affaire."
+    },
+    {
+      "title": "Accueillir les objections",
+      "content": "Une objection n’est pas une attaque. Elle indique ce qui retient encore la personne, et elle est bien plus utile que le silence poli de celui qui n’ira pas plus loin. Commencez par écouter jusqu’au bout, sans préparer votre réponse. Reformulez : « Vous craignez que le coût dépasse ce qui était prévu, c’est bien cela ? » Puis répondez à l’objection telle qu’elle a été posée, pas à celle que vous auriez préféré entendre. Si vous n’avez pas de réponse, dites-le : « Je n’avais pas pensé à cela. Je vérifie, et je vous réponds demain. » C’est beaucoup plus convaincant qu’une improvisation.\n\nCertaines objections cachent autre chose. Un parent âgé qui dit : « Cet appareil auditif est trop cher » peut surtout redouter ce qu’il signifie. Un collègue qui soulève des difficultés techniques peut se sentir écarté du projet. Posez alors une question ouverte, avec tact : « Qu’est-ce qui vous préoccupe le plus ? » Ne jouez pas au psychologue, et n’expliquez à personne ce qu’il pense vraiment. Il se peut aussi que l’objection soit juste. Dans ce cas, changez d’avis, ou modifiez votre proposition. Un interlocuteur qui voit que ses objections ont changé quelque chose vous accordera une confiance plus durable.\n\nIl faut enfin savoir s’arrêter. Si la personne a entendu vos arguments et qu’elle a dit non, respectez sa décision, surtout quand elle concerne sa vie : sa santé, ses convictions, son argent, ses amours. Cela ne vous empêche pas de garder votre avis. Vous pouvez dire : « Je ne suis pas d’accord, mais c’est ta décision, et je reste là. » Avec une personne qui ne veut pas discuter ou qui ne répond que par l’agression, il est inutile d’ajouter des arguments. Convaincre n’est pas une obligation. Il arrive que le désaccord persiste entre deux personnes de bonne foi, et elles peuvent vivre très bien avec cela."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-3-3-3-r1",
+      "title": "Présentez la position adverse dans sa version la plus forte.",
+      "description": "Avant de contredire, on résume ce que dit l’autre d’une façon qu’il reconnaîtrait.",
+      "rationale": "Cela prouve qu’il a été entendu et évite de réfuter une caricature. Vos arguments gagnent en crédit.",
+      "context": "Débats, réunions, discussions familiales.",
+      "recommendedBehavior": "Dites : « Si je comprends bien, tu penses que… C’est bien cela ? » Attendez sa réponse.",
+      "exceptions": [
+        "Face à des propos haineux, on peut refuser de discuter, plutôt que de les reformuler."
+      ],
+      "remedy": "Si l’autre proteste qu’il n’a pas dit cela, excusez-vous et demandez-lui de le reformuler.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-3-3-r2",
+      "title": "Agissez comme si l’autre pouvait voir votre méthode.",
+      "description": "Une influence acceptable peut être expliquée à celui qu’elle vise, sans qu’il se sente trompé.",
+      "rationale": "La manipulation fonctionne en se cachant. Si votre méthode ne supporte pas d’être connue, elle n’est pas respectueuse.",
+      "context": "Vente, famille, relations de pouvoir, associations.",
+      "recommendedBehavior": "Dites ce que vous voulez et pourquoi. N’inventez ni urgence ni consensus.",
+      "exceptions": [],
+      "remedy": "Si vous avez exagéré, rectifiez : « J’ai dit qu’il fallait répondre ce soir. En réalité, vous avez jusqu’à vendredi. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-3-3-r3",
+      "title": "Cherchez l’intérêt derrière la position.",
+      "description": "En négociation, on cherche pourquoi l’autre demande ce qu’il demande.",
+      "rationale": "Deux positions opposées peuvent cacher des intérêts compatibles. On découvre alors des solutions que personne n’avait vues.",
+      "context": "Affaires, voisinage, héritages, couples.",
+      "recommendedBehavior": "Demandez : « Qu’est-ce qui compte le plus pour vous, dans ce sujet ? », puis écoutez.",
+      "exceptions": [
+        "Certaines questions de principe, ou de droit, ne se négocient pas."
+      ],
+      "remedy": "Si la discussion s’est figée, proposez une pause, et reprenez avec une question sur les besoins.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-3-3-3-r4",
+      "title": "Ne profitez pas d’une faiblesse.",
+      "description": "On ne pousse pas à une décision une personne affaiblie, en deuil, malade ou dépendante.",
+      "rationale": "Son consentement perd de sa valeur, et la loi peut sanctionner certains abus. Le gain obtenu ainsi est une faute, et non une réussite.",
+      "context": "Vente à domicile, successions, soins, personnes âgées.",
+      "recommendedBehavior": "Laissez-lui du temps, proposez la présence d’un proche de confiance, et reportez toute décision importante.",
+      "exceptions": [],
+      "remedy": "Si une décision a été prise trop vite, proposez de l’annuler, et renseignez-vous sur les droits de rétractation.",
+      "conventionType": "contextual_rule",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-3-3-3-r5",
+      "title": "Respectez un non éclairé.",
+      "description": "Lorsque l’autre a entendu vos raisons et qu’il refuse, surtout sur sa propre vie, on arrête d’insister.",
+      "rationale": "L’insistance transforme la conviction en pression. Rester présent sans insister garde la porte ouverte.",
+      "context": "Santé d’un proche, choix de vie, convictions.",
+      "recommendedBehavior": "Dites : « Je ne suis pas d’accord, mais c’est ta décision, et je reste là. »",
+      "exceptions": [
+        "Un danger immédiat pour la personne ou pour autrui peut justifier de faire appel à un professionnel."
+      ],
+      "remedy": "Si vous avez trop insisté, dites-le : « Je t’ai mis la pression, et je n’aurais pas dû. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "Aristote, dans sa Rhétorique, cherchait déjà à définir une parole persuasive qui ne soit pas tromperie, contre les sophistes tels que Platon les présentait. Le débat a traversé les siècles, de Quintilien aux manuels de vente. Plus récemment, la psychologie de l’influence et les travaux de Harvard sur la négociation ont apporté des outils concrets. Mais ces outils restent neutres : ils peuvent servir à accompagner une personne ou à l’exploiter. Le savoir-vivre apporte ici sa question : que devient l’autre, après la discussion ? La conviction respectueuse parie sur sa liberté et sur son intelligence. C’est un pari plus lent que la pression, mais il préserve ce qu’aucune victoire ne remplace : l’envie de se reparler la semaine suivante.",
+  "examples": [
+    {
+      "context": "Votre père de 84 ans refuse de cesser de conduire, alors que ses réflexes ont baissé.",
+      "behavior": "« Papa, je sais à quel point la voiture compte pour ta liberté, et je ne veux pas te l’enlever. J’ai eu peur, l’autre jour, au carrefour. Qu’est-ce qui te permettrait de rester indépendant si tu conduisais moins ? Tu accepterais de voir le médecin avec moi ? »",
+      "explanation": "Vous nommez ce qui compte pour lui, vous parlez de ce que vous avez vu et vous proposez un tiers. La question laisse une place à sa dignité, même si la décision reste difficile."
+    },
+    {
+      "context": "Un fournisseur demande une hausse de 10 %, et vous voulez garder le prix.",
+      "behavior": "« Je comprends que vos coûts ont augmenté. Pour nous, le plus important est la stabilité du budget sur l’année. Si nous nous engageons sur deux ans et que nous réglons à trente jours, que pouvez-vous faire ? »",
+      "explanation": "Vous reconnaissez son problème et vous présentez votre intérêt réel. Vous offrez quelque chose de peu coûteux pour vous et d’utile pour lui, sans menace."
+    },
+    {
+      "context": "En réunion, un collègue objecte que votre plan coûtera trop cher.",
+      "behavior": "« Vous avez raison pour la première année. Le coût est plus élevé que je ne l’avais dit. Je n’ai pas encore de réponse pour réduire ce poste : pouvons-nous y regarder ensemble vendredi ? »",
+      "explanation": "Vous admettez un point exact sans perdre la face. L’objection devient une aide, et votre collègue a désormais intérêt à la réussite du projet."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Vous discutez du choix d’un traitement avec un proche, qui a décidé autrement que vous l’auriez fait.",
+      "behavior": "Lui envoyer dix articles par jour et revenir sur le sujet à chaque repas.",
+      "consequences": "La personne se sent assiégée et cesse de vous parler de sa maladie. Vous perdez votre place à ses côtés.",
+      "alternative": "Dites une fois ce que vous pensez, demandez ce dont elle a besoin, et respectez sa décision."
+    },
+    {
+      "situation": "Dans une discussion devant des amis, votre interlocuteur s’est trompé sur un chiffre.",
+      "behavior": "Sortir votre téléphone et lire à haute voix la bonne valeur, avec un sourire de triomphe.",
+      "consequences": "Vous avez raison, mais il s’est senti humilié et il défendra désormais le reste de sa position avec encore plus de vigueur.",
+      "alternative": "Dites : « Je crois que c’est plutôt tel chiffre, à vérifier », et revenez au fond du sujet."
+    },
+    {
+      "situation": "Vous voulez vendre une formation à un client hésitant.",
+      "behavior": "Prétendre qu’il ne reste qu’une place, alors que le groupe n’est pas complet.",
+      "consequences": "S’il le découvre, vous perdez votre crédit, et cette pratique peut constituer une pratique commerciale trompeuse.",
+      "alternative": "Donnez les vraies dates et laissez-lui le temps de réfléchir, quitte à ce qu’il refuse."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Cultures de l’argumentation.",
+      "text": "Certains milieux apprécient l’affrontement direct des idées, comme un jeu. D’autres perçoivent une contradiction publique comme une attaque. Erin Meyer observe que des Français ou des Israéliens peuvent débattre sans en vouloir à personne, alors que des Thaïlandais ou des Japonais préféreront le faire de façon indirecte. Dans ces milieux, ces désaccords s’abordent souvent en privé, et non devant le groupe."
+    },
+    {
+      "title": "Rapports de pouvoir.",
+      "text": "Il est plus facile de parler de dialogue lorsqu’on a le pouvoir. Un employé, un patient ou une personne en situation irrégulière n’a pas la même liberté de dire non. Celui qui a le pouvoir doit le savoir, et vérifier que le « oui » qu’il reçoit n’en est pas le simple effet."
+    },
+    {
+      "title": "Les limites de la discussion.",
+      "text": "On ne convainc pas toujours en discutant. Sur des sujets très liés à l’identité, les arguments renforcent parfois la position contraire. Le temps, les exemples et les relations personnelles font souvent plus. Il est permis de ne pas engager le débat à chaque fois qu’un proche tient des propos qui vous hérissent."
+    }
+  ],
+  "contexts": [
+    "Travail : argumenter sur un projet et négocier.",
+    "Famille : décisions de santé, héritage, parents âgés.",
+    "Vente : influence honnête, sans pression.",
+    "Voisinage et associations : trouver des solutions pour vivre ensemble."
+  ],
+  "keyPoints": [
+    "Présentez la position adverse telle que son défenseur la reconnaîtrait.",
+    "Votre méthode doit pouvoir être connue de celui qu’elle vise.",
+    "Cherchez l’intérêt derrière la position.",
+    "Une objection est une information.",
+    "Un refus éclairé se respecte, surtout quand il concerne la vie de l’autre."
+  ],
+  "exercise": {
+    "type": "case",
+    "title": "La maison de famille",
+    "situation": "Vous avez deux frères. Votre mère vient de mourir, et la maison familiale de Bretagne vous revient à trois. Vous voudriez la garder, Luc veut vendre car il a besoin d’argent, et Henri ne dit rien mais il n’y va plus depuis dix ans. Les échanges par messages ont commencé à s’envenimer. Vous êtes convaincu que vendre serait une erreur et vous avez préparé un tableau détaillé des coûts.",
+    "questions": [
+      "Comment ouvrez-vous la discussion, avant de parler de votre tableau ?",
+      "Quelles questions posez-vous à Luc et à Henri ?",
+      "Que faites-vous si, après discussion, ils veulent toujours vendre ?"
+    ],
+    "modelAnswer": "Commencez par une rencontre, de vive voix si possible, et non par le tableau. Dites ce que vous avez en commun : « Nous venons de perdre maman, et je ne veux pas que cette maison nous fâche. » Demandez ensuite à Luc ce qui compte le plus pour lui : l’argent pour quelle raison, dans quel délai ? Demandez à Henri ce que représente la maison pour lui, car son silence peut cacher un mauvais souvenir, ou une lassitude. Vous apprendrez peut-être qu’un rachat de parts, une location saisonnière ou un délai de deux ans répondrait à leurs besoins. Présentez alors votre envie comme une envie, et vos chiffres comme des chiffres, sans les utiliser pour écraser les autres. Faites intervenir le notaire pour les aspects juridiques et financiers, et n’hésitez pas à consulter un médiateur si la tension monte. S’ils veulent toujours vendre, vous pouvez proposer de racheter si vous le pouvez. Sinon, acceptez, et demandez ce qu’il est possible de garder : un week-end de plus, des photos, quelques meubles. Vous aurez perdu une maison, mais vous aurez peut-être gardé deux frères, ce qui compte davantage pour le reste de votre vie."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-3-3-3-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle est la différence entre position et intérêt en négociation ?",
+        "choices": [
+          "La position concerne l’argent, l’intérêt concerne le temps disponible",
+          "La position est ce qu’on demande, l’intérêt est ce pour quoi on le demande",
+          "La position est officielle, tandis que l’intérêt est toujours inavouable",
+          "La position est individuelle, tandis que l’intérêt est toujours collectif"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Fisher et Ury montrent que deux positions opposées peuvent cacher des intérêts compatibles, comme la lumière et l’intimité dans le cas de la haie. Les autres propositions ne correspondent pas à cette distinction.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-3-3-3-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Vrai ou faux : admettre qu’un adversaire a raison sur un point affaiblit toujours votre argumentation.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux. Cela montre votre bonne foi et rend vos autres arguments plus crédibles. C’est aussi un moyen d’éviter de défendre un point faible, qui donnerait à l’autre une raison de tout rejeter.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-3-3-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Quelle réponse à une objection est la plus respectueuse ?",
+        "choices": [
+          "« Vous n’avez sans doute pas bien compris mon premier argument. »",
+          "« Ce n’est vraiment pas le sujet dont nous parlons aujourd’hui. »",
+          "« Je n’avais pas pensé à ce point. Je vérifie et vous réponds demain. »",
+          "« Tout le monde ici est déjà d’accord, sauf vous, apparemment. »"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Reconnaître une objection et s’engager à y répondre renforce votre crédit. Les autres réponses rabaissent, écartent le sujet ou utilisent le groupe pour faire pression.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-3-3-q4",
+        "type": "multiple",
+        "kind": "maladresse",
+        "statement": "Quels procédés relèvent de la manipulation ?",
+        "choices": [
+          "Inventer une date limite pour hâter une décision",
+          "Donner vos raisons et laisser du temps pour réfléchir",
+          "Faire croire que tout le monde a déjà accepté",
+          "Pousser une personne en deuil à signer rapidement"
+        ],
+        "correctAnswers": [
+          0,
+          2,
+          3
+        ],
+        "explanation": "Ces procédés reposent sur une tromperie ou sur une faiblesse, et ils ne supporteraient pas d’être connus de la personne visée. Expliquer ses raisons et laisser du temps respecte sa liberté de décision.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-3-3-3-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que faire après qu’un proche a refusé en connaissance de cause un conseil sur sa propre vie ?",
+        "choices": [
+          "Revenir sur le sujet à chaque repas jusqu’à ce qu’il comprenne",
+          "Lui en vouloir ouvertement et cesser de prendre de ses nouvelles",
+          "Lui dire son désaccord, respecter sa décision et rester présent",
+          "Demander à toute la famille d’intervenir sans le lui dire"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "La décision lui appartient. Vous pouvez garder votre avis, et l’insistance ne ferait que le pousser à vous éviter. Un danger immédiat constitue une exception, qui peut justifier de faire appel à un professionnel.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Aristote, Rhétorique",
+      "note": "Les trois ressorts de la persuasion."
+    },
+    {
+      "title": "Roger Fisher et William Ury, Comment réussir une négociation (1981 ; trad. fr. Seuil)",
+      "note": "Positions et intérêts."
+    },
+    {
+      "title": "Robert Cialdini, Influence et manipulation (trad. fr. First)",
+      "note": "Mécanismes de l’influence."
+    },
+    {
+      "title": "Arthur Schopenhauer, L’Art d’avoir toujours raison (posthume)",
+      "note": "Les ruses de la dispute."
+    },
+    {
+      "title": "Code de la consommation et Code pénal (abus de faiblesse)",
+      "note": "À vérifier selon la situation."
+    },
+    {
+      "title": "Erin Meyer, La Carte des différences culturelles (Diateino, 2016)",
+      "note": "Désaccord et cultures."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-04",
+      "note": "Première rédaction."
+    }
+  ]
+}

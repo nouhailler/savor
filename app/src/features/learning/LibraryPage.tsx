@@ -16,6 +16,7 @@ export default function LibraryPage() {
   const [level, setLevel] = useState<Level | 'all'>('all');
   const [query, setQuery] = useState('');
   const [onlyWritten, setOnlyWritten] = useState(true);
+  const hasUnwritten = domains.some((d) => d.lessons.some((l) => !isLessonAvailable(l.id)));
 
   const rows = useMemo(() => {
     const q = normalize(query);
@@ -48,10 +49,10 @@ export default function LibraryPage() {
             </select>
           </label>
         </div>
-        <label className="row small"><input type="checkbox" checked={!onlyWritten} onChange={(e) => setOnlyWritten(!e.target.checked)} style={{ width: '1.25rem', height: '1.25rem' }} /> Afficher aussi les leçons en préparation</label>
+        {hasUnwritten && <label className="row small"><input type="checkbox" checked={!onlyWritten} onChange={(e) => setOnlyWritten(!e.target.checked)} style={{ width: '1.25rem', height: '1.25rem' }} /> Afficher aussi les leçons en préparation</label>}
       </div>
       <p className="small muted" role="status">{plural(rows.length, 'leçon')}</p>
-      {rows.length === 0 && <Empty title="Aucune leçon ne correspond."><p>Élargissez les filtres ou affichez les leçons en préparation.</p></Empty>}
+      {rows.length === 0 && <Empty title="Aucune leçon ne correspond."><p>{hasUnwritten ? 'Élargissez les filtres ou affichez les leçons en préparation.' : 'Élargissez les filtres.'}</p></Empty>}
       <ul className="stack">
         {rows.map(({ d, l }) => {
           const written = isLessonAvailable(l.id);

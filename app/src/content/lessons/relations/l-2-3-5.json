@@ -1,0 +1,303 @@
+{
+  "id": "l-2-3-5",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "summary": "Avocat, notaire, médecin, infirmier : on leur confie ce qu’on ne dit à personne, et l’on en dépend parfois. Comment se préparer, poser ses questions, respecter leur compétence et leurs limites, et faire valoir ses droits sans agressivité.",
+  "estimatedDuration": 12,
+  "tags": [
+    "avocat",
+    "notaire",
+    "médecin",
+    "infirmier",
+    "patient",
+    "secret professionnel",
+    "rendez-vous",
+    "droits"
+  ],
+  "objectives": [
+    "Préparer un rendez-vous pour en tirer le meilleur parti.",
+    "Comprendre le rôle et les limites de chaque professionnel.",
+    "Respecter la confidentialité et le secret professionnel, de part et d’autre.",
+    "Exprimer un désaccord ou une réclamation de façon efficace et correcte."
+  ],
+  "introduction": "Vous entrez dans un cabinet médical ou une étude de notaire : l’autre connaît les mots, les règles et les enjeux, et vous êtes peut-être inquiet, pressé, ou en plein conflit. Cette asymétrie rend la relation délicate. Certains se taisent, n’osent pas demander ce que signifie un terme et repartent sans avoir compris. D’autres arrivent avec une exigence agressive, et se heurtent à un mur. Dans les deux cas, on y perd.\n\nCette leçon propose une troisième attitude, celle d’un partenaire poli et préparé : vous apportez ce que vous seul savez, votre histoire et vos priorités, et l’autre apporte sa compétence. Elle présente aussi quelques repères sur le droit français, qui peuvent changer et ne remplacent pas un conseil adapté à votre situation. Pour un dossier sérieux, vérifiez auprès du professionnel concerné ou de son ordre.",
+  "sections": [
+    {
+      "title": "L’avocat et le notaire",
+      "content": "L’avocat défend vos intérêts et vous conseille, tandis que le notaire est un officier public, qui donne aux actes une valeur particulière et doit veiller à l’équilibre de ceux qu’il reçoit : il conseille les deux parties, ce qui surprend souvent. Avant un rendez-vous, préparez une chronologie d’une page, les documents originaux en copie, et les questions que vous voulez poser. Dites la vérité, y compris sur ce qui ne vous arrange pas : votre avocat ne peut pas vous défendre contre un fait qu’il découvrira à l’audience. Il est tenu au secret professionnel, et ce que vous lui confiez reste protégé. Répondez aussi à ses demandes dans les délais, car une pièce manquante peut coûter un recours.\n\nParlez d’argent dès le premier rendez-vous, sans gêne. En France, une convention d’honoraires écrite est obligatoire avec un avocat dans la plupart des situations, et vous pouvez demander une estimation. Selon vos ressources, l’aide juridictionnelle peut prendre en charge tout ou partie des frais. Les notaires appliquent un tarif réglementé pour de nombreux actes, le reste correspondant souvent à des taxes reversées à l’État. Il est normal de demander le détail. Des consultations gratuites existent dans les mairies et les points-justice. Il n’y a aucune honte à le dire : « Je voudrais comprendre ce que cela va me coûter avant de commencer. »\n\nRespectez le temps du professionnel, sans vous priver de ce à quoi vous avez droit. Regroupez vos questions plutôt que d’envoyer dix courriels par jour, et évitez d’appeler pour demander si l’audience va bien se passer : personne ne peut le promettre. Méfiez-vous d’ailleurs de quiconque vous garantit un résultat. La justice est lente, et votre avocat n’en est pas responsable. Les décisions finales vous appartiennent : il vous conseille, et vous choisissez. Si la confiance disparaît, vous pouvez changer d’avocat, à condition de régler ce qui est dû et de reprendre votre dossier. Vous pouvez saisir le bâtonnier en cas de litige sur les honoraires, ou la chambre des notaires pour un notaire."
+    },
+    {
+      "title": "Le médecin",
+      "content": "Une consultation dure peu de temps, et elle se prépare. Notez vos symptômes, depuis quand ils existent, ce qui les aggrave ou les soulage, vos traitements, vos allergies, et les deux ou trois questions qui comptent. Commencez par ce qui vous inquiète le plus : il arrive qu’on aborde le vrai sujet alors que le médecin a déjà la main sur la poignée de la porte. Dites la vérité sur l’alcool, le tabac, les drogues, la sexualité et les traitements que vous ne prenez pas : ces informations changent les décisions, et le médecin est là pour soigner, pas pour juger. Si vous avez cherché en ligne, dites-le simplement : « J’ai lu ceci, qu’en pensez-vous ? » Cela vaut mieux que d’arriver avec un diagnostic tout fait, ou de le cacher.\n\nVous avez le droit de comprendre. Demandez ce que signifie un mot, reformulez, notez les réponses, et venez accompagné si cela vous rassure. Le Code de la santé publique prévoit le droit d’être informé, de consentir ou de refuser un soin, d’accéder à son dossier médical et de désigner une personne de confiance. Vous pouvez aussi demander un second avis, sans vous en cacher : « J’aimerais avoir un autre avis, pouvez-vous me transmettre mon dossier ? » Un bon médecin ne s’en offusquera pas. Si l’on vous annonce une mauvaise nouvelle, vous pouvez demander à revenir plus tard, avec un proche, car on retient peu de choses sous le coup de l’émotion.\n\nLa ponctualité et la bonne foi vous concernent également. Annulez dès que vous savez que vous ne viendrez pas : les rendez-vous manqués privent d’autres patients, et ils sont devenus un vrai problème. Un médecin peut être en retard parce qu’il a pris le temps d’écouter quelqu’un d’autre, comme il le prendra pour vous. Évitez de l’aborder au supermarché ou lors d’un dîner pour obtenir une consultation gratuite. Les consignes, comme ne pas exiger des antibiotiques ou un arrêt, reposent sur la médecine et la loi : il ne les ignore pas pour vous contrarier. Les violences verbales ou physiques envers le personnel de santé sont en hausse et elles sont punies plus sévèrement par la loi. On peut être anxieux sans menacer."
+    },
+    {
+      "title": "L’infirmier et les équipes de soins",
+      "content": "À l’hôpital ou à domicile, l’infirmier, l’aide-soignante et les autres soignants sont souvent ceux qui vous voient le plus, et ceux qui en savent long sur votre état. Ce sont des professionnels à part entière, avec leur propre compétence et leurs responsabilités : ils ne sont pas les assistants du médecin, et ne sont pas tous des femmes, qu’on n’appellera ni « ma petite » ni « mademoiselle ». Lisez le badge, retenez le prénom et le rôle. Demandez : « À qui puis-je poser cette question ? » Dites-leur ce que vous ressentez, car ils le transmettront. Évitez de sonner pour de petites choses qu’un proche peut faire, tout en restant libre de sonner pour la douleur ou l’inquiétude. C’est leur métier d’y répondre.\n\nLa pudeur reste votre droit, même à l’hôpital. Un soignant frappe avant d’entrer, explique ce qu’il va faire, et ferme le rideau. Vous pouvez demander : « Pouvez-vous fermer le rideau ? » ou « Je préférerais une soignante, si c’est possible », sachant que cela n’est pas toujours réalisable, en particulier en urgence, et que l’on ne peut refuser un soignant en raison de son origine ou de sa religion. Si vous êtes en chambre double, baissez la voix, ne commentez pas les soins de votre voisin et réglez le volume de votre télévision. En tant que visiteur, respectez les horaires et les consignes d’hygiène, et sortez lors des soins si l’on vous le demande.\n\nLes proches ont aussi une place à tenir. Ils ne reçoivent pas automatiquement d’informations sans l’accord du patient, ce qui peut être difficile à comprendre : le secret professionnel s’applique aussi à eux, avec des aménagements en cas de diagnostic grave. Désignez à l’avance un interlocuteur unique pour la famille, plutôt que de faire répéter dix fois les mêmes informations. Remerciez l’équipe à la sortie : un mot écrit ou une boîte de chocolats partagée sont très appréciés, tandis que l’argent n’est pas de mise et qu’il est parfois interdit au personnel de l’accepter. Si vous avez un reproche, dites-le : un soignant fatigué n’a pas pour autant le droit de vous humilier."
+    },
+    {
+      "title": "Confidentialité, responsabilités et désaccords",
+      "content": "Le secret professionnel fonde la confiance. En France, l’article 226-13 du Code pénal le protège, et il couvre le médecin, l’avocat, le notaire et bien d’autres professionnels. Il ne se lève que dans les cas prévus par la loi. N’interrogez donc pas votre médecin sur la santé de votre voisin, et ne demandez pas à votre avocat ce que pense son autre client. De votre côté, vous n’êtes pas tenu au secret sur ce qui vous concerne, mais soyez prudent sur ce qui concerne autrui. Évitez de filmer ou d’enregistrer sans en parler, surtout dans un service où d’autres personnes sont soignées, et ne publiez pas d’image de soignants ou de patients. Dans une salle d’attente, parlez bas.\n\nRespecter les compétences, c’est aussi savoir à qui s’adresser et accepter les limites de chacun. Un notaire n’a pas à dire qui a raison dans une dispute familiale, un médecin ne peut pas établir un faux certificat par complaisance, et un avocat ne peut pas mentir pour vous. Ne leur demandez pas de le faire. Évitez de demander un conseil juridique ou médical à un ami professionnel sans lui en parler franchement : « Puis-je te poser une question professionnelle ? » Il peut refuser, et il n’a pas à fournir gratuitement ce qu’il vit de faire. Inversement, le fait de connaître la loi ou la médecine ne donne à personne le droit de vous parler de haut.\n\nUn désaccord peut s’exprimer sans agression. Commencez par la personne : « Je ne comprends pas pourquoi on a fait ce choix. Pouvez-vous m’expliquer ? » Écrivez ensuite, en restant factuel, avec les dates. À l’hôpital, les représentants des usagers et la commission des usagers existent pour cela, et chaque établissement dispose d’une procédure de réclamation. Vous pouvez saisir l’ordre des médecins, les commissions de conciliation et d’indemnisation en cas d’accident médical, le bâtonnier pour un avocat ou la chambre des notaires. Conservez vos documents, et demandez votre dossier. Ces recours sont des droits. Il est tout à fait possible de s’en servir avec courtoisie : la fermeté repose sur les faits, et non sur le volume de votre voix."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-2-3-5-r1",
+      "title": "Préparez chaque rendez-vous.",
+      "description": "On apporte une chronologie, ses documents et ses questions prioritaires, et l’on commence par l’essentiel.",
+      "rationale": "Le temps est limité. Ce que vous seul savez permet au professionnel de bien faire son travail.",
+      "context": "Consultations, rendez-vous chez l’avocat ou le notaire.",
+      "recommendedBehavior": "Écrivez trois questions et notez les réponses. Venez accompagné si cela vous aide.",
+      "exceptions": [
+        "En urgence ou sous le choc, personne n’attend de vous une préparation."
+      ],
+      "remedy": "Si vous avez oublié une question, envoyez un message court, ou notez-la pour la prochaine fois.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-5-r2",
+      "title": "Dites la vérité à ceux qui sont tenus au secret.",
+      "description": "On ne cache pas à son médecin ou à son avocat ce qui peut changer son avis.",
+      "rationale": "Un conseil repose sur les faits connus. Le secret professionnel protège vos confidences, et l’information cachée peut vous nuire gravement.",
+      "context": "Santé, procédures, successions, affaires.",
+      "recommendedBehavior": "Dites ce qui vous gêne le plus, même s’il vous en coûte. Demandez si vous avez un doute sur le secret.",
+      "exceptions": [
+        "Le secret connaît des exceptions légales : le professionnel peut vous les préciser."
+      ],
+      "remedy": "Si vous avez caché une information, dites-le dès que possible : il vaut mieux tard que trop tard.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-2-3-5-r3",
+      "title": "Demandez à comprendre, y compris le prix.",
+      "description": "Une explication, un terme, un coût et un second avis se demandent sans gêne.",
+      "rationale": "Vous êtes concerné au premier chef. Le droit français reconnaît l’information et le consentement du patient, et la transparence des honoraires.",
+      "context": "Soins, honoraires d’avocat, frais de notaire.",
+      "recommendedBehavior": "« Que signifie ce mot ? Combien cela va-t-il coûter ? Y a-t-il d’autres options ? »",
+      "exceptions": [],
+      "remedy": "Si vous avez signé sans comprendre, demandez une explication, puis renseignez-vous sur les délais de rétractation ou de recours.",
+      "conventionType": "contextual_rule",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-2-3-5-r4",
+      "title": "Ne demandez pas ce qu’on ne peut pas donner.",
+      "description": "On n’exige ni faux certificat, ni information sur autrui, ni garantie de résultat.",
+      "rationale": "Ces demandes obligent le professionnel à commettre une faute ou à vous mentir. Le secret couvre aussi les autres.",
+      "context": "Certificats, arrêts de travail, procédures, voisinage.",
+      "recommendedBehavior": "Exposez votre situation, et demandez ce qu’il est possible de faire.",
+      "exceptions": [],
+      "remedy": "Si vous avez insisté, excusez-vous et revenez à la question de fond.",
+      "conventionType": "contextual_rule",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-2-3-5-r5",
+      "title": "Fermeté sur les faits, jamais de violence.",
+      "description": "Une réclamation s’exprime par écrit, avec des faits, et jamais par des menaces ou des insultes.",
+      "rationale": "La violence envers les soignants ou les autres professionnels est punie, et elle ferme toutes les portes. Les faits, eux, ouvrent des recours.",
+      "context": "Erreurs, attente, désaccords, honoraires.",
+      "recommendedBehavior": "Parlez d’abord à la personne, puis à la direction, à la commission des usagers ou à l’ordre concerné.",
+      "exceptions": [
+        "En cas de danger pour vous ou pour un proche, alertez sans délai."
+      ],
+      "remedy": "Si vous avez crié, présentez vos excuses, puis reprenez le fond de votre réclamation.",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    }
+  ],
+  "why": "La relation entre un patient et son médecin a longtemps été paternaliste : le médecin savait et décidait, et Hippocrate lui-même recommandait de cacher certaines choses au malade. La loi française du 4 mars 2002, dite loi Kouchner, a marqué un tournant en reconnaissant les droits des malades à l’information et au consentement. Le secret professionnel est, lui, très ancien, puisqu’il figure dans le serment d’Hippocrate, et il est au cœur de la profession d’avocat. Goffman a décrit, dans ses travaux, le rituel du cabinet médical où l’on se déshabille devant un inconnu. Ces règles rendent possibles des confidences qui seraient impensables ailleurs. Cela ne fonctionne que si chacun y met du sien : la compétence d’un côté, l’honnêteté et la courtoisie de l’autre.",
+  "examples": [
+    {
+      "context": "Votre médecin vous prescrit un traitement et vous ne comprenez pas pourquoi.",
+      "behavior": "« Je voudrais être sûr de comprendre : à quoi sert ce médicament, et que se passe-t-il si je ne le prends pas ? » Vous notez la réponse, puis vous lui dites que vous craignez les effets secondaires.",
+      "explanation": "Vous exercez votre droit à l’information, sans contester sa compétence. Votre inquiétude, une fois exprimée, peut être prise en compte."
+    },
+    {
+      "context": "Votre avocat ne vous a pas donné de nouvelles depuis six semaines.",
+      "behavior": "Vous envoyez un courriel : « Je me permets de vous demander où en est mon dossier et quelle est la prochaine étape. Quand pensez-vous avoir des nouvelles ? »",
+      "explanation": "Votre question est légitime et factuelle. Elle ne fait aucun reproche, et donne une chance à votre avocat de vous expliquer les délais propres à la justice."
+    },
+    {
+      "context": "Votre père est hospitalisé, et vous trouvez que la douleur est mal prise en charge.",
+      "behavior": "Vous demandez à parler à l’infirmière : « Mon père dit avoir très mal depuis ce matin. Qui peut réévaluer sa douleur ? » Si rien ne change, vous demandez à voir le médecin du service, puis, si nécessaire, le cadre de santé.",
+      "explanation": "Vous passez par les bons interlocuteurs avec un fait précis. Il s’agit de résoudre un problème, et vous gardez la possibilité d’aller plus loin."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Vous arrivez chez le médecin après avoir beaucoup lu en ligne.",
+      "behavior": "Lui annoncer : « J’ai telle maladie, et je veux tel médicament, sinon j’irai voir ailleurs. »",
+      "consequences": "Vous interrompez son raisonnement, et il risque de passer le rendez-vous à vous contredire au lieu de vous examiner.",
+      "alternative": "« J’ai lu des choses qui m’inquiètent sur cette maladie. Est-ce que cela pourrait correspondre ? »"
+    },
+    {
+      "situation": "Vous croisez votre médecin lors d’une fête de quartier.",
+      "behavior": "Lui montrer un grain de beauté sur votre bras, devant tout le monde.",
+      "consequences": "Vous le mettez dans une position impossible, et il ne peut pas vous examiner correctement.",
+      "alternative": "Saluez-le simplement, et prenez rendez-vous."
+    },
+    {
+      "situation": "L’hôpital vous fait attendre six heures aux urgences.",
+      "behavior": "Insulter l’infirmière d’accueil et la filmer pour la dénoncer sur les réseaux sociaux.",
+      "consequences": "Elle n’est pas responsable des effectifs, vous risquez une sanction pénale, et vous filmez peut-être d’autres patients.",
+      "alternative": "Demandez une réévaluation si votre état change, puis écrivez à la direction ou aux représentants des usagers."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Autres systèmes.",
+      "text": "Le rôle du notaire n’existe pas de la même façon dans les pays de common law, le rapport au médecin est plus hiérarchique dans certaines cultures, et plus négocié ailleurs. Les droits des patients varient également. À l’étranger, vérifiez ce qui s’applique et prévoyez un interprète professionnel plutôt qu’un membre de la famille pour les sujets graves."
+    },
+    {
+      "title": "Préjugés dans les soins.",
+      "text": "Des études ont montré que la douleur des femmes et de certaines personnes racisées est parfois moins prise au sérieux. Si vous sentez que l’on ne vous croit pas, vous pouvez insister, demander que votre plainte soit notée au dossier, venir accompagné ou consulter ailleurs. Vous n’êtes pas agressif parce que vous vous défendez."
+    },
+    {
+      "title": "Amis professionnels.",
+      "text": "Un ami médecin ou avocat est sollicité sans cesse. Une question rapide peut être acceptée, à condition de poser d’abord la question : « Est-ce que ça t’embête ? » S’il vous répond : « Va consulter », remerciez-le. Il protège autant votre santé que votre amitié, et il n’engage pas sa responsabilité à la légère."
+    }
+  ],
+  "contexts": [
+    "Cabinet médical : préparation, franchise et ponctualité.",
+    "Hôpital : pudeur, équipes et famille.",
+    "Étude de notaire : compréhension des actes et des frais.",
+    "Avocat : vérité, honoraires et délais."
+  ],
+  "keyPoints": [
+    "Préparez vos rendez-vous et commencez par l’essentiel.",
+    "Dites la vérité : le secret professionnel vous protège.",
+    "Demandez à comprendre, y compris le prix.",
+    "Ne demandez pas de faux certificats, ni d’informations sur autrui.",
+    "Fermeté sur les faits, recours écrits, et jamais de violence."
+  ],
+  "exercise": {
+    "type": "case",
+    "title": "Une succession et un diagnostic",
+    "situation": "Votre mère vient d’apprendre qu’elle a une maladie grave. Elle vous a demandé d’être présent, mais elle ne veut pas que votre frère soit informé pour le moment. Le médecin parle vite, emploie des termes que vous ne comprenez pas, puis regarde sa montre. Dans le même temps, votre mère veut régler sa succession chez le notaire. Votre frère vous appelle et vous demande directement ce qu’a dit le médecin.",
+    "questions": [
+      "Comment agir pendant la consultation ?",
+      "Que répondez-vous à votre frère ?",
+      "Comment préparer le rendez-vous chez le notaire ?"
+    ],
+    "modelAnswer": "Pendant la consultation, adressez-vous au médecin en laissant la priorité à votre mère. Demandez-lui avant la consultation ce qu’elle souhaite savoir, et notez pour elle. Vous pouvez dire : « Ce mot, que signifie-t-il exactement ? Nous n’avons pas tout compris, pouvons-nous prévoir un autre moment pour les questions ? » Vous pouvez aussi lui suggérer de désigner une personne de confiance. Quant à votre frère, ne mentez pas et ne trahissez pas votre mère : « Je ne peux pas en parler, c’est à maman de le faire. Je vais lui dire que tu t’inquiètes. Appelle-la. » Vous prévenez ensuite votre mère de cette conversation. Pour le notaire, c’est votre mère qui décide : prenez rendez-vous en son nom ou avec elle, préparez ses documents, ses questions et une demande d’estimation des frais. Rappelez-vous que le notaire la conseille elle, et non vous, et que sa capacité à décider ne doit pas être influencée. Le mieux est peut-être qu’elle s’entretienne seule avec lui un moment, afin qu’aucune pression ne puisse lui être reprochée plus tard, y compris par votre frère."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-2-3-5-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Quelle différence y a-t-il généralement entre un notaire et un avocat en France ?",
+        "choices": [
+          "Le notaire défend une seule partie, l’avocat doit conseiller les deux à la fois",
+          "Le notaire est officier public et conseille les parties, l’avocat défend les intérêts de son client",
+          "Le notaire plaide au tribunal, et l’avocat rédige uniquement les actes de vente",
+          "Il n’y a aucune différence, seul le mode de facturation permet de les distinguer"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le notaire donne aux actes une valeur particulière et doit veiller à leur équilibre, ce qui ne remplace pas un avocat en cas de conflit. Chacun peut se faire assister par son propre conseil, y compris lors d’une vente ou d’une succession.",
+        "difficulty": 2
+      },
+      {
+        "id": "l-2-3-5-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Vrai ou faux : demander un second avis médical est un manque de respect envers son médecin.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux. C’est un droit, surtout pour une décision importante. Il suffit de le dire simplement et de demander la transmission du dossier. Un bon médecin comprend cette démarche, et il peut même la proposer.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-3-5-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Quelle est la meilleure manière d’aborder ce que vous avez lu en ligne sur vos symptômes ?",
+        "choices": [
+          "« J’ai déjà trouvé ce que j’ai, il me faut simplement la bonne ordonnance. »",
+          "« J’ai lu des choses qui m’inquiètent. Est-ce que cela pourrait correspondre ? »",
+          "Ne rien dire, puis arrêter le traitement si cela ne correspond pas à vos lectures.",
+          "« Internet n’est pas d’accord avec votre avis, et je vais me renseigner ailleurs. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Vous partagez votre inquiétude et laissez place à sa compétence. Le diagnostic imposé, le silence suivi d’un arrêt du traitement et la défiance posent tous un vrai risque pour vos soins et pour la relation.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-3-5-q4",
+        "type": "multiple",
+        "kind": "maladresse",
+        "statement": "Quelles demandes un professionnel doit-il refuser ?",
+        "choices": [
+          "Un certificat médical de complaisance",
+          "Une information sur un autre patient",
+          "Une estimation de ses honoraires",
+          "Un mensonge d’un avocat dans une procédure"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          3
+        ],
+        "explanation": "Ces demandes l’exposent à une faute professionnelle, voire pénale, et le secret protège aussi les autres. L’estimation des honoraires est au contraire tout à fait légitime et, pour un avocat, généralement encadrée par une convention.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-2-3-5-q5",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Vous avez un grief sérieux envers un hôpital. Quelle est la démarche adaptée ?",
+        "choices": [
+          "Publier le nom et la photo de la soignante sur les réseaux sociaux",
+          "Crier dans le service jusqu’à ce qu’un responsable se déplace",
+          "Écrire à l’établissement avec des faits et saisir la commission des usagers si besoin",
+          "Refuser tous les soins futurs de cet hôpital, sans donner aucune explication"
+        ],
+        "correctAnswers": [
+          2
+        ],
+        "explanation": "Cette voie laisse une trace et ouvre les recours prévus, y compris plus tard devant d’autres instances. La dénonciation en ligne et les cris peuvent vous exposer à des sanctions, et le silence ne permet à personne de corriger le problème.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Loi n° 2002-303 du 4 mars 2002",
+      "note": "Droits des malades et qualité du système de santé."
+    },
+    {
+      "title": "Code pénal, article 226-13",
+      "note": "Secret professionnel."
+    },
+    {
+      "title": "Code de la santé publique, article L1110-4",
+      "note": "Secret médical et accès aux informations."
+    },
+    {
+      "title": "Loi n° 71-1130 du 31 décembre 1971, article 10",
+      "note": "Honoraires des avocats et convention d’honoraires."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-04",
+      "note": "Première rédaction."
+    }
+  ]
+}

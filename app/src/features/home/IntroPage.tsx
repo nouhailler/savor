@@ -34,7 +34,7 @@ export default function IntroPage() {
       </section>
       <section className="stack gap-m">
         <h2 className="h2">Ce que contient cette édition</h2>
-        <p>{domains.length} domaines, {availableLessonCount()} leçons rédigées, {scenarios.length} situations pratiques, {sheets.length} fiches, {dictionary.length} définitions et {countries.length} fiches pays. Le catalogue de référence compte {domains.reduce((n, d) => n + d.lessons.length, 0)} leçons : celles qui ne sont pas encore rédigées sont signalées « en préparation ».</p>
+        <p>{domains.length} domaines, {availableLessonCount()} leçons rédigées, {scenarios.length} situations pratiques, {sheets.length} fiches, {dictionary.length} définitions et {countries.length} fiches pays. {availableLessonCount() < domains.reduce((n, d) => n + d.lessons.length, 0) && <> Le catalogue de référence compte {domains.reduce((n, d) => n + d.lessons.length, 0)} leçons : celles qui ne sont pas encore rédigées sont signalées « en préparation ».</>}</p>
         <p>Chaque règle indique son statut — principe intemporel, usage contemporain, convention traditionnelle, usage historique, pratique culturelle, ou usage variable — et son degré de normativité. Une convention n’est jamais présentée comme une obligation légale.</p>
       </section>
       <div className="row">

@@ -6,8 +6,8 @@
 
 **Une encyclopédie interactive des bonnes manières, de l’élégance et des relations sociales, pour adultes.**
 
-![Version](https://img.shields.io/badge/version-0.2.0-1D2640)
-![Leçons](https://img.shields.io/badge/le%C3%A7ons-86%20sur%20158-B08D45)
+![Version](https://img.shields.io/badge/version-0.3.0-1D2640)
+![Leçons](https://img.shields.io/badge/le%C3%A7ons-158%20sur%20158-B08D45)
 ![PWA](https://img.shields.io/badge/PWA-hors%20ligne-476046)
 ![React](https://img.shields.io/badge/React-19-1D2640?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-1D2640?logo=typescript)
@@ -18,15 +18,15 @@
 </div>
 
 > [!NOTE]
-> Projet en cours. Les leçons sont rédigées mais n’ont pas encore été relues par une personne (statut `draft`), et leurs références restent à vérifier. Voir [ce qui reste à faire](app/docs/RESTE-A-DEVELOPPER.md).
+> Le catalogue est entièrement rédigé, mais les leçons n’ont pas encore été relues par une personne (statut `draft`), et leurs références restent à vérifier. L’application n’est pas encore prête à être présentée comme une source validée. Voir [ce qui reste à faire](app/docs/RESTE-A-DEVELOPPER.md).
 
 ## ✨ Fonctionnalités
 
 | | |
 |---|---|
-| 📚 **Huit domaines, trois niveaux** | De la présentation de soi aux usages à l’étranger, 86 leçons rédigées sur les 158 du catalogue |
+| 📚 **Huit domaines, trois niveaux** | De la présentation de soi aux usages à l’étranger, les 158 leçons du catalogue, soit plus de 500 000 mots |
 | 🎭 **Situations ramifiées** | 32 scénarios où vos choix modifient la suite |
-| 📝 **Quiz et évaluations** | 430 questions expliquées, évaluations initiale et finale par niveau |
+| 📝 **Quiz et évaluations** | 790 questions expliquées, évaluations initiale et finale par niveau |
 | 🔁 **Révisions** | Répétition espacée et questions à reprendre |
 | 🌍 **Références** | 40 fiches pratiques, 64 définitions, 12 fiches pays |
 | 🔍 **Recherche locale** | Dans tous les contenus, sans tenir compte des accents |

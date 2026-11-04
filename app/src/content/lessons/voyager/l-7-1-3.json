@@ -1,0 +1,320 @@
+{
+  "id": "l-7-1-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "summary": "Une voiture est un petit salon où l’on ne peut pas se lever. Respecter celui qui conduit, se comporter en bon passager, partager l’espace et la musique, laisser l’habitacle propre et ne jamais discuter avec la sécurité : quelques règles pour de longs trajets sereins.",
+  "estimatedDuration": 9,
+  "tags": [
+    "voiture",
+    "conducteur",
+    "passager",
+    "covoiturage",
+    "sécurité",
+    "propreté",
+    "musique",
+    "débutant"
+  ],
+  "objectives": [
+    "Respecter le rôle et la concentration du conducteur.",
+    "Se comporter en passager attentif.",
+    "Partager l’espace, le bruit et les frais.",
+    "Mettre la sécurité au-dessus de la politesse."
+  ],
+  "introduction": "Trois heures dans une voiture avec des amis peuvent être un pur bonheur, ou une épreuve de nerfs. Le conducteur freine trop tard, sa voisine lui montre les ronds-points comme s’il ne les voyait pas, les enfants se disputent le chargeur, et quelqu’un a décidé de manger un kebab à l’arrière. Une voiture est un espace privé, avec son propriétaire, où l’on se trouve enfermé en compagnie d’autres personnes, et où une distraction peut avoir de graves conséquences.\n\nCette leçon pour débutants s’adresse aux conducteurs comme aux passagers, en famille, entre amis ou en covoiturage. Elle aborde les petites frictions de la vie en voiture et un sujet plus sérieux : la sécurité. Sur ce point, il n’y a pas de politesse qui tienne. Vous avez le droit de refuser de monter avec quelqu’un qui a bu, de lui demander de ralentir, ou de lui demander de poser son téléphone. Les règles légales citées sont à vérifier, car le Code de la route évolue.",
+  "sections": [
+    {
+      "title": "Le respect du conducteur",
+      "content": "Le conducteur a la responsabilité de la voiture et de ses passagers. Il décide de l’itinéraire, sauf s’il vous demande votre aide, et il a besoin de se concentrer. Ne lui dites pas constamment comment conduire, et évitez de sursauter ou de pousser sur un frein imaginaire. Si vous êtes en désaccord avec son trajet, proposez : « Veux-tu que je regarde si c’est plus rapide par là ? » Attendez qu’il ait fini une manœuvre délicate pour lui parler, et ne lui montrez pas de photo sur votre téléphone en conduisant. Dans une ville inconnue ou par mauvais temps, gardez le silence, et faites-le savoir aux enfants. Il a aussi besoin de faire des pauses, et il faut en respecter le rythme : environ toutes les deux heures.\n\nRemerciez-le. Quelqu’un qui conduit pendant plusieurs heures vous rend un vrai service. Il faut aussi penser à sa fatigue : proposez de prendre le relais, si vous avez le permis, si vous êtes assuré, et si vous vous sentez capable de conduire ce véhicule. Évitez de vous endormir à la place du passager avant, s’il vous a demandé de rester éveillé pour l’aider à rester attentif. Offrez-lui un café à l’arrêt, ou une bouteille d’eau. Si vous êtes conduit jusqu’à une gare, ou si l’on vient vous chercher, offrez de payer le parking et remerciez-le. Si la personne vous emmène souvent, proposez de participer aux frais, ou faites un autre geste en retour.\n\nConduire vous donne aussi des devoirs envers vos passagers. Adaptez votre conduite à ceux qui sont à bord : une personne âgée, un enfant malade ou une personne qui a mal au cœur appréciera une conduite souple. Ne conduisez pas pour faire peur ni pour impressionner. Si quelqu’un vous demande de ralentir, faites-le sans discuter : il ne vous reproche pas d’être mauvais, il est mal à l’aise. N’utilisez pas votre téléphone au volant, même en vous arrêtant sur la bande d’arrêt d’urgence, car cela reste interdit et dangereux. Enfin, soyez poli avec les autres conducteurs : un coup de klaxon rageur et un geste obscène mettent aussi vos passagers mal à l’aise, et ils peuvent déclencher une véritable agression."
+    },
+    {
+      "title": "Le comportement du passager",
+      "content": "Le rôle du passager avant ne se limite pas à être assis. Vous pouvez aider à lire les panneaux, à gérer le GPS, à prévoir la prochaine pause, ou à passer une bouteille d’eau au conducteur. Demandez-lui ce qui l’aide : certains aiment parler, d’autres préfèrent le calme. Ne prenez pas le volant, même pour un petit geste, sauf en cas d’urgence absolue. Si vous êtes à l’arrière, ne donnez pas de coups de pied dans le siège de devant et ne vous penchez pas entre les sièges. Bouclez toujours votre ceinture, y compris à l’arrière, comme le prévoit la loi. Le conducteur peut vous demander de la mettre, sans que cela ait quoi que ce soit d’impoli, et il répond des passagers mineurs.\n\nSi vous êtes en covoiturage, soyez ponctuel. Le conducteur peut avoir prévu d’autres arrêts, et les autres passagers ont aussi des obligations. Saluez chacun, demandez où vous pouvez poser votre sac et respectez les règles indiquées sur la plateforme, comme la possibilité de fumer ou de venir avec un animal. Réglez le montant convenu, sans le discuter à l’arrivée. Une conversation peut être très agréable, mais ne pressez pas celui qui préfère le silence. Vous pouvez dire : « Je vais écouter de la musique, ça ne vous dérange pas ? » Les personnes qui voyagent ainsi ne s’attendent pas à une grande amitié, mais à un trajet sans histoires.\n\nDans une voiture qui n’est pas la vôtre, demandez avant de modifier quelque chose : le siège, le chauffage, la radio ou la vitre. Ne posez pas les pieds sur le tableau de bord : c’est peu poli, et très dangereux en cas de déclenchement d’un coussin gonflable. Ne jetez rien par la fenêtre, surtout pas de mégot, ce qui peut provoquer un incendie. Évitez d’appliquer un parfum ou du vernis à ongles à l’odeur très forte. Si vous ne vous sentez pas bien, dites-le à temps : « Pourrions-nous nous arrêter ? J’ai mal au cœur. » Il vaut bien mieux perdre cinq minutes que de nettoyer la voiture. Si vous êtes pris d’un malaise, le conducteur doit pouvoir s’arrêter dans un endroit sûr."
+    },
+    {
+      "title": "Le partage de l’espace",
+      "content": "Avant de partir, mettez-vous d’accord sur ce qui pose le plus de problèmes : les places, les bagages, la musique, la température et les pauses. Le coffre doit être organisé pour que chacun y ait sa place, sans cacher la vue du conducteur. Les personnes les plus grandes ou celles qui ont mal au cœur peuvent s’asseoir à l’avant, et vous pouvez alterner sur un long trajet. Ne laissez pas toujours les femmes ou les plus jeunes à l’arrière, avec les enfants. Si un enfant doit voyager, il doit être installé dans un siège adapté à sa taille et à son âge, ce que la loi impose. Prévoyez aussi quelque chose pour l’occuper sans déranger les autres.\n\nLa musique est une source de conflit classique. Une tradition veut que le conducteur choisisse, mais elle peut se partager : chacun peut proposer une sélection à tour de rôle. Si une personne veut dormir, baissez le volume. Si vous regardez une vidéo, utilisez des écouteurs. Évitez les longs appels en haut-parleur, et prévenez votre interlocuteur si d’autres personnes vous écoutent. La température ne plaît pas à tout le monde : un passager qui a froid peut prendre une veste, et celui qui a chaud peut ouvrir un peu sa fenêtre. Une conversation peut réunir tout le monde, à condition de ne pas exclure ceux qui sont à l’arrière en parlant à voix basse à l’avant.\n\nLes frais se partagent aussi, surtout pour un long voyage. Mettez-vous d’accord avant de partir : essence, péages, éventuellement l’usure de la voiture. Celui qui prête sa voiture ne doit pas tout payer. Proposez de faire le plein, ou de régler le péage. En covoiturage, le prix est fixé à l’avance, et il ne doit couvrir que les frais, faute de quoi cela peut devenir une activité professionnelle soumise à d’autres règles. Si la personne vous prête sa voiture, rendez-la avec le plein, et signalez tout problème ou tout choc, même minime. Le moindre accroc doit lui être signalé, et vous devrez assumer la franchise d’assurance, si elle en réclame une."
+    },
+    {
+      "title": "Propreté et sécurité",
+      "content": "Laissez la voiture aussi propre qu’à votre arrivée. Évitez de manger des plats gras ou très odorants, et demandez avant de manger quoi que ce soit à bord. Emportez vos déchets, et utilisez un petit sac prévu à cet effet. Si vous avez sali quelque chose, comme du sable, des miettes ou de la boue, proposez de nettoyer. Enlevez vos chaussures si le conducteur vous le demande. Ne fumez jamais dans la voiture de quelqu’un sans sa permission, ce qui est d’ailleurs interdit en présence d’un mineur. Si vous avez un animal, attachez-le ou placez-le dans une caisse, et apportez une couverture pour protéger le siège. Pour un trajet d’une certaine durée, prévoyez de l’eau et de quoi vous arrêter avec lui.\n\nSur la sécurité, il n’y a aucune négociation. Vous pouvez refuser de monter dans une voiture dont le conducteur a bu, pris de la drogue, ou semble épuisé, et il peut vous en vouloir. Dites-le simplement : « Je préfère ne pas monter. Je vais t’appeler un taxi, et je te laisse les clés de ma voiture si tu veux. » Vous pouvez demander à quelqu’un de ralentir, de mettre sa ceinture ou de poser son téléphone. Dites : « Je me sens mal à l’aise, peux-tu ralentir, s’il te plaît ? » S’il refuse, demandez à descendre à un endroit sûr. Il vaut mieux gâcher une soirée que de risquer une vie. Prévoyez un conducteur sobre, comme le rappelle la leçon sur les boissons.\n\nEn cas d’accident, restez calme : sécurisez la zone, utilisez le gilet de sécurité, le triangle ou les feux de détresse selon les règles, et appelez le 112 si nécessaire. Remplissez un constat, sans vous disputer sur les responsabilités, et prenez des photos si cela est utile. Si vous êtes passager et que vous êtes en état, aidez le conducteur. Il faut se montrer très prudent sur une autoroute, et s’éloigner de la route derrière une barrière de sécurité. Une panne ne justifie pas de faire des manœuvres dangereuses. Enfin, si un autre conducteur se montre agressif, ne répondez pas, verrouillez les portes et, si le danger persiste, appelez le 17 en restant dans la voiture."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-7-1-3-r1",
+      "title": "Laissez le conducteur conduire.",
+      "description": "On ne commente pas sans cesse sa conduite et on ne le distrait pas dans les moments délicats.",
+      "rationale": "Il a besoin de se concentrer, et une remarque au mauvais moment peut provoquer une erreur. Le stress augmente aussi le risque.",
+      "context": "Longs trajets, circulation, villes inconnues.",
+      "recommendedBehavior": "Proposez votre aide : « Veux-tu que je regarde l’itinéraire ? » et attendez les moments calmes pour parler.",
+      "exceptions": [
+        "Si vous voyez un danger réel, signalez-le immédiatement, et clairement."
+      ],
+      "remedy": "Si vous avez trop parlé, dites : « Excuse-moi, je te laisse conduire. »",
+      "conventionType": "universal_principle",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-7-1-3-r2",
+      "title": "Bouclez votre ceinture à toutes les places.",
+      "description": "Tous les occupants attachent leur ceinture, y compris à l’arrière et pour un petit trajet.",
+      "rationale": "Le Code de la route l’impose, et en cas de choc, un passager non attaché peut aussi blesser les autres.",
+      "context": "Tous les trajets.",
+      "recommendedBehavior": "Attachez-vous sans attendre qu’on vous le demande. Installez les enfants dans un dispositif adapté.",
+      "exceptions": [
+        "Certaines dispenses médicales existent et sont encadrées."
+      ],
+      "remedy": "Si quelqu’un ne l’a pas mise, demandez-lui avant de démarrer.",
+      "conventionType": "contextual_rule",
+      "normativity": "legal_obligation"
+    },
+    {
+      "id": "l-7-1-3-r3",
+      "title": "Mettez-vous d’accord sur les frais avant de partir.",
+      "description": "Essence, péages et parking se partagent, selon ce qui a été convenu.",
+      "rationale": "Celui qui conduit fournit déjà la voiture et son temps. En parler avant évite toute gêne à l’arrivée.",
+      "context": "Trajets entre amis, vacances, covoiturage.",
+      "recommendedBehavior": "Dites : « On partage l’essence et les péages ? » Proposez de faire le plein.",
+      "exceptions": [
+        "Un proche peut vous inviter, à charge pour vous de le remercier autrement."
+      ],
+      "remedy": "Si vous n’y avez pas pensé, proposez de payer le plein de retour.",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-7-1-3-r4",
+      "title": "Ne montez pas avec un conducteur qui a bu.",
+      "description": "La sécurité passe avant toute politesse : on refuse, et on propose une autre solution.",
+      "rationale": "L’alcool, la drogue et la fatigue sont des causes majeures d’accidents mortels. Une gêne est bien préférable à un drame.",
+      "context": "Soirées, fêtes, retours tardifs.",
+      "recommendedBehavior": "Dites : « Je préfère ne pas monter. Je t’appelle un taxi. » Prévoyez un conducteur sobre à l’avance.",
+      "exceptions": [],
+      "remedy": "Si vous êtes déjà à bord, demandez à descendre dans un endroit sûr.",
+      "conventionType": "contextual_rule",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-7-1-3-r5",
+      "title": "Rendez la voiture comme vous l’avez trouvée.",
+      "description": "On emporte ses déchets, on nettoie ce qu’on a sali et on signale tout choc.",
+      "rationale": "Elle ne vous appartient pas. Un accroc caché peut coûter cher et abîmer la confiance.",
+      "context": "Voitures prêtées, covoiturage, véhicules d’entreprise.",
+      "recommendedBehavior": "Prévoyez un sac pour les déchets, faites le plein et dites-le en cas d’accroc.",
+      "exceptions": [],
+      "remedy": "Si vous avez abîmé quelque chose, proposez de payer la réparation ou la franchise.",
+      "conventionType": "universal_principle",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "La voiture a transformé notre rapport aux autres. Roland Barthes, dans ses Mythologies, y voyait un objet presque sacré, signe de liberté et de réussite. À l’intérieur, elle ressemble à une pièce privée ; à l’extérieur, elle fait partie d’un espace commun, où des milliers d’inconnus doivent se faire confiance à grande vitesse. Le journaliste Tom Vanderbilt a décrit comment nous nous comportons au volant d’une façon que nous n’aurions jamais à pied. Les grandes campagnes françaises contre l’alcool au volant et l’obligation de la ceinture ont sauvé des dizaines de milliers de vies depuis les années 1970. Elles rappellent que la politesse sur la route n’est pas un simple ornement : c’est aussi une question de vie.",
+  "examples": [
+    {
+      "context": "Vous êtes passager dans la voiture d’un ami qui conduit vite, et vous n’êtes pas à l’aise.",
+      "behavior": "« Je ne me sens pas très bien quand on roule si vite. Tu peux ralentir un peu, s’il te plaît ? » Il ralentit. S’il ne le faisait pas, vous lui demanderiez de vous laisser à la prochaine aire.",
+      "explanation": "Vous parlez de vous, et non de sa valeur de conducteur, ce qui rend la demande plus facile à entendre. Il y a toutefois une limite que vous ne dépasserez pas."
+    },
+    {
+      "context": "Vous partez à quatre en vacances, dans la voiture de Julie.",
+      "behavior": "Avant le départ, vous proposez : « On partage l’essence et les péages en quatre. Qui prend le relais du volant ? Chacun sa sélection musicale, une heure à la fois ? »",
+      "explanation": "Les sujets qui fâchent sont réglés avant de partir, et Julie n’a pas à les soulever. Le trajet peut être agréable pour tout le monde."
+    },
+    {
+      "context": "Après une soirée, votre collègue veut vous raccompagner, et vous voyez qu’il a bu.",
+      "behavior": "« C’est gentil, mais je préfère ne pas monter. Je prends un taxi. On peut le partager, et tu reprendras ta voiture demain. » Vous prévenez aussi l’hôte de la situation.",
+      "explanation": "Vous refusez sans le juger, et vous proposez une solution. Il peut se vexer, mais vous vous protégez, et vous pouvez peut-être l’empêcher de prendre la route."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Vous êtes assis à l’avant, dans la voiture d’un ami, sur une route que vous connaissez bien.",
+      "behavior": "Dire : « Attention ! Freine ! Tu aurais dû prendre à gauche ! », tout en appuyant sur le tapis.",
+      "consequences": "Il s’énerve et il se déconcentre, et la voiture devient moins sûre.",
+      "alternative": "Proposez de l’aider à lire l’itinéraire et signalez seulement les vrais dangers."
+    },
+    {
+      "situation": "Vous prenez un covoiturage pour la première fois.",
+      "behavior": "Arriver vingt minutes en retard, puis passer un long appel sur haut-parleur.",
+      "consequences": "Le conducteur et les autres passagers sont retardés et gênés.",
+      "alternative": "Soyez à l’heure, parlez à voix basse et rappelez plus tard, si nécessaire."
+    },
+    {
+      "situation": "Vous empruntez la voiture d’une amie, et vous éraflez son pare-chocs.",
+      "behavior": "La rendre sans rien dire, en espérant qu’elle ne le remarquera pas.",
+      "consequences": "Elle le découvrira, et vous perdrez sa confiance bien plus que le prix de la réparation.",
+      "alternative": "Dites-le tout de suite et proposez de payer."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Couples et volant.",
+      "text": "Dans de nombreux couples, les disputes surviennent en voiture, autour de l’itinéraire ou de la conduite. Il arrive aussi que l’homme conduise par habitude. Il n’y a aucune raison à cela. Vous pouvez conduire à tour de rôle, et vous mettre d’accord pour remettre les discussions difficiles à un moment où personne n’est au volant."
+    },
+    {
+      "title": "Personnes âgées au volant.",
+      "text": "Dire à un parent âgé qu’il ne doit plus conduire est très délicat, car la voiture représente sa liberté. Parlez-en avec tact, et non en passager moqueur. Un médecin peut vous aider. Proposez d’autres moyens de se déplacer, et ne lui enlevez pas ses clés sans raison ni sans en discuter, sauf danger immédiat."
+    },
+    {
+      "title": "Selon les pays.",
+      "text": "Le klaxon, la priorité et les distances n’ont pas le même sens partout. Dans certaines villes d’Asie ou d’Afrique, le klaxon sert à signaler sa présence, et il n’a rien d’agressif. En Scandinavie, les limitations et l’alcool au volant sont pris très au sérieux. Renseignez-vous sur les règles du pays, avant de louer une voiture."
+    }
+  ],
+  "contexts": [
+    "Famille : enfants et sièges adaptés.",
+    "Amis : frais et relais au volant.",
+    "Covoiturage : ponctualité et discrétion.",
+    "Soirées : conducteur sobre et retour sécurisé."
+  ],
+  "keyPoints": [
+    "Laissez le conducteur conduire.",
+    "Bouclez votre ceinture à toutes les places.",
+    "Mettez-vous d’accord sur les frais avant de partir.",
+    "Ne montez pas avec un conducteur qui a bu.",
+    "Rendez la voiture comme vous l’avez trouvée."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "En voiture",
+    "instructions": "Associez chaque situation à la meilleure réaction.",
+    "pairs": [
+      {
+        "left": "Un conducteur vous semble rouler trop vite",
+        "right": "« Je ne suis pas à l’aise. Tu peux ralentir ? »"
+      },
+      {
+        "left": "Un ami a bu et veut vous raccompagner",
+        "right": "« Je préfère ne pas monter. J’appelle un taxi. »"
+      },
+      {
+        "left": "Un trajet de six heures entre amis",
+        "right": "Partager les frais et le volant à l’avance"
+      },
+      {
+        "left": "Vous avez mal au cœur à l’arrière",
+        "right": "« Pourrions-nous nous arrêter, s’il vous plaît ? »"
+      },
+      {
+        "left": "Vous éraflez une voiture empruntée",
+        "right": "Le signaler et proposer de payer"
+      }
+    ],
+    "explanation": "Ces réponses parlent clairement de ce que vous ressentez ou de ce qui s’est produit. La sécurité passe avant la politesse : personne ne doit monter avec un conducteur dangereux."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-7-1-3-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Que faire si vous êtes en retard pour un covoiturage ?",
+        "choices": [
+          "Ne rien dire et espérer que le conducteur vous attendra sans poser de questions",
+          "Prévenir tout de suite le conducteur, et accepter qu’il parte si nécessaire",
+          "Lui reprocher d’être parti à l’heure prévue, s’il ne vous a pas attendu",
+          "Demander aux autres passagers de faire pression sur lui pour qu’il attende"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Le conducteur et les autres passagers ont leurs propres contraintes, et ils doivent être prévenus. Ils peuvent décider de vous attendre, sans en avoir l’obligation, et vous devrez alors trouver une autre solution.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-1-3-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Vrai ou faux : on peut se dispenser de ceinture à l’arrière pour un trajet très court.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux. La ceinture est obligatoire à toutes les places, et en cas de choc, un passager non attaché peut aussi blesser les autres. Un trajet court n’empêche pas un accident.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-1-3-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Comment refuser de monter avec un conducteur qui a bu ?",
+        "choices": [
+          "« Tu es complètement ivre et tu es un vrai danger public, comme d’habitude ! »",
+          "« Je préfère ne pas monter. Je t’appelle un taxi, si tu veux. »",
+          "« Bon, je monte quand même, je n’ose pas te dire non devant les autres. »",
+          "« Tu conduiras doucement et tout ira bien, d’accord ? Allez, on y va. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Vous refusez clairement sans l’humilier, et vous lui proposez une solution. Il ne faut pas monter par politesse, car rien ne vaut votre vie ni celle de ceux que vous pourriez croiser sur la route.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-1-3-q4",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Que doit-on faire pour une voiture empruntée à un proche ?",
+        "choices": [
+          "Faire le plein avant de la rendre",
+          "Emporter vos déchets",
+          "Signaler tout accroc, même petit",
+          "Fumer librement à l’intérieur si vous aérez ensuite"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Ces gestes montrent le respect de ce qu’on vous a prêté, et ils protègent la confiance. On ne fume pas dans la voiture d’un autre sans son accord, et il faut toujours lui demander d’abord.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-7-1-3-q5",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quel comportement est dangereux pour un passager à l’avant ?",
+        "choices": [
+          "Lire l’itinéraire à voix haute, quand le conducteur le demande",
+          "Poser les pieds sur le tableau de bord",
+          "Passer une bouteille d’eau pendant une pause",
+          "Proposer de prendre le relais après deux heures"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "En cas de choc, le coussin gonflable peut provoquer de graves blessures, en plus d’être impoli dans la voiture d’un autre. Les autres gestes aident le conducteur, et ils rendent le trajet plus agréable.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Code de la route",
+      "note": "Ceinture, téléphone, alcool et sièges d’enfant, à vérifier."
+    },
+    {
+      "title": "Sécurité routière (site officiel)",
+      "note": "Conseils et règles en vigueur."
+    },
+    {
+      "title": "Tom Vanderbilt, Traffic (Knopf, 2008)",
+      "note": "Psychologie de la conduite."
+    },
+    {
+      "title": "Roland Barthes, Mythologies (Seuil, 1957)",
+      "note": "« La nouvelle Citroën »."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-04",
+      "note": "Première rédaction."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Rapport des tests exécutés
 
-Dernière exécution : 2 novembre 2026, sur 86 leçons. Environnement : Linux, Node 24.21, Vitest 5.0.5, Playwright 1.64.1, Chromium.
+Dernière exécution : 4 novembre 2026, sur 158 leçons. Environnement : Linux, Node 24.21, Vitest 5.0.5, Playwright 1.64.1, Chromium.
 
 ## Résultat
 
@@ -8,10 +8,10 @@ Dernière exécution : 2 novembre 2026, sur 86 leçons. Environnement : Linux, N
 |---|---|---|
 | TypeScript | `npm run typecheck` | Aucune erreur |
 | Lint | `npm run lint` | Aucune erreur |
-| Tests unitaires et contenu | `npm test` | **550 réussis sur 550** (7 fichiers) |
-| Build de production | `npm run build` | Réussi, 152 fichiers en précache, 3,1 Mo |
+| Tests unitaires et contenu | `npm test` | **982 réussis sur 982** (7 fichiers) |
+| Build de production | `npm run build` | Réussi, 224 fichiers en précache, 5 Mo |
 | Parcours navigateur | `npm run test:e2e` | **110 réussis sur 112** (56 scénarios, bureau et mobile émulé) ; 1 scénario échoue, voir plus bas |
-| Mêmes parcours sous Wrangler, avec les vrais en-têtes | `E2E_BASE_URL=… npx playwright test --project=desktop` | **54 réussis sur 54** |
+| Mêmes parcours sous Wrangler, avec les vrais en-têtes | `E2E_BASE_URL=… npx playwright test --project=desktop` | **54 réussis sur 54**, à 86 leçons : non relancé depuis |
 | Dépendances de production | `npm audit --omit=dev` | **0 vulnérabilité** |
 | Toutes dépendances | `npm audit` | 19 vulnérabilités, outils de développement seulement (voir plus bas) |
 

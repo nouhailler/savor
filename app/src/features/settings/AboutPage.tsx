@@ -12,7 +12,7 @@ export default function AboutPage() {
       <PageHead eyebrow="À propos" title="Présentation et sources" lead="Une encyclopédie numérique du savoir-vivre contemporain, pensée pour les adultes, consultable sans compte et sans connexion." />
       <section className="stack gap-s">
         <h2 className="h2">Cette édition</h2>
-        <p>{availableLessonCount()} leçons rédigées sur les {domains.reduce((n, d) => n + d.lessons.length, 0)} du catalogue de référence, {scenarios.length} situations, {sheets.length} fiches pratiques, {dictionary.length} définitions, {countries.length} fiches pays. Version {__APP_VERSION__}.</p>
+        <p>{availableLessonCount()} leçons rédigées sur les {domains.reduce((n, d) => n + d.lessons.length, 0)} du catalogue, {scenarios.length} situations, {sheets.length} fiches pratiques, {dictionary.length} définitions, {countries.length} fiches pays. Version {__APP_VERSION__}.</p>
       </section>
       <section className="stack gap-s">
         <h2 className="h2">Originalité des contenus</h2>

@@ -1,7 +1,7 @@
 {
   "name": "l-art-du-savoir-vivre",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "type": "module",
   "description": "L'Art du Savoir-Vivre — encyclopédie interactive des bonnes manières (PWA)",
   "scripts": {

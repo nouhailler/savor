@@ -1,0 +1,320 @@
+{
+  "id": "l-4-2-3",
+  "version": "1.0.0",
+  "status": "draft",
+  "createdAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "summary": "Une grande table, un bistrot, un déjeuner d’affaires, une tablée de douze : à chaque restaurant son comportement. Et, pour clore le repas, deux questions qui fâchent : qui paie, et combien laisser selon le pays ?",
+  "estimatedDuration": 12,
+  "tags": [
+    "restaurant",
+    "gastronomie",
+    "addition",
+    "pourboire",
+    "repas d’affaires",
+    "groupe",
+    "sommelier",
+    "service"
+  ],
+  "objectives": [
+    "Profiter d’un restaurant gastronomique sans intimidation.",
+    "Conduire un repas d’affaires, de l’invitation au règlement.",
+    "Organiser un repas de groupe et partager l’addition sans gêne.",
+    "Connaître les usages du pourboire selon les pays."
+  ],
+  "introduction": "La première fois qu’on entre dans un grand restaurant, on peut se sentir observé. Trois personnes s’occupent de votre table, et l’on vous présente un pain que vous n’avez pas demandé, tandis qu’un sommelier vous tend une carte aussi épaisse qu’un annuaire. On sait pourtant que les meilleures de ces maisons sont celles où l’on est mis à l’aise, quel que soit son costume. Et à l’autre bout de l’échelle, une tablée de dix amis autour d’une pizza peut finir en dispute, à cause d’une addition mal répartie.\n\nCette leçon de niveau intermédiaire complète celle sur les bonnes manières au restaurant. On n’y revient pas sur la réservation ou la façon de s’adresser au personnel : elle s’intéresse plutôt à ce qui change selon les lieux, les personnes et les pays. Vous y trouverez aussi des repères pour les pourboires, à vérifier avant le départ, car ces habitudes évoluent rapidement.",
+  "sections": [
+    {
+      "title": "Restaurants gastronomiques et traditionnels",
+      "content": "Un restaurant gastronomique propose un moment, autant qu’un repas. Prévoyez du temps : deux à trois heures sont fréquentes. Renseignez-vous sur la tenue en consultant son site, et sachez qu’une tenue soignée sans excès convient généralement. Si l’on vous propose le menu dégustation, sachez que ce choix s’applique souvent à toute la table. Consultez les prix à l’avance, et si vous êtes l’invité, évitez les plats les plus chers, sauf si votre hôte vous y invite. Si vous ne connaissez pas un terme, demandez : expliquer les plats fait partie du travail de la maison, et la question n’a rien de honteux. Vous pouvez aussi signaler une allergie ou une préférence.\n\nLe sommelier est là pour vous aider, et non pour vous juger. Indiquez-lui ce que vous aimez, ce que vous mangez et votre budget. Vous pouvez le faire en toute discrétion, en montrant un prix sur la carte : « Quelque chose dans cet ordre-là. » Lorsqu’on vous fait goûter, il s’agit de vérifier que le vin n’a pas de défaut, et non de décider s’il vous plaît. Regardez, sentez et goûtez une gorgée, puis un signe de tête suffit. Vous ne refusez une bouteille que si elle a réellement un défaut, comme un goût de bouchon. Personne ne vous oblige à boire de l’alcool : dites que vous prendrez de l’eau, ou demandez un accord sans alcool, de plus en plus proposé.\n\nLe bistrot et la brasserie ont une ambiance bien différente. On y parle plus fort et le service est plus rapide, les tables sont proches et l’on peut se retrouver à partager des conversations avec ses voisins. Il n’est pas nécessaire d’y adopter des manières de grande table : personne ne vous attend en tenue. Le plat du jour est souvent le meilleur choix, et on peut prendre un café sans dessert. Les restaurants à l’heure du déjeuner comptent sur la rotation des tables, et le service a son rythme. Dans ces endroits, l’habitué connaît souvent le patron, et il peut avoir un traitement différent : ne vous en offusquez pas, et revenez, ce sera bientôt votre tour."
+    },
+    {
+      "title": "Le repas professionnel",
+      "content": "Un repas d’affaires est une réunion où l’on mange, et non un repas où l’on travaille. Celui qui invite choisit le lieu en tenant compte des contraintes de son invité : régime, trajet, durée et niveau de bruit. Évitez un restaurant où vous ne pourrez pas vous entendre, ou un plat difficile à manger. Arrivez avant vos invités, et laissez-leur la meilleure place. Il est de bon ton de ne pas aborder le sujet principal dès l’arrivée, en France notamment : parlez d’abord de leur voyage ou de ce qui les intéresse, et venez-en aux affaires au plat principal ou au café. Dans d’autres pays, on peut aller plus vite. Observez leur rythme.\n\nMangez peu, et buvez encore moins. Vous êtes là pour parler et pour écouter, et le deuxième verre de vin n’a jamais amélioré une négociation. Personne n’est tenu de boire de l’alcool, et il n’y a pas lieu de se justifier. Laissez le téléphone dans votre poche et ne mettez pas de documents sur la table avant le café. Si vous êtes l’invité, évitez de choisir le plat le plus cher, et prenez votre temps sans retarder la table. Parlez de ce qui peut intéresser l’autre, et gardez les opinions politiques pour un autre jour. Vous êtes observé : votre façon de parler au serveur compte autant que vos chiffres.\n\nCelui qui invite paie, et il le fait avec discrétion. Pour éviter toute hésitation au moment de l’addition, laissez votre carte au maître d’hôtel en arrivant, ou réglez en vous levant. Si vous êtes une femme qui invite un homme, faites la même chose ; un serveur risque de lui tendre l’addition, et vous pouvez simplement la prendre. En matière de règles internes, vérifiez les plafonds de votre employeur, et de la personne que vous recevez : certaines entreprises, ainsi que les fonctionnaires, sont soumises à des règles strictes sur les cadeaux et les invitations, à cause des lois contre la corruption. Envoyez un petit mot de remerciement le lendemain si vous étiez invité, et tenez ce que vous avez promis à table."
+    },
+    {
+      "title": "Le repas de groupe",
+      "content": "Un groupe de dix personnes est un petit événement pour un restaurant. Réservez bien à l’avance, et confirmez le nombre la veille. Demandez s’il y a un menu de groupe, et ne vous formalisez pas s’il est obligatoire : il permet à la cuisine de sortir tous les plats en même temps. Une personne doit se charger de l’organisation : elle confirme, réunit les choix et s’occupe de parler au restaurant. Prévenez que tel ami est végétarien, ou tel autre intolérant au gluten. Arrivez à l’heure : il est très difficile pour le personnel de faire attendre une cuisine pendant que quatre personnes cherchent à se garer.\n\nÀ table, il n’est pas évident pour tout le monde d’entrer dans la conversation. Si vous êtes à une grande table, parlez à vos voisins de droite et de gauche, et regardez celui qui reste en bout de table. Faites en sorte que personne ne soit oublié, par exemple un conjoint qui ne connaît personne. Évitez d’interpeller quelqu’un à l’autre bout de la table à voix haute, car cela gêne les autres clients. Ne demandez pas au serveur de faire dix additions séparées sans l’avoir prévenu au début. Une tablée de vingt peut être très bruyante pour les voisins : si vous fêtez un anniversaire, demandez à l’avance à la maison où il vaut mieux s’installer.\n\nLes repas de groupe sont délicats quand les budgets diffèrent. Une personne qui paie un loyer élevé avec un petit salaire peut avoir du mal à suivre, et elle peut ne pas oser le dire. Choisissez un lieu qui convient à tout le monde, ou indiquez le prix en invitant : « On va chez X, c’est environ 30 euros. » On peut aussi organiser un repas en dehors de tout restaurant, pour que personne ne soit gêné. Si vous avez davantage de moyens que vos amis, ne les emmenez pas toujours dans les restaurants que vous préférez, et ne proposez pas constamment de payer pour eux. Une attention discrète vaut mieux qu’une générosité qui fait sentir la différence."
+    },
+    {
+      "title": "L’addition et les pourboires",
+      "content": "Il y a plusieurs manières de partager. Pour un petit groupe d’amis, il est courant de diviser à parts égales lorsque les plats sont à peu près identiques. Si vous avez pris deux bouteilles de vin et que votre voisine a pris de l’eau et une salade, proposez spontanément de payer plus : c’est à ceux qui ont pris davantage de le dire, et non à celle qui a pris le moins d’oser. Dites-le à l’avance : « On fait chacun pour soi ? » Beaucoup d’applications simplifient aujourd’hui les remboursements, et il est sage de ne pas réclamer un euro et demi trois fois de suite. Ne vous disputez pas pour payer. Si deux personnes insistent, l’une accepte, et l’autre paiera la prochaine fois.\n\nDans une invitation, c’est celui qui invite qui paie, quel que soit son sexe. Si une invitation est ambiguë, par exemple lors d’un premier rendez-vous, proposez de partager, et acceptez la réponse de l’autre sans en faire un test de caractère. Vérifiez l’addition discrètement, et si vous constatez une erreur, signalez-la calmement au serveur. Celui qui reçoit un repas offert par le restaurant remercie, et il laisse éventuellement un petit quelque chose. Si vous n’avez pas de quoi payer, ou si votre carte ne fonctionne pas, dites-le discrètement au responsable. Il existe souvent une solution, et un malentendu ne doit pas devenir une scène.\n\nLes pourboires varient beaucoup. En France, le service est compris dans le prix : le pourboire est facultatif, et on laisse quelques euros pour un bon service. Aux États-Unis, il constitue une part essentielle du salaire des serveurs, et on laisse généralement entre 15 et 20 %. Au Canada, il est de cet ordre aussi. Au Japon, il peut être perçu comme gênant, et il est le plus souvent refusé ; dans certains pays d’Europe, on arrondit simplement. En Italie, le coperto est un montant facturé pour le pain et le couvert ; au Royaume-Uni, une « service charge » figure parfois déjà sur la note. Vérifiez la note avant d’ajouter quoi que ce soit, et consultez un guide récent sur le pays concerné, car ces habitudes évoluent. Laissez le pourboire avec discrétion, sans en faire une affaire, et sans chercher à montrer votre générosité."
+    }
+  ],
+  "rules": [
+    {
+      "id": "l-4-2-3-r1",
+      "title": "Celui qui invite paie, quel que soit son sexe.",
+      "description": "L’invitation entraîne le règlement, sauf accord contraire annoncé avant le repas.",
+      "rationale": "Cela évite l’inconfort à la fin du repas. L’usage selon lequel l’homme paie a beaucoup reculé, et il suppose une inégalité qui ne correspond plus à de nombreuses situations.",
+      "context": "Repas d’affaires, sorties amicales, rendez-vous.",
+      "recommendedBehavior": "Indiquez clairement : « Je t’invite », puis réglez discrètement.",
+      "exceptions": [
+        "Certaines cultures attendent que le plus âgé ou l’hôte du pays paie : laissez faire."
+      ],
+      "remedy": "Si la situation devient embarrassante, proposez de partager, ou de payer à tour de rôle.",
+      "conventionType": "modern_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-4-2-3-r2",
+      "title": "Goûter le vin sert à repérer un défaut.",
+      "description": "On ne renvoie une bouteille que si elle a un défaut, et non parce qu’elle ne plaît pas.",
+      "rationale": "Le restaurant ne peut guère vendre une bouteille ouverte. Si vous avez choisi le mauvais vin, il n’en est pas responsable, surtout si le sommelier vous a conseillé.",
+      "context": "Restaurants avec service du vin.",
+      "recommendedBehavior": "Sentez, goûtez une gorgée, puis faites signe de servir. Si le vin sent le bouchon, dites-le.",
+      "exceptions": [
+        "Un sommelier qui a beaucoup insisté peut proposer un échange de son propre chef."
+      ],
+      "remedy": "En cas de doute, demandez au sommelier de goûter.",
+      "conventionType": "traditional_custom",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-4-2-3-r3",
+      "title": "Au restaurant d’affaires, on discute, on ne s’enivre pas.",
+      "description": "On boit peu, on écoute et on laisse les documents dans son sac jusqu’au café.",
+      "rationale": "Vous êtes observé, et un excès peut peser longtemps. Le but est d’abord de créer une relation.",
+      "context": "Déjeuners et dîners professionnels.",
+      "recommendedBehavior": "Prenez un verre au plus, si vous le souhaitez. Gardez votre téléphone rangé.",
+      "exceptions": [
+        "Dans certains pays, comme en Corée ou au Japon, refuser de boire est plus délicat, mais un motif de santé est accepté."
+      ],
+      "remedy": "Si vous avez trop bu ou trop parlé, envoyez un mot sobre le lendemain.",
+      "conventionType": "contextual_rule",
+      "normativity": "common_usage"
+    },
+    {
+      "id": "l-4-2-3-r4",
+      "title": "Celui qui a pris le plus le propose.",
+      "description": "En cas de partage inégal, ceux qui ont consommé davantage proposent de payer plus.",
+      "rationale": "La personne qui a mangé peu n’ose souvent pas le dire. Ne pas lui imposer de payer pour les autres est un geste d’attention.",
+      "context": "Repas entre amis et collègues.",
+      "recommendedBehavior": "Dites : « J’ai pris le vin, je mets plus. »",
+      "exceptions": [],
+      "remedy": "Si vous vous rendez compte trop tard que quelqu’un a trop payé, proposez de lui rembourser la différence.",
+      "conventionType": "modern_custom",
+      "normativity": "recommendation"
+    },
+    {
+      "id": "l-4-2-3-r5",
+      "title": "Vérifiez l’usage du pourboire avant de partir.",
+      "description": "Le pourboire peut être facultatif, obligatoire de fait ou mal vu, selon le pays.",
+      "rationale": "Aux États-Unis, l’omettre prive le serveur d’une part de son salaire. Au Japon, laisser de l’argent peut gêner.",
+      "context": "Voyages, repas à l’étranger.",
+      "recommendedBehavior": "Consultez un guide récent, et regardez si le service figure déjà sur la note.",
+      "exceptions": [],
+      "remedy": "Si vous vous êtes trompé, ajoutez ce qui manque ou excusez-vous simplement.",
+      "conventionType": "cultural_custom",
+      "normativity": "common_usage"
+    }
+  ],
+  "why": "La gastronomie française a été inscrite en 2010 au patrimoine culturel immatériel de l’UNESCO, sous le nom de « repas gastronomique des Français ». C’est le repas qui a été distingué, et non seulement la cuisine : le fait de s’asseoir ensemble, de suivre un ordre et de parler de ce qu’on mange. Le pourboire a lui aussi une histoire, souvent mal connue. Aux États-Unis, il a longtemps été contesté, car il rappelait la domesticité, et plusieurs historiens rapportent qu’il a permis à des employeurs de payer très peu des serveurs souvent noirs, après la guerre de Sécession. Ces détails rappellent une chose simple : à table, ce qui paraît naturel résulte d’une histoire, et ce qu’on donne ou ce qu’on refuse a un effet sur ceux qui travaillent.",
+  "examples": [
+    {
+      "context": "Vous invitez des clients à un déjeuner. Vous craignez d’être gêné au moment de régler.",
+      "behavior": "En arrivant cinq minutes à l’avance, vous remettez votre carte au maître d’hôtel : « Je vous remercie de me laisser l’addition à la fin, sans la présenter à table. »",
+      "explanation": "Le règlement se fait sans interrompre la conversation, et sans qu’on se dispute la note. Vos clients savent qu’ils sont invités, sans en voir le montant."
+    },
+    {
+      "context": "Le sommelier vous tend une carte, et vous ne connaissez rien aux vins.",
+      "behavior": "« Nous prenons du poisson et nous aimons plutôt les vins légers. Quelque chose dans cet ordre-là ? » dites-vous en indiquant discrètement un prix sur la carte.",
+      "explanation": "Vous lui donnez les informations dont il a besoin, sans parler d’argent à voix haute. Un bon sommelier préfère cela aux fausses connaissances."
+    },
+    {
+      "context": "Dans un groupe de six amis, deux ont bu une bouteille de vin, alors que deux autres n’ont pris que de l’eau.",
+      "behavior": "« On a pris le vin, tous les deux : on met plus. Je propose qu’on vous fasse payer seulement votre plat. Ça vous va ? »",
+      "explanation": "Vous réglez la question avant que les autres aient besoin de la poser. Personne n’a à calculer devant tout le monde pour se défendre."
+    }
+  ],
+  "mistakes": [
+    {
+      "situation": "Vous êtes invité par une collègue dans un restaurant renommé.",
+      "behavior": "Commander le homard, le meilleur champagne et le dessert le plus cher, parce que c’est elle qui paie.",
+      "consequences": "Vous la mettez dans l’embarras, et elle retiendra surtout ce que vous avez coûté.",
+      "alternative": "Laissez-la indiquer le niveau, ou choisissez dans la moyenne de la carte."
+    },
+    {
+      "situation": "Vous avez dîné aux États-Unis, et vous pensez que le service est compris.",
+      "behavior": "Partir sans laisser de pourboire, parce que le serveur n’a rien fait de spécial.",
+      "consequences": "Le serveur est privé d’une part essentielle de ses revenus, et il aura l’impression que vous l’avez puni.",
+      "alternative": "Vérifiez la note, et laissez 15 à 20 % si le service n’y figure pas."
+    },
+    {
+      "situation": "Lors d’un dîner entre collègues, vous sortez votre téléphone pour partager l’addition.",
+      "behavior": "Calculer à l’euro près le coût de chaque olive et réclamer 1,50 euro à celui qui a oublié.",
+      "consequences": "Vous laissez un mauvais souvenir, alors que vous n’économisez presque rien.",
+      "alternative": "Réglez les grandes différences, et oubliez les petites sommes."
+    }
+  ],
+  "nuances": [
+    {
+      "title": "Rendez-vous galants.",
+      "text": "Beaucoup de personnes se demandent qui doit payer lors d’un premier rendez-vous. Il n’y a plus de règle unique. Proposer de partager est une bonne solution, et une offre de payer peut être acceptée ou refusée sans qu’on en fasse un test. Offrir un repas ne donne jamais droit à quoi que ce soit en retour."
+    },
+    {
+      "title": "Salaires du personnel.",
+      "text": "Le pourboire peut être une ressource importante, ou une façon pour l’employeur de moins payer. En France, les pourboires par carte ont été facilités ces dernières années : renseignez-vous, car les règles et leur traitement ont évolué."
+    },
+    {
+      "title": "Le restaurant et l’environnement.",
+      "text": "Il n’y a plus de honte à demander d’emporter ce qui reste. En France, le « gourmet bag » est de plus en plus proposé, et la loi l’impose à certains restaurateurs : les conditions sont à vérifier. Il vaut mieux demander que de laisser jeter un bon plat."
+    }
+  ],
+  "contexts": [
+    "Grandes tables : tenue, sommelier et temps.",
+    "Bistrot : simplicité et rythme.",
+    "Affaires : relation, sobriété et règlement discret.",
+    "Groupes et étranger : partage et pourboires."
+  ],
+  "keyPoints": [
+    "Celui qui invite paie, quel que soit son sexe.",
+    "Goûter le vin sert à repérer un défaut.",
+    "Au restaurant d’affaires, on boit peu et on écoute.",
+    "Celui qui a pris le plus propose de payer plus.",
+    "Vérifiez l’usage du pourboire avant de partir."
+  ],
+  "exercise": {
+    "type": "matching",
+    "title": "Le pourboire selon le pays",
+    "instructions": "Associez chaque pays à l’usage le plus souvent décrit.",
+    "pairs": [
+      {
+        "left": "France",
+        "right": "Service compris, pourboire facultatif"
+      },
+      {
+        "left": "États-Unis",
+        "right": "Environ 15 à 20 %, attendus"
+      },
+      {
+        "left": "Japon",
+        "right": "Pas de pourboire en général"
+      },
+      {
+        "left": "Italie",
+        "right": "Coperto souvent facturé sur la note"
+      },
+      {
+        "left": "Royaume-Uni",
+        "right": "Vérifier si une « service charge » figure sur la note"
+      }
+    ],
+    "explanation": "Ces repères généraux sont à vérifier avant de partir, car ces usages évoluent et varient selon les lieux. Regardez toujours d’abord la note, afin de ne pas payer deux fois le service."
+  },
+  "quiz": {
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "l-4-2-3-q1",
+        "type": "single",
+        "kind": "qcm",
+        "statement": "Pourquoi vous fait-on goûter le vin au restaurant ?",
+        "choices": [
+          "Pour vérifier que vous savez reconnaître un grand cru",
+          "Pour vérifier que le vin n’a pas de défaut",
+          "Pour vous permettre de le refuser s’il ne vous plaît pas",
+          "Pour vous permettre de deviner le prix de la bouteille"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Il s’agit de repérer un défaut, comme un goût de bouchon. On ne renvoie pas une bouteille parce qu’elle ne plaît pas, surtout si le restaurant a suivi votre choix, à moins que le sommelier ne vous le propose.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-3-q2",
+        "type": "truefalse",
+        "kind": "vrai-faux",
+        "statement": "Vrai ou faux : en France, le pourboire représente une part obligatoire de 15 % de l’addition.",
+        "choices": [
+          "Vrai",
+          "Faux"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Faux. En France, le service est compris dans le prix et le pourboire reste facultatif. Cela diffère nettement des États-Unis, où il constitue une part importante de la rémunération des serveurs.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-3-q3",
+        "type": "single",
+        "kind": "formulation",
+        "statement": "Comment régler la question du partage lorsque vous avez bu seul une bouteille de vin ?",
+        "choices": [
+          "« On divise tout par cinq : c’est plus simple pour tout le monde. »",
+          "« J’ai pris le vin, je mets plus. Vous payez seulement votre plat. »",
+          "« Celui qui n’a pas bu n’a qu’à le dire, s’il veut payer moins. »",
+          "« Je n’ai plus d’argent liquide : vous me rembourserez une autre fois. »"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Vous évitez aux autres d’avoir à calculer ou à se défendre. Diviser à parts égales ou attendre que l’autre ose se manifester revient à lui faire payer ce que vous avez consommé.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-3-q4",
+        "type": "multiple",
+        "kind": "qcm",
+        "statement": "Quels éléments conviennent à un repas d’affaires ?",
+        "choices": [
+          "Choisir un lieu où l’on s’entend",
+          "Arriver avant ses invités",
+          "Commencer par parler de leur voyage ou de leurs centres d’intérêt",
+          "Poser votre téléphone et vos dossiers dès l’entrée"
+        ],
+        "correctAnswers": [
+          0,
+          1,
+          2
+        ],
+        "explanation": "Ces gestes facilitent le contact et mettent vos invités à l’aise. Le téléphone et les dossiers sur la table font sentir que vous êtes pressé, et ils peuvent attendre le café.",
+        "difficulty": 1
+      },
+      {
+        "id": "l-4-2-3-q5",
+        "type": "single",
+        "kind": "maladresse",
+        "statement": "Quel choix est maladroit, si vous êtes invité dans un grand restaurant ?",
+        "choices": [
+          "Demander à votre hôte ce qu’il vous conseille",
+          "Commander le plat le plus cher parce qu’il ne vous coûte rien",
+          "Poser une question sur un terme que vous ne connaissez pas",
+          "Signaler au serveur une allergie, dès la commande"
+        ],
+        "correctAnswers": [
+          1
+        ],
+        "explanation": "Cela met votre hôte dans l’embarras et lui laisse un mauvais souvenir. Les autres gestes sont simples et légitimes, et ils vous permettent de profiter du repas, sans intimidation ni excès.",
+        "difficulty": 1
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "UNESCO, « Le repas gastronomique des Français » (2010)",
+      "note": "Patrimoine culturel immatériel."
+    },
+    {
+      "title": "Rebecca L. Spang, The Invention of the Restaurant (Harvard University Press, 2000)",
+      "note": "Histoire du restaurant."
+    },
+    {
+      "title": "William R. Scott, The Itching Palm (1916)",
+      "note": "Critique historique du pourboire aux États-Unis, à vérifier."
+    },
+    {
+      "title": "Service-Public.fr",
+      "note": "Prix, service et droits du consommateur."
+    }
+  ],
+  "revisions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-04",
+      "note": "Première rédaction."
+    }
+  ]
+}
